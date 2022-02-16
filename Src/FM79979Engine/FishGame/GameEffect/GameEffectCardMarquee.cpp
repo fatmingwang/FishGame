@@ -41,7 +41,7 @@ void	cGameEffectPlayerCardMarquee::sCardData::Update(float e_fElpaseTime,Vector3
 	}
 }
 
-void	cGameEffectPlayerCardMarquee::sCardData::Render(cPuzzleImage*e_pPI,cNumerialImage*e_pNumerialImage)
+void	cGameEffectPlayerCardMarquee::sCardData::Render(cPuzzleImage*e_pPI,cNumeralImage*e_pNumerialImage)
 {
 	cPuzzleImageUnit*l_pPIUnit = PuzzleImageUnit;//e_pPI->GetObject(iPuzzleImageUnitIndex);
 	if( l_pPIUnit )
@@ -83,7 +83,7 @@ void	cGameEffectPlayerCardMarquee::sCardData::Render(cPuzzleImage*e_pPI,cNumeria
 	}
 }
 
-cGameEffectPlayerCardMarquee::cGameEffectPlayerCardMarquee(cPuzzleImage*e_pCardPI,int e_iMaximumCount,float e_fTimeToDestination,Vector3 e_vStartPos,Vector3 e_vDestination,float e_fHoldTime,int e_iViewCount,cMatrix44 e_matShowMatrix,cNumerialImage*e_pNumerialImage)
+cGameEffectPlayerCardMarquee::cGameEffectPlayerCardMarquee(cPuzzleImage*e_pCardPI,int e_iMaximumCount,float e_fTimeToDestination,Vector3 e_vStartPos,Vector3 e_vDestination,float e_fHoldTime,int e_iViewCount,cMatrix44 e_matShowMatrix,cNumeralImage*e_pNumerialImage)
 {
 	m_pNumerialImage = e_pNumerialImage;
 	m_ShowMatrix = e_matShowMatrix;
@@ -220,7 +220,7 @@ void	cGameEffectPlayerCardMarquee::Render()
 	}
 }
 
-cGameEffectCardMarqueeManager::cGameEffectCardMarqueeManager(cNumerialImage*e_pNumerialImage)
+cGameEffectCardMarqueeManager::cGameEffectCardMarqueeManager(cNumeralImage*e_pNumerialImage)
 {
 	m_pNumerialImage = e_pNumerialImage;
 	this->SetName(cGameEffectCardMarqueeManager::TypeID);

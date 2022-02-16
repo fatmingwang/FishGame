@@ -22,7 +22,7 @@ public:
 
 	Frame			  m_ShowFrame;
 
-	cNumerialImage*	  m_pStackScoreNumerial;
+	cNumeralImage*	  m_pStackScoreNumerial;
 
 	CoinStack();
 	virtual ~CoinStack(){};
@@ -31,7 +31,7 @@ public:
 	void Render();
 	void Destroy(){};
 	void Update( float ElapseTime );
-	void SetCoinStackData( cMPDI* pFishCardImage, cNumerialImage* pNumerialImage, float MoveRemainTime );
+	void SetCoinStackData( cMPDI* pFishCardImage, cNumeralImage* pNumerialImage, float MoveRemainTime );
 };
 
 #endif

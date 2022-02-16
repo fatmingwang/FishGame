@@ -62,7 +62,7 @@ void	cGameEffectScoreWithCoin::sCoinSpinAnimationData::Render(cPuzzleImage*ePI)
 	}
 }
 
-cGameEffectScoreWithCoin::cGameEffectScoreWithCoin(cNumerialImage*e_pNumerialImage,float e_fSpeedToDestination)
+cGameEffectScoreWithCoin::cGameEffectScoreWithCoin(cNumeralImage*e_pNumerialImage,float e_fSpeedToDestination)
 {
 	m_fSpeedToDestination = e_fSpeedToDestination;
 	this->m_pNumerialImage = e_pNumerialImage;

@@ -271,8 +271,8 @@ void	SetupAPKFilePath(ANativeActivity* e_pActivity,JNIEnv*e_pThreadEnv)
 			m_spPathFileList = new cNamedTypedObjectVector<cCurveManager>;
 	    }
 #if defined WIN32 || defined LINUX
-	        char *locale;
-            locale = setlocale(LC_ALL, "");
+	        //char *locale;
+            //locale = setlocale(LC_ALL, "");
 #endif
 		SystemErrorCheck();
 	}

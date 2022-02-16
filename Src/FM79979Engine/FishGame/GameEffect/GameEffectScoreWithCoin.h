@@ -29,7 +29,7 @@ class	cGameEffectScoreWithCoin:public cGameEffectBase
 		sValueImagePopup();
 		~sValueImagePopup();
 		void						Update(float e_fElpaseTime);
-		void						Render(cNumerialImage*e_pNumerialImage);
+		void						Render(cNumeralImage*e_pNumerialImage);
 	};
 
 	std::list<sCoinSpinAnimationData>						m_CoinSpinAnimationDataList;
@@ -40,13 +40,13 @@ class	cGameEffectScoreWithCoin:public cGameEffectBase
 	virtual	void				InternalUpdate(float e_fElpaseTime);
 	virtual	void				InternalRender();
 	//
-	cNumerialImage*				m_pNumerialImage;
+	cNumeralImage*				m_pNumerialImage;
 	int							m_iValue;
 	cCurveWithTime				m_NumerialJumpCurve;
 	float						m_fSpeedToDestination;
 public:
 	DEFINE_TYPE_INFO();
-	cGameEffectScoreWithCoin(cNumerialImage*e_pNumerialImage,float e_fSpeedToDestination);
+	cGameEffectScoreWithCoin(cNumeralImage*e_pNumerialImage,float e_fSpeedToDestination);
 	virtual ~cGameEffectScoreWithCoin();
 	//Fish Name,player ID,Matrix
 	virtual	void				SetData(void*e_pPlayerBehaviorBase);

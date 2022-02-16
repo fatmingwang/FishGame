@@ -37,6 +37,7 @@ public:
 	virtual bool IsUsing() { return m_bIsUsing; }
 
 	virtual	void	Init();
+	virtual	void	Render();
 	virtual	void	Destroy(){};
 	virtual void	SetNumMPDIPos( Vector3 NewPos );
 	virtual void	ModifyNumMPDIData( int PlayerID ){};

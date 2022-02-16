@@ -8,7 +8,7 @@ class	cBulletFireStatus
 	friend class cFishPlayerWeapon;
 	//
 	cMPDI*						m_pPlayerLvUIMPDI;
-	cNumerialImage*				m_pLevelNumberImage;
+	cNumeralImage*				m_pLevelNumberImage;
 	struct	sLevelRange
 	{
 		int	iStart;

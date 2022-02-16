@@ -30,7 +30,7 @@
 //	float m_CoinStackMoveTm;
 //	float m_CoinStackDisplayTm;
 //
-//	std::vector< cNumerialImage* >				   m_AllNumerialImage;
+//	std::vector< cNumeralImage* >				   m_AllNumerialImage;
 //	std::vector< vector< CoinStackFishCardData > > m_AllCoinStackFishCardData;
 //
 //	std::deque< CoinStack > m_CoinStack;
@@ -47,7 +47,7 @@
 //
 //	bool PushCoinStackData( CoinStackPushData& CoinStackData );
 //
-//	cNumerialImage* GetNumerialImage();
+//	cNumeralImage* GetNumerialImage();
 //
 //	cMPDI* GetCoinStackFishCardByID( int FishID );
 //};

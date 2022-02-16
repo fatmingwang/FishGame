@@ -98,6 +98,7 @@ public:
 	int							GetID(){ return m_iID; }
 	void						Init();
 	virtual	void				Update(float e_fElpaseTime);
+	virtual	void				Render();
 	bool						IsMiniGameMonster();
 	void						SetMiniGameMonster(bool e_b,const WCHAR*e_strName);
 	virtual	bool				IsCollide(cbtShapeCollision*e_pbtShapeCollision) = 0;

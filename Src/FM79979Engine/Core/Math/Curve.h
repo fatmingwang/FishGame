@@ -38,7 +38,8 @@ namespace FATMING_CORE
 		void				IncreaseLod();
 		void				DecreaseLod();
 		//finally pointlist
-		GET_SET_DEC(std::vector<Vector3>,m_FinallyPointList,GetPointList,SetPointList);	
+	protected:
+		std::vector<Vector3> m_FinallyPointList;
 		//original point,
 		GET_SET_DEC(std::vector<Vector3>,m_OriginalPointList,GetOriginalPointList,SetOriginalPointList);
 		//how detail is line become
@@ -52,6 +53,8 @@ namespace FATMING_CORE
 		cCurve(cCurve*e_pCurve);
 		//CLONE_MYSELF(cCurve);
 		virtual~cCurve();
+		std::vector<Vector3>  GetPointList() {return m_FinallyPointList;}
+		void	SetPointList(std::vector<Vector3> e_Vector) { m_FinallyPointList = e_Vector; }
 		//set m_OriginalPointList = m_FinallyPointList,and set lod = 1
 		virtual	void		SetOriginalToFinal();
 		//while LOD is changing the line data have to change too

@@ -105,7 +105,7 @@
 //
 //			 if ( pNumerial )
 //			 {
-//				 cNumerialImage* pStackScoreNumerial = pNumerial->GetNumerialImageByName( L"CoinStackNumerial0", L"CoinStackNumerial9" );
+//				 cNumeralImage* pStackScoreNumerial = pNumerial->GetNumerialImageByName( L"CoinStackNumerial0", L"CoinStackNumerial9" );
 //
 //				 m_AllNumerialImage.push_back( pStackScoreNumerial );
 //			 }
@@ -176,7 +176,7 @@
 //	return true;
 //}
 //
-//cNumerialImage* CoinStackEffect::GetNumerialImage()
+//cNumeralImage* CoinStackEffect::GetNumerialImage()
 //{
 //	static int ImageIndex(0);
 //

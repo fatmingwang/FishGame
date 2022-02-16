@@ -104,7 +104,7 @@ void CoinStack::Render()
 	}
 }
 
-void CoinStack::SetCoinStackData( cMPDI* pFishCardImage, cNumerialImage* pNumerialImage, float MoveRemainTime )
+void CoinStack::SetCoinStackData( cMPDI* pFishCardImage, cNumeralImage* pNumerialImage, float MoveRemainTime )
 {
 	 if ( !m_pFishCard && pFishCardImage && pNumerialImage )
 	 {

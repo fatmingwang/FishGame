@@ -58,7 +58,7 @@ void	cGameEffectManager::ProvessGameEffect(TiXmlElement*e_pTiXmlElement)
 }
 //<GameEffectManager>
 //	<cGameEffectCardMarqueeManager Count="8" PI="Fish/Image/CoinEffect/ShowGetMoney.pi" MaximumCount="10" ViewableCount="4" StartPos="0,0,0" EndPos="70,0,0" HoldTime="0.51" >
-//		<cNumerialImage PI="Fish/Image/CoinEffect/ShowGetMoney.pi" />
+//		<cNumeralImage PI="Fish/Image/CoinEffect/ShowGetMoney.pi" />
 //		<Matrix Data="......."/>
 //	</cGameEffectCardMarqueeManager>
 //</GameEffectManager>
@@ -70,7 +70,7 @@ cGameEffectBase*	cGameEffectManager::ProvessGameEffectCardMarqueeManager(TiXmlEl
 	int	l_iViewableCount = -1;
 	Vector3	l_vStartPos,l_vEndPos;
 	float	l_fHoldTime,l_fTimeToDestination = 0.f;
-	cNumerialImage*		l_pNumerialImage = 0;
+	cNumeralImage*		l_pNumerialImage = 0;
 	cMatrix44	l_mat;
 	PARSE_ELEMENT_START(e_pTiXmlElement)
 		COMPARE_NAME("Count")
@@ -116,7 +116,7 @@ cGameEffectBase*	cGameEffectManager::ProvessGameEffectCardMarqueeManager(TiXmlEl
 	e_pTiXmlElement = e_pTiXmlElement->FirstChildElement();
 	while( e_pTiXmlElement )
 	{
-		COMPARE_TARGET_ELEMENT_VALUE_WITH_DEFINE(e_pTiXmlElement,cNumerialImage::TypeID)
+		COMPARE_TARGET_ELEMENT_VALUE_WITH_DEFINE(e_pTiXmlElement,cNumeralImage::TypeID)
 		{
 			l_pNumerialImage = cGameApp::GetNumerialImageByXmlElement(e_pTiXmlElement);
 		}

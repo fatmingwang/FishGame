@@ -25,7 +25,7 @@ protected:
 	cMultiPathDynamicImage*		m_pMessagePlayerLock;			//money over too much this player is not allow to play anymore
 	
 
-	cNumerialImage*				m_pScoreNumberImage;
+	cNumeralImage*				m_pScoreNumberImage;
 	Vector3						m_vScorePos;
 	Vector3						m_vPlayerPos;
 	Vector3						m_vPlayerRot;
@@ -100,6 +100,7 @@ public:
 	cPlayerWeapon();
 	virtual ~cPlayerWeapon();
 	virtual	void	Update(float e_fElpaseTime) = 0;
+	virtual	void	Render() = 0;
 	void			StatusChange(eDirection e_eDirection);
 	virtual	bool	Fire(cPlayerBehaviorBase*e_pPlayerBehaviorBase) = 0;
 	virtual	bool	IsFire() = 0;
