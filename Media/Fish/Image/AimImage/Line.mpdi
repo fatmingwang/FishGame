@@ -1,0 +1,282 @@
+<MPDIList Name="Line_mpdi" Count="14" MPDIVersion="1.2" PICount="1" ImageName="Line.pi">
+    <MultiPathDynamicImage Name="1PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.00,6.00" Scale="0.75,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.00,6.00" Scale="0.75,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.00,6.00" Scale="0.13,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.00,6.00" Scale="0.13,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.78,0.63,0.20,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="2PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.00,6.00" Scale="0.75,1.00" Color="1.00,0.27,0.27,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.00,6.00" Scale="0.75,1.00" Color="1.00,0.27,0.27,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.00,6.00" Scale="0.75,1.00" Color="1.00,0.27,0.27,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.00,6.00" Scale="0.75,1.00" Color="1.00,0.27,0.27,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.00,6.00" Scale="0.13,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.00,6.00" Scale="0.13,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.00,6.00" Scale="0.13,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.00,6.00" Scale="0.13,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="3PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.24,0.98,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="4PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.08,0.90,0.39,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="5PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.00,6.00" Scale="0.75,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.00,6.00" Scale="0.75,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.00,6.00" Scale="0.13,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.00,6.00" Scale="0.13,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.77,0.25,0.63,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="6PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.00,6.00" Scale="0.75,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.00,6.00" Scale="0.75,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.00,6.00" Scale="0.75,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.00,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.00,6.00" Scale="0.13,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.00,6.00" Scale="0.13,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.00,6.00" Scale="0.13,1.00" Color="0.67,0.67,0.67,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="7PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.90,0.55,0.24,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="8PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.86,0.71,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="9PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.70,0.78,0.20,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="10PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="1.00,0.39,0.59,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="11PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.52,0.90,0.31,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="12PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.39,0.71,0.86,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="13PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.92,0.43,0.24,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="14PLine" PathCount="3" PlayCount="-1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="Line01" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="12.96,6.00" Scale="0.81,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="12.96,6.00" Scale="0.81,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="12.96,6.00" Scale="0.81,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.20" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="7.04,6.00" Scale="0.44,1.00" Color="1.00,1.00,1.00,0.39" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Line" Blending="1" SrcBlendingData="770" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-8.00,-6.00,0.00" Time="0.000000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="1" Position="-8.00,-6.00,0.00" Time="0.133333" Size="2.08,6.00" Scale="0.13,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="2" Position="-8.00,-6.00,0.00" Time="0.266667" Size="2.08,6.00" Scale="0.13,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+            <PointDataList Index="3" Position="-8.00,-6.00,0.00" Time="0.400000" Size="2.08,6.00" Scale="0.13,1.00" Color="0.08,0.86,0.55,0.59" PIName="Line" ImageName="Line" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

@@ -1,0 +1,102 @@
+<PathEditData Version="1.0">
+    <CurveData Name="GoldDragon" Count="2" LOD="1">
+        <CurvePoint P0="-595.00,292.00,0.00" P1="1438.00,371.00,0.00" />
+        <CurveTime T0="0.000" T1="9.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path01" Count="2" LOD="1">
+        <CurvePoint P0="-600.00,-20.00,0.00" P1="1474.00,578.00,0.00" />
+        <CurveTime T0="0.000" T1="9.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path02" Count="2" LOD="1">
+        <CurvePoint P0="-643.00,680.00,0.00" P1="1418.00,9.00,0.00" />
+        <CurveTime T0="0.000" T1="10.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path03" Count="2" LOD="1">
+        <CurvePoint P0="419.00,1181.00,0.00" P1="330.00,-341.00,0.00" />
+        <CurveTime T0="0.000" T1="6.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path04" Count="2" LOD="1">
+        <CurvePoint P0="155.00,1184.00,0.00" P1="499.00,-323.00,0.00" />
+        <CurveTime T0="0.000" T1="6.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path05" Count="2" LOD="1">
+        <CurvePoint P0="652.00,1177.00,0.00" P1="807.00,-297.00,0.00" />
+        <CurveTime T0="0.000" T1="6.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path06" Count="2" LOD="1">
+        <CurvePoint P0="1190.00,1159.00,0.00" P1="752.00,-354.00,0.00" />
+        <CurveTime T0="0.000" T1="6.500" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path07" Count="2" LOD="1">
+        <CurvePoint P0="1614.00,949.00,0.00" P1="-504.00,-181.00,0.00" />
+        <CurveTime T0="0.000" T1="10.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path08" Count="2" LOD="1">
+        <CurvePoint P0="1718.00,-266.00,0.00" P1="-590.00,1085.00,0.00" />
+        <CurveTime T0="0.000" T1="12.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path09" Count="2" LOD="1">
+        <CurvePoint P0="1727.00,139.00,0.00" P1="-643.00,455.00,0.00" />
+        <CurveTime T0="0.000" T1="11.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path10" Count="2" LOD="1">
+        <CurvePoint P0="1202.00,-318.00,0.00" P1="863.00,1168.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path11" Count="2" LOD="1">
+        <CurvePoint P0="980.00,-360.00,0.00" P1="1030.00,1104.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path12" Count="2" LOD="1">
+        <CurvePoint P0="101.00,-326.00,0.00" P1="572.00,1179.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path13" Count="2" LOD="1">
+        <CurvePoint P0="-266.00,-326.00,0.00" P1="1544.00,807.00,0.00" />
+        <CurveTime T0="0.000" T1="11.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path14" Count="2" LOD="1">
+        <CurvePoint P0="1725.00,555.00,0.00" P1="-572.00,230.00,0.00" />
+        <CurveTime T0="0.000" T1="12.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path15" Count="2" LOD="1">
+        <CurvePoint P0="607.00,-360.00,0.00" P1="610.00,1145.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path16" Count="2" LOD="1">
+        <CurvePoint P0="209.00,-354.00,0.00" P1="137.00,1153.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path17" Count="2" LOD="1">
+        <CurvePoint P0="-629.00,545.00,0.00" P1="1671.00,561.00,0.00" />
+        <CurveTime T0="0.000" T1="12.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path18" Count="2" LOD="1">
+        <CurvePoint P0="-587.00,144.00,0.00" P1="1529.00,191.00,0.00" />
+        <CurveTime T0="0.000" T1="12.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path19" Count="2" LOD="1">
+        <CurvePoint P0="1668.00,286.00,0.00" P1="-600.00,265.00,0.00" />
+        <CurveTime T0="0.000" T1="12.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path20" Count="2" LOD="1">
+        <CurvePoint P0="1712.00,472.00,0.00" P1="-602.00,498.00,0.00" />
+        <CurveTime T0="0.000" T1="12.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path21" Count="2" LOD="1">
+        <CurvePoint P0="136.00,-344.00,0.00" P1="149.00,1138.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path22" Count="2" LOD="1">
+        <CurvePoint P0="30.00,1156.00,0.00" P1="251.00,-333.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path23" Count="2" LOD="1">
+        <CurvePoint P0="912.00,-326.00,0.00" P1="771.00,1159.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+    <CurveData Name="GoldDragon_path24" Count="2" LOD="1">
+        <CurvePoint P0="320.00,1158.00,0.00" P1="662.00,-303.00,0.00" />
+        <CurveTime T0="0.000" T1="7.000" />
+    </CurveData>
+</PathEditData>

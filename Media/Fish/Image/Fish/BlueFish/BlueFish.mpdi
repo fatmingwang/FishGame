@@ -1,0 +1,66 @@
+<MPDIList Name="BlueFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="BlueFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="BlueFish" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.083333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.250000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.416667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00006" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="BlueFish" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.083333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.250000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.416667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BlueFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlueFish" ImageName="blue_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.083333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlueFish" ImageName="blue_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.250000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlueFish" ImageName="blue_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.416667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlueFish" ImageName="blue_00006" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="BlueFish" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.083333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.250000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.416667" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BlueFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.35" PIName="BlueFish" ImageName="BlueFishAttackRed_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.083333" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.47" PIName="BlueFish" ImageName="BlueFishAttackRed_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.78" PIName="BlueFish" ImageName="BlueFishAttackRed_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.250000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="BlueFishAttackRed_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.78" PIName="BlueFish" ImageName="BlueFishAttackRed_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.416667" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.47" PIName="BlueFish" ImageName="BlueFishAttackRed_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,50.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.20" PIName="BlueFish" ImageName="BlueFishAttackRed_00006" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="BlueFish" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" PIName="BlueFish" ImageName="blue_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="1.000000" Size="75.60,60.00" Scale="1.20,1.20" Angles="0.00,0.00,360.00" PIName="BlueFish" ImageName="blue_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.260000">
+        <CueToStartCurvesWithTime Name="BlueFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,50.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.00" PIName="BlueFish" ImageName="blue_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.130000" Size="75.60,60.00" Scale="1.20,1.20" Angles="0.00,0.00,12.00" PIName="BlueFish" ImageName="blue_00003" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.260000" Size="75.60,60.00" Scale="1.20,1.20" Angles="0.00,0.00,12.00" PIName="BlueFish" ImageName="blue_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

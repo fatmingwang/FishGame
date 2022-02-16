@@ -1,0 +1,192 @@
+<MPDIList Name="Message_mpdi" Count="13" MPDIVersion="1.1" PICount="1" ImageName="Message.pi">
+    <MultiPathDynamicImage Name="FishTimeShow" PathCount="1" PlayCount="1" TotalPlayTime="5.000000">
+        <CueToStartCurvesWithTime Name="FishTimeShow" StartTime="0.000000" AnchorType="CenterCenter" Count="31" LOD="1">
+            <PointDataList Index="0" Position="1329.00,337.00,0.00" Time="0.000000" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow1" />
+            <PointDataList Index="1" Position="1266.97,334.97,0.00" Time="0.166667" Size="484.00,192.00" PIName="Message" ImageName="FishTimeShow10" />
+            <PointDataList Index="2" Position="1204.93,332.93,0.00" Time="0.333333" Size="484.00,182.00" PIName="Message" ImageName="FishTimeShow2" />
+            <PointDataList Index="3" Position="1142.90,330.90,0.00" Time="0.500000" Size="484.00,187.00" PIName="Message" ImageName="FishTimeShow3" />
+            <PointDataList Index="4" Position="1080.87,328.87,0.00" Time="0.666667" Size="484.00,190.00" PIName="Message" ImageName="FishTimeShow4" />
+            <PointDataList Index="5" Position="1018.83,326.83,0.00" Time="0.833333" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow5" />
+            <PointDataList Index="6" Position="956.80,324.80,0.00" Time="1.000000" Size="484.00,174.00" PIName="Message" ImageName="FishTimeShow6" />
+            <PointDataList Index="7" Position="894.77,322.77,0.00" Time="1.166667" Size="484.00,166.00" PIName="Message" ImageName="FishTimeShow7" />
+            <PointDataList Index="8" Position="832.73,320.73,0.00" Time="1.333333" Size="484.00,176.00" PIName="Message" ImageName="FishTimeShow8" />
+            <PointDataList Index="9" Position="770.70,318.70,0.00" Time="1.500000" Size="484.00,189.00" PIName="Message" ImageName="FishTimeShow9" />
+            <PointDataList Index="10" Position="708.67,316.67,0.00" Time="1.666667" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow1" />
+            <PointDataList Index="11" Position="646.63,314.63,0.00" Time="1.833333" Size="484.00,192.00" PIName="Message" ImageName="FishTimeShow10" />
+            <PointDataList Index="12" Position="584.60,312.60,0.00" Time="2.000000" Size="484.00,182.00" PIName="Message" ImageName="FishTimeShow2" />
+            <PointDataList Index="13" Position="522.57,310.57,0.00" Time="2.166667" Size="484.00,187.00" PIName="Message" ImageName="FishTimeShow3" />
+            <PointDataList Index="14" Position="460.53,308.53,0.00" Time="2.333333" Size="484.00,190.00" PIName="Message" ImageName="FishTimeShow4" />
+            <PointDataList Index="15" Position="398.50,306.50,0.00" Time="2.500000" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow5" />
+            <PointDataList Index="16" Position="336.47,304.47,0.00" Time="2.666667" Size="484.00,174.00" PIName="Message" ImageName="FishTimeShow6" />
+            <PointDataList Index="17" Position="274.43,302.43,0.00" Time="2.833333" Size="484.00,166.00" PIName="Message" ImageName="FishTimeShow7" />
+            <PointDataList Index="18" Position="212.40,300.40,0.00" Time="3.000000" Size="484.00,176.00" PIName="Message" ImageName="FishTimeShow8" />
+            <PointDataList Index="19" Position="150.37,298.37,0.00" Time="3.166667" Size="484.00,189.00" PIName="Message" ImageName="FishTimeShow9" />
+            <PointDataList Index="20" Position="88.33,296.33,0.00" Time="3.333333" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow1" />
+            <PointDataList Index="21" Position="26.30,294.30,0.00" Time="3.500000" Size="484.00,192.00" PIName="Message" ImageName="FishTimeShow10" />
+            <PointDataList Index="22" Position="-35.73,292.27,0.00" Time="3.666667" Size="484.00,182.00" PIName="Message" ImageName="FishTimeShow2" />
+            <PointDataList Index="23" Position="-97.77,290.23,0.00" Time="3.833333" Size="484.00,187.00" PIName="Message" ImageName="FishTimeShow3" />
+            <PointDataList Index="24" Position="-159.80,288.20,0.00" Time="4.000000" Size="484.00,190.00" PIName="Message" ImageName="FishTimeShow4" />
+            <PointDataList Index="25" Position="-221.83,286.17,0.00" Time="4.166667" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow5" />
+            <PointDataList Index="26" Position="-283.87,284.13,0.00" Time="4.333333" Size="484.00,174.00" PIName="Message" ImageName="FishTimeShow6" />
+            <PointDataList Index="27" Position="-345.90,282.10,0.00" Time="4.500000" Size="484.00,166.00" PIName="Message" ImageName="FishTimeShow7" />
+            <PointDataList Index="28" Position="-407.93,280.07,0.00" Time="4.666667" Size="484.00,176.00" PIName="Message" ImageName="FishTimeShow8" />
+            <PointDataList Index="29" Position="-469.97,278.03,0.00" Time="4.833333" Size="484.00,189.00" PIName="Message" ImageName="FishTimeShow9" />
+            <PointDataList Index="30" Position="-532.00,276.00,0.00" Time="5.000000" Size="484.00,184.00" PIName="Message" ImageName="FishTimeShow1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PleaseInsertCoin_D" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Message" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-77.00,-67.00,0.00" Time="1.000000" Size="157.00,69.00" PIName="Message" ImageName="PleaseInsertCoin" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MoneyNotEnough_D" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Message" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-77.00,-69.00,0.00" Time="1.000000" Size="157.00,69.00" PIName="Message" ImageName="MoneyNotEnough" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="IOError" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Message" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-213.00,-161.00,0.00" Time="1.000000" Size="422.00,167.00" PIName="Message" ImageName="IOerror" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WindWeaponGet_D" PathCount="1" PlayCount="1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="WindWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterDown" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-158.00,-164.00,0.00" Time="0.000000" Size="101.70,50.70" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="1" Position="-137.00,-164.00,0.00" Time="0.100000" Size="203.40,101.40" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="2" Position="-119.00,-164.00,0.00" Time="0.197000" Size="305.10,152.10" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="3" Position="-101.00,-164.00,0.00" Time="0.300000" Size="406.80,202.80" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="4" Position="-113.00,-164.00,0.00" Time="0.400000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="5" Position="-107.00,-164.00,0.00" Time="0.500000" Size="372.90,185.90" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="6" Position="-113.00,-164.00,0.00" Time="0.600000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="7" Position="-113.00,-164.00,0.00" Time="1.750000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="8" Position="-113.00,-164.00,0.00" Time="1.800000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.78" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="9" Position="-113.00,-164.00,0.00" Time="1.850000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.59" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="10" Position="-113.00,-164.00,0.00" Time="1.900000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.39" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="11" Position="-113.00,-164.00,0.00" Time="1.950000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.20" PIName="Message" ImageName="WindWeaponGet" />
+            <PointDataList Index="12" Position="-113.00,-164.00,0.00" Time="2.000000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="WindWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FreezeWeaponGet_D" PathCount="1" PlayCount="1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="FreezeWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterDown" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-160.00,-164.00,0.00" Time="0.000000" Size="101.70,50.70" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="1" Position="-139.00,-164.00,0.00" Time="0.100000" Size="203.40,101.40" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="2" Position="-115.00,-164.00,0.00" Time="0.197000" Size="305.10,152.10" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="3" Position="-100.00,-164.00,0.00" Time="0.300000" Size="406.80,202.80" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="4" Position="-115.00,-164.00,0.00" Time="0.400000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="5" Position="-109.00,-164.00,0.00" Time="0.500000" Size="372.90,185.90" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="6" Position="-115.00,-164.00,0.00" Time="0.600000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="7" Position="-115.00,-164.00,0.00" Time="1.750000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="8" Position="-115.00,-164.00,0.00" Time="1.800000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.78" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="9" Position="-115.00,-164.00,0.00" Time="1.850000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.59" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="10" Position="-115.00,-164.00,0.00" Time="1.900000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.39" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="11" Position="-115.00,-164.00,0.00" Time="1.950000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.20" PIName="Message" ImageName="FreezeWeaponGet" />
+            <PointDataList Index="12" Position="-115.00,-164.00,0.00" Time="2.000000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="FreezeWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="LightningWeaponGet_D" PathCount="1" PlayCount="1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="LightningWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterDown" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-148.00,-161.00,0.00" Time="0.000000" Size="101.70,50.70" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="1" Position="-127.00,-161.00,0.00" Time="0.100000" Size="203.40,101.40" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="2" Position="-103.00,-161.00,0.00" Time="0.197000" Size="305.10,152.10" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="3" Position="-79.00,-161.00,0.00" Time="0.300000" Size="406.80,202.80" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="4" Position="-97.00,-161.00,0.00" Time="0.400000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="5" Position="-88.00,-161.00,0.00" Time="0.500000" Size="372.90,185.90" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="6" Position="-97.00,-161.00,0.00" Time="0.600000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="7" Position="-97.00,-161.00,0.00" Time="1.750000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="8" Position="-97.00,-161.00,0.00" Time="1.800000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.78" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="9" Position="-97.00,-161.00,0.00" Time="1.850000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.59" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="10" Position="-97.00,-161.00,0.00" Time="1.900000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.39" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="11" Position="-97.00,-161.00,0.00" Time="1.950000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.20" PIName="Message" ImageName="LightningWeaponGet" />
+            <PointDataList Index="12" Position="-97.00,-161.00,0.00" Time="2.000000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="LightningWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ThunderWeaponGet_D" PathCount="1" PlayCount="1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="ThunderWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterDown" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-166.00,-173.00,0.00" Time="0.000000" Size="101.70,50.70" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="1" Position="-148.00,-173.00,0.00" Time="0.100000" Size="203.40,101.40" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="2" Position="-127.00,-173.00,0.00" Time="0.197000" Size="305.10,152.10" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="3" Position="-109.00,-173.00,0.00" Time="0.300000" Size="406.80,202.80" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="4" Position="-124.00,-173.00,0.00" Time="0.400000" Size="339.00,169.00" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="5" Position="-118.00,-173.00,0.00" Time="0.500000" Size="372.90,185.90" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="6" Position="-124.00,-173.00,0.00" Time="0.600000" Size="339.00,169.00" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="7" Position="-124.00,-173.00,0.00" Time="1.750000" Size="339.00,169.00" Angles="0.00,0.00,38.00" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="8" Position="-124.00,-173.00,0.00" Time="1.800000" Size="339.00,169.00" Angles="0.00,0.00,38.00" Color="1.00,1.00,1.00,0.78" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="9" Position="-124.00,-173.00,0.00" Time="1.850000" Size="339.00,169.00" Angles="0.00,0.00,38.00" Color="1.00,1.00,1.00,0.59" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="10" Position="-124.00,-173.00,0.00" Time="1.900000" Size="339.00,169.00" Angles="0.00,0.00,38.00" Color="1.00,1.00,1.00,0.39" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="11" Position="-124.00,-173.00,0.00" Time="1.950000" Size="339.00,169.00" Angles="0.00,0.00,38.00" Color="1.00,1.00,1.00,0.20" PIName="Message" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="12" Position="-124.00,-173.00,0.00" Time="2.000000" Size="339.00,169.00" Angles="0.00,0.00,38.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="ThunderWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DoubleWeaponGet_D" PathCount="1" PlayCount="1" CameraView="0.99985,-0.01745,0.00000,0.00000,0.01745,0.99985,0.00000,0.00000,0.00000,0.00000,1.00000,0.00000,0.00000,0.00000,0.00000,1.00000" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="ThunderWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterDown" Count="17" LOD="1">
+            <PointDataList Index="0" Position="-160.00,-164.00,0.00" Time="0.000000" Size="101.00,50.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="1" Position="-139.00,-164.00,0.00" Time="0.125000" Size="203.00,101.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="2" Position="-115.00,-164.00,0.00" Time="0.250000" Size="305.00,152.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="3" Position="-100.00,-164.00,0.00" Time="0.375000" Size="406.00,202.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="4" Position="-115.00,-164.00,0.00" Time="0.500000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="5" Position="-109.00,-164.00,0.00" Time="0.625000" Size="372.00,185.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="6" Position="-115.00,-164.00,0.00" Time="0.750000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="7" Position="-115.00,-164.00,0.00" Time="0.875000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="8" Position="-115.00,-164.00,0.00" Time="1.000000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="9" Position="-115.00,-164.00,0.00" Time="1.125000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="10" Position="-115.00,-164.00,0.00" Time="1.250000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="11" Position="-115.00,-164.00,0.00" Time="1.375000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="12" Position="-115.00,-164.00,0.00" Time="1.500000" Size="339.00,169.00" Angles="0.00,0.00,45.00" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="13" Position="-115.00,-164.00,0.00" Time="1.625000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.69" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="14" Position="-115.00,-164.00,0.00" Time="1.750000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.41" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="15" Position="-115.00,-164.00,0.00" Time="1.875000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.20" PIName="Message" ImageName="DoubleWeaponGet" />
+            <PointDataList Index="16" Position="-115.00,-164.00,0.00" Time="2.000000" Size="339.00,169.00" Angles="0.00,0.00,45.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="DoubleWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MoneyLocked_D" PathCount="2" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="MoneyLocked_D" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-77.00,-69.00,0.00" Time="1.000000" Size="157.00,69.00" PIName="Message" ImageName="MoneyLocked" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MoneyLockedShine" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="771" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-77.00,-69.00,0.00" Time="0.000000" Size="157.00,69.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="MoneyLockedShine" />
+            <PointDataList Index="1" Position="-77.00,-69.00,0.00" Time="0.250000" Size="157.00,69.00" PIName="Message" ImageName="MoneyLockedShine" />
+            <PointDataList Index="2" Position="-77.00,-69.00,0.00" Time="0.500000" Size="157.00,69.00" Color="1.00,1.00,1.00,0.49" PIName="Message" ImageName="MoneyLockedShine" />
+            <PointDataList Index="3" Position="-77.00,-69.00,0.00" Time="0.750000" Size="157.00,69.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="MoneyLockedShine" />
+            <PointDataList Index="4" Position="-77.00,-69.00,0.00" Time="1.000000" Size="157.00,69.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="MoneyLockedShine" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RestartPlease_pos" PathCount="1" PlayCount="-1" CameraView="0.99985,-0.01745,0.00000,0.00000,0.01745,0.99985,0.00000,0.00000,0.00000,0.00000,1.00000,0.00000,0.00000,0.00000,0.00000,1.00000" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="RestartPlease" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="420.00,250.00,0.00" Time="1.000000" Size="499.00,188.00" PIName="Message" ImageName="RestartPlease" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ControlPanelLinkError_pos" PathCount="1" PlayCount="-1" CameraView="0.99985,-0.01745,0.00000,0.00000,0.01745,0.99985,0.00000,0.00000,0.00000,0.00000,1.00000,0.00000,0.00000,0.00000,0.00000,1.00000" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="ControlPanelLinkError" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="420.00,250.00,0.00" Time="1.000000" Size="499.00,190.00" PIName="Message" ImageName="ControlPanelLinkError" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MoneyLimit_D" PathCount="5" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="MoneyLimitFire_1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-90.00,-106.00,0.00" Time="0.000000" Size="325.00,163.00" PIName="Message" ImageName="MoneyLimitFire_1" />
+            <PointDataList Index="1" Position="-90.00,-106.00,0.00" Time="0.166667" Size="325.00,163.00" PIName="Message" ImageName="MoneyLimitFire_2" />
+            <PointDataList Index="2" Position="-90.00,-106.00,0.00" Time="0.333333" Size="325.00,163.00" PIName="Message" ImageName="MoneyLimitFire_3" />
+            <PointDataList Index="3" Position="-90.00,-106.00,0.00" Time="0.500000" Size="325.00,163.00" PIName="Message" ImageName="MoneyLimitFire_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MoneyLimitFire_3" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-90.00,-106.00,0.00" Time="0.000000" Size="325.00,163.00" PIName="Message" ImageName="MoneyLimitFire_1" />
+            <PointDataList Index="1" Position="-90.00,-106.00,0.00" Time="0.166667" Size="343.00,163.00" PIName="Message" ImageName="MoneyLimitFire_2" />
+            <PointDataList Index="2" Position="-90.00,-106.00,0.00" Time="0.333333" Size="361.00,163.00" PIName="Message" ImageName="MoneyLimitFire_3" />
+            <PointDataList Index="3" Position="-90.00,-106.00,0.00" Time="0.500000" Size="370.00,163.00" PIName="Message" ImageName="MoneyLimitFire_3" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MoneyLimitWord_1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-72.00,-78.00,0.00" Time="0.000000" Size="146.00,78.00" PIName="Message" ImageName="MoneyLimitWord_1" />
+            <PointDataList Index="1" Position="-72.00,-78.00,0.00" Time="0.100000" Size="146.00,78.00" PIName="Message" ImageName="MoneyLimitWord_1" />
+            <PointDataList Index="2" Position="-72.00,-78.00,0.00" Time="0.200000" Size="146.00,78.00" PIName="Message" ImageName="MoneyLimitWord_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MoneyLimitWord_2" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-72.00,-78.00,0.00" Time="0.000000" Size="146.00,78.00" PIName="Message" ImageName="MoneyLimitWord_1" />
+            <PointDataList Index="1" Position="-72.00,-78.00,0.00" Time="0.100000" Size="146.00,78.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="MoneyLimitWord_1" />
+            <PointDataList Index="2" Position="-72.00,-78.00,0.00" Time="0.200000" Size="146.00,78.00" PIName="Message" ImageName="MoneyLimitWord_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MoneyLimitWord_20" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-71.00,-79.00,0.00" Time="0.000000" Size="146.00,78.00" Color="1.00,1.00,1.00,0.35" PIName="Message" ImageName="MoneyLimitWord_2" />
+            <PointDataList Index="1" Position="-71.00,-121.00,0.00" Time="0.500000" Size="200.00,144.00" Color="1.00,1.00,1.00,0.35" PIName="Message" ImageName="MoneyLimitWord_2" />
+            <PointDataList Index="2" Position="-71.00,-172.00,0.00" Time="1.000000" Size="251.00,141.00" Color="1.00,1.00,1.00,0.00" PIName="Message" ImageName="MoneyLimitWord_2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

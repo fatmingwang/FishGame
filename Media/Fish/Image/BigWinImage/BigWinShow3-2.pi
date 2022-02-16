@@ -1,0 +1,20 @@
+<!-- Author:peter,Time:2013/3/14 ¤U¤È 02:50:15 -->
+<PuzzleImage OriginalNameSort="lifish03,lifish07,lifish05,lifish11,lifish08,kgsw,kssw,ksw,lifish09,Light,shine1,water,Line,Line2,black,PlateGlow,kgssw" ImageName="BigWinShow3-2.png" Count="17" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="black" UV="0.9335938,0.7568359,0.9824219,0.8056641" OffsetPos="0,0" Size="50,50" OriginalSize="50,50" ShowPosInPI="956,775" />
+    <PuzzleUnit Name="kgssw" UV="0.2529297,0.7783203,0.6210938,0.8642578" OffsetPos="75,16" Size="377,88" OriginalSize="533,119" ShowPosInPI="259,797" />
+    <PuzzleUnit Name="kgsw" UV="0.2529297,0.6953125,0.6181641,0.7773438" OffsetPos="79,17" Size="374,84" OriginalSize="533,119" ShowPosInPI="259,712" />
+    <PuzzleUnit Name="kssw" UV="0.2529297,0.6123047,0.6181641,0.6943359" OffsetPos="79,17" Size="374,84" OriginalSize="533,119" ShowPosInPI="259,627" />
+    <PuzzleUnit Name="ksw" UV="0.6679688,0.6513672,0.9589844,0.7333984" OffsetPos="117,17" Size="298,84" OriginalSize="533,119" ShowPosInPI="684,667" />
+    <PuzzleUnit Name="lifish03" UV="0,0.0009765625,0.1875,0.4228516" OffsetPos="192,164" Size="192,432" OriginalSize="720,720" ShowPosInPI="0,1" />
+    <PuzzleUnit Name="lifish05" UV="0.375,0,0.5869141,0.3632813" OffsetPos="177,34" Size="217,372" OriginalSize="720,720" ShowPosInPI="384,0" />
+    <PuzzleUnit Name="lifish07" UV="0.1884766,0.001953125,0.3740234,0.40625" OffsetPos="227,7" Size="190,414" OriginalSize="720,720" ShowPosInPI="193,2" />
+    <PuzzleUnit Name="lifish08" UV="0,0.4228516,0.2490234,0.7666016" OffsetPos="258,13" Size="255,352" OriginalSize="720,720" ShowPosInPI="0,433" />
+    <PuzzleUnit Name="lifish09" UV="0.2568359,0.4072266,0.5839844,0.609375" OffsetPos="192,61" Size="335,207" OriginalSize="720,720" ShowPosInPI="263,417" />
+    <PuzzleUnit Name="lifish11" UV="0.5878906,0,0.8212891,0.3652344" OffsetPos="303,64" Size="239,374" OriginalSize="720,720" ShowPosInPI="602,0" />
+    <PuzzleUnit Name="Light" UV="0.6962891,0.7441406,0.9130859,0.8222656" OffsetPos="0,0" Size="222,80" OriginalSize="222,80" ShowPosInPI="713,762" />
+    <PuzzleUnit Name="Line" UV="0.01953125,0.8662109,0.4082031,0.9980469" OffsetPos="242,409" Size="398,135" OriginalSize="640,544" ShowPosInPI="20,887" />
+    <PuzzleUnit Name="Line2" UV="0.4199219,0.8662109,0.8085938,0.9980469" OffsetPos="242,409" Size="398,135" OriginalSize="640,544" ShowPosInPI="430,887" />
+    <PuzzleUnit Name="PlateGlow" UV="0.0078125,0.7724609,0.2509766,0.8349609" OffsetPos="387,15" Size="249,64" OriginalSize="778,256" ShowPosInPI="8,791" />
+    <PuzzleUnit Name="shine1" UV="0.6259766,0.375,0.828125,0.6435547" OffsetPos="3,0" Size="207,275" OriginalSize="214,280" ShowPosInPI="641,384" />
+    <PuzzleUnit Name="water" UV="0.8388672,0.8769531,0.9169922,0.9550781" OffsetPos="0,0" Size="80,80" OriginalSize="80,80" ShowPosInPI="859,898" />
+</PuzzleImage>

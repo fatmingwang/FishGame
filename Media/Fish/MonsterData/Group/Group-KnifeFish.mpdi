@@ -1,0 +1,23 @@
+<MPDIList Name="Group-KnifeFish_mpdi" Count="3" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="KnifeFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="KnifeFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-25.00,-20.00,0.00" Time="0.000000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="1" Position="-90.00,-42.00,0.00" Time="0.100000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="2" Position="-62.00,-5.00,0.00" Time="0.200000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="KnifeFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="KnifeFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-45.00,-30.00,0.00" Time="0.000000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="1" Position="-102.00,-37.00,0.00" Time="0.100000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="2" Position="-125.00,-14.00,0.00" Time="0.200000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="KnifeFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="KnifeFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-73.00,-80.00,0.00" Time="0.000000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="1" Position="-89.00,-45.00,0.00" Time="0.100000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="2" Position="-132.00,-71.00,0.00" Time="0.200000" Size="115.00,63.00" PIName="allfish" ImageName="KnifeFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

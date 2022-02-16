@@ -1,0 +1,71 @@
+<ImageCollisionData Name="StingrayFish" Count="35">
+    <CollisionData Name="StingrayFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,72.00,-73.00,0.00,108.00,8.00,0.00,75.00,92.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00001" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,70.00,-74.00,0.00,108.00,8.00,0.00,72.00,96.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,72.00,-76.00,0.00,108.00,8.00,0.00,72.00,97.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00003" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,72.00,-76.00,0.00,108.00,11.00,0.00,72.00,100.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,67.00,-61.00,0.00,109.00,8.00,0.00,67.00,83.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00005" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-82.00,6.00,0.00,77.00,-37.00,0.00,108.00,8.00,0.00,84.00,54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-84.00,8.00,0.00,78.00,-34.00,0.00,109.00,10.00,0.00,79.00,60.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00007" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,82.00,-42.00,0.00,108.00,8.00,0.00,82.00,61.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-78.00,10.00,0.00,84.00,-51.00,0.00,108.00,8.00,0.00,82.00,72.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00009" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-77.00,8.00,0.00,79.00,-67.00,0.00,108.00,8.00,0.00,75.00,92.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-76.00,11.00,0.00,77.00,-71.00,0.00,108.00,8.00,0.00,71.00,91.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00011" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-81.00,7.00,0.00,73.00,-50.00,0.00,108.00,8.00,0.00,79.00,66.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00012" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-85.00,8.00,0.00,73.00,-54.00,0.00,108.00,8.00,0.00,76.00,74.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00013" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-85.00,8.00,0.00,73.00,-58.00,0.00,105.00,11.00,0.00,76.00,78.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00014" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-85.00,8.00,0.00,75.00,-66.00,0.00,108.00,8.00,0.00,76.00,83.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00015" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,72.00,-71.00,0.00,108.00,8.00,0.00,71.00,93.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00036" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-83.00,7.00,0.00,71.00,-74.00,0.00,108.00,8.00,0.00,72.00,91.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="StingrayFish_00037" Count="0" />
+    <CollisionData Name="StingrayFish_00038" Count="0" />
+    <CollisionData Name="StingrayFish_00039" Count="0" />
+    <CollisionData Name="StingrayFish_00040" Count="0" />
+    <CollisionData Name="StingrayFish_00041" Count="0" />
+    <CollisionData Name="StingrayFish_00042" Count="0" />
+    <CollisionData Name="StingrayFish_00043" Count="0" />
+    <CollisionData Name="StingrayFish_00044" Count="0" />
+    <CollisionData Name="StingrayFish_00045" Count="0" />
+    <CollisionData Name="StingrayFish_00046" Count="0" />
+    <CollisionData Name="StingrayFish_00047" Count="0" />
+    <CollisionData Name="StingrayFish_00048" Count="0" />
+    <CollisionData Name="StingrayFish_00049" Count="0" />
+    <CollisionData Name="StingrayFish_00050" Count="0" />
+    <CollisionData Name="StingrayFish_00051" Count="0" />
+    <CollisionData Name="StingrayFish_00052" Count="0" />
+    <CollisionData Name="StingrayFish_00053" Count="0" />
+    <CollisionData Name="StingrayFish_00054" Count="0" />
+</ImageCollisionData>

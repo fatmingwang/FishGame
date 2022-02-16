@@ -1,0 +1,91 @@
+<MPDIList Name="ThreeFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="ThreeFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="0.580000">
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.058000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.116000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.174000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.232000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.290000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00017" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.348000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.406000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.464000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.522000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.580000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="0.580000">
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.058000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.116000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.174000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.232000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.290000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00017" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.348000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.406000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.464000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.522000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.580000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.058000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.116000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.35" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.174000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.232000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.65" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.290000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.80" PIName="ThreeFish" ImageName="ThreeFish_00017" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.348000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.65" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.406000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.464000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.35" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.522000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.580000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.05" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="0.580000">
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.058000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.116000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.174000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.232000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.290000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00017" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.348000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.406000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.464000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.522000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.580000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.058000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.116000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.174000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.232000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.290000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ThreeFish" ImageName="ThreeFish_00017" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.348000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00015" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.406000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00013" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.464000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.522000" Size="96.00,72.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.580000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00025" />
+            <PointDataList Index="1" Position="4.00,-4.00,0.00" Time="0.150000" Size="96.00,72.00" Scale="1.00,1.00" Angles="0.00,0.00,-12.00" PIName="ThreeFish" ImageName="ThreeFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00025" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00027" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00028" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00029" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00030" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00031" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00032" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.000000" Size="96.00,72.00" Scale="1.00,1.00" PIName="ThreeFish" ImageName="ThreeFish_00032" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

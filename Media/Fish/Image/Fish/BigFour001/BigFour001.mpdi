@@ -1,0 +1,1052 @@
+<MPDIList Name="BigFour001_mpdi" Count="5" MPDIVersion="1.2" PICount="2" ImageName="SquidFish.pi,BigsThreeFourDisc.pi">
+    <MultiPathDynamicImage Name="DiedShow" PathCount="8" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-76.00,-231.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-76.00,-231.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-76.00,-231.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-76.00,-231.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-76.00,-231.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-76.00,-231.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-76.00,-231.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-76.00,-231.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-76.00,-231.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-76.00,-231.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-76.00,-231.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-76.00,-231.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-76.00,-231.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-77.00,-132.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-77.00,-132.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-77.00,-132.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-77.00,-132.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-77.00,-132.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-77.00,-132.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-77.00,-132.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-77.00,-132.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-77.00,-132.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-77.00,-132.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-77.00,-132.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-77.00,-132.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-77.00,-132.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-79.00,66.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-79.00,66.00,0.00" Time="0.108167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-79.00,66.00,0.00" Time="0.216333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-79.00,66.00,0.00" Time="0.324500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-79.00,66.00,0.00" Time="0.432667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-79.00,66.00,0.00" Time="0.540833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-79.00,66.00,0.00" Time="0.649000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-79.00,66.00,0.00" Time="0.757167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-79.00,66.00,0.00" Time="0.865333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-79.00,66.00,0.00" Time="0.973500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-79.00,66.00,0.00" Time="1.081667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-79.00,66.00,0.00" Time="1.189833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-79.00,66.00,0.00" Time="1.298000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-78.00,-30.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-78.00,-30.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-78.00,-30.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-78.00,-30.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-78.00,-30.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-78.00,-30.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-78.00,-30.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-78.00,-30.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-78.00,-30.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-78.00,-30.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-78.00,-30.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-78.00,-30.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-78.00,-30.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-50.00,-180.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-50.00,-180.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-50.00,-180.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-50.00,-180.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-50.00,-180.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-50.00,-180.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-50.00,-180.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-50.00,-180.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-50.00,-180.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-50.00,-180.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-50.00,-180.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-50.00,-180.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-50.00,-180.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-50.00,-180.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-50.00,-180.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-50.00,-180.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-50.00,-180.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-50.00,-180.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-50.00,-180.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-50.00,-180.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-50.00,-180.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-50.00,-180.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-50.00,-180.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-50.00,-180.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-50.00,-180.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-50.00,-180.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-50.00,-180.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-50.00,-180.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-50.00,-180.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-50.00,-180.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-50.00,-180.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-50.00,-180.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-50.00,-180.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-50.00,-180.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-50.00,-180.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_001" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,-80.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,-80.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,-80.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,-80.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,-80.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,-80.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,-80.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,-80.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,-80.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,-80.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,-80.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,-80.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,-80.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,-80.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,-80.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,-80.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,-80.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,-80.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,-80.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,-80.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,-80.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,-80.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,-80.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,-80.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,-80.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,-80.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,-80.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,-80.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,-80.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,-80.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,-80.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,-80.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,-80.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,-80.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,-80.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_002" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,21.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,21.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,21.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,21.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,21.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,21.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,21.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,21.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,21.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,21.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,21.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,21.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,21.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,21.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,21.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,21.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,21.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,21.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,21.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,21.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,21.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,21.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,21.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,21.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,21.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,21.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,21.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,21.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,21.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,21.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,21.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,21.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,21.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,21.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,21.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_003" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-53.00,119.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-53.00,119.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-53.00,119.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-53.00,119.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-53.00,119.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-53.00,119.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-53.00,119.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-53.00,119.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-53.00,119.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-53.00,119.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-53.00,119.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-53.00,119.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-53.00,119.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-53.00,119.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-53.00,119.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-53.00,119.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-53.00,119.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-53.00,119.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-53.00,119.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-53.00,119.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-53.00,119.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-53.00,119.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-53.00,119.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-53.00,119.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-53.00,119.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-53.00,119.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-53.00,119.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-53.00,119.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-53.00,119.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-53.00,119.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-53.00,119.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-53.00,119.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-53.00,119.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-53.00,119.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-53.00,119.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="8" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-76.00,-231.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-76.00,-231.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-76.00,-231.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-76.00,-231.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-76.00,-231.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-76.00,-231.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-76.00,-231.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-76.00,-231.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-76.00,-231.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-76.00,-231.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-76.00,-231.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-76.00,-231.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-76.00,-231.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-77.00,-132.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-77.00,-132.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-77.00,-132.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-77.00,-132.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-77.00,-132.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-77.00,-132.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-77.00,-132.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-77.00,-132.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-77.00,-132.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-77.00,-132.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-77.00,-132.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-77.00,-132.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-77.00,-132.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-79.00,66.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-79.00,66.00,0.00" Time="0.108167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-79.00,66.00,0.00" Time="0.216333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-79.00,66.00,0.00" Time="0.324500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-79.00,66.00,0.00" Time="0.432667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-79.00,66.00,0.00" Time="0.540833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-79.00,66.00,0.00" Time="0.649000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-79.00,66.00,0.00" Time="0.757167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-79.00,66.00,0.00" Time="0.865333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-79.00,66.00,0.00" Time="0.973500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-79.00,66.00,0.00" Time="1.081667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-79.00,66.00,0.00" Time="1.189833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-79.00,66.00,0.00" Time="1.298000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-78.00,-30.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-78.00,-30.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-78.00,-30.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-78.00,-30.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-78.00,-30.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-78.00,-30.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-78.00,-30.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-78.00,-30.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-78.00,-30.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-78.00,-30.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-78.00,-30.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-78.00,-30.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-78.00,-30.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-50.00,-180.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-50.00,-180.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-50.00,-180.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-50.00,-180.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-50.00,-180.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-50.00,-180.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-50.00,-180.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-50.00,-180.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-50.00,-180.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-50.00,-180.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-50.00,-180.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-50.00,-180.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-50.00,-180.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-50.00,-180.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-50.00,-180.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-50.00,-180.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-50.00,-180.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-50.00,-180.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-50.00,-180.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-50.00,-180.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-50.00,-180.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-50.00,-180.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-50.00,-180.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-50.00,-180.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-50.00,-180.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-50.00,-180.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-50.00,-180.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-50.00,-180.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-50.00,-180.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-50.00,-180.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-50.00,-180.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-50.00,-180.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-50.00,-180.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-50.00,-180.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-50.00,-180.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_001" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,-80.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,-80.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,-80.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,-80.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,-80.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,-80.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,-80.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,-80.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,-80.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,-80.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,-80.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,-80.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,-80.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,-80.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,-80.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,-80.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,-80.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,-80.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,-80.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,-80.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,-80.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,-80.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,-80.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,-80.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,-80.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,-80.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,-80.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,-80.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,-80.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,-80.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,-80.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,-80.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,-80.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,-80.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,-80.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_002" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,21.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,21.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,21.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,21.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,21.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,21.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,21.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,21.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,21.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,21.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,21.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,21.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,21.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,21.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,21.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,21.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,21.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,21.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,21.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,21.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,21.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,21.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,21.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,21.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,21.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,21.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,21.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,21.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,21.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,21.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,21.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,21.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,21.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,21.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,21.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_003" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-53.00,119.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-53.00,119.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-53.00,119.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-53.00,119.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-53.00,119.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-53.00,119.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-53.00,119.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-53.00,119.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-53.00,119.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-53.00,119.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-53.00,119.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-53.00,119.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-53.00,119.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-53.00,119.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-53.00,119.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-53.00,119.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-53.00,119.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-53.00,119.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-53.00,119.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-53.00,119.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-53.00,119.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-53.00,119.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-53.00,119.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-53.00,119.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-53.00,119.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-53.00,119.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-53.00,119.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-53.00,119.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-53.00,119.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-53.00,119.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-53.00,119.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-53.00,119.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-53.00,119.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-53.00,119.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-53.00,119.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="8" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-76.00,-231.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-76.00,-231.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-76.00,-231.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-76.00,-231.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-76.00,-231.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-76.00,-231.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-76.00,-231.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-76.00,-231.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-76.00,-231.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-76.00,-231.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-76.00,-231.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-76.00,-231.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-76.00,-231.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-77.00,-132.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-77.00,-132.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-77.00,-132.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-77.00,-132.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-77.00,-132.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-77.00,-132.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-77.00,-132.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-77.00,-132.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-77.00,-132.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-77.00,-132.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-77.00,-132.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-77.00,-132.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-77.00,-132.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-79.00,66.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-79.00,66.00,0.00" Time="0.108167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-79.00,66.00,0.00" Time="0.216333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-79.00,66.00,0.00" Time="0.324500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-79.00,66.00,0.00" Time="0.432667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-79.00,66.00,0.00" Time="0.540833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-79.00,66.00,0.00" Time="0.649000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-79.00,66.00,0.00" Time="0.757167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-79.00,66.00,0.00" Time="0.865333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-79.00,66.00,0.00" Time="0.973500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-79.00,66.00,0.00" Time="1.081667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-79.00,66.00,0.00" Time="1.189833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-79.00,66.00,0.00" Time="1.298000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-78.00,-30.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-78.00,-30.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-78.00,-30.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-78.00,-30.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-78.00,-30.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-78.00,-30.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-78.00,-30.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-78.00,-30.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-78.00,-30.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-78.00,-30.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-78.00,-30.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-78.00,-30.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-78.00,-30.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-50.00,-180.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-50.00,-180.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-50.00,-180.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-50.00,-180.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-50.00,-180.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-50.00,-180.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-50.00,-180.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-50.00,-180.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-50.00,-180.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-50.00,-180.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-50.00,-180.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-50.00,-180.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-50.00,-180.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-50.00,-180.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-50.00,-180.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-50.00,-180.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-50.00,-180.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-50.00,-180.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-50.00,-180.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-50.00,-180.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-50.00,-180.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-50.00,-180.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-50.00,-180.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-50.00,-180.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-50.00,-180.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-50.00,-180.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-50.00,-180.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-50.00,-180.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-50.00,-180.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-50.00,-180.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-50.00,-180.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-50.00,-180.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-50.00,-180.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-50.00,-180.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-50.00,-180.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_001" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,-80.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,-80.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,-80.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,-80.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,-80.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,-80.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,-80.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,-80.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,-80.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,-80.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,-80.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,-80.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,-80.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,-80.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,-80.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,-80.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,-80.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,-80.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,-80.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,-80.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,-80.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,-80.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,-80.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,-80.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,-80.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,-80.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,-80.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,-80.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,-80.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,-80.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,-80.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,-80.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,-80.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,-80.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,-80.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_002" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,21.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,21.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,21.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,21.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,21.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,21.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,21.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,21.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,21.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,21.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,21.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,21.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,21.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,21.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,21.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,21.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,21.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,21.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,21.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,21.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,21.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,21.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,21.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,21.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,21.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,21.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,21.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,21.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,21.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,21.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,21.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,21.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,21.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,21.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,21.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_003" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-53.00,119.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-53.00,119.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-53.00,119.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-53.00,119.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-53.00,119.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-53.00,119.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-53.00,119.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-53.00,119.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-53.00,119.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-53.00,119.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-53.00,119.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-53.00,119.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-53.00,119.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-53.00,119.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-53.00,119.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-53.00,119.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-53.00,119.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-53.00,119.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-53.00,119.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-53.00,119.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-53.00,119.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-53.00,119.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-53.00,119.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-53.00,119.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-53.00,119.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-53.00,119.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-53.00,119.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-53.00,119.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-53.00,119.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-53.00,119.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-53.00,119.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-53.00,119.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-53.00,119.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-53.00,119.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-53.00,119.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="8" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-76.00,-231.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-76.00,-231.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-76.00,-231.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-76.00,-231.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-76.00,-231.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-76.00,-231.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-76.00,-231.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-76.00,-231.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-76.00,-231.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-76.00,-231.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-76.00,-231.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-76.00,-231.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-76.00,-231.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-77.00,-132.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-77.00,-132.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-77.00,-132.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-77.00,-132.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-77.00,-132.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-77.00,-132.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-77.00,-132.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-77.00,-132.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-77.00,-132.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-77.00,-132.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-77.00,-132.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-77.00,-132.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-77.00,-132.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-79.00,66.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-79.00,66.00,0.00" Time="0.108167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-79.00,66.00,0.00" Time="0.216333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-79.00,66.00,0.00" Time="0.324500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-79.00,66.00,0.00" Time="0.432667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-79.00,66.00,0.00" Time="0.540833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-79.00,66.00,0.00" Time="0.649000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-79.00,66.00,0.00" Time="0.757167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-79.00,66.00,0.00" Time="0.865333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-79.00,66.00,0.00" Time="0.973500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-79.00,66.00,0.00" Time="1.081667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-79.00,66.00,0.00" Time="1.189833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-79.00,66.00,0.00" Time="1.298000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-78.00,-30.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-78.00,-30.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-78.00,-30.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-78.00,-30.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-78.00,-30.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-78.00,-30.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-78.00,-30.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-78.00,-30.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-78.00,-30.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-78.00,-30.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-78.00,-30.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-78.00,-30.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-78.00,-30.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-50.00,-180.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-50.00,-180.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-50.00,-180.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-50.00,-180.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-50.00,-180.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-50.00,-180.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-50.00,-180.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-50.00,-180.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-50.00,-180.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-50.00,-180.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-50.00,-180.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-50.00,-180.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-50.00,-180.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-50.00,-180.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-50.00,-180.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-50.00,-180.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-50.00,-180.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-50.00,-180.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-50.00,-180.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-50.00,-180.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-50.00,-180.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-50.00,-180.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-50.00,-180.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-50.00,-180.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-50.00,-180.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-50.00,-180.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-50.00,-180.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-50.00,-180.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-50.00,-180.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-50.00,-180.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-50.00,-180.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-50.00,-180.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-50.00,-180.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-50.00,-180.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-50.00,-180.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_001" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,-80.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,-80.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,-80.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,-80.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,-80.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,-80.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,-80.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,-80.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,-80.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,-80.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,-80.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,-80.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,-80.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,-80.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,-80.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,-80.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,-80.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,-80.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,-80.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,-80.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,-80.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,-80.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,-80.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,-80.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,-80.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,-80.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,-80.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,-80.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,-80.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,-80.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,-80.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,-80.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,-80.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,-80.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,-80.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_002" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,21.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-51.00,21.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-51.00,21.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-51.00,21.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-51.00,21.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-51.00,21.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-51.00,21.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-51.00,21.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-51.00,21.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-51.00,21.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-51.00,21.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-51.00,21.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-51.00,21.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-51.00,21.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-51.00,21.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-51.00,21.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-51.00,21.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-51.00,21.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-51.00,21.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-51.00,21.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-51.00,21.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-51.00,21.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-51.00,21.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-51.00,21.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-51.00,21.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-51.00,21.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-51.00,21.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-51.00,21.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-51.00,21.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-51.00,21.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-51.00,21.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-51.00,21.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-51.00,21.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-51.00,21.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-51.00,21.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_003" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-53.00,119.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="-53.00,119.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="-53.00,119.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="-53.00,119.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="-53.00,119.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="-53.00,119.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="-53.00,119.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="-53.00,119.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="-53.00,119.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="-53.00,119.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="-53.00,119.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="-53.00,119.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="-53.00,119.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="-53.00,119.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="-53.00,119.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="-53.00,119.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="-53.00,119.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="-53.00,119.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="-53.00,119.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="-53.00,119.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="-53.00,119.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="-53.00,119.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="-53.00,119.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="-53.00,119.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="-53.00,119.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="-53.00,119.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="-53.00,119.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="-53.00,119.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="-53.00,119.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="-53.00,119.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="-53.00,119.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="-53.00,119.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="-53.00,119.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="-53.00,119.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="-53.00,119.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="NormalMove" PathCount="8" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,2.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="0.00,2.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="0.00,2.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="0.00,2.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="0.00,2.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="0.00,2.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="0.00,2.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="0.00,2.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="0.00,2.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="0.00,2.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="0.00,2.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="0.00,2.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="0.00,2.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-1.00,101.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-1.00,101.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-1.00,101.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-1.00,101.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-1.00,101.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-1.00,101.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-1.00,101.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-1.00,101.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-1.00,101.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-1.00,101.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-1.00,101.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-1.00,101.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-1.00,101.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-3.00,299.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-3.00,299.00,0.00" Time="0.108167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-3.00,299.00,0.00" Time="0.216333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-3.00,299.00,0.00" Time="0.324500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-3.00,299.00,0.00" Time="0.432667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-3.00,299.00,0.00" Time="0.540833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-3.00,299.00,0.00" Time="0.649000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-3.00,299.00,0.00" Time="0.757167" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-3.00,299.00,0.00" Time="0.865333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-3.00,299.00,0.00" Time="0.973500" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-3.00,299.00,0.00" Time="1.081667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-3.00,299.00,0.00" Time="1.189833" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-3.00,299.00,0.00" Time="1.298000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-2.00,203.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-2.00,203.00,0.00" Time="0.108333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-2.00,203.00,0.00" Time="0.216667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-2.00,203.00,0.00" Time="0.325000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-2.00,203.00,0.00" Time="0.433333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-2.00,203.00,0.00" Time="0.541667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-2.00,203.00,0.00" Time="0.650000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-2.00,203.00,0.00" Time="0.758333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-2.00,203.00,0.00" Time="0.866667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-2.00,203.00,0.00" Time="0.975000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-2.00,203.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-2.00,203.00,0.00" Time="1.191667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-2.00,203.00,0.00" Time="1.300000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="26.00,53.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="26.00,53.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="26.00,53.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="26.00,53.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="26.00,53.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="26.00,53.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="26.00,53.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="26.00,53.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="26.00,53.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="26.00,53.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="26.00,53.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="26.00,53.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="26.00,53.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="26.00,53.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="26.00,53.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="26.00,53.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="26.00,53.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="26.00,53.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="26.00,53.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="26.00,53.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="26.00,53.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="26.00,53.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="26.00,53.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="26.00,53.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="26.00,53.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="26.00,53.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="26.00,53.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="26.00,53.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="26.00,53.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="26.00,53.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="26.00,53.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="26.00,53.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="26.00,53.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="26.00,53.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="26.00,53.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_001" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="25.00,153.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="25.00,153.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="25.00,153.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="25.00,153.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="25.00,153.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="25.00,153.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="25.00,153.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="25.00,153.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="25.00,153.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="25.00,153.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="25.00,153.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="25.00,153.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="25.00,153.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="25.00,153.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="25.00,153.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="25.00,153.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="25.00,153.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="25.00,153.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="25.00,153.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="25.00,153.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="25.00,153.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="25.00,153.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="25.00,153.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="25.00,153.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="25.00,153.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="25.00,153.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="25.00,153.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="25.00,153.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="25.00,153.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="25.00,153.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="25.00,153.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="25.00,153.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="25.00,153.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="25.00,153.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="25.00,153.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_002" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="25.00,254.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="25.00,254.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="25.00,254.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="25.00,254.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="25.00,254.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="25.00,254.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="25.00,254.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="25.00,254.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="25.00,254.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="25.00,254.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="25.00,254.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="25.00,254.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="25.00,254.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="25.00,254.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="25.00,254.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="25.00,254.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="25.00,254.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="25.00,254.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="25.00,254.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="25.00,254.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="25.00,254.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="25.00,254.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="25.00,254.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="25.00,254.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="25.00,254.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="25.00,254.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="25.00,254.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="25.00,254.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="25.00,254.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="25.00,254.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="25.00,254.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="25.00,254.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="25.00,254.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="25.00,254.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="25.00,254.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SquidFish_003" StartTime="0.000000" AnchorType="CenterCenter" Count="35" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="23.00,352.00,0.00" Time="0.000000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00000" />
+            <PointDataList Index="1" Position="23.00,352.00,0.00" Time="0.038235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00001" />
+            <PointDataList Index="2" Position="23.00,352.00,0.00" Time="0.076471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00002" />
+            <PointDataList Index="3" Position="23.00,352.00,0.00" Time="0.114706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00003" />
+            <PointDataList Index="4" Position="23.00,352.00,0.00" Time="0.152941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00004" />
+            <PointDataList Index="5" Position="23.00,352.00,0.00" Time="0.191176" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00005" />
+            <PointDataList Index="6" Position="23.00,352.00,0.00" Time="0.229412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00006" />
+            <PointDataList Index="7" Position="23.00,352.00,0.00" Time="0.267647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00007" />
+            <PointDataList Index="8" Position="23.00,352.00,0.00" Time="0.305882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00008" />
+            <PointDataList Index="9" Position="23.00,352.00,0.00" Time="0.344118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00009" />
+            <PointDataList Index="10" Position="23.00,352.00,0.00" Time="0.382353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00010" />
+            <PointDataList Index="11" Position="23.00,352.00,0.00" Time="0.420588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00011" />
+            <PointDataList Index="12" Position="23.00,352.00,0.00" Time="0.458824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00012" />
+            <PointDataList Index="13" Position="23.00,352.00,0.00" Time="0.497059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00013" />
+            <PointDataList Index="14" Position="23.00,352.00,0.00" Time="0.535294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00014" />
+            <PointDataList Index="15" Position="23.00,352.00,0.00" Time="0.573529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00015" />
+            <PointDataList Index="16" Position="23.00,352.00,0.00" Time="0.611765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00016" />
+            <PointDataList Index="17" Position="23.00,352.00,0.00" Time="0.650000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00017" />
+            <PointDataList Index="18" Position="23.00,352.00,0.00" Time="0.688235" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00018" />
+            <PointDataList Index="19" Position="23.00,352.00,0.00" Time="0.726471" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00019" />
+            <PointDataList Index="20" Position="23.00,352.00,0.00" Time="0.764706" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00020" />
+            <PointDataList Index="21" Position="23.00,352.00,0.00" Time="0.802941" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00021" />
+            <PointDataList Index="22" Position="23.00,352.00,0.00" Time="0.841177" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00022" />
+            <PointDataList Index="23" Position="23.00,352.00,0.00" Time="0.879412" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00023" />
+            <PointDataList Index="24" Position="23.00,352.00,0.00" Time="0.917647" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00024" />
+            <PointDataList Index="25" Position="23.00,352.00,0.00" Time="0.955882" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00025" />
+            <PointDataList Index="26" Position="23.00,352.00,0.00" Time="0.994118" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00026" />
+            <PointDataList Index="27" Position="23.00,352.00,0.00" Time="1.032353" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00027" />
+            <PointDataList Index="28" Position="23.00,352.00,0.00" Time="1.070588" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00028" />
+            <PointDataList Index="29" Position="23.00,352.00,0.00" Time="1.108824" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00029" />
+            <PointDataList Index="30" Position="23.00,352.00,0.00" Time="1.147059" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00030" />
+            <PointDataList Index="31" Position="23.00,352.00,0.00" Time="1.185294" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00031" />
+            <PointDataList Index="32" Position="23.00,352.00,0.00" Time="1.223529" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00032" />
+            <PointDataList Index="33" Position="23.00,352.00,0.00" Time="1.261765" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00033" />
+            <PointDataList Index="34" Position="23.00,352.00,0.00" Time="1.300000" Size="112.80,54.00" Scale="1.20,1.20" PIName="SquidFish" ImageName="SquidFish_00034" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

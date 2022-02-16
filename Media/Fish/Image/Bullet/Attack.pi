@@ -1,0 +1,36 @@
+<!-- Author:Olinca,Time:2013/1/29 ¤U¤È 04:18:26 -->
+<PuzzleImage OriginalNameSort="1Pnet_LV2,1Pnet_LV2B,1Pnet_LV3,1Pnet_LV3B,1Pnet_LV4,1Pnet_LV4B,1Pnet2,1Pnet2B,bullet tail1,bullet tail2,bullet tail3,bullet tail4,bullet tail5,bullet tail6,bullet tail7,1P_bullet_LV2,1P_bullet_LV3,1P_bullet_LV4,1P_bullet,2P_bullet,3P_bullet,4P_bullet,5P_bullet,6P_bullet,7P_bullet,8P_bullet,9P_bullet,10P_bullet,11P_bullet,12P_bullet,13P_bullet,14P_bullet,NetWave" ImageName="Attack.png" Count="33" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="10P_bullet" UV="0.078125,0.9394531,0.09277344,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="80,481" />
+    <PuzzleUnit Name="11P_bullet" UV="0.09375,0.9394531,0.1083984,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="96,481" />
+    <PuzzleUnit Name="12P_bullet" UV="0.109375,0.9394531,0.1240234,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="112,481" />
+    <PuzzleUnit Name="13P_bullet" UV="0.125,0.9394531,0.1396484,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="128,481" />
+    <PuzzleUnit Name="14P_bullet" UV="0.140625,0.9394531,0.1552734,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="144,481" />
+    <PuzzleUnit Name="1P_bullet" UV="0.9375,0.4550781,0.9521484,0.5136719" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="960,233" />
+    <PuzzleUnit Name="1P_bullet_LV2" UV="0.8085938,0.4550781,0.8369141,0.5117188" OffsetPos="0,0" Size="29,29" OriginalSize="29,29" ShowPosInPI="828,233" />
+    <PuzzleUnit Name="1P_bullet_LV3" UV="0.8378906,0.4550781,0.8798828,0.5136719" OffsetPos="0,0" Size="43,30" OriginalSize="43,30" ShowPosInPI="858,233" />
+    <PuzzleUnit Name="1P_bullet_LV4" UV="0.8808594,0.4550781,0.9365234,0.5117188" OffsetPos="0,0" Size="57,29" OriginalSize="57,29" ShowPosInPI="902,233" />
+    <PuzzleUnit Name="1Pnet_LV2" UV="0,0,0.1669922,0.3359375" OffsetPos="48,48" Size="171,172" OriginalSize="267,267" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="1Pnet_LV2B" UV="0.1679688,0,0.3535156,0.3710938" OffsetPos="39,39" Size="190,190" OriginalSize="267,267" ShowPosInPI="172,0" />
+    <PuzzleUnit Name="1Pnet_LV3" UV="0.3544922,0,0.5546875,0.3984375" OffsetPos="31,32" Size="205,204" OriginalSize="267,267" ShowPosInPI="363,0" />
+    <PuzzleUnit Name="1Pnet_LV3B" UV="0.5556641,0,0.7675781,0.4238281" OffsetPos="26,26" Size="217,217" OriginalSize="267,267" ShowPosInPI="569,0" />
+    <PuzzleUnit Name="1Pnet_LV4" UV="0.7685547,0,0.9941406,0.453125" OffsetPos="18,18" Size="231,232" OriginalSize="267,267" ShowPosInPI="787,0" />
+    <PuzzleUnit Name="1Pnet_LV4B" UV="0,0.4550781,0.2412109,0.9375" OffsetPos="10,10" Size="247,247" OriginalSize="267,267" ShowPosInPI="0,233" />
+    <PuzzleUnit Name="1Pnet2" UV="0.2421875,0.4550781,0.4091797,0.7910156" OffsetPos="48,48" Size="171,172" OriginalSize="267,267" ShowPosInPI="248,233" />
+    <PuzzleUnit Name="1Pnet2B" UV="0.4101563,0.4550781,0.5957031,0.8261719" OffsetPos="39,39" Size="190,190" OriginalSize="267,267" ShowPosInPI="420,233" />
+    <PuzzleUnit Name="2P_bullet" UV="0.953125,0.4550781,0.9677734,0.5136719" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="976,233" />
+    <PuzzleUnit Name="3P_bullet" UV="0.96875,0.4550781,0.9833984,0.5136719" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="992,233" />
+    <PuzzleUnit Name="4P_bullet" UV="0.984375,0.4550781,0.9990234,0.5136719" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="1008,233" />
+    <PuzzleUnit Name="5P_bullet" UV="0,0.9394531,0.01464844,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="0,481" />
+    <PuzzleUnit Name="6P_bullet" UV="0.015625,0.9394531,0.03027344,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="16,481" />
+    <PuzzleUnit Name="7P_bullet" UV="0.03125,0.9394531,0.04589844,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="32,481" />
+    <PuzzleUnit Name="8P_bullet" UV="0.046875,0.9394531,0.06152344,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="48,481" />
+    <PuzzleUnit Name="9P_bullet" UV="0.0625,0.9394531,0.07714844,0.9980469" OffsetPos="0,0" Size="15,30" OriginalSize="15,30" ShowPosInPI="64,481" />
+    <PuzzleUnit Name="bullet tail1" UV="0.5966797,0.4550781,0.6259766,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="611,233" />
+    <PuzzleUnit Name="bullet tail2" UV="0.6269531,0.4550781,0.65625,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="642,233" />
+    <PuzzleUnit Name="bullet tail3" UV="0.6572266,0.4550781,0.6865234,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="673,233" />
+    <PuzzleUnit Name="bullet tail4" UV="0.6875,0.4550781,0.7167969,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="704,233" />
+    <PuzzleUnit Name="bullet tail5" UV="0.7177734,0.4550781,0.7470703,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="735,233" />
+    <PuzzleUnit Name="bullet tail6" UV="0.7480469,0.4550781,0.7773438,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="766,233" />
+    <PuzzleUnit Name="bullet tail7" UV="0.7783203,0.4550781,0.8076172,0.578125" OffsetPos="0,0" Size="30,63" OriginalSize="30,63" ShowPosInPI="797,233" />
+    <PuzzleUnit Name="NetWave" UV="0.6054688,0.6074219,0.7304688,0.8574219" OffsetPos="0,0" Size="128,128" OriginalSize="128,128" ShowPosInPI="620,311" />
+</PuzzleImage>

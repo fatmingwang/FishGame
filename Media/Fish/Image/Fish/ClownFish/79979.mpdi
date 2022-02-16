@@ -1,0 +1,32 @@
+<MPDIList Name="79979_mpdi" Count="1" MPDIVersion="1.3" PICount="1" ImageName="ClownFish.pi">
+    <MultiPathDynamicImage Name="79979" PathCount="1" PlayCount="1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="ClownFish_00000" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1">
+            <PointDataList Index="0" Position="279.00,165.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00000" />
+            <PointDataList Index="1" Position="309.04,166.60,0.00" Time="0.096000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00001" />
+            <PointDataList Index="2" Position="339.08,168.20,0.00" Time="0.192000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00002" />
+            <PointDataList Index="3" Position="369.12,169.80,0.00" Time="0.288000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00003" />
+            <PointDataList Index="4" Position="399.16,171.40,0.00" Time="0.384000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00004" />
+            <PointDataList Index="5" Position="429.20,173.00,0.00" Time="0.480000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00005" />
+            <PointDataList Index="6" Position="459.24,174.60,0.00" Time="0.576000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00006" />
+            <PointDataList Index="7" Position="489.28,176.20,0.00" Time="0.672000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00007" />
+            <PointDataList Index="8" Position="519.32,177.80,0.00" Time="0.768000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00008" />
+            <PointDataList Index="9" Position="549.36,179.40,0.00" Time="0.864000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00009" />
+            <PointDataList Index="10" Position="579.40,181.00,0.00" Time="0.960000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00010" />
+            <PointDataList Index="11" Position="609.44,182.60,0.00" Time="1.056000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00011" />
+            <PointDataList Index="12" Position="639.48,184.20,0.00" Time="1.152000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00012" />
+            <PointDataList Index="13" Position="669.52,185.80,0.00" Time="1.248000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00013" />
+            <PointDataList Index="14" Position="699.56,187.40,0.00" Time="1.344000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00014" />
+            <PointDataList Index="15" Position="729.60,189.00,0.00" Time="1.440000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00015" />
+            <PointDataList Index="16" Position="759.64,190.60,0.00" Time="1.536000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00016" />
+            <PointDataList Index="17" Position="789.68,192.20,0.00" Time="1.632000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00017" />
+            <PointDataList Index="18" Position="819.72,193.80,0.00" Time="1.728000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00018" />
+            <PointDataList Index="19" Position="849.76,195.40,0.00" Time="1.824000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00019" />
+            <PointDataList Index="20" Position="879.80,197.00,0.00" Time="1.920000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00020" />
+            <PointDataList Index="21" Position="909.84,198.60,0.00" Time="2.016000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00021" />
+            <PointDataList Index="22" Position="939.88,200.20,0.00" Time="2.112000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00022" />
+            <PointDataList Index="23" Position="969.92,201.80,0.00" Time="2.208000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00023" />
+            <PointDataList Index="24" Position="999.96,203.40,0.00" Time="2.304000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00024" />
+            <PointDataList Index="25" Position="1030.00,205.00,0.00" Time="2.400000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

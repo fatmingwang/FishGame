@@ -1,0 +1,116 @@
+<MPDIList Name="AnglerFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="AnglerFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="AnglerFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.160000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.213333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.266667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.320000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.373333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.426667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.480000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.533333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.586667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.640000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.693333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.746667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.800000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="AnglerFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.160000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.213333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.266667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.320000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.373333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.426667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.480000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.533333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.586667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.640000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.693333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.746667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.800000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00015" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="AnglerFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.80" PIName="AnglerFish" ImageName="AnglerFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="AnglerFish" ImageName="AnglerFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.60" PIName="AnglerFish" ImageName="AnglerFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.160000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="AnglerFish" ImageName="AnglerFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.213333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="AnglerFish" ImageName="AnglerFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.266667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="AnglerFish" ImageName="AnglerFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.320000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="AnglerFish" ImageName="AnglerFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.373333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.10" PIName="AnglerFish" ImageName="AnglerFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.426667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.480000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.10" PIName="AnglerFish" ImageName="AnglerFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.533333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="AnglerFish" ImageName="AnglerFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.586667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="AnglerFish" ImageName="AnglerFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.640000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="AnglerFish" ImageName="AnglerFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.693333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="AnglerFish" ImageName="AnglerFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.746667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.60" PIName="AnglerFish" ImageName="AnglerFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.800000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="AnglerFish" ImageName="AnglerFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="AnglerFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.160000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.213333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.266667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.320000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.373333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.426667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.480000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.533333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.586667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.640000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.693333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.746667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.800000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00015" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="AnglerFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.160000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.213333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.266667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.320000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.373333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.426667" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.480000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.533333" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.586667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.640000" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.693333" Size="162.00,126.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="AnglerFish" ImageName="AnglerFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.746667" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.800000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="AnglerFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00017" />
+            <PointDataList Index="1" Position="0.00,-9.00,0.00" Time="0.150000" Size="162.00,126.00" Scale="1.00,1.00" Angles="0.00,0.00,-15.00" PIName="AnglerFish" ImageName="AnglerFish_00019" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00017" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="AnglerFish" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00020" />
+            <PointDataList Index="1" Position="0.00,-9.00,0.00" Time="0.100000" Size="162.00,126.00" Scale="1.00,1.00" Angles="0.00,0.00,-15.00" PIName="AnglerFish" ImageName="AnglerFish_00021" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00022" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00023" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00024" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00025" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.000000" Size="162.00,126.00" Scale="1.00,1.00" PIName="AnglerFish" ImageName="AnglerFish_00025" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

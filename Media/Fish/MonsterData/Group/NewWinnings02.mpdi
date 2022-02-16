@@ -1,0 +1,587 @@
+<MPDIList Name="NewWinnings02_mpdi" Count="9" MPDIVersion="1.2" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="winnings1" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings2" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings3" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings4" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings5" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings6" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="TurtleFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings7" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="BlackFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings8" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="HammerHeadFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings9" PathCount="9" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.82,327.17,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="426.00,287.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="203.00,342.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="9.00,503.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="-43.00,837.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.16,338.26,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="516.00,152.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="286.00,49.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="-1.00,81.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="-254.00,315.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="643.05,335.46,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="632.34,89.08,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="477.85,-145.31,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="285.19,-261.94,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="13.98,-299.19,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="644.78,335.06,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="752.08,164.28,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="771.41,-99.50,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="659.73,-354.11,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="480.85,-544.02,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="647.46,332.90,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="837.06,328.59,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="1018.41,188.32,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="1088.10,-19.55,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="1064.98,-264.70,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="641.83,334.21,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="729.11,556.76,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="915.55,729.03,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="1223.87,802.25,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="1496.65,742.91,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.71,332.98,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="534.00,581.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="589.00,851.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="733.00,1043.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="1067.00,1177.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="645.76,331.79,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="428.00,447.00,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="304.00,659.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="267.00,886.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="304.00,1146.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="642.32,335.78,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="1" Position="776.93,469.36,0.00" Time="10.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="2" Position="1051.00,500.00,0.00" Time="20.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="3" Position="1354.00,335.00,0.00" Time="30.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+            <PointDataList Index="4" Position="1469.00,99.00,0.00" Time="40.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

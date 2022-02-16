@@ -1,0 +1,121 @@
+<MPDIList Name="PufferFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="PufferFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="0.850000">
+        <CueToStartCurvesWithTime Name="PufferFish" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106250" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.159375" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.212500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.265625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.318750" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.371875" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.425000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.478125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.531250" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.584375" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.637500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.690625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.743750" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.796875" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.850000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00016" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="0.850000">
+        <CueToStartCurvesWithTime Name="PufferFish" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106250" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.159375" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.212500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.265625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.318750" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.371875" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.425000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.478125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.531250" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.584375" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.637500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.690625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.743750" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.796875" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.850000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00016" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PufferFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,1.00" PIName="PufferFish" ImageName="PufferFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053125" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.90" PIName="PufferFish" ImageName="PufferFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106250" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.80" PIName="PufferFish" ImageName="PufferFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.159375" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="PufferFish" ImageName="PufferFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.212500" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.60" PIName="PufferFish" ImageName="PufferFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.265625" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="PufferFish" ImageName="PufferFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.318750" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="PufferFish" ImageName="PufferFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.371875" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="PufferFish" ImageName="PufferFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.425000" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="PufferFish" ImageName="PufferFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.478125" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="PufferFish" ImageName="PufferFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.531250" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="PufferFish" ImageName="PufferFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.584375" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="PufferFish" ImageName="PufferFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.637500" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.60" PIName="PufferFish" ImageName="PufferFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.690625" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="PufferFish" ImageName="PufferFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.743750" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.80" PIName="PufferFish" ImageName="PufferFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.796875" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.90" PIName="PufferFish" ImageName="PufferFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.850000" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,1.00" PIName="PufferFish" ImageName="PufferFish_00016" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="0.850000">
+        <CueToStartCurvesWithTime Name="PufferFish" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106250" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.159375" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.212500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.265625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.318750" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.371875" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.425000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.478125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.531250" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.584375" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.637500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.690625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.743750" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.796875" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.850000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00016" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PufferFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.053125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.106250" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.159375" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.212500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.265625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.318750" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.371875" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.425000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.478125" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.531250" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.584375" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.637500" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.690625" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.743750" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.796875" Size="99.00,87.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="PufferFish" ImageName="PufferFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.850000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00016" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="PufferFish" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00019" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00020" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00021" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00022" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00023" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00024" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="PufferFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00017" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00018" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="99.00,87.00" Scale="1.00,1.00" PIName="PufferFish" ImageName="PufferFish_00017" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

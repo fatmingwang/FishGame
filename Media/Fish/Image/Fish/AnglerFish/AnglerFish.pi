@@ -1,0 +1,29 @@
+<!-- Author:staric,Time:2013/2/19 ¤U¤È 02:48:59 -->
+<PuzzleImage OriginalNameSort="AnglerFish_00000,AnglerFish_00001,AnglerFish_00002,AnglerFish_00003,AnglerFish_00004,AnglerFish_00005,AnglerFish_00006,AnglerFish_00007,AnglerFish_00008,AnglerFish_00009,AnglerFish_00010,AnglerFish_00011,AnglerFish_00012,AnglerFish_00013,AnglerFish_00014,AnglerFish_00015,AnglerFish_00016,AnglerFish_00017,AnglerFish_00018,AnglerFish_00019,AnglerFish_00020,AnglerFish_00021,AnglerFish_00022,AnglerFish_00023,AnglerFish_00024,AnglerFish_00025" ImageName="AnglerFish.png" Count="26" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="AnglerFish_00000" UV="0,0,0.1582031,0.1230469" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="AnglerFish_00001" UV="0.1591797,0,0.3173828,0.1230469" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="163,0" />
+    <PuzzleUnit Name="AnglerFish_00002" UV="0.3183594,0,0.4765625,0.1230469" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="326,0" />
+    <PuzzleUnit Name="AnglerFish_00003" UV="0.4775391,0,0.6357422,0.1230469" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="489,0" />
+    <PuzzleUnit Name="AnglerFish_00004" UV="0.6367188,0,0.7949219,0.1230469" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="652,0" />
+    <PuzzleUnit Name="AnglerFish_00005" UV="0.7958984,0,0.9541016,0.1230469" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="815,0" />
+    <PuzzleUnit Name="AnglerFish_00006" UV="0,0.1240234,0.1582031,0.2470703" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="0,127" />
+    <PuzzleUnit Name="AnglerFish_00007" UV="0.1591797,0.1240234,0.3173828,0.2470703" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="163,127" />
+    <PuzzleUnit Name="AnglerFish_00008" UV="0.3183594,0.1240234,0.4765625,0.2470703" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="326,127" />
+    <PuzzleUnit Name="AnglerFish_00009" UV="0.4775391,0.1240234,0.6357422,0.2470703" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="489,127" />
+    <PuzzleUnit Name="AnglerFish_00010" UV="0.6367188,0.1240234,0.7949219,0.2470703" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="652,127" />
+    <PuzzleUnit Name="AnglerFish_00011" UV="0.7958984,0.1240234,0.9541016,0.2470703" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="815,127" />
+    <PuzzleUnit Name="AnglerFish_00012" UV="0,0.2480469,0.1582031,0.3710938" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="0,254" />
+    <PuzzleUnit Name="AnglerFish_00013" UV="0.1591797,0.2480469,0.3173828,0.3710938" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="163,254" />
+    <PuzzleUnit Name="AnglerFish_00014" UV="0.3183594,0.2480469,0.4765625,0.3710938" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="326,254" />
+    <PuzzleUnit Name="AnglerFish_00015" UV="0.4775391,0.2480469,0.6357422,0.3710938" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="489,254" />
+    <PuzzleUnit Name="AnglerFish_00016" UV="0.6367188,0.2480469,0.7949219,0.3710938" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="652,254" />
+    <PuzzleUnit Name="AnglerFish_00017" UV="0.7958984,0.2480469,0.9541016,0.3710938" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="815,254" />
+    <PuzzleUnit Name="AnglerFish_00018" UV="0,0.3720703,0.1582031,0.4951172" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="0,381" />
+    <PuzzleUnit Name="AnglerFish_00019" UV="0.1591797,0.3720703,0.3173828,0.4951172" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="163,381" />
+    <PuzzleUnit Name="AnglerFish_00020" UV="0.3183594,0.3720703,0.4765625,0.4951172" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="326,381" />
+    <PuzzleUnit Name="AnglerFish_00021" UV="0.4775391,0.3720703,0.6357422,0.4951172" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="489,381" />
+    <PuzzleUnit Name="AnglerFish_00022" UV="0.6367188,0.3720703,0.7949219,0.4951172" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="652,381" />
+    <PuzzleUnit Name="AnglerFish_00023" UV="0.7958984,0.3720703,0.9541016,0.4951172" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="815,381" />
+    <PuzzleUnit Name="AnglerFish_00024" UV="0,0.4960938,0.1582031,0.6191406" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="0,508" />
+    <PuzzleUnit Name="AnglerFish_00025" UV="0.1591797,0.4960938,0.3173828,0.6191406" OffsetPos="0,0" Size="162,126" OriginalSize="162,126" ShowPosInPI="163,508" />
+</PuzzleImage>

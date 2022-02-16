@@ -1,0 +1,227 @@
+<MPDIList Name="MarlinFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="MarlinFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="0.600000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.016667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.033333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.050000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.066667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.083333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.100000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.116667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.133333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.150000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.166667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.183333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.200000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.216667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.233333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.250000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.266667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.283333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.300000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.316667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.333333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.350000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.366667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.383333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.400000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00024" />
+            <PointDataList Index="25" Position="0.00,0.00,0.00" Time="0.416667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00025" />
+            <PointDataList Index="26" Position="0.00,0.00,0.00" Time="0.433333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00026" />
+            <PointDataList Index="27" Position="0.00,0.00,0.00" Time="0.450000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00027" />
+            <PointDataList Index="28" Position="0.00,0.00,0.00" Time="0.466667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00028" />
+            <PointDataList Index="29" Position="0.00,0.00,0.00" Time="0.483333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00029" />
+            <PointDataList Index="30" Position="0.00,0.00,0.00" Time="0.500000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00030" />
+            <PointDataList Index="31" Position="0.00,0.00,0.00" Time="0.516667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00031" />
+            <PointDataList Index="32" Position="0.00,0.00,0.00" Time="0.533333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00032" />
+            <PointDataList Index="33" Position="0.00,0.00,0.00" Time="0.550000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00033" />
+            <PointDataList Index="34" Position="0.00,0.00,0.00" Time="0.566667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00034" />
+            <PointDataList Index="35" Position="0.00,0.00,0.00" Time="0.583333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00035" />
+            <PointDataList Index="36" Position="0.00,0.00,0.00" Time="0.600000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00036" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="0.600000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.016667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.033333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.050000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.066667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.083333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.100000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.116667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.133333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.150000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.166667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.183333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.200000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.216667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.233333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.250000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.266667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.283333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.300000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.316667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.333333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.350000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.366667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.383333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.400000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00024" />
+            <PointDataList Index="25" Position="0.00,0.00,0.00" Time="0.416667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00025" />
+            <PointDataList Index="26" Position="0.00,0.00,0.00" Time="0.433333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00026" />
+            <PointDataList Index="27" Position="0.00,0.00,0.00" Time="0.450000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00027" />
+            <PointDataList Index="28" Position="0.00,0.00,0.00" Time="0.466667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00028" />
+            <PointDataList Index="29" Position="0.00,0.00,0.00" Time="0.483333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00029" />
+            <PointDataList Index="30" Position="0.00,0.00,0.00" Time="0.500000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00030" />
+            <PointDataList Index="31" Position="0.00,0.00,0.00" Time="0.516667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00031" />
+            <PointDataList Index="32" Position="0.00,0.00,0.00" Time="0.533333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00032" />
+            <PointDataList Index="33" Position="0.00,0.00,0.00" Time="0.550000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00033" />
+            <PointDataList Index="34" Position="0.00,0.00,0.00" Time="0.566667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00034" />
+            <PointDataList Index="35" Position="0.00,0.00,0.00" Time="0.583333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00035" />
+            <PointDataList Index="36" Position="0.00,0.00,0.00" Time="0.600000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00036" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.016667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.033333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.050000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.066667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.083333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.100000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.116667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.133333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.150000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.166667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.183333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.200000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.216667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.233333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.250000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.266667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.283333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.300000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.316667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.333333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.350000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.366667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.383333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.400000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00024" />
+            <PointDataList Index="25" Position="0.00,0.00,0.00" Time="0.416667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00025" />
+            <PointDataList Index="26" Position="0.00,0.00,0.00" Time="0.433333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00026" />
+            <PointDataList Index="27" Position="0.00,0.00,0.00" Time="0.450000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00027" />
+            <PointDataList Index="28" Position="0.00,0.00,0.00" Time="0.466667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00028" />
+            <PointDataList Index="29" Position="0.00,0.00,0.00" Time="0.483333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFish_00029" />
+            <PointDataList Index="30" Position="0.00,0.00,0.00" Time="0.500000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00030" />
+            <PointDataList Index="31" Position="0.00,0.00,0.00" Time="0.516667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00031" />
+            <PointDataList Index="32" Position="0.00,0.00,0.00" Time="0.533333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00032" />
+            <PointDataList Index="33" Position="0.00,0.00,0.00" Time="0.550000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00033" />
+            <PointDataList Index="34" Position="0.00,0.00,0.00" Time="0.566667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00034" />
+            <PointDataList Index="35" Position="0.00,0.00,0.00" Time="0.583333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00035" />
+            <PointDataList Index="36" Position="0.00,0.00,0.00" Time="0.600000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00036" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="0.600000">
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.016667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.033333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.050000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.066667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.083333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.100000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.116667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.133333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.150000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.166667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.183333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.200000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.216667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.233333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.250000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.266667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.283333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.300000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.316667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.333333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.350000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.366667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.383333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.400000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00024" />
+            <PointDataList Index="25" Position="0.00,0.00,0.00" Time="0.416667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00025" />
+            <PointDataList Index="26" Position="0.00,0.00,0.00" Time="0.433333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00026" />
+            <PointDataList Index="27" Position="0.00,0.00,0.00" Time="0.450000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00027" />
+            <PointDataList Index="28" Position="0.00,0.00,0.00" Time="0.466667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00028" />
+            <PointDataList Index="29" Position="0.00,0.00,0.00" Time="0.483333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00029" />
+            <PointDataList Index="30" Position="0.00,0.00,0.00" Time="0.500000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00030" />
+            <PointDataList Index="31" Position="0.00,0.00,0.00" Time="0.516667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00031" />
+            <PointDataList Index="32" Position="0.00,0.00,0.00" Time="0.533333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00032" />
+            <PointDataList Index="33" Position="0.00,0.00,0.00" Time="0.550000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00033" />
+            <PointDataList Index="34" Position="0.00,0.00,0.00" Time="0.566667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00034" />
+            <PointDataList Index="35" Position="0.00,0.00,0.00" Time="0.583333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00035" />
+            <PointDataList Index="36" Position="0.00,0.00,0.00" Time="0.600000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFish_00036" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="37" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.016667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.05" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.033333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.11" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.050000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.16" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.066667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.22" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.083333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.27" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.100000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.33" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.116667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.38" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.133333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.44" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.150000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.49" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.166667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.55" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.183333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.60" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.200000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.66" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.216667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.71" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.233333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.77" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.250000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.88" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.266667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.94" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.283333" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.300000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.316667" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.333333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.94" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.350000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.88" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.366667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.77" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.383333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.71" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.400000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.66" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00024" />
+            <PointDataList Index="25" Position="0.00,0.00,0.00" Time="0.416667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.60" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00025" />
+            <PointDataList Index="26" Position="0.00,0.00,0.00" Time="0.433333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.55" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00026" />
+            <PointDataList Index="27" Position="0.00,0.00,0.00" Time="0.450000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.49" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00027" />
+            <PointDataList Index="28" Position="0.00,0.00,0.00" Time="0.466667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.44" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00028" />
+            <PointDataList Index="29" Position="0.00,0.00,0.00" Time="0.483333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.38" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00029" />
+            <PointDataList Index="30" Position="0.00,0.00,0.00" Time="0.500000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.33" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00030" />
+            <PointDataList Index="31" Position="0.00,0.00,0.00" Time="0.516667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.27" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00031" />
+            <PointDataList Index="32" Position="0.00,0.00,0.00" Time="0.533333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.22" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00032" />
+            <PointDataList Index="33" Position="0.00,0.00,0.00" Time="0.550000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.16" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00033" />
+            <PointDataList Index="34" Position="0.00,0.00,0.00" Time="0.566667" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.13" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00034" />
+            <PointDataList Index="35" Position="0.00,0.00,0.00" Time="0.583333" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.09" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00035" />
+            <PointDataList Index="36" Position="0.00,0.00,0.00" Time="0.600000" Size="257.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.05" PIName="MarlinFish" ImageName="MarlinFishAttackRed_00036" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.320000">
+        <CueToStartCurvesWithTime Name="MarlinFishFlee" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00019" />
+            <PointDataList Index="1" Position="6.00,-17.00,0.00" Time="0.160000" Size="257.00,114.00" Scale="1.00,1.00" Angles="0.00,0.00,-15.00" PIName="MarlinFish" ImageName="MarlinFishFlee_00004" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00019" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="0.720000">
+        <CueToStartCurvesWithTime Name="MarlinFishDied" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.071304" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00002" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.142609" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00004" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.213913" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00006" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.285217" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00008" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.356522" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00010" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.427826" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00012" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.499130" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00014" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.570435" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00016" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.641739" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00018" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.700000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00018" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.710000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00018" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.720000" Size="257.00,114.00" Scale="1.00,1.00" PIName="MarlinFish" ImageName="MarlinFishDied_00018" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

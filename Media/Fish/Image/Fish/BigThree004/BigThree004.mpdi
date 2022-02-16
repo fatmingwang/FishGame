@@ -1,0 +1,447 @@
+<MPDIList Name="BigThree004_mpdi" Count="5" MPDIVersion="1.2" PICount="2" ImageName="ThreeFish.pi,BigsThreeFourDisc.pi">
+    <MultiPathDynamicImage Name="Flee" PathCount="6" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="BigThree2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-54.00,-119.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-54.00,-119.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-54.00,-119.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-54.00,-119.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-54.00,-119.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-54.00,-119.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-54.00,-119.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-54.00,-119.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-54.00,-119.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-54.00,-119.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-54.00,-119.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-54.00,-119.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-54.00,-119.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-51.00,-34.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-51.00,-34.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-51.00,-34.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-51.00,-34.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-51.00,-34.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-51.00,-34.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-51.00,-34.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-51.00,-34.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-51.00,-34.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-51.00,-34.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-51.00,-34.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-51.00,-34.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-51.00,-34.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-135.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-135.00,-81.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-135.00,-81.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-135.00,-81.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-135.00,-81.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-135.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-135.00,-81.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-135.00,-81.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-135.00,-81.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-135.00,-81.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-135.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-135.00,-81.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-135.00,-81.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,-81.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,-81.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,-81.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,-81.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,-81.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,-81.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,-81.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,-81.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,-81.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,-81.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,-81.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,-81.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,15.00,0.00" Time="0.000000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,15.00,0.00" Time="0.072727" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,15.00,0.00" Time="0.145455" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,15.00,0.00" Time="0.218182" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,15.00,0.00" Time="0.290909" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,15.00,0.00" Time="0.363636" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,15.00,0.00" Time="0.436364" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,15.00,0.00" Time="0.509091" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,15.00,0.00" Time="0.581818" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,15.00,0.00" Time="0.654545" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,15.00,0.00" Time="0.727273" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,15.00,0.00" Time="0.800000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-108.00,-40.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-108.00,-40.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-108.00,-40.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-108.00,-40.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-108.00,-40.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-108.00,-40.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-108.00,-40.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-108.00,-40.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-108.00,-40.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-108.00,-40.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-108.00,-40.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-108.00,-40.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="6" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="BigThree2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-54.00,-119.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-54.00,-119.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-54.00,-119.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-54.00,-119.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-54.00,-119.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-54.00,-119.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-54.00,-119.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-54.00,-119.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-54.00,-119.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-54.00,-119.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-54.00,-119.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-54.00,-119.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-54.00,-119.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-51.00,-34.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-51.00,-34.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-51.00,-34.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-51.00,-34.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-51.00,-34.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-51.00,-34.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-51.00,-34.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-51.00,-34.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-51.00,-34.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-51.00,-34.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-51.00,-34.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-51.00,-34.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-51.00,-34.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-135.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-135.00,-81.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-135.00,-81.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-135.00,-81.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-135.00,-81.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-135.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-135.00,-81.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-135.00,-81.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-135.00,-81.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-135.00,-81.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-135.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-135.00,-81.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-135.00,-81.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,-81.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,-81.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,-81.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,-81.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,-81.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,-81.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,-81.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,-81.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,-81.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,-81.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,-81.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,-81.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,15.00,0.00" Time="0.000000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,15.00,0.00" Time="0.072727" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,15.00,0.00" Time="0.145455" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,15.00,0.00" Time="0.218182" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,15.00,0.00" Time="0.290909" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,15.00,0.00" Time="0.363636" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,15.00,0.00" Time="0.436364" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,15.00,0.00" Time="0.509091" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,15.00,0.00" Time="0.581818" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,15.00,0.00" Time="0.654545" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,15.00,0.00" Time="0.727273" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,15.00,0.00" Time="0.800000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-108.00,-40.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-108.00,-40.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-108.00,-40.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-108.00,-40.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-108.00,-40.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-108.00,-40.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-108.00,-40.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-108.00,-40.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-108.00,-40.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-108.00,-40.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-108.00,-40.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-108.00,-40.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="6" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="BigThree2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-54.00,-119.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-54.00,-119.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-54.00,-119.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-54.00,-119.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-54.00,-119.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-54.00,-119.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-54.00,-119.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-54.00,-119.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-54.00,-119.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-54.00,-119.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-54.00,-119.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-54.00,-119.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-54.00,-119.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-51.00,-34.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-51.00,-34.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-51.00,-34.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-51.00,-34.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-51.00,-34.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-51.00,-34.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-51.00,-34.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-51.00,-34.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-51.00,-34.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-51.00,-34.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-51.00,-34.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-51.00,-34.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-51.00,-34.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-135.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-135.00,-81.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-135.00,-81.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-135.00,-81.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-135.00,-81.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-135.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-135.00,-81.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-135.00,-81.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-135.00,-81.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-135.00,-81.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-135.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-135.00,-81.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-135.00,-81.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,-81.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,-81.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,-81.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,-81.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,-81.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,-81.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,-81.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,-81.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,-81.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,-81.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,-81.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,-81.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,15.00,0.00" Time="0.000000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,15.00,0.00" Time="0.072727" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,15.00,0.00" Time="0.145455" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,15.00,0.00" Time="0.218182" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,15.00,0.00" Time="0.290909" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,15.00,0.00" Time="0.363636" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,15.00,0.00" Time="0.436364" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,15.00,0.00" Time="0.509091" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,15.00,0.00" Time="0.581818" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,15.00,0.00" Time="0.654545" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,15.00,0.00" Time="0.727273" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,15.00,0.00" Time="0.800000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-108.00,-40.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-108.00,-40.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-108.00,-40.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-108.00,-40.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-108.00,-40.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-108.00,-40.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-108.00,-40.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-108.00,-40.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-108.00,-40.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-108.00,-40.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-108.00,-40.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-108.00,-40.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="6" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="BigThree2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-54.00,-119.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-54.00,-119.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-54.00,-119.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-54.00,-119.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-54.00,-119.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-54.00,-119.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-54.00,-119.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-54.00,-119.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-54.00,-119.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-54.00,-119.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-54.00,-119.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-54.00,-119.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-54.00,-119.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-51.00,-34.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-51.00,-34.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-51.00,-34.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-51.00,-34.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-51.00,-34.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-51.00,-34.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-51.00,-34.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-51.00,-34.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-51.00,-34.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-51.00,-34.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-51.00,-34.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-51.00,-34.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-51.00,-34.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-135.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="-135.00,-81.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="-135.00,-81.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="-135.00,-81.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="-135.00,-81.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="-135.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="-135.00,-81.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="-135.00,-81.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="-135.00,-81.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="-135.00,-81.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="-135.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="-135.00,-81.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="-135.00,-81.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,-81.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,-81.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,-81.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,-81.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,-81.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,-81.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,-81.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,-81.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,-81.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,-81.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,-81.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,-81.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-24.00,15.00,0.00" Time="0.000000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-24.00,15.00,0.00" Time="0.072727" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-24.00,15.00,0.00" Time="0.145455" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-24.00,15.00,0.00" Time="0.218182" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-24.00,15.00,0.00" Time="0.290909" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-24.00,15.00,0.00" Time="0.363636" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-24.00,15.00,0.00" Time="0.436364" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-24.00,15.00,0.00" Time="0.509091" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-24.00,15.00,0.00" Time="0.581818" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-24.00,15.00,0.00" Time="0.654545" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-24.00,15.00,0.00" Time="0.727273" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-24.00,15.00,0.00" Time="0.800000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-108.00,-40.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="-108.00,-40.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="-108.00,-40.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="-108.00,-40.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="-108.00,-40.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="-108.00,-40.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="-108.00,-40.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="-108.00,-40.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="-108.00,-40.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="-108.00,-40.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="-108.00,-40.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="-108.00,-40.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="NormalMove" PathCount="6" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="BigThree2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="84.00,4.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="84.00,4.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="84.00,4.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="84.00,4.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="84.00,4.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="84.00,4.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="84.00,4.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="84.00,4.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="84.00,4.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="84.00,4.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="84.00,4.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="84.00,4.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="84.00,4.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="87.00,89.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="87.00,89.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="87.00,89.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="87.00,89.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="87.00,89.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="87.00,89.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="87.00,89.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="87.00,89.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="87.00,89.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="87.00,89.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="87.00,89.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="87.00,89.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="87.00,89.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigThree" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="3.00,42.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="1" Position="3.00,42.00,0.00" Time="0.066667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="2" Position="3.00,42.00,0.00" Time="0.133333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="3" Position="3.00,42.00,0.00" Time="0.200000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="4" Position="3.00,42.00,0.00" Time="0.266667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="5" Position="3.00,42.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="6" Position="3.00,42.00,0.00" Time="0.400000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="7" Position="3.00,42.00,0.00" Time="0.466667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="8" Position="3.00,42.00,0.00" Time="0.533333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="9" Position="3.00,42.00,0.00" Time="0.600000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="10" Position="3.00,42.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="11" Position="3.00,42.00,0.00" Time="0.733333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+            <PointDataList Index="12" Position="3.00,42.00,0.00" Time="0.800000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigThree" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="114.00,42.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="114.00,42.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="114.00,42.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="114.00,42.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="114.00,42.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="114.00,42.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="114.00,42.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="114.00,42.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="114.00,42.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="114.00,42.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="114.00,42.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="114.00,42.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="114.00,138.00,0.00" Time="0.000000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="114.00,138.00,0.00" Time="0.072727" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="114.00,138.00,0.00" Time="0.145455" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="114.00,138.00,0.00" Time="0.218182" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="114.00,138.00,0.00" Time="0.290909" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="114.00,138.00,0.00" Time="0.363636" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="114.00,138.00,0.00" Time="0.436364" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="114.00,138.00,0.00" Time="0.509091" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="114.00,138.00,0.00" Time="0.581818" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="114.00,138.00,0.00" Time="0.654545" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="114.00,138.00,0.00" Time="0.727273" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="114.00,138.00,0.00" Time="0.800000" Size="130.29,82.56" Scale="1.29,1.29" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ThreeFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="30.00,83.00,0.00" Time="0.000000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00000" />
+            <PointDataList Index="1" Position="30.00,83.00,0.00" Time="0.072727" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00001" />
+            <PointDataList Index="2" Position="30.00,83.00,0.00" Time="0.145455" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00002" />
+            <PointDataList Index="3" Position="30.00,83.00,0.00" Time="0.218182" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00003" />
+            <PointDataList Index="4" Position="30.00,83.00,0.00" Time="0.290909" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00004" />
+            <PointDataList Index="5" Position="30.00,83.00,0.00" Time="0.363636" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00005" />
+            <PointDataList Index="6" Position="30.00,83.00,0.00" Time="0.436364" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00006" />
+            <PointDataList Index="7" Position="30.00,83.00,0.00" Time="0.509091" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00007" />
+            <PointDataList Index="8" Position="30.00,83.00,0.00" Time="0.581818" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00008" />
+            <PointDataList Index="9" Position="30.00,83.00,0.00" Time="0.654545" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00009" />
+            <PointDataList Index="10" Position="30.00,83.00,0.00" Time="0.727273" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00010" />
+            <PointDataList Index="11" Position="30.00,83.00,0.00" Time="0.800000" Size="131.30,83.20" Scale="1.30,1.30" PIName="ThreeFish" ImageName="ThreeFish_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

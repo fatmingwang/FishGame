@@ -1,0 +1,38 @@
+<!-- Author:matt,Time:2013/2/19 ¤U¤È 03:21:05 -->
+<PuzzleImage OriginalNameSort="StingrayFish_00000,StingrayFish_00001,StingrayFish_00002,StingrayFish_00003,StingrayFish_00004,StingrayFish_00009,StingrayFish_00010,StingrayFish_00014,StingrayFish_00015,StingrayFish_00036,StingrayFish_00037,StingrayFish_00038,StingrayFish_00039,StingrayFish_00040,StingrayFish_00051,StingrayFish_00011,StingrayFish_00012,StingrayFish_00013,StingrayFish_00008,StingrayFish_00041,StingrayFish_00005,StingrayFish_00007,StingrayFish_00006,StingrayFish_00042,StingrayFish_00043,StingrayFish_00044,StingrayFish_00045,StingrayFish_00046,StingrayFish_00047,StingrayFish_00048,StingrayFish_00049,StingrayFish_00052,StingrayFish_00050,StingrayFish_00053,StingrayFish_00054" ImageName="StingrayFish.png" Count="35" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="StingrayFish_00000" UV="0,0,0.1923828,0.1689453" OffsetPos="7,9" Size="197,173" OriginalSize="210,189" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="StingrayFish_00001" UV="0.1933594,0,0.3857422,0.1738281" OffsetPos="7,7" Size="197,178" OriginalSize="210,189" ShowPosInPI="198,0" />
+    <PuzzleUnit Name="StingrayFish_00002" UV="0.3867188,0,0.578125,0.1757813" OffsetPos="8,6" Size="196,180" OriginalSize="210,189" ShowPosInPI="396,0" />
+    <PuzzleUnit Name="StingrayFish_00003" UV="0.5791016,0,0.7695313,0.1757813" OffsetPos="8,6" Size="195,180" OriginalSize="210,189" ShowPosInPI="593,0" />
+    <PuzzleUnit Name="StingrayFish_00004" UV="0.7705078,0,0.9580078,0.1464844" OffsetPos="10,21" Size="192,150" OriginalSize="210,189" ShowPosInPI="789,0" />
+    <PuzzleUnit Name="StingrayFish_00005" UV="0,0.6660156,0.1865234,0.7607422" OffsetPos="11,48" Size="191,97" OriginalSize="210,189" ShowPosInPI="0,682" />
+    <PuzzleUnit Name="StingrayFish_00006" UV="0.3740234,0.6660156,0.5605469,0.7617188" OffsetPos="11,47" Size="191,98" OriginalSize="210,189" ShowPosInPI="383,682" />
+    <PuzzleUnit Name="StingrayFish_00007" UV="0.1875,0.6660156,0.3730469,0.7724609" OffsetPos="12,42" Size="190,109" OriginalSize="210,189" ShowPosInPI="192,682" />
+    <PuzzleUnit Name="StingrayFish_00008" UV="0.578125,0.5234375,0.7636719,0.6503906" OffsetPos="13,31" Size="190,130" OriginalSize="210,189" ShowPosInPI="592,536" />
+    <PuzzleUnit Name="StingrayFish_00009" UV="0,0.1767578,0.1855469,0.3359375" OffsetPos="13,16" Size="190,163" OriginalSize="210,189" ShowPosInPI="0,181" />
+    <PuzzleUnit Name="StingrayFish_00010" UV="0.1865234,0.1767578,0.3730469,0.3417969" OffsetPos="12,11" Size="191,169" OriginalSize="210,189" ShowPosInPI="191,181" />
+    <PuzzleUnit Name="StingrayFish_00011" UV="0,0.5234375,0.1904297,0.6416016" OffsetPos="9,35" Size="195,121" OriginalSize="210,189" ShowPosInPI="0,536" />
+    <PuzzleUnit Name="StingrayFish_00012" UV="0.1914063,0.5234375,0.3837891,0.6552734" OffsetPos="7,28" Size="197,135" OriginalSize="210,189" ShowPosInPI="196,536" />
+    <PuzzleUnit Name="StingrayFish_00013" UV="0.3847656,0.5234375,0.5771484,0.6650391" OffsetPos="7,23" Size="197,145" OriginalSize="210,189" ShowPosInPI="394,536" />
+    <PuzzleUnit Name="StingrayFish_00014" UV="0.3740234,0.1767578,0.5673828,0.3300781" OffsetPos="6,17" Size="198,157" OriginalSize="210,189" ShowPosInPI="383,181" />
+    <PuzzleUnit Name="StingrayFish_00015" UV="0.5683594,0.1767578,0.7607422,0.3417969" OffsetPos="7,11" Size="197,169" OriginalSize="210,189" ShowPosInPI="582,181" />
+    <PuzzleUnit Name="StingrayFish_00036" UV="0.7617188,0.1767578,0.9541016,0.3457031" OffsetPos="7,9" Size="197,173" OriginalSize="210,189" ShowPosInPI="780,181" />
+    <PuzzleUnit Name="StingrayFish_00037" UV="0,0.3466797,0.1953125,0.5214844" OffsetPos="8,4" Size="200,179" OriginalSize="210,189" ShowPosInPI="0,355" />
+    <PuzzleUnit Name="StingrayFish_00038" UV="0.1962891,0.3466797,0.390625,0.5224609" OffsetPos="8,3" Size="199,180" OriginalSize="210,189" ShowPosInPI="201,355" />
+    <PuzzleUnit Name="StingrayFish_00039" UV="0.3916016,0.3466797,0.5810547,0.5166016" OffsetPos="9,9" Size="194,174" OriginalSize="210,189" ShowPosInPI="401,355" />
+    <PuzzleUnit Name="StingrayFish_00040" UV="0.5820313,0.3466797,0.7685547,0.5009766" OffsetPos="11,25" Size="191,158" OriginalSize="210,189" ShowPosInPI="596,355" />
+    <PuzzleUnit Name="StingrayFish_00041" UV="0.7646484,0.5234375,0.9443359,0.640625" OffsetPos="15,64" Size="184,120" OriginalSize="210,189" ShowPosInPI="783,536" />
+    <PuzzleUnit Name="StingrayFish_00042" UV="0.5615234,0.6660156,0.7353516,0.7587891" OffsetPos="18,82" Size="178,95" OriginalSize="210,189" ShowPosInPI="575,682" />
+    <PuzzleUnit Name="StingrayFish_00043" UV="0.7363281,0.6660156,0.9082031,0.7490234" OffsetPos="20,86" Size="176,85" OriginalSize="210,189" ShowPosInPI="754,682" />
+    <PuzzleUnit Name="StingrayFish_00044" UV="0,0.7734375,0.1708984,0.8681641" OffsetPos="21,84" Size="175,97" OriginalSize="210,189" ShowPosInPI="0,792" />
+    <PuzzleUnit Name="StingrayFish_00045" UV="0.171875,0.7734375,0.3408203,0.8710938" OffsetPos="21,79" Size="173,100" OriginalSize="210,189" ShowPosInPI="176,792" />
+    <PuzzleUnit Name="StingrayFish_00046" UV="0.3417969,0.7734375,0.5078125,0.8671875" OffsetPos="21,74" Size="170,96" OriginalSize="210,189" ShowPosInPI="350,792" />
+    <PuzzleUnit Name="StingrayFish_00047" UV="0.5087891,0.7734375,0.6699219,0.8613281" OffsetPos="21,68" Size="165,90" OriginalSize="210,189" ShowPosInPI="521,792" />
+    <PuzzleUnit Name="StingrayFish_00048" UV="0.6708984,0.7734375,0.8291016,0.859375" OffsetPos="20,61" Size="162,88" OriginalSize="210,189" ShowPosInPI="687,792" />
+    <PuzzleUnit Name="StingrayFish_00049" UV="0.8300781,0.7734375,0.9853516,0.8574219" OffsetPos="19,56" Size="159,86" OriginalSize="210,189" ShowPosInPI="850,792" />
+    <PuzzleUnit Name="StingrayFish_00050" UV="0.1904297,0.8720703,0.3447266,0.9560547" OffsetPos="19,54" Size="158,86" OriginalSize="210,189" ShowPosInPI="195,893" />
+    <PuzzleUnit Name="StingrayFish_00051" UV="0.7695313,0.3466797,0.9619141,0.515625" OffsetPos="7,9" Size="197,173" OriginalSize="210,189" ShowPosInPI="788,355" />
+    <PuzzleUnit Name="StingrayFish_00052" UV="0,0.8720703,0.1894531,0.9902344" OffsetPos="8,36" Size="194,121" OriginalSize="210,189" ShowPosInPI="0,893" />
+    <PuzzleUnit Name="StingrayFish_00053" UV="0.3457031,0.8720703,0.4755859,0.9638672" OffsetPos="68,49" Size="133,94" OriginalSize="210,189" ShowPosInPI="354,893" />
+    <PuzzleUnit Name="StingrayFish_00054" UV="0.4765625,0.8720703,0.6064453,0.9638672" OffsetPos="68,49" Size="133,94" OriginalSize="210,189" ShowPosInPI="488,893" />
+</PuzzleImage>

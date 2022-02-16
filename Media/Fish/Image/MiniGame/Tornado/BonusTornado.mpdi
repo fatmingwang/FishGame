@@ -1,0 +1,797 @@
+<MPDIList Name="BonusTornado_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="BonusTornado.pi">
+    <MultiPathDynamicImage Name="WeaponEffect" PathCount="12" PlayCount="1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="tornado" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-344.00,105.00,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="-272.00,105.00,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="-200.00,105.00,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="-128.00,105.00,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="-56.00,105.00,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="16.00,105.00,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="88.00,105.00,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="160.00,105.00,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="232.00,105.00,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="304.00,105.00,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="376.00,105.00,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="448.00,105.00,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="520.00,105.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="592.00,105.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="664.00,105.00,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="736.00,105.00,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="808.00,105.00,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="880.00,105.00,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="952.00,105.00,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="1024.00,105.00,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="1096.00,105.00,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="1168.00,105.00,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="1240.00,105.00,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="1312.00,105.00,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="1384.00,105.00,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="1456.00,105.00,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado2" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-344.00,459.00,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="-272.00,459.00,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="-200.00,459.00,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="-128.00,459.00,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="-56.00,459.00,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="16.00,459.00,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="88.00,459.00,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="160.00,459.00,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="232.00,459.00,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="304.00,459.00,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="376.00,459.00,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="448.00,459.00,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="520.00,459.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="592.00,459.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="664.00,459.00,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="736.00,459.00,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="808.00,459.00,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="880.00,459.00,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="952.00,459.00,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="1024.00,459.00,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="1096.00,459.00,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="1168.00,459.00,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="1240.00,459.00,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="1312.00,459.00,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="1384.00,459.00,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="1456.00,459.00,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado3" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1463.00,272.84,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="1391.00,272.94,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="1319.00,273.03,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="1247.00,273.12,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="1175.00,273.21,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="1103.00,273.31,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="1031.00,273.40,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="959.00,273.49,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="887.00,273.58,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="815.00,273.68,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="743.00,273.77,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="671.00,273.86,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="599.00,273.95,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="527.00,274.05,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="455.00,274.14,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="383.00,274.23,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="311.00,274.32,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="239.00,274.42,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="167.00,274.51,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="95.00,274.60,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="23.00,274.69,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="-49.00,274.79,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="-121.00,274.88,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="-193.00,274.97,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="-265.00,275.06,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="-337.00,275.16,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado4" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1453.00,-75.16,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="1381.00,-75.06,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="1309.00,-74.97,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="1237.00,-74.88,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="1165.00,-74.79,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="1093.00,-74.69,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="1021.00,-74.60,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="949.00,-74.51,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="877.00,-74.42,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="805.00,-74.32,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="733.00,-74.23,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="661.00,-74.14,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="589.00,-74.05,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="517.00,-73.95,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="445.00,-73.86,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="373.00,-73.77,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="301.00,-73.68,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="229.00,-73.58,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="157.00,-73.49,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="85.00,-73.40,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="13.00,-73.31,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="-59.00,-73.21,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="-131.00,-73.12,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="-203.00,-73.03,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="-275.00,-72.94,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="-347.00,-72.84,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado5" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1456.00,624.84,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="1384.00,624.94,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="1312.00,625.03,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="1240.00,625.12,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="1168.00,625.21,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="1096.00,625.31,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="1024.00,625.40,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="952.00,625.49,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="880.00,625.58,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="808.00,625.68,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="736.00,625.77,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="664.00,625.86,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="592.00,625.95,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="520.00,626.05,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="448.00,626.14,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="376.00,626.23,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="304.00,626.32,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="232.00,626.42,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="160.00,626.51,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="88.00,626.60,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="16.00,626.69,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="-56.00,626.79,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="-128.00,626.88,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="-200.00,626.97,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="-272.00,627.06,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="-344.00,627.16,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado6" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-24.39,1303.94,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="-25.24,1231.94,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="-26.09,1159.95,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="-26.94,1087.95,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="-27.78,1015.96,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="-28.64,943.96,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="-29.48,871.97,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="-30.33,799.97,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="-31.18,727.98,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="-32.03,655.98,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="-32.88,583.99,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="-33.73,511.99,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="-34.57,440.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="-35.43,368.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="-36.27,296.01,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="-37.12,224.01,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="-37.97,152.02,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="-38.82,80.02,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="-39.67,8.03,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="-40.52,-63.97,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="-41.36,-135.96,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="-42.22,-207.96,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="-43.06,-279.95,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="-43.91,-351.95,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="-44.76,-423.94,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="-45.61,-495.94,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado7" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="401.61,1300.94,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="400.76,1228.94,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="399.91,1156.95,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="399.06,1084.95,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="398.22,1012.96,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="397.36,940.96,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="396.52,868.97,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="395.67,796.97,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="394.82,724.98,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="393.97,652.98,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="393.12,580.99,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="392.27,508.99,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="391.43,437.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="390.57,365.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="389.73,293.01,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="388.88,221.01,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="388.03,149.02,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="387.18,77.02,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="386.33,5.03,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="385.48,-66.97,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="384.64,-138.96,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="383.78,-210.96,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="382.94,-282.95,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="382.09,-354.95,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="381.24,-426.94,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="380.39,-498.94,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado8" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="822.61,1295.94,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="821.76,1223.94,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="820.91,1151.95,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="820.06,1079.95,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="819.22,1007.96,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="818.36,935.96,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="817.52,863.97,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="816.67,791.97,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="815.82,719.98,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="814.97,647.98,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="814.12,575.99,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="813.27,503.99,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="812.43,432.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="811.57,360.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="810.73,288.01,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="809.88,216.01,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="809.03,144.02,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="808.18,72.02,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="807.33,0.03,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="806.48,-71.97,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="805.64,-143.96,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="804.78,-215.96,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="803.94,-287.95,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="803.09,-359.95,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="802.24,-431.94,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="801.39,-503.94,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado9" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1227.61,1292.94,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="1226.76,1220.94,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="1225.91,1148.95,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="1225.06,1076.95,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="1224.22,1004.96,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="1223.36,932.96,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="1222.52,860.97,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="1221.67,788.97,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="1220.82,716.98,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="1219.97,644.98,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="1219.12,572.99,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="1218.27,500.99,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="1217.43,429.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="1216.57,357.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="1215.73,285.01,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="1214.88,213.01,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="1214.03,141.02,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="1213.18,69.02,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="1212.33,-2.97,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="1211.48,-74.97,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="1210.64,-146.96,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="1209.78,-218.96,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="1208.94,-290.95,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="1208.09,-362.95,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="1207.24,-434.94,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="1206.39,-506.94,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado10" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1022.38,-506.90,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="1023.47,-434.91,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="1024.56,-362.91,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="1025.65,-290.92,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="1026.74,-218.93,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="1027.83,-146.94,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="1028.92,-74.95,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="1030.01,-2.95,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="1031.09,69.04,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="1032.19,141.03,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="1033.28,213.02,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="1034.36,285.01,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="1035.45,357.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="1036.55,429.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="1037.64,500.99,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="1038.72,572.98,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="1039.81,644.97,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="1040.91,716.96,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="1041.99,788.95,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="1043.08,860.95,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="1044.17,932.94,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="1045.26,1004.93,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="1046.35,1076.92,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="1047.44,1148.91,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="1048.53,1220.91,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="1049.62,1292.90,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado11" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="604.38,-500.90,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="605.47,-428.91,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="606.56,-356.91,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="607.65,-284.92,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="608.74,-212.93,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="609.83,-140.94,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="610.92,-68.95,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="612.01,3.05,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="613.09,75.04,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="614.19,147.03,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="615.28,219.02,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="616.36,291.01,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="617.45,363.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="618.55,435.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="619.64,506.99,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="620.72,578.98,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="621.81,650.97,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="622.91,722.96,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="623.99,794.95,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="625.08,866.95,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="626.17,938.94,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="627.26,1010.93,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="628.35,1082.92,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="629.44,1154.91,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="630.53,1226.91,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="631.62,1298.90,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="tornado12" StartTime="0.000000" AnchorType="CenterCenter" Count="26" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="131.38,-514.90,0.00" Time="0.000000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="1" Position="132.47,-442.91,0.00" Time="0.060000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="2" Position="133.56,-370.91,0.00" Time="0.120000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="3" Position="134.65,-298.92,0.00" Time="0.180000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="4" Position="135.74,-226.93,0.00" Time="0.240000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="5" Position="136.83,-154.94,0.00" Time="0.300000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="6" Position="137.92,-82.95,0.00" Time="0.360000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="7" Position="139.01,-10.95,0.00" Time="0.420000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="8" Position="140.09,61.04,0.00" Time="0.480000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="9" Position="141.19,133.03,0.00" Time="0.540000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="10" Position="142.28,205.02,0.00" Time="0.600000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="11" Position="143.36,277.01,0.00" Time="0.660000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="12" Position="144.45,349.00,0.00" Time="0.720000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="13" Position="145.55,421.00,0.00" Time="0.780000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+            <PointDataList Index="14" Position="146.64,492.99,0.00" Time="0.840000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="15" Position="147.72,564.98,0.00" Time="0.900000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="16" Position="148.81,636.97,0.00" Time="0.960000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="17" Position="149.91,708.96,0.00" Time="1.020000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="18" Position="150.99,780.95,0.00" Time="1.080000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="19" Position="152.08,852.95,0.00" Time="1.140000" Size="472.00,552.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00000" />
+            <PointDataList Index="20" Position="153.17,924.94,0.00" Time="1.200000" Size="488.00,566.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00001" />
+            <PointDataList Index="21" Position="154.26,996.93,0.00" Time="1.260000" Size="496.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00002" />
+            <PointDataList Index="22" Position="155.35,1068.92,0.00" Time="1.320000" Size="502.00,574.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00003" />
+            <PointDataList Index="23" Position="156.44,1140.91,0.00" Time="1.380000" Size="502.00,576.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_00004" />
+            <PointDataList Index="24" Position="157.53,1212.91,0.00" Time="1.440000" Size="490.00,570.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0005" />
+            <PointDataList Index="25" Position="158.62,1284.90,0.00" Time="1.500000" Size="478.00,558.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="tornado_0006" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Explode" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="BonusShowBreak" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="-139.00,-132.00,0.00" Time="0.000000" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0001" />
+            <PointDataList Index="1" Position="-139.00,-132.00,0.00" Time="0.111111" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0002" />
+            <PointDataList Index="2" Position="-139.00,-132.00,0.00" Time="0.222222" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0003" />
+            <PointDataList Index="3" Position="-139.00,-132.00,0.00" Time="0.333333" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0004" />
+            <PointDataList Index="4" Position="-139.00,-132.00,0.00" Time="0.444444" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0005" />
+            <PointDataList Index="5" Position="-139.00,-132.00,0.00" Time="0.555556" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0006" />
+            <PointDataList Index="6" Position="-139.00,-132.00,0.00" Time="0.666667" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0007" />
+            <PointDataList Index="7" Position="-139.00,-132.00,0.00" Time="0.777778" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0008" />
+            <PointDataList Index="8" Position="-139.00,-132.00,0.00" Time="0.888889" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0009" />
+            <PointDataList Index="9" Position="-139.00,-132.00,0.00" Time="1.000000" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusTornado" ImageName="BonusShowBreak0001" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishExplodeEffect" PathCount="1" PlayCount="1" TotalPlayTime="0.900000">
+        <CueToStartCurvesWithTime Name="BonusTornadoExplode" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="-46.00,-42.00,0.00" Time="0.000000" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode1" />
+            <PointDataList Index="1" Position="-46.00,-42.00,0.00" Time="0.112500" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode2" />
+            <PointDataList Index="2" Position="-46.00,-42.00,0.00" Time="0.225000" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode3" />
+            <PointDataList Index="3" Position="-46.00,-42.00,0.00" Time="0.337500" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode4" />
+            <PointDataList Index="4" Position="-46.00,-42.00,0.00" Time="0.450000" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode5" />
+            <PointDataList Index="5" Position="-46.00,-42.00,0.00" Time="0.562500" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode6" />
+            <PointDataList Index="6" Position="-46.00,-42.00,0.00" Time="0.675000" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode7" />
+            <PointDataList Index="7" Position="-46.00,-42.00,0.00" Time="0.787500" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode8" />
+            <PointDataList Index="8" Position="-46.00,-42.00,0.00" Time="0.900000" Size="200.00,200.00" Scale="2.00,2.00" PIName="BonusTornado" ImageName="BonusTornadoExplode9" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Message" PathCount="1" PlayCount="1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="WindWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="-130.00,-65.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="1" Position="-130.00,-206.00,0.00" Time="0.400000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="2" Position="-130.00,-191.00,0.00" Time="0.440000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="3" Position="-130.00,-206.00,0.00" Time="0.480000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="4" Position="-130.00,-191.00,0.00" Time="0.520000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="5" Position="-130.00,-206.00,0.00" Time="0.560000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="6" Position="-130.00,-206.00,0.00" Time="1.800000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+            <PointDataList Index="7" Position="-130.00,-206.00,0.00" Time="2.000000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="WindWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Plate" PathCount="6" PlayCount="-1" TotalPlayTime="13.000000">
+        <CueToStartCurvesWithTime Name="BonusTornadoBonusShowInside" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-79.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowInside" />
+            <PointDataList Index="1" Position="-81.00,-79.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowInside" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusTornadoBonusShowOutside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-79.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowOutside" />
+            <PointDataList Index="1" Position="-81.00,-79.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowOutside" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusTornadoBonusShowEffect" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="0.00,108.00,0.00" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-82.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="1" Position="-82.00,-78.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="2" Position="-82.00,-78.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="3" Position="-82.00,-78.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="4" Position="-82.00,-78.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="5" Position="-82.00,-78.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="6" Position="-82.00,-78.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="7" Position="-82.00,-78.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="8" Position="-82.00,-78.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="9" Position="-82.00,-78.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="10" Position="-82.00,-78.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="11" Position="-82.00,-78.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="12" Position="-82.00,-78.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="13" Position="-82.00,-78.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="14" Position="-82.00,-78.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="15" Position="-82.00,-78.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="16" Position="-82.00,-78.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="17" Position="-82.00,-78.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="18" Position="-82.00,-78.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="19" Position="-82.00,-78.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="20" Position="-82.00,-78.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="21" Position="-82.00,-78.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="22" Position="-82.00,-78.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="23" Position="-82.00,-78.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="24" Position="-82.00,-78.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="25" Position="-82.00,-78.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="26" Position="-82.00,-78.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="27" Position="-82.00,-78.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="28" Position="-82.00,-78.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="29" Position="-82.00,-78.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="30" Position="-82.00,-78.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="31" Position="-82.00,-78.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="32" Position="-82.00,-78.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="33" Position="-82.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="34" Position="-82.00,-78.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="35" Position="-82.00,-78.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="36" Position="-82.00,-78.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="37" Position="-82.00,-78.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="38" Position="-82.00,-78.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="39" Position="-82.00,-78.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="40" Position="-82.00,-78.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="41" Position="-82.00,-78.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="42" Position="-82.00,-78.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="43" Position="-82.00,-78.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="44" Position="-82.00,-78.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="45" Position="-82.00,-78.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="46" Position="-82.00,-78.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="47" Position="-82.00,-78.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="48" Position="-82.00,-78.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="49" Position="-82.00,-78.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="50" Position="-82.00,-78.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="51" Position="-82.00,-78.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="52" Position="-82.00,-78.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="53" Position="-82.00,-78.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="54" Position="-82.00,-78.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="55" Position="-82.00,-78.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="56" Position="-82.00,-78.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="57" Position="-82.00,-78.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="58" Position="-82.00,-78.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="59" Position="-82.00,-78.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="60" Position="-82.00,-78.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="61" Position="-82.00,-78.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="62" Position="-82.00,-78.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="63" Position="-82.00,-78.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="64" Position="-82.00,-78.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="65" Position="-82.00,-78.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="66" Position="-82.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="67" Position="-82.00,-78.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="68" Position="-82.00,-78.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="69" Position="-82.00,-78.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="70" Position="-82.00,-78.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="71" Position="-82.00,-78.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="72" Position="-82.00,-78.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="73" Position="-82.00,-78.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="74" Position="-82.00,-78.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="75" Position="-82.00,-78.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="76" Position="-82.00,-78.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="77" Position="-82.00,-78.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="78" Position="-82.00,-78.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="79" Position="-82.00,-78.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="80" Position="-82.00,-78.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="81" Position="-82.00,-78.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="82" Position="-82.00,-78.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="83" Position="-82.00,-78.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="84" Position="-82.00,-78.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="85" Position="-82.00,-78.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="86" Position="-82.00,-78.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="87" Position="-82.00,-78.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="88" Position="-82.00,-78.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="89" Position="-82.00,-78.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="90" Position="-82.00,-78.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="91" Position="-82.00,-78.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="92" Position="-82.00,-78.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="93" Position="-82.00,-78.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="94" Position="-82.00,-78.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="95" Position="-82.00,-78.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="96" Position="-82.00,-78.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="97" Position="-82.00,-78.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="98" Position="-82.00,-78.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="99" Position="-82.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusTornadoBonusShowEffect2" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="0.00,-6.00,0.00" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-82.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="1" Position="-82.00,-78.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="2" Position="-82.00,-78.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="3" Position="-82.00,-78.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="4" Position="-82.00,-78.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="5" Position="-82.00,-78.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="6" Position="-82.00,-78.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="7" Position="-82.00,-78.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="8" Position="-82.00,-78.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="9" Position="-82.00,-78.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="10" Position="-82.00,-78.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="11" Position="-82.00,-78.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="12" Position="-82.00,-78.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="13" Position="-82.00,-78.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="14" Position="-82.00,-78.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="15" Position="-82.00,-78.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="16" Position="-82.00,-78.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="17" Position="-82.00,-78.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="18" Position="-82.00,-78.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="19" Position="-82.00,-78.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="20" Position="-82.00,-78.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="21" Position="-82.00,-78.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="22" Position="-82.00,-78.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="23" Position="-82.00,-78.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="24" Position="-82.00,-78.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="25" Position="-82.00,-78.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="26" Position="-82.00,-78.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="27" Position="-82.00,-78.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="28" Position="-82.00,-78.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="29" Position="-82.00,-78.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="30" Position="-82.00,-78.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="31" Position="-82.00,-78.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="32" Position="-82.00,-78.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="33" Position="-82.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="34" Position="-82.00,-78.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="35" Position="-82.00,-78.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="36" Position="-82.00,-78.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="37" Position="-82.00,-78.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="38" Position="-82.00,-78.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="39" Position="-82.00,-78.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="40" Position="-82.00,-78.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="41" Position="-82.00,-78.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="42" Position="-82.00,-78.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="43" Position="-82.00,-78.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="44" Position="-82.00,-78.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="45" Position="-82.00,-78.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="46" Position="-82.00,-78.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="47" Position="-82.00,-78.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="48" Position="-82.00,-78.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="49" Position="-82.00,-78.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="50" Position="-82.00,-78.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="51" Position="-82.00,-78.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="52" Position="-82.00,-78.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="53" Position="-82.00,-78.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="54" Position="-82.00,-78.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="55" Position="-82.00,-78.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="56" Position="-82.00,-78.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="57" Position="-82.00,-78.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="58" Position="-82.00,-78.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="59" Position="-82.00,-78.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="60" Position="-82.00,-78.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="61" Position="-82.00,-78.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="62" Position="-82.00,-78.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="63" Position="-82.00,-78.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="64" Position="-82.00,-78.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="65" Position="-82.00,-78.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="66" Position="-82.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="67" Position="-82.00,-78.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="68" Position="-82.00,-78.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="69" Position="-82.00,-78.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="70" Position="-82.00,-78.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="71" Position="-82.00,-78.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="72" Position="-82.00,-78.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="73" Position="-82.00,-78.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="74" Position="-82.00,-78.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="75" Position="-82.00,-78.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="76" Position="-82.00,-78.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="77" Position="-82.00,-78.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="78" Position="-82.00,-78.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="79" Position="-82.00,-78.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="80" Position="-82.00,-78.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="81" Position="-82.00,-78.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="82" Position="-82.00,-78.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="83" Position="-82.00,-78.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="84" Position="-82.00,-78.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="85" Position="-82.00,-78.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="86" Position="-82.00,-78.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="87" Position="-82.00,-78.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="88" Position="-82.00,-78.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="89" Position="-82.00,-78.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+            <PointDataList Index="90" Position="-82.00,-78.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00000" />
+            <PointDataList Index="91" Position="-82.00,-78.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00001" />
+            <PointDataList Index="92" Position="-82.00,-78.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00002" />
+            <PointDataList Index="93" Position="-82.00,-78.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00003" />
+            <PointDataList Index="94" Position="-82.00,-78.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00004" />
+            <PointDataList Index="95" Position="-82.00,-78.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00005" />
+            <PointDataList Index="96" Position="-82.00,-78.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00006" />
+            <PointDataList Index="97" Position="-82.00,-78.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00007" />
+            <PointDataList Index="98" Position="-82.00,-78.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00008" />
+            <PointDataList Index="99" Position="-82.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowEffect_00009" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusTornadoBonusShowFont" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-79.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="1" Position="-81.00,-79.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="2" Position="-81.00,-79.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="3" Position="-81.00,-79.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="4" Position="-81.00,-79.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="5" Position="-81.00,-79.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="6" Position="-81.00,-79.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="7" Position="-81.00,-79.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="8" Position="-81.00,-79.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="9" Position="-81.00,-79.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="10" Position="-81.00,-79.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="11" Position="-81.00,-79.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="12" Position="-81.00,-79.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="13" Position="-81.00,-79.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="14" Position="-81.00,-79.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="15" Position="-81.00,-79.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="16" Position="-81.00,-79.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="17" Position="-81.00,-79.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="18" Position="-81.00,-79.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="19" Position="-81.00,-79.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="20" Position="-81.00,-79.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="21" Position="-81.00,-79.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="22" Position="-81.00,-79.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="23" Position="-81.00,-79.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="24" Position="-81.00,-79.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="25" Position="-81.00,-79.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="26" Position="-81.00,-79.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="27" Position="-81.00,-79.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="28" Position="-81.00,-79.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="29" Position="-81.00,-79.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="30" Position="-81.00,-79.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="31" Position="-81.00,-79.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="32" Position="-81.00,-79.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="33" Position="-81.00,-79.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="34" Position="-81.00,-79.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="35" Position="-81.00,-79.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="36" Position="-81.00,-79.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="37" Position="-81.00,-79.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="38" Position="-81.00,-79.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="39" Position="-81.00,-79.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="40" Position="-81.00,-79.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="41" Position="-81.00,-79.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="42" Position="-81.00,-79.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="43" Position="-81.00,-79.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="44" Position="-81.00,-79.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="45" Position="-81.00,-79.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="46" Position="-81.00,-79.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="47" Position="-81.00,-79.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="48" Position="-81.00,-79.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="49" Position="-81.00,-79.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="50" Position="-81.00,-79.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="51" Position="-81.00,-79.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="52" Position="-81.00,-79.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="53" Position="-81.00,-79.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="54" Position="-81.00,-79.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="55" Position="-81.00,-79.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="56" Position="-81.00,-79.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="57" Position="-81.00,-79.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="58" Position="-81.00,-79.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="59" Position="-81.00,-79.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="60" Position="-81.00,-79.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="61" Position="-81.00,-79.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="62" Position="-81.00,-79.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="63" Position="-81.00,-79.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="64" Position="-81.00,-79.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="65" Position="-81.00,-79.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="66" Position="-81.00,-79.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="67" Position="-81.00,-79.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="68" Position="-81.00,-79.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="69" Position="-81.00,-79.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="70" Position="-81.00,-79.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="71" Position="-81.00,-79.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="72" Position="-81.00,-79.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="73" Position="-81.00,-79.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="74" Position="-81.00,-79.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="75" Position="-81.00,-79.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="76" Position="-81.00,-79.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="77" Position="-81.00,-79.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="78" Position="-81.00,-79.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="79" Position="-81.00,-79.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="80" Position="-81.00,-79.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="81" Position="-81.00,-79.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="82" Position="-81.00,-79.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="83" Position="-81.00,-79.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="84" Position="-81.00,-79.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="85" Position="-81.00,-79.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="86" Position="-81.00,-79.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="87" Position="-81.00,-79.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="88" Position="-81.00,-79.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="89" Position="-81.00,-79.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="90" Position="-81.00,-79.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="91" Position="-81.00,-79.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="92" Position="-81.00,-79.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="93" Position="-81.00,-79.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="94" Position="-81.00,-79.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="95" Position="-81.00,-79.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="96" Position="-81.00,-79.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="97" Position="-81.00,-79.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="98" Position="-81.00,-79.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+            <PointDataList Index="99" Position="-81.00,-79.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusTornadoBonusShowFont2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-79.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="1" Position="-81.00,-79.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="2" Position="-81.00,-79.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="3" Position="-81.00,-79.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="4" Position="-81.00,-79.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="5" Position="-81.00,-79.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="6" Position="-81.00,-79.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="7" Position="-81.00,-79.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="8" Position="-81.00,-79.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="9" Position="-81.00,-79.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="10" Position="-81.00,-79.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="11" Position="-81.00,-79.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="12" Position="-81.00,-79.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="13" Position="-81.00,-79.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="14" Position="-81.00,-79.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="15" Position="-81.00,-79.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="16" Position="-81.00,-79.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="17" Position="-81.00,-79.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="18" Position="-81.00,-79.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="19" Position="-81.00,-79.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="20" Position="-81.00,-79.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="21" Position="-81.00,-79.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="22" Position="-81.00,-79.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="23" Position="-81.00,-79.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="24" Position="-81.00,-79.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="25" Position="-81.00,-79.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="26" Position="-81.00,-79.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="27" Position="-81.00,-79.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="28" Position="-81.00,-79.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="29" Position="-81.00,-79.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="30" Position="-81.00,-79.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="31" Position="-81.00,-79.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="32" Position="-81.00,-79.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="33" Position="-81.00,-79.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="34" Position="-81.00,-79.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="35" Position="-81.00,-79.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="36" Position="-81.00,-79.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="37" Position="-81.00,-79.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="38" Position="-81.00,-79.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="39" Position="-81.00,-79.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="40" Position="-81.00,-79.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="41" Position="-81.00,-79.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="42" Position="-81.00,-79.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="43" Position="-81.00,-79.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="44" Position="-81.00,-79.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="45" Position="-81.00,-79.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="46" Position="-81.00,-79.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="47" Position="-81.00,-79.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="48" Position="-81.00,-79.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="49" Position="-81.00,-79.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="50" Position="-81.00,-79.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="51" Position="-81.00,-79.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="52" Position="-81.00,-79.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="53" Position="-81.00,-79.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="54" Position="-81.00,-79.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="55" Position="-81.00,-79.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="56" Position="-81.00,-79.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="57" Position="-81.00,-79.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="58" Position="-81.00,-79.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="59" Position="-81.00,-79.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="60" Position="-81.00,-79.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="61" Position="-81.00,-79.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="62" Position="-81.00,-79.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="63" Position="-81.00,-79.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="64" Position="-81.00,-79.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="65" Position="-81.00,-79.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="66" Position="-81.00,-79.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="67" Position="-81.00,-79.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="68" Position="-81.00,-79.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="69" Position="-81.00,-79.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="70" Position="-81.00,-79.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="71" Position="-81.00,-79.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="72" Position="-81.00,-79.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="73" Position="-81.00,-79.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="74" Position="-81.00,-79.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="75" Position="-81.00,-79.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="76" Position="-81.00,-79.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="77" Position="-81.00,-79.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="78" Position="-81.00,-79.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="79" Position="-81.00,-79.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="80" Position="-81.00,-79.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="81" Position="-81.00,-79.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="82" Position="-81.00,-79.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="83" Position="-81.00,-79.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="84" Position="-81.00,-79.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="85" Position="-81.00,-79.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="86" Position="-81.00,-79.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="87" Position="-81.00,-79.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="88" Position="-81.00,-79.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="89" Position="-81.00,-79.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="90" Position="-81.00,-79.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="91" Position="-81.00,-79.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="92" Position="-81.00,-79.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="93" Position="-81.00,-79.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="94" Position="-81.00,-79.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="95" Position="-81.00,-79.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="96" Position="-81.00,-79.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="97" Position="-81.00,-79.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="98" Position="-81.00,-79.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+            <PointDataList Index="99" Position="-81.00,-79.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusTornado" ImageName="BonusTornadoBonusShowFont2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

@@ -1,0 +1,122 @@
+<MPDIList Name="FishPosWMN_mpdi" Count="22" MPDIVersion="1.2" PICount="1" ImageName="background.pi">
+    <MultiPathDynamicImage Name="Fish" PathCount="1" PlayCount="1" TotalPlayTime="0.200000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.100000" Size="53.00,40.00" Scale="1.00,1.00" PIName="background" ImageName="Knife_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.200000" Size="53.00,40.00" Scale="1.00,1.00" PIName="background" ImageName="Knife_00001" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos0_0" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="504.00,174.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos0_1" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="504.00,225.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos0_2" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="504.00,273.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos0_3" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="504.00,320.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos0_4" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="504.00,365.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos0_5" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="504.00,410.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos1_0" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos3" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="513.00,273.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishPos1_1" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishPos3" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="513.00,336.00,0.00" Time="0.100000" Size="54.00,45.00" Scale="1.02,1.13" PIName="background" ImageName="Knife_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="select0_0" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="select" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,179.00,0.00" Time="0.100000" Size="158.00,42.00" Scale="1.00,1.00" PIName="background" ImageName="select" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="select0_1" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="select" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,224.00,0.00" Time="0.100000" Size="158.00,42.00" Scale="1.00,1.00" PIName="background" ImageName="select" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="select0_2" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="select" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,272.00,0.00" Time="0.100000" Size="158.00,42.00" Scale="1.00,1.00" PIName="background" ImageName="select" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="select0_3" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="select" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,318.00,0.00" Time="0.100000" Size="158.00,42.00" Scale="1.00,1.00" PIName="background" ImageName="select" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="select0_4" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="select" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,363.00,0.00" Time="0.100000" Size="158.00,42.00" Scale="1.00,1.00" PIName="background" ImageName="select" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="select0_5" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="select" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,411.00,0.00" Time="0.100000" Size="158.00,42.00" Scale="1.00,1.00" PIName="background" ImageName="select" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainMessage_0" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="ExpenseMessage" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="443.00,607.00,0.00" Time="0.100000" Size="136.00,19.00" Scale="1.00,1.00" PIName="background" ImageName="MainMessage0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainMessage_1" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="ExpenseMessage" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="443.00,607.00,0.00" Time="0.100000" Size="179.00,19.00" Scale="1.00,1.00" PIName="background" ImageName="MainMessage1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainMessage_2" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="ExpenseMessage" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="443.00,607.00,0.00" Time="0.100000" Size="115.00,18.00" Scale="1.00,1.00" PIName="background" ImageName="MainMessage2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainMessage_3" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="ExpenseMessage" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="443.00,607.00,0.00" Time="0.100000" Size="374.00,19.00" Scale="1.00,1.00" PIName="background" ImageName="MainMessage3" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainMessage_4" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="ExpenseMessage" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="443.00,607.00,0.00" Time="0.100000" Size="136.00,18.00" Scale="1.00,1.00" PIName="background" ImageName="MainMessage4" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainMessage_5" PathCount="1" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="ExpenseMessage" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="443.00,607.00,0.00" Time="0.100000" Size="93.00,17.00" Scale="1.00,1.00" PIName="background" ImageName="MainMessage5" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MainManu" PathCount="4" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="background_1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.100000" Size="1280.00,720.00" Scale="1.00,1.00" PIName="background" ImageName="background_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="list" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.100000" Size="112.00,253.00" Scale="1.00,1.00" PIName="background" ImageName="list" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="UD_move" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="414.00,658.00,0.00" Time="0.100000" Size="121.00,24.00" Scale="1.00,1.00" PIName="background" ImageName="UD_move" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="F_ok" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="743.00,658.00,0.00" Time="0.100000" Size="110.00,24.00" Scale="1.00,1.00" PIName="background" ImageName="F_ok" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

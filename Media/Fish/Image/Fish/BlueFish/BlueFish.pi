@@ -1,0 +1,17 @@
+<!-- Author:Matt,Time:2013/3/11 ¤U¤È 01:29:08 -->
+<PuzzleImage OriginalNameSort="blue_00000,blue_00001,blue_00002,blue_00003,blue_00004,blue_00005,blue_00006,BlueFishAttackRed_00000,BlueFishAttackRed_00001,BlueFishAttackRed_00002,BlueFishAttackRed_00003,BlueFishAttackRed_00004,BlueFishAttackRed_00005,BlueFishAttackRed_00006" ImageName="BlueFish.png" Count="14" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="blue_00000" UV="0,0,0.2460938,0.1953125" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="blue_00001" UV="0.25,0,0.4960938,0.1953125" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="64,0" />
+    <PuzzleUnit Name="blue_00002" UV="0.5,0,0.7460938,0.1953125" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="128,0" />
+    <PuzzleUnit Name="blue_00003" UV="0.75,0,0.9960938,0.1953125" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="192,0" />
+    <PuzzleUnit Name="blue_00004" UV="0,0.1992188,0.2460938,0.3945313" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="0,51" />
+    <PuzzleUnit Name="blue_00005" UV="0.25,0.1992188,0.4960938,0.3945313" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="64,51" />
+    <PuzzleUnit Name="blue_00006" UV="0.5,0.1992188,0.7460938,0.3945313" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="128,51" />
+    <PuzzleUnit Name="BlueFishAttackRed_00000" UV="0.75,0.1992188,0.9960938,0.3945313" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="192,51" />
+    <PuzzleUnit Name="BlueFishAttackRed_00001" UV="0,0.3984375,0.2460938,0.59375" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="0,102" />
+    <PuzzleUnit Name="BlueFishAttackRed_00002" UV="0.25,0.3984375,0.4960938,0.59375" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="64,102" />
+    <PuzzleUnit Name="BlueFishAttackRed_00003" UV="0.5,0.3984375,0.7460938,0.59375" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="128,102" />
+    <PuzzleUnit Name="BlueFishAttackRed_00004" UV="0.75,0.3984375,0.9960938,0.59375" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="192,102" />
+    <PuzzleUnit Name="BlueFishAttackRed_00005" UV="0,0.5976563,0.2460938,0.7929688" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="0,153" />
+    <PuzzleUnit Name="BlueFishAttackRed_00006" UV="0.25,0.5976563,0.4960938,0.7929688" OffsetPos="0,0" Size="63,50" OriginalSize="63,50" ShowPosInPI="64,153" />
+</PuzzleImage>

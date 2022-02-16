@@ -1,0 +1,53 @@
+<ImageCollisionData Name="KnifeFish" Count="21">
+    <CollisionData Name="KnifeFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-35.00,-18.00,0.00,17.00,-13.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-46.00,-16.00,0.00,12.00,-16.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-48.00,-7.00,0.00,9.00,-16.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-50.00,5.00,0.00,2.00,-20.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-49.00,4.00,0.00,0.00,-20.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-60.00,-2.00,0.00,1.00,-22.00,0.00,60.00,11.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00012" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-51.00,1.00,0.00,-6.00,-26.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00014" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-53.00,-7.00,0.00,-1.00,-24.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00016" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-50.00,-12.00,0.00,-2.00,-24.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00018" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-48.00,-20.00,0.00,3.00,-23.00,0.00,57.00,12.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00020" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-41.00,-20.00,0.00,0.00,-21.00,0.00,55.00,10.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00022" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-42.00,-18.00,0.00,1.00,-20.00,0.00,57.00,12.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00024" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-46.00,-18.00,0.00,7.00,-18.00,0.00,57.00,12.00,0.00,13.00,36.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00025" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-46.00,-16.00,0.00,17.00,-13.00,0.00,55.00,16.00,0.00,9.00,34.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00026" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-28.00,23.00,0.00,14.00,-15.00,0.00,60.00,22.00,0.00,15.00,33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="KnifeFish_00027" Count="0" />
+    <CollisionData Name="KnifeFish_00028" Count="0" />
+    <CollisionData Name="KnifeFish_00029" Count="0" />
+    <CollisionData Name="KnifeFish_00030" Count="0" />
+    <CollisionData Name="KnifeFish_00031" Count="0" />
+    <CollisionData Name="KnifeFish_00032" Count="0" />
+</ImageCollisionData>

@@ -1,0 +1,93 @@
+<MPDIList Name="Group-ClownFish_mpdi" Count="12" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="ClownFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ClownFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-24.00,-3.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-51.00,-18.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-49.00,9.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ClownFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="11.00,12.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-10.00,-7.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-31.00,8.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ClownFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="9.00,-18.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-22.00,-7.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-38.00,-21.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-3-4" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ClownFish-3-4" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-23.00,-23.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-46.00,-10.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-46.00,-34.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-3-5" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ClownFish-3-5" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-20.00,-13.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-34.00,6.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-61.00,-7.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-1" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-13.00,-13.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-52.00,-6.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-78.00,-21.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-39.00,-33.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-2" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-2" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-23.00,-13.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-48.00,-37.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-50.00,4.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-68.00,-18.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-3" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-3" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-3.00,-18.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-42.00,-31.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-46.00,-12.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-72.00,-43.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-4" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-4" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-18.00,-14.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-43.00,-29.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-46.00,-3.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-77.00,-20.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-5" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-5" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-15.00,-3.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-26.00,15.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-60.00,2.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-68.00,19.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-6" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-6" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="14.00,9.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-8.00,-12.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-34.00,0.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-39.00,-26.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFish-4-7" PathCount="1" PlayCount="1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="ClownFish-4-7" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-20.00,-34.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-45.00,-21.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-66.00,-39.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-69.00,-7.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

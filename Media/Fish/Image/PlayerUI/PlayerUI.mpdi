@@ -1,0 +1,33 @@
+<MPDIList Name="PlayerUI_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="PlayerUI.pi">
+    <MultiPathDynamicImage Name="PlayerNormalBody" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Fort" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-96.00,-90.00,0.00" Time="1.000000" Size="147.00,90.00" Scale="1.00,1.00" PIName="PlayerUI" ImageName="Fort" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PlayerEnergyBody" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="Fort" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-96.00,-90.00,0.00" Time="1.000000" Size="147.00,90.00" Scale="1.00,1.00" PIName="PlayerUI" ImageName="Fort" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PlayerLvUI" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="LvPos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-47.00,-56.00,0.00" Time="1.000000" Size="48.00,61.00" Scale="1.00,1.00" PIName="PlayerUI" ImageName="LvPos" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PlayerUI" PathCount="1" PlayCount="-1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="PlayerUI1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="74.00,-110.00,0.00" Time="1.000000" Size="54.00,183.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.00" PIName="PlayerUI" ImageName="PlayerUI1" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PlayerUIPosInfo" PathCount="3" PlayCount="1" TotalPlayTime="0.000000">
+        <CueToStartCurvesWithTime Name="TubeLVNumerial1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-22.50,-11.00,0.00" Time="0.000000" Size="15.00,20.00" Scale="1.00,1.00" PIName="PlayerUI" ImageName="TubeLVNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PlayerScoreNumerial1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="170.00,-30.00,0.00" Time="0.000000" Size="13.94,18.00" Scale="0.82,0.75" PIName="PlayerUI" ImageName="PlayerScoreNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MessagePos" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-22.00,-100.00,0.00" Time="0.000000" Size="12.00,12.00" Scale="1.00,1.00" PIName="PlayerUI" ImageName="CoinStackNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

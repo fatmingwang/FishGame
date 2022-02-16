@@ -1,0 +1,56 @@
+<Root>
+	<SubRepositoryBank Range="100,91" LeastMoney="500" >
+		<PossitiveBankMode BulletDuration="6" >
+			<FakeRevenue FakeRevenue="15000" FakeRevenueCircle="30,100" HappyRevenue="5000,30000" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="6"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="90,81" LeastMoney="300" >
+		<PossitiveBankMode BulletDuration="6" >
+			<FakeRevenue FakeRevenue="6000" FakeRevenueCircle="30,100" HappyRevenue="3000,18000" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="6"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="80,71" LeastMoney="100" >
+		<PossitiveBankMode BulletDuration="6" >
+			<FakeRevenue FakeRevenue="3000" FakeRevenueCircle="30,100" HappyRevenue="3000,6000" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="6"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="70,61" LeastMoney="50" >
+		<PossitiveBankMode BulletDuration="6" >
+			<FakeRevenue FakeRevenue="1500" FakeRevenueCircle="30,100" HappyRevenue="500,3000" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="6"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="60,51" LeastMoney="30">
+		<PossitiveBankMode BulletDuration="6">
+			<FakeRevenue FakeRevenue="900" FakeRevenueCircle="30,100" HappyRevenue="300,1800" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="7"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="60,41" LeastMoney="20">
+		<PossitiveBankMode BulletDuration="6">
+			<FakeRevenue FakeRevenue="600" FakeRevenueCircle="30,100" HappyRevenue="200,1200" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="8"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="40,21" LeastMoney="10">
+		<PossitiveBankMode BulletDuration="6">
+			<FakeRevenue FakeRevenue="300" FakeRevenueCircle="30,100" HappyRevenue="100,1000" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="9"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="20,11" LeastMoney="5">
+		<PossitiveBankMode BulletDuration="6">
+			<FakeRevenue FakeRevenue="150" FakeRevenueCircle="30,100" HappyRevenue="50,300" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="10"/>
+	</SubRepositoryBank>
+	<SubRepositoryBank Range="10,0" LeastMoney="0">
+		<PossitiveBankMode BulletDuration="6">
+			<FakeRevenue FakeRevenue="100" FakeRevenueCircle="30,100" HappyRevenue="10,60" FakeRevenueFetchProbability="0.3,0.5" FakeRevenueGiveDivision="1" HappyTimeScale="1"/>
+		</PossitiveBankMode>
+		<NegativeMode BigPrizeToOut="20,300" FetchPercentageToRevenueFromBullet="0.2,0.7" BulletDuration="10"/>
+	</SubRepositoryBank>
+</Root>

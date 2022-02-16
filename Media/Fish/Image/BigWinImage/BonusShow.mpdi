@@ -1,0 +1,144 @@
+<MPDIList Name="BonusShow_mpdi" Count="2" MPDIVersion="1.1" PICount="1" ImageName="BigWin.pi">
+    <MultiPathDynamicImage Name="BonusShow_D" PathCount="4" PlayCount="1" TotalPlayTime="5.000000">
+        <CueToStartCurvesWithTime Name="Runner" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="50" LOD="1">
+            <PointDataList Index="0" Position="-116.00,-274.00,0.00" Time="0.000000" Size="65.70,66.30" Angles="7200.00,7200.00,7200.00" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="1" Position="-116.00,-274.00,0.00" Time="0.102041" Size="131.40,132.60" Angles="7200.00,7200.00,7104.49" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="2" Position="-116.00,-274.00,0.00" Time="0.204082" Size="197.10,198.90" Angles="7200.00,7200.00,7008.98" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="3" Position="-116.00,-274.00,0.00" Time="0.306122" Size="262.80,265.20" Angles="7200.00,7200.00,6913.47" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="4" Position="-116.00,-274.00,0.00" Time="0.408163" Size="219.00,221.00" Angles="7200.00,7200.00,6817.96" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="5" Position="-116.00,-274.00,0.00" Time="0.510204" Size="219.00,221.00" Angles="7200.00,7200.00,6722.45" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="6" Position="-116.00,-274.00,0.00" Time="0.612245" Size="219.00,221.00" Angles="7200.00,7200.00,6626.94" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="7" Position="-116.00,-274.00,0.00" Time="0.714286" Size="219.00,221.00" Angles="7200.00,7200.00,6531.43" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="8" Position="-116.00,-274.00,0.00" Time="0.816327" Size="219.00,221.00" Angles="7200.00,7200.00,6435.92" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="9" Position="-116.00,-274.00,0.00" Time="0.918367" Size="219.00,221.00" Angles="7200.00,7200.00,6340.41" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="10" Position="-116.00,-274.00,0.00" Time="1.020408" Size="219.00,221.00" Angles="7200.00,7200.00,6244.90" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="11" Position="-116.00,-274.00,0.00" Time="1.122449" Size="219.00,221.00" Angles="7200.00,7200.00,6149.39" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="12" Position="-116.00,-274.00,0.00" Time="1.224490" Size="219.00,221.00" Angles="7200.00,7200.00,6053.88" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="13" Position="-116.00,-274.00,0.00" Time="1.326531" Size="219.00,221.00" Angles="7200.00,7200.00,5958.37" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="14" Position="-116.00,-274.00,0.00" Time="1.428571" Size="219.00,221.00" Angles="7200.00,7200.00,5862.86" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="15" Position="-116.00,-274.00,0.00" Time="1.530612" Size="219.00,221.00" Angles="7200.00,7200.00,5767.35" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="16" Position="-116.00,-274.00,0.00" Time="1.632653" Size="219.00,221.00" Angles="7200.00,7200.00,5671.84" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="17" Position="-116.00,-274.00,0.00" Time="1.734694" Size="219.00,221.00" Angles="7200.00,7200.00,5576.33" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="18" Position="-116.00,-274.00,0.00" Time="1.836735" Size="219.00,221.00" Angles="7200.00,7200.00,5480.82" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="19" Position="-116.00,-274.00,0.00" Time="1.938776" Size="219.00,221.00" Angles="7200.00,7200.00,5385.31" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="20" Position="-116.00,-274.00,0.00" Time="2.040816" Size="219.00,221.00" Angles="7200.00,7200.00,5289.80" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="21" Position="-116.00,-274.00,0.00" Time="2.142857" Size="219.00,221.00" Angles="7200.00,7200.00,5194.29" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="22" Position="-116.00,-274.00,0.00" Time="2.244898" Size="219.00,221.00" Angles="7200.00,7200.00,5098.78" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="23" Position="-116.00,-274.00,0.00" Time="2.346939" Size="219.00,221.00" Angles="7200.00,7200.00,5003.27" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="24" Position="-116.00,-274.00,0.00" Time="2.448980" Size="219.00,221.00" Angles="7200.00,7200.00,4907.76" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="25" Position="-116.00,-274.00,0.00" Time="2.551020" Size="219.00,221.00" Angles="7200.00,7200.00,4812.25" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="26" Position="-116.00,-274.00,0.00" Time="2.653061" Size="219.00,221.00" Angles="7200.00,7200.00,4716.73" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="27" Position="-116.00,-274.00,0.00" Time="2.755102" Size="219.00,221.00" Angles="7200.00,7200.00,4621.22" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="28" Position="-116.00,-274.00,0.00" Time="2.857143" Size="219.00,221.00" Angles="7200.00,7200.00,4525.71" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="29" Position="-116.00,-274.00,0.00" Time="2.959184" Size="219.00,221.00" Angles="7200.00,7200.00,4430.20" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="30" Position="-116.00,-274.00,0.00" Time="3.061225" Size="219.00,221.00" Angles="7200.00,7200.00,4334.69" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="31" Position="-116.00,-274.00,0.00" Time="3.163265" Size="219.00,221.00" Angles="7200.00,7200.00,4239.18" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="32" Position="-116.00,-274.00,0.00" Time="3.265306" Size="219.00,221.00" Angles="7200.00,7200.00,4143.67" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="33" Position="-116.00,-274.00,0.00" Time="3.367347" Size="219.00,221.00" Angles="7200.00,7200.00,4048.16" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="34" Position="-116.00,-274.00,0.00" Time="3.469388" Size="219.00,221.00" Angles="7200.00,7200.00,3952.65" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="35" Position="-116.00,-274.00,0.00" Time="3.571429" Size="219.00,221.00" Angles="7200.00,7200.00,3857.14" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="36" Position="-116.00,-274.00,0.00" Time="3.673470" Size="219.00,221.00" Angles="7200.00,7200.00,3761.63" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="37" Position="-116.00,-274.00,0.00" Time="3.775510" Size="219.00,221.00" Angles="7200.00,7200.00,3666.12" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="38" Position="-116.00,-274.00,0.00" Time="3.877551" Size="219.00,221.00" Angles="7200.00,7200.00,3570.61" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="39" Position="-116.00,-274.00,0.00" Time="3.979592" Size="219.00,221.00" Angles="7200.00,7200.00,3475.10" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="40" Position="-116.00,-274.00,0.00" Time="4.081633" Size="219.00,221.00" Angles="7200.00,7200.00,3379.59" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="41" Position="-116.00,-274.00,0.00" Time="4.183673" Size="219.00,221.00" Angles="7200.00,7200.00,3284.08" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="42" Position="-116.00,-274.00,0.00" Time="4.285715" Size="219.00,221.00" Angles="7200.00,7200.00,3188.57" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="43" Position="-116.00,-274.00,0.00" Time="4.387755" Size="219.00,221.00" Angles="7200.00,7200.00,3093.06" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="44" Position="-116.00,-274.00,0.00" Time="4.489796" Size="219.00,221.00" Angles="7200.00,7200.00,2997.55" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="45" Position="-116.00,-274.00,0.00" Time="4.591837" Size="219.00,221.00" Angles="7200.00,7200.00,2902.04" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="46" Position="-116.00,-274.00,0.00" Time="4.693878" Size="219.00,221.00" Angles="7200.00,7200.00,2806.53" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="47" Position="-116.00,-274.00,0.00" Time="4.795918" Size="219.00,221.00" Angles="7200.00,7200.00,2711.02" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="48" Position="-116.00,-274.00,0.00" Time="4.897959" Size="219.00,221.00" Angles="7200.00,7200.00,2615.51" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_1" />
+            <PointDataList Index="49" Position="-116.00,-274.00,0.00" Time="5.000000" Size="219.00,221.00" Angles="7200.00,7200.00,2520.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Runner_Bonues_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Runner2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="771" StartTime="0.000000" AnchorType="CenterCenter" Count="50" LOD="1">
+            <PointDataList Index="0" Position="-116.00,-274.00,0.00" Time="0.000000" Size="65.70,66.30" Angles="7200.00,7200.00,7200.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="1" Position="-116.00,-274.00,0.00" Time="0.102041" Size="131.40,132.60" Angles="7200.00,7200.00,7104.49" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="2" Position="-116.00,-274.00,0.00" Time="0.204082" Size="197.10,198.90" Angles="7200.00,7200.00,7008.98" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="3" Position="-116.00,-274.00,0.00" Time="0.306122" Size="262.80,265.20" Angles="7200.00,7200.00,6913.47" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="4" Position="-116.00,-274.00,0.00" Time="0.408163" Size="219.00,221.00" Angles="7200.00,7200.00,6817.96" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="5" Position="-116.00,-274.00,0.00" Time="0.510204" Size="219.00,221.00" Angles="7200.00,7200.00,6722.45" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="6" Position="-116.00,-274.00,0.00" Time="0.612245" Size="219.00,221.00" Angles="7200.00,7200.00,6626.94" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="7" Position="-116.00,-274.00,0.00" Time="0.714286" Size="219.00,221.00" Angles="7200.00,7200.00,6531.43" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="8" Position="-116.00,-274.00,0.00" Time="0.816327" Size="219.00,221.00" Angles="7200.00,7200.00,6435.92" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="9" Position="-116.00,-274.00,0.00" Time="0.918367" Size="219.00,221.00" Angles="7200.00,7200.00,6340.41" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="10" Position="-116.00,-274.00,0.00" Time="1.020408" Size="219.00,221.00" Angles="7200.00,7200.00,6244.90" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="11" Position="-116.00,-274.00,0.00" Time="1.122449" Size="219.00,221.00" Angles="7200.00,7200.00,6149.39" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="12" Position="-116.00,-274.00,0.00" Time="1.224490" Size="219.00,221.00" Angles="7200.00,7200.00,6053.88" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="13" Position="-116.00,-274.00,0.00" Time="1.326531" Size="219.00,221.00" Angles="7200.00,7200.00,5958.37" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="14" Position="-116.00,-274.00,0.00" Time="1.428571" Size="219.00,221.00" Angles="7200.00,7200.00,5862.86" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="15" Position="-116.00,-274.00,0.00" Time="1.530612" Size="219.00,221.00" Angles="7200.00,7200.00,5767.35" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="16" Position="-116.00,-274.00,0.00" Time="1.632653" Size="219.00,221.00" Angles="7200.00,7200.00,5671.84" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="17" Position="-116.00,-274.00,0.00" Time="1.734694" Size="219.00,221.00" Angles="7200.00,7200.00,5576.33" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="18" Position="-116.00,-274.00,0.00" Time="1.836735" Size="219.00,221.00" Angles="7200.00,7200.00,5480.82" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="19" Position="-116.00,-274.00,0.00" Time="1.938776" Size="219.00,221.00" Angles="7200.00,7200.00,5385.31" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="20" Position="-116.00,-274.00,0.00" Time="2.040816" Size="219.00,221.00" Angles="7200.00,7200.00,5289.80" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="21" Position="-116.00,-274.00,0.00" Time="2.142857" Size="219.00,221.00" Angles="7200.00,7200.00,5194.29" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="22" Position="-116.00,-274.00,0.00" Time="2.244898" Size="219.00,221.00" Angles="7200.00,7200.00,5098.78" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="23" Position="-116.00,-274.00,0.00" Time="2.346939" Size="219.00,221.00" Angles="7200.00,7200.00,5003.27" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="24" Position="-116.00,-274.00,0.00" Time="2.448980" Size="219.00,221.00" Angles="7200.00,7200.00,4907.76" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="25" Position="-116.00,-274.00,0.00" Time="2.551020" Size="219.00,221.00" Angles="7200.00,7200.00,4812.25" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="26" Position="-116.00,-274.00,0.00" Time="2.653061" Size="219.00,221.00" Angles="7200.00,7200.00,4716.73" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="27" Position="-116.00,-274.00,0.00" Time="2.755102" Size="219.00,221.00" Angles="7200.00,7200.00,4621.22" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="28" Position="-116.00,-274.00,0.00" Time="2.857143" Size="219.00,221.00" Angles="7200.00,7200.00,4525.71" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="29" Position="-116.00,-274.00,0.00" Time="2.959184" Size="219.00,221.00" Angles="7200.00,7200.00,4430.20" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="30" Position="-116.00,-274.00,0.00" Time="3.061225" Size="219.00,221.00" Angles="7200.00,7200.00,4334.69" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="31" Position="-116.00,-274.00,0.00" Time="3.163265" Size="219.00,221.00" Angles="7200.00,7200.00,4239.18" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="32" Position="-116.00,-274.00,0.00" Time="3.265306" Size="219.00,221.00" Angles="7200.00,7200.00,4143.67" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="33" Position="-116.00,-274.00,0.00" Time="3.367347" Size="219.00,221.00" Angles="7200.00,7200.00,4048.16" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="34" Position="-116.00,-274.00,0.00" Time="3.469388" Size="219.00,221.00" Angles="7200.00,7200.00,3952.65" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="35" Position="-116.00,-274.00,0.00" Time="3.571429" Size="219.00,221.00" Angles="7200.00,7200.00,3857.14" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="36" Position="-116.00,-274.00,0.00" Time="3.673470" Size="219.00,221.00" Angles="7200.00,7200.00,3761.63" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="37" Position="-116.00,-274.00,0.00" Time="3.775510" Size="219.00,221.00" Angles="7200.00,7200.00,3666.12" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="38" Position="-116.00,-274.00,0.00" Time="3.877551" Size="219.00,221.00" Angles="7200.00,7200.00,3570.61" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="39" Position="-116.00,-274.00,0.00" Time="3.979592" Size="219.00,221.00" Angles="7200.00,7200.00,3475.10" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="40" Position="-116.00,-274.00,0.00" Time="4.081633" Size="219.00,221.00" Angles="7200.00,7200.00,3379.59" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="41" Position="-116.00,-274.00,0.00" Time="4.183673" Size="219.00,221.00" Angles="7200.00,7200.00,3284.08" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="42" Position="-116.00,-274.00,0.00" Time="4.285715" Size="219.00,221.00" Angles="7200.00,7200.00,3188.57" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="43" Position="-116.00,-274.00,0.00" Time="4.387755" Size="219.00,221.00" Angles="7200.00,7200.00,3093.06" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="44" Position="-116.00,-274.00,0.00" Time="4.489796" Size="219.00,221.00" Angles="7200.00,7200.00,2997.55" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="45" Position="-116.00,-274.00,0.00" Time="4.591837" Size="219.00,221.00" Angles="7200.00,7200.00,2902.04" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="46" Position="-116.00,-274.00,0.00" Time="4.693878" Size="219.00,221.00" Angles="7200.00,7200.00,2806.53" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="47" Position="-116.00,-274.00,0.00" Time="4.795918" Size="219.00,221.00" Angles="7200.00,7200.00,2711.02" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="48" Position="-116.00,-274.00,0.00" Time="4.897959" Size="219.00,221.00" Angles="7200.00,7200.00,2615.51" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Runner_Bonues_2" />
+            <PointDataList Index="49" Position="-116.00,-274.00,0.00" Time="5.000000" Size="219.00,221.00" Angles="7200.00,7200.00,2520.00" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Runner_Bonues_2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="money" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="-52.00,-208.00,0.00" Time="0.000000" Size="31.80,31.80" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="1" Position="-52.00,-208.00,0.00" Time="0.100000" Size="63.60,63.60" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="2" Position="-52.00,-208.00,0.00" Time="0.200000" Size="95.40,95.40" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="3" Position="-52.00,-208.00,0.00" Time="0.300000" Size="127.20,127.20" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="4" Position="-52.00,-208.00,0.00" Time="0.400000" Size="106.00,106.00" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="5" Position="-52.00,-208.00,0.00" Time="4.400000" Size="106.00,106.00" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="6" Position="-52.00,-208.00,0.00" Time="4.500000" Size="106.00,106.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="7" Position="-52.00,-208.00,0.00" Time="4.600000" Size="106.00,106.00" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="8" Position="-52.00,-208.00,0.00" Time="4.700000" Size="106.00,106.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="9" Position="-52.00,-208.00,0.00" Time="4.800000" Size="106.00,106.00" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="money" />
+            <PointDataList Index="10" Position="-52.00,-208.00,0.00" Time="5.000000" Size="106.00,106.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="money" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Won" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="-44.00,-177.00,0.00" Time="0.000000" Size="27.60,14.10" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="1" Position="-44.00,-177.00,0.00" Time="0.100000" Size="55.20,28.20" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="2" Position="-44.00,-177.00,0.00" Time="0.200000" Size="82.80,42.30" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="3" Position="-44.00,-177.00,0.00" Time="0.300000" Size="110.40,56.40" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="4" Position="-44.00,-177.00,0.00" Time="0.400000" Size="92.00,47.00" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="5" Position="-44.00,-177.00,0.00" Time="4.300000" Size="92.00,47.00" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="6" Position="-44.00,-177.00,0.00" Time="4.400000" Size="92.00,47.00" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="7" Position="-44.00,-177.00,0.00" Time="4.500000" Size="92.00,47.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="8" Position="-44.00,-177.00,0.00" Time="4.600000" Size="92.00,47.00" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="9" Position="-44.00,-177.00,0.00" Time="4.700000" Size="92.00,47.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="10" Position="-44.00,-177.00,0.00" Time="4.800000" Size="92.00,47.00" Color="1.00,1.00,1.00,0.20" PIName="BigWin" ImageName="Won" />
+            <PointDataList Index="11" Position="-44.00,-177.00,0.00" Time="5.000000" Size="92.00,47.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="Won" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ScorePos_U" PathCount="1" PlayCount="-1" TotalPlayTime="0.500000">
+        <CueToStartCurvesWithTime Name="ScorePos" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-17.00,-146.00,0.00" Time="0.100000" Size="36.00,49.00" Angles="0.00,0.00,-180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-17.00,-146.00,0.00" Time="0.200000" Size="36.00,49.00" Angles="0.00,0.00,-200.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-17.00,-146.00,0.00" Time="0.300000" Size="36.00,49.00" Angles="0.00,0.00,-180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-17.00,-146.00,0.00" Time="0.400000" Size="36.00,49.00" Angles="0.00,0.00,-160.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-17.00,-146.00,0.00" Time="0.500000" Size="36.00,49.00" Angles="0.00,0.00,-180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

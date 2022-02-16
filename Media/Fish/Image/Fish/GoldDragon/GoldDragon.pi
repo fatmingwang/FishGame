@@ -1,0 +1,27 @@
+<!-- Author:staric,Time:2013/2/4 ¤W¤È 11:16:46 -->
+<PuzzleImage OriginalNameSort="GoldDragon_00000,GoldDragon_00001,GoldDragon_00002,GoldDragon_00003,GoldDragon_00004,GoldDragon_00005,GoldDragon_00006,GoldDragon_00007,GoldDragon_00008,GoldDragon_00009,GoldDragon_00010,GoldDragon_00011,GoldDragon_00013,GoldDragon_00014,GoldDragon_00015,GoldDragon_00016,GoldDragon_00017,GoldDragon_00018,GoldDragon_00019,GoldDragon_00020,GoldDragon_00021,GoldDragon_00022,GoldDragon_00023,GoldDragon_00024" ImageName="GoldDragon.png" Count="24" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="GoldDragon_00000" UV="0,0,0.2495117,0.08642578" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="GoldDragon_00001" UV="0.2504883,0,0.5,0.08642578" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,0" />
+    <PuzzleUnit Name="GoldDragon_00002" UV="0.5009766,0,0.7504883,0.08642578" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,0" />
+    <PuzzleUnit Name="GoldDragon_00003" UV="0,0.08740234,0.2495117,0.1738281" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,179" />
+    <PuzzleUnit Name="GoldDragon_00004" UV="0.2504883,0.08740234,0.5,0.1738281" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,179" />
+    <PuzzleUnit Name="GoldDragon_00005" UV="0.5009766,0.08740234,0.7504883,0.1738281" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,179" />
+    <PuzzleUnit Name="GoldDragon_00006" UV="0,0.1748047,0.2495117,0.2612305" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,358" />
+    <PuzzleUnit Name="GoldDragon_00007" UV="0.2504883,0.1748047,0.5,0.2612305" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,358" />
+    <PuzzleUnit Name="GoldDragon_00008" UV="0.5009766,0.1748047,0.7504883,0.2612305" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,358" />
+    <PuzzleUnit Name="GoldDragon_00009" UV="0,0.262207,0.2495117,0.3486328" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,537" />
+    <PuzzleUnit Name="GoldDragon_00010" UV="0.2504883,0.262207,0.5,0.3486328" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,537" />
+    <PuzzleUnit Name="GoldDragon_00011" UV="0.5009766,0.262207,0.7504883,0.3486328" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,537" />
+    <PuzzleUnit Name="GoldDragon_00013" UV="0,0.3496094,0.2495117,0.4360352" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,716" />
+    <PuzzleUnit Name="GoldDragon_00014" UV="0.2504883,0.3496094,0.5,0.4360352" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,716" />
+    <PuzzleUnit Name="GoldDragon_00015" UV="0.5009766,0.3496094,0.7504883,0.4360352" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,716" />
+    <PuzzleUnit Name="GoldDragon_00016" UV="0,0.4370117,0.2495117,0.5234375" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,895" />
+    <PuzzleUnit Name="GoldDragon_00017" UV="0.2504883,0.4370117,0.5,0.5234375" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,895" />
+    <PuzzleUnit Name="GoldDragon_00018" UV="0.5009766,0.4370117,0.7504883,0.5234375" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,895" />
+    <PuzzleUnit Name="GoldDragon_00019" UV="0,0.5244141,0.2495117,0.6108398" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,1074" />
+    <PuzzleUnit Name="GoldDragon_00020" UV="0.2504883,0.5244141,0.5,0.6108398" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,1074" />
+    <PuzzleUnit Name="GoldDragon_00021" UV="0.5009766,0.5244141,0.7504883,0.6108398" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,1074" />
+    <PuzzleUnit Name="GoldDragon_00022" UV="0,0.6118164,0.2495117,0.6982422" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,1253" />
+    <PuzzleUnit Name="GoldDragon_00023" UV="0.2504883,0.6118164,0.5,0.6982422" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="513,1253" />
+    <PuzzleUnit Name="GoldDragon_00024" UV="0.5009766,0.6118164,0.7504883,0.6982422" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="1026,1253" />
+</PuzzleImage>

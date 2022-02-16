@@ -1,0 +1,23 @@
+<!-- Author:chris,Time:2013/8/7 ¤W¤È 09:10:48 -->
+<PuzzleImage OriginalNameSort="GoldCoin20000,GoldCoin20001,GoldCoin20002,GoldCoin20003,GoldCoin20004,GoldCoin20005,GoldCoin20006,GoldCoin20007,GoldCoin20008,GoldCoin20009,SilverCoin0000,SilverCoin0001,SilverCoin0002,SilverCoin0003,SilverCoin0004,SilverCoin0005,SilverCoin0006,SilverCoin0007,SilverCoin0008,SilverCoin0009" ImageName="Coinpopup.png" Count="20" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="GoldCoin20000" UV="0,0,0.08007813,0.3125" OffsetPos="5,5" Size="41,40" OriginalSize="50,50" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="GoldCoin20001" UV="0.08203125,0,0.1601563,0.3125" OffsetPos="5,5" Size="40,40" OriginalSize="50,50" ShowPosInPI="42,0" />
+    <PuzzleUnit Name="GoldCoin20002" UV="0.1621094,0,0.2324219,0.3125" OffsetPos="7,5" Size="36,40" OriginalSize="50,50" ShowPosInPI="83,0" />
+    <PuzzleUnit Name="GoldCoin20003" UV="0.234375,0,0.2890625,0.3125" OffsetPos="11,5" Size="28,40" OriginalSize="50,50" ShowPosInPI="120,0" />
+    <PuzzleUnit Name="GoldCoin20004" UV="0.2910156,0,0.3222656,0.3125" OffsetPos="17,5" Size="16,40" OriginalSize="50,50" ShowPosInPI="149,0" />
+    <PuzzleUnit Name="GoldCoin20005" UV="0.3242188,0,0.3320313,0.3125" OffsetPos="23,5" Size="4,40" OriginalSize="50,50" ShowPosInPI="166,0" />
+    <PuzzleUnit Name="GoldCoin20006" UV="0.3339844,0,0.3652344,0.3125" OffsetPos="17,5" Size="16,40" OriginalSize="50,50" ShowPosInPI="171,0" />
+    <PuzzleUnit Name="GoldCoin20007" UV="0.3671875,0,0.421875,0.3125" OffsetPos="11,5" Size="28,40" OriginalSize="50,50" ShowPosInPI="188,0" />
+    <PuzzleUnit Name="GoldCoin20008" UV="0.4238281,0,0.4941406,0.3125" OffsetPos="7,5" Size="36,40" OriginalSize="50,50" ShowPosInPI="217,0" />
+    <PuzzleUnit Name="GoldCoin20009" UV="0.4960938,0,0.5742188,0.3125" OffsetPos="5,5" Size="40,40" OriginalSize="50,50" ShowPosInPI="254,0" />
+    <PuzzleUnit Name="SilverCoin0000" UV="0.5761719,0,0.6542969,0.3125" OffsetPos="5,5" Size="40,40" OriginalSize="50,50" ShowPosInPI="295,0" />
+    <PuzzleUnit Name="SilverCoin0001" UV="0.65625,0,0.734375,0.3125" OffsetPos="5,5" Size="40,40" OriginalSize="50,50" ShowPosInPI="336,0" />
+    <PuzzleUnit Name="SilverCoin0002" UV="0.7363281,0,0.8066406,0.3125" OffsetPos="7,5" Size="36,40" OriginalSize="50,50" ShowPosInPI="377,0" />
+    <PuzzleUnit Name="SilverCoin0003" UV="0.8085938,0,0.8632813,0.3125" OffsetPos="11,5" Size="28,40" OriginalSize="50,50" ShowPosInPI="414,0" />
+    <PuzzleUnit Name="SilverCoin0004" UV="0.8652344,0,0.8964844,0.3125" OffsetPos="17,5" Size="16,40" OriginalSize="50,50" ShowPosInPI="443,0" />
+    <PuzzleUnit Name="SilverCoin0005" UV="0.8984375,0,0.90625,0.3125" OffsetPos="23,5" Size="4,40" OriginalSize="50,50" ShowPosInPI="460,0" />
+    <PuzzleUnit Name="SilverCoin0006" UV="0.9082031,0,0.9394531,0.3125" OffsetPos="17,5" Size="16,40" OriginalSize="50,50" ShowPosInPI="465,0" />
+    <PuzzleUnit Name="SilverCoin0007" UV="0.9414063,0,0.9960938,0.3125" OffsetPos="11,5" Size="28,40" OriginalSize="50,50" ShowPosInPI="482,0" />
+    <PuzzleUnit Name="SilverCoin0008" UV="0,0.3203125,0.0703125,0.6328125" OffsetPos="7,5" Size="36,40" OriginalSize="50,50" ShowPosInPI="0,41" />
+    <PuzzleUnit Name="SilverCoin0009" UV="0.07226563,0.3203125,0.1503906,0.6328125" OffsetPos="5,5" Size="40,40" OriginalSize="50,50" ShowPosInPI="37,41" />
+</PuzzleImage>

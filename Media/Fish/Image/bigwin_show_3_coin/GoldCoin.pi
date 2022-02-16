@@ -1,0 +1,11 @@
+<!-- Author:Olinca,Time:2012/11/14 ¤W¤È 09:05:19 -->
+<PuzzleImage OriginalNameSort="GoldCoin1,GoldCoin2,GoldCoin3,GoldCoin4,GoldCoin5" ImageName="GoldCoin.png" Count="5" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="GoldCoin1" UV="0,0,0.1953125,0.9708738" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="GoldCoin2" UV="0.1962891,0,0.3916016,0.9708738" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="201,0" />
+    <PuzzleUnit Name="GoldCoin3" UV="0.3925781,0,0.5878906,0.9708738" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="402,0" />
+    <PuzzleUnit Name="GoldCoin4" UV="0.5888672,0,0.7841797,0.9708738" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="603,0" />
+    <PuzzleUnit Name="GoldCoin5" UV="0.7851563,0,0.9804688,0.9708738" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="804,0" />
+    <AnimationData Count="1">
+        <AnimationDataUnit Name="GoldCoin" Count="5" ImageList="GoldCoin1,GoldCoin2,GoldCoin3,GoldCoin4,GoldCoin5," TimeList="0.10,0.10,0.10,0.10,0.10," />
+    </AnimationData>
+</PuzzleImage>

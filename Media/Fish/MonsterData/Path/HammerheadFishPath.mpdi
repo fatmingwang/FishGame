@@ -1,0 +1,108 @@
+<MPDIList Name="HammerheadFishPath1_mpdi" Count="1" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="HammerheadFishPath1" PathCount="10" PlayCount="1" TotalPlayTime="18.000000">
+        <CueToStartCurvesWithTime Name="HammerheadFish" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="4">
+            <PointDataList Index="0" Position="-665.00,39.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="49.00,216.00,0.00" Time="3.200000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="443.00,226.00,0.00" Time="6.400000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="752.00,187.00,0.00" Time="9.600000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="1067.00,123.00,0.00" Time="12.800000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="1626.00,-58.00,0.00" Time="16.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="1865.00,532.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="1237.00,441.00,0.00" Time="4.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="857.00,420.00,0.00" Time="8.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="491.00,408.00,0.00" Time="12.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="-402.00,367.00,0.00" Time="16.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="4">
+            <PointDataList Index="0" Position="-684.00,249.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="-329.00,319.00,0.00" Time="1.937500" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="-87.00,316.00,0.00" Time="3.875000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="192.00,313.00,0.00" Time="5.812500" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="388.00,308.00,0.00" Time="7.750000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="722.00,311.00,0.00" Time="9.687500" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="910.00,303.00,0.00" Time="11.625000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="7" Position="1147.00,295.00,0.00" Time="13.562500" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="8" Position="1655.00,265.00,0.00" Time="15.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="12" LOD="4">
+            <PointDataList Index="0" Position="1733.00,-237.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="1200.00,66.00,0.00" Time="1.454545" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="1052.00,187.00,0.00" Time="2.909091" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="907.00,270.00,0.00" Time="4.363636" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="808.00,351.00,0.00" Time="5.818182" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="665.00,418.00,0.00" Time="7.272727" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="517.00,485.00,0.00" Time="8.727273" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="7" Position="369.00,537.00,0.00" Time="10.181818" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="8" Position="294.00,609.00,0.00" Time="11.636364" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="9" Position="184.00,636.00,0.00" Time="13.090910" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="10" Position="68.00,679.00,0.00" Time="14.545455" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="11" Position="-488.00,964.00,0.00" Time="16.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="4">
+            <PointDataList Index="0" Position="1799.00,-18.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="1544.00,299.00,0.00" Time="2.125000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="1406.00,463.00,0.00" Time="4.250000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="1070.00,506.00,0.00" Time="6.375000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="702.00,498.00,0.00" Time="8.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="352.00,361.00,0.00" Time="10.625000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="172.00,218.00,0.00" Time="12.750000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="7" Position="-10.00,100.00,0.00" Time="14.875000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="8" Position="-476.00,59.00,0.00" Time="17.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish6" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="4">
+            <PointDataList Index="0" Position="1713.00,1068.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="1412.00,780.00,0.00" Time="2.250000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="1167.00,622.00,0.00" Time="4.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="879.00,428.00,0.00" Time="6.750000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="769.00,388.00,0.00" Time="9.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="481.00,347.00,0.00" Time="11.250000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="72.00,175.00,0.00" Time="13.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="7" Position="-266.00,-209.00,0.00" Time="15.750000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="8" Position="-340.00,-400.00,0.00" Time="18.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish7" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="4">
+            <PointDataList Index="0" Position="2110.00,304.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="1378.00,336.00,0.00" Time="5.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="778.00,334.00,0.00" Time="10.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="-434.00,247.00,0.00" Time="15.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish8" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="4">
+            <PointDataList Index="0" Position="-566.00,1025.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="79.00,694.00,0.00" Time="2.833333" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="805.00,247.00,0.00" Time="5.666667" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="924.00,137.00,0.00" Time="8.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="1039.00,54.00,0.00" Time="11.333333" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="1335.00,-187.00,0.00" Time="14.166666" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="1620.00,-381.00,0.00" Time="17.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish9" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="4">
+            <PointDataList Index="0" Position="-431.00,600.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="-159.00,479.00,0.00" Time="1.384615" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="60.00,312.00,0.00" Time="2.769231" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="205.00,234.00,0.00" Time="4.153846" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="289.00,156.00,0.00" Time="5.538462" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="453.00,94.00,0.00" Time="6.923077" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="525.00,75.00,0.00" Time="8.307693" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="7" Position="647.00,40.00,0.00" Time="9.692308" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="8" Position="829.00,46.00,0.00" Time="11.076923" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="9" Position="937.00,99.00,0.00" Time="12.461538" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="10" Position="1077.00,229.00,0.00" Time="13.846154" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="11" Position="1209.00,293.00,0.00" Time="15.230770" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="12" Position="1335.00,317.00,0.00" Time="16.615385" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="13" Position="1601.00,328.00,0.00" Time="18.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFish10" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="4">
+            <PointDataList Index="0" Position="380.00,885.00,0.00" Time="0.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="1" Position="291.00,576.00,0.00" Time="2.250000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="2" Position="230.00,441.00,0.00" Time="4.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="3" Position="219.00,377.00,0.00" Time="6.750000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="4" Position="208.00,315.00,0.00" Time="9.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="5" Position="221.00,202.00,0.00" Time="11.250000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="6" Position="200.00,126.00,0.00" Time="13.500000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="7" Position="125.00,59.00,0.00" Time="15.750000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+            <PointDataList Index="8" Position="-146.00,-206.00,0.00" Time="18.000000" Size="480.00,230.00" PIName="allfish" ImageName="HammerheadFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

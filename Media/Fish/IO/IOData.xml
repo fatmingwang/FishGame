@@ -1,0 +1,288 @@
+<IODataInfoList Count="0" SafeRefundCoinCount="50" >
+
+  <IOData Name="ControlPanel"	 		KeyData="."                         MemoryAddress="16"/>
+
+  <!-- received byte address-->
+  <IOPackData Name="InsertCoinCount_0" 	  Size="1"                    MemoryAddress="5" />
+  <IOPackData Name="RestCoinToRefund_0" 	Size="1"                    MemoryAddress="6" />
+  <IOPackData Name="RestTicketToRefund_0" Size="1"                    MemoryAddress="7" />
+  <IOPackData Name="RefundSequence_0" 	  Size="1"                    MemoryAddress="8" />
+  <IOPackData Name="InsertCoinCount_1" 	  Size="1"                    MemoryAddress="11"/>
+  <IOPackData Name="RestCoinToRefund_1" 	Size="1"                    MemoryAddress="12"/>
+  <IOPackData Name="RestTicketToRefund_1" Size="1"                    MemoryAddress="13"/>
+  <IOPackData Name="RefundSequence_1" 	  Size="1"                    MemoryAddress="14"/>
+  <IOPackData Name="InsertCoinCount_2" 	  Size="1"                    MemoryAddress="17"/>
+  <IOPackData Name="RestCoinToRefund_2" 	Size="1"                    MemoryAddress="18"/>
+  <IOPackData Name="RestTicketToRefund_2" Size="1"                    MemoryAddress="19"/>
+  <IOPackData Name="RefundSequence_2" 	  Size="1"                    MemoryAddress="20"/>
+  <IOPackData Name="InsertCoinCount_3" 	  Size="1"                    MemoryAddress="23"/>
+  <IOPackData Name="RestCoinToRefund_3" 	Size="1"                    MemoryAddress="24"/>
+  <IOPackData Name="RestTicketToRefund_3" Size="1"                    MemoryAddress="25"/>
+  <IOPackData Name="RefundSequence_3" 	  Size="1"                    MemoryAddress="26"/>
+  <IOPackData Name="InsertCoinCount_4" 	  Size="1"                    MemoryAddress="29"/>
+  <IOPackData Name="RestCoinToRefund_4" 	Size="1"                    MemoryAddress="30"/>
+  <IOPackData Name="RestTicketToRefund_4" Size="1"                    MemoryAddress="31"/>
+  <IOPackData Name="RefundSequence_4" 	  Size="1"                    MemoryAddress="32"/>
+  <IOPackData Name="InsertCoinCount_5" 	  Size="1"                    MemoryAddress="35"/>
+  <IOPackData Name="RestCoinToRefund_5" 	Size="1"                    MemoryAddress="36"/>
+  <IOPackData Name="RestTicketToRefund_5" Size="1"                    MemoryAddress="37"/>
+  <IOPackData Name="RefundSequence_5" 	  Size="1"                    MemoryAddress="38"/>
+  <IOPackData Name="InsertCoinCount_6" 	  Size="1"                    MemoryAddress="41"/>
+  <IOPackData Name="RestCoinToRefund_6" 	Size="1"                    MemoryAddress="42"/>
+  <IOPackData Name="RestTicketToRefund_6" Size="1"                    MemoryAddress="43"/>
+  <IOPackData Name="RefundSequence_6" 	  Size="1"                    MemoryAddress="44"/>
+  <IOPackData Name="InsertCoinCount_7" 	  Size="1"                    MemoryAddress="47"/>
+  <IOPackData Name="RestCoinToRefund_7" 	Size="1"                    MemoryAddress="48"/>
+  <IOPackData Name="RestTicketToRefund_7" Size="1"                    MemoryAddress="49"/>
+  <IOPackData Name="RefundSequence_7" 	  Size="1"                    MemoryAddress="50"/>
+  <IOPackData Name="InsertCoinCount_8" 	  Size="1"                    MemoryAddress="53"/>
+  <IOPackData Name="RestCoinToRefund_8" 	Size="1"                    MemoryAddress="54"/>
+  <IOPackData Name="RestTicketToRefund_8" Size="1"                    MemoryAddress="55"/>
+  <IOPackData Name="RefundSequence_8" 	  Size="1"                    MemoryAddress="56"/>
+  <IOPackData Name="InsertCoinCount_9" 	  Size="1"                    MemoryAddress="59"/>
+  <IOPackData Name="RestCoinToRefund_9" 	Size="1"                    MemoryAddress="60"/>
+  <IOPackData Name="RestTicketToRefund_9" Size="1"                    MemoryAddress="61"/>
+  <IOPackData Name="RefundSequence_9" 	  Size="1"                    MemoryAddress="62"/>
+
+  <!-- for sent singinal byte address-->
+  <IOPackData Name="CoinRefund_0" 	      Size="1"                    MemoryAddress="2" />
+  <IOPackData Name="TicketRefund_0" 	    Size="1"                    MemoryAddress="3" />
+  <IOPackData Name="CoinRefund_1" 	      Size="1"                    MemoryAddress="4" />
+  <IOPackData Name="TicketRefund_1" 	    Size="1"                    MemoryAddress="5" />
+  <IOPackData Name="CoinRefund_2" 	      Size="1"                    MemoryAddress="6" />
+  <IOPackData Name="TicketRefund_2" 	    Size="1"                    MemoryAddress="7" />
+  <IOPackData Name="CoinRefund_3" 	      Size="1"                    MemoryAddress="8" />
+  <IOPackData Name="TicketRefund_3" 	    Size="1"                    MemoryAddress="9" />
+  <IOPackData Name="CoinRefund_4" 	      Size="1"                    MemoryAddress="10"/>
+  <IOPackData Name="TicketRefund_4" 	    Size="1"                    MemoryAddress="11"/>
+  <IOPackData Name="CoinRefund_5" 	      Size="1"                    MemoryAddress="12"/>
+  <IOPackData Name="TicketRefund_5" 	    Size="1"                    MemoryAddress="13"/>
+  <IOPackData Name="CoinRefund_6" 	      Size="1"                    MemoryAddress="14"/>
+  <IOPackData Name="TicketRefund_6" 	    Size="1"                    MemoryAddress="15"/>
+  <IOPackData Name="CoinRefund_7" 	      Size="1"                    MemoryAddress="16"/>
+  <IOPackData Name="TicketRefund_7" 	    Size="1"                    MemoryAddress="17"/>
+  <IOPackData Name="CoinRefund_8" 	      Size="1"                    MemoryAddress="18"/>
+  <IOPackData Name="TicketRefund_8" 	    Size="1"                    MemoryAddress="19"/>
+  <IOPackData Name="CoinRefund_9" 	      Size="1"                    MemoryAddress="20"/>
+  <IOPackData Name="TicketRefund_9" 	    Size="1"                    MemoryAddress="21"/>
+
+  <!-- for sent singinal bit address-->
+  <IOData Name="CoinReset_0" 	                                        MemoryAddress="16"/>
+  <IOData Name="TicketReset_0" 	                                      MemoryAddress="17"/>
+  <IOData Name="CoinReset_1" 	                                        MemoryAddress="24"/>
+  <IOData Name="TicketReset_1" 	                                      MemoryAddress="25"/>
+  <IOData Name="CoinReset_2" 	                                        MemoryAddress="32"/>
+  <IOData Name="TicketReset_2" 	                                      MemoryAddress="33"/>
+  <IOData Name="CoinReset_3" 	                                        MemoryAddress="40"/>
+  <IOData Name="TicketReset_3" 	                                      MemoryAddress="41"/>
+  <IOData Name="CoinReset_4" 	                                        MemoryAddress="48"/>
+  <IOData Name="TicketReset_4"                                        MemoryAddress="49"/>
+  <IOData Name="CoinReset_5" 	                                        MemoryAddress="56"/>
+  <IOData Name="TicketReset_5" 	                                      MemoryAddress="57"/>
+  <IOData Name="CoinReset_6" 	                                        MemoryAddress="64"/>
+  <IOData Name="TicketReset_6" 	                                      MemoryAddress="65"/>
+  <IOData Name="CoinReset_7" 	                                        MemoryAddress="72"/>
+  <IOData Name="TicketReset_7" 	                                      MemoryAddress="73"/>
+  <IOData Name="CoinReset_8" 	                                        MemoryAddress="80"/>
+  <IOData Name="TicketReset_8" 	                                      MemoryAddress="81"/>
+  <IOData Name="CoinReset_9" 	                                        MemoryAddress="88"/>
+  <IOData Name="TicketReset_9" 	                                      MemoryAddress="89"/>
+  
+  <!--received bit address-->
+  <IOData Name="EcchangeIn_0"	          KeyData="1"                   MemoryAddress="24"/>
+  <IOData Name="EcchangeOut_0"	        KeyData="!"                   MemoryAddress="25"/>
+  <IOData Name="Up_0"			              KeyValue="128"		            MemoryAddress="26"/>
+  <IOData Name="Down_0" 		            KeyValue="129"                MemoryAddress="27"/>
+  <IOData Name="Left_0"           	    KeyData="Q"                   MemoryAddress="28"/>
+  <IOData Name="Right_0"           	    KeyData="W"                   MemoryAddress="29"/>
+  <IOData Name="Fire_0" 	              KeyData="E"                   MemoryAddress="30"/>
+  <IOData Name="Level_0" 	              KeyData="R"                   MemoryAddress="31"/>
+  <IOData Name="ReFundButton_0"         KeyValue="200"                MemoryAddress="32"/>
+
+
+
+  <IOData Name="EcchangeIn_1"           KeyData="2"                 MemoryAddress="72"/>
+  <IOData Name="EcchangeOut_1"       	  KeyData=">"                 MemoryAddress="73"/>
+  <IOData Name="Up_1"	       	          KeyValue="140"              MemoryAddress="74"/>
+  <IOData Name="Down_1" 	              KeyValue="141"              MemoryAddress="75"/>
+  <IOData Name="Left_1" 	              KeyData="A"                 MemoryAddress="76"/>
+  <IOData Name="Right_1" 	              KeyData="S"                 MemoryAddress="77"/>
+  <IOData Name="Fire_1" 	              KeyData="D"                 MemoryAddress="78"/>
+  <IOData Name="Level_1" 	              KeyData="F"                 MemoryAddress="79"/>
+  <IOData Name="ReFundButton_1" 				KeyValue="201"              MemoryAddress="80"/>
+
+
+
+  <IOData Name="EcchangeIn_2"       	  KeyData="3"                 MemoryAddress="120"/>
+  <IOData Name="EcchangeOut_2"       	  KeyData="#"                 MemoryAddress="121"/>
+  <IOData Name="Up_2"	       	          KeyValue="142"              MemoryAddress="122"/>
+  <IOData Name="Down_2" 	              KeyValue="143"              MemoryAddress="123"/>
+  <IOData Name="Left_2" 	              KeyData="Z"                 MemoryAddress="124"/>
+  <IOData Name="Right_2" 	              KeyData="X"                 MemoryAddress="125"/>
+  <IOData Name="Fire_2" 	              KeyData="C"                 MemoryAddress="126"/>
+  <IOData Name="Level_2" 	              KeyData="V"                 MemoryAddress="127"/>
+  <IOData Name="ReFundButton_2"         KeyValue="202"              MemoryAddress="128"/>
+
+
+
+
+  <IOData Name="EcchangeIn_3"       	  KeyData="4"                 MemoryAddress="168"/>
+  <IOData Name="EcchangeOut_3"       	  KeyData="$"                 MemoryAddress="169"/>
+  <IOData Name="Up_3"	       	          KeyValue="144"              MemoryAddress="170"/>
+  <IOData Name="Down_3" 	              KeyValue="145"              MemoryAddress="171"/>
+  <IOData Name="Left_3" 	              KeyData="T"                 MemoryAddress="172"/>
+  <IOData Name="Right_3" 	              KeyData="Y"                 MemoryAddress="173"/>
+  <IOData Name="Fire_3" 	              KeyData="I"                 MemoryAddress="174"/>
+  <IOData Name="Level_3" 	              KeyData="U"                 MemoryAddress="175"/>
+  <IOData Name="ReFundButton_3"         KeyValue="203"              MemoryAddress="176"/>
+
+
+
+
+  <IOData Name="EcchangeIn_4"       	  KeyData="5"                 MemoryAddress="216"/>
+  <IOData Name="EcchangeOut_4"       	  KeyData="="                 MemoryAddress="217"/>
+  <IOData Name="Up_4"	       	          KeyValue="146"              MemoryAddress="218"/>
+  <IOData Name="Down_4" 	              KeyValue="147"              MemoryAddress="219"/>
+  <IOData Name="Left_4" 	              KeyData="G"                 MemoryAddress="220"/>
+  <IOData Name="Right_4" 	              KeyData="H"                 MemoryAddress="221"/>
+  <IOData Name="Fire_4" 	              KeyData="K"                 MemoryAddress="222"/>
+  <IOData Name="Level_4" 	              KeyData="J"                 MemoryAddress="223"/>
+  <IOData Name="ReFundButton_4"         KeyValue="204"              MemoryAddress="224"/>
+
+
+
+
+  <IOData Name="EcchangeIn_5"       	  KeyData="6"                 MemoryAddress="264"/>
+  <IOData Name="EcchangeOut_5"       	  KeyData="~"                 MemoryAddress="265"/>
+  <IOData Name="Up_5"	       	          KeyValue="148"              MemoryAddress="266"/>
+  <IOData Name="Down_5" 	              KeyValue="149"              MemoryAddress="267"/>
+  <IOData Name="Left_5" 	              KeyData="B"                 MemoryAddress="268"/>
+  <IOData Name="Right_5" 	              KeyData="N"                 MemoryAddress="269"/>
+  <IOData Name="Fire_5" 	              KeyData=","                 MemoryAddress="270"/>
+  <IOData Name="Level_5" 	              KeyData="M"                 MemoryAddress="271"/>
+  <IOData Name="ReFundButton_5"         KeyValue="205"              MemoryAddress="272"/>
+
+
+
+
+  <IOData Name="EcchangeIn_6"       	  KeyData="7"                 MemoryAddress="312"/>
+  <IOData Name="EcchangeOut_6"       	  KeyData="|"                 MemoryAddress="313"/>
+  <IOData Name="Up_6"	       	          KeyValue="150"              MemoryAddress="314"/>
+  <IOData Name="Down_6" 	              KeyValue="151"              MemoryAddress="315"/>
+  <IOData Name="Left_6" 	              KeyData="O"                 MemoryAddress="316"/>
+  <IOData Name="Right_6" 	              KeyData="P"                 MemoryAddress="317"/>
+  <IOData Name="Fire_6" 	              KeyData="}"                 MemoryAddress="318"/>
+  <IOData Name="Level_6" 	              KeyData="{"                 MemoryAddress="319"/>
+  <IOData Name="ReFundButton_6"         KeyValue="206"              MemoryAddress="320"/>
+
+
+
+
+  <IOData Name="EcchangeIn_7"       	  KeyData="8"                 MemoryAddress="360"/>
+  <IOData Name="EcchangeOut_7"       	  KeyData=")"                 MemoryAddress="361"/>
+  <IOData Name="Up_7"	       	          KeyValue="152"              MemoryAddress="362"/>
+  <IOData Name="Down_7" 	              KeyValue="153"              MemoryAddress="363"/>
+  <IOData Name="Left_7" 	              KeyData="q"                 MemoryAddress="364"/>
+  <IOData Name="Right_7" 	              KeyData="w"                 MemoryAddress="365"/>
+  <IOData Name="Fire_7" 	              KeyData="r"                 MemoryAddress="366"/>
+  <IOData Name="Level_7" 	              KeyData="e"                 MemoryAddress="367"/>
+  <IOData Name="ReFundButton_7"         KeyValue="207"              MemoryAddress="368"/>
+
+
+
+
+  <IOData Name="EcchangeIn_8"		        KeyData="9"         MemoryAddress="408"/>
+  <IOData Name="EcchangeOut_8"		      KeyValue="215"        MemoryAddress="409"/>
+  <IOData Name="Up_8"                   KeyValue="154" 		    MemoryAddress="410"/>
+  <IOData Name="Down_8" 	              KeyValue="155"        MemoryAddress="411"/>
+  <IOData Name="Left_8" 	              KeyData="a"           MemoryAddress="412"/>
+  <IOData Name="Right_8" 	              KeyData="s"           MemoryAddress="413"/>
+  <IOData Name="Fire_8" 	              KeyData="d"           MemoryAddress="414"/>
+  <IOData Name="Level_8" 	              KeyData="f"           MemoryAddress="415"/>
+  <IOData Name="ReFundButton_8"         KeyValue="208"              MemoryAddress="416"/>
+
+
+
+
+  <IOData Name="EcchangeIn_9"	 		KeyData="0"         	MemoryAddress="456"/>
+  <IOData Name="EcchangeOut_9"	        KeyData="@"                 	MemoryAddress="457"/>
+  <IOData Name="Up_9"	        		      KeyValue="156"    MemoryAddress="458"/>
+  <IOData Name="Down_9" 	              KeyValue="157"            MemoryAddress="459"/>
+  <IOData Name="Left_9" 	              KeyData="z"             	MemoryAddress="460"/>
+  <IOData Name="Right_9" 	              KeyData="x"           	MemoryAddress="461"/>
+  <IOData Name="Fire_9" 	              KeyData="c"               MemoryAddress="462"/>
+  <IOData Name="Level_9" 	              KeyData="v"               MemoryAddress="463"/>
+  <IOData Name="ReFundButton_9"         KeyValue="209"              	MemoryAddress="464"/>
+
+
+
+
+  <FUCK Description="下面的資料都還沒換過來ㄎㄎ" />
+  <IOData Name="EcchangeIn_10"	  			KeyData="_"                 MemoryAddress="11"/>
+  <IOData Name="EcchangeOut_10"	        KeyValue="138"              MemoryAddress="11"/>
+  <IOData Name="Right_10" 	      KeyData="y"                 MemoryAddress="11"/>
+  <IOData Name="Left_10" 	        KeyData="t"                 MemoryAddress="11"/>
+  <IOData Name="Up_10"	        	KeyValue="158"              MemoryAddress="11"/>
+  <IOData Name="Down_10" 	        KeyValue="159"              MemoryAddress="11"/>
+  <IOData Name="Fire_10" 	        KeyData="u"                 MemoryAddress="11"/>
+  <IOData Name="Level_10" 	      KeyData="i"                 MemoryAddress="11"/>
+  <IOData Name="ReFundButton_10" 	      KeyValue="210"              MemoryAddress="11"/>
+  <IOData Name="CoinReset_10" 	                              MemoryAddress="16"/>
+  <IOData Name="TicketReset_10" 	                            MemoryAddress="17"/>
+  <IOPackData Name="InsertCoinCount_10" 	  Size="1"                    MemoryAddress="5"/>
+  <IOPackData Name="RestCoinToRefund_10" 	Size="1"                    MemoryAddress="6"/>
+  <IOPackData Name="RestTicketToRefund_10" 	Size="1"                    MemoryAddress="7"/>
+  <IOPackData Name="CoinRefund_10" 	  Size="1"                    MemoryAddress="2"/>
+  <IOPackData Name="TicketRefund_10" 	  Size="1"                    MemoryAddress="3"/>
+
+  <IOData Name="EcchangeIn_11"	   			KeyData="+"                 MemoryAddress="11"/>
+  <IOData Name="EcchangeOut_11"	        KeyData="?"                 MemoryAddress="11"/>
+  <IOData Name="Right_11" 	      KeyData="h"                 MemoryAddress="11"/>
+  <IOData Name="Left_11" 	        KeyData="g"                 MemoryAddress="11"/>
+  <IOData Name="Up_11"	        	KeyValue="160"              MemoryAddress="11"/>
+  <IOData Name="Down_11" 	        KeyValue="161"              MemoryAddress="11"/>
+  <IOData Name="Fire_11" 	        KeyData="j"                 MemoryAddress="11"/>
+  <IOData Name="Level_11" 	      KeyData="k"               	MemoryAddress="11"/>
+  <IOData Name="ReFundButton_11" 	      KeyValue="211"             	MemoryAddress="11"/>
+  <IOData Name="CoinReset_11" 	                              MemoryAddress="24"/>
+  <IOData Name="TicketReset_11" 	                            MemoryAddress="25"/>
+  <IOPackData Name="InsertCoinCount_11" 	  Size="1"                    MemoryAddress="10"/>
+  <IOPackData Name="RestCoinToRefund_11" 	Size="1"                    MemoryAddress="11"/>
+  <IOPackData Name="RestTicketToRefund_11" 	Size="1"                    MemoryAddress="12"/>
+  <IOPackData Name="CoinRefund_11" 	  Size="1"                    MemoryAddress="4"/>
+  <IOPackData Name="TicketRefund_11" 	  Size="1"                    MemoryAddress="5"/>
+
+  <IOData Name="EcchangeIn_12"	 				KeyData="\"                 MemoryAddress="11"/>
+  <IOData Name="EcchangeOut_12"	        KeyValue="133"              MemoryAddress="11"/>
+  <IOData Name="Right_12" 	      KeyData="n"               	MemoryAddress="11"/>
+  <IOData Name="Left_12" 	        KeyData="b"                 MemoryAddress="11"/>
+  <IOData Name="Up_12"	        	KeyValue="162"              MemoryAddress="11"/>
+  <IOData Name="Down_12" 	        KeyValue="163"              MemoryAddress="11"/>
+  <IOData Name="Fire_12" 	        KeyValue="250"                 MemoryAddress="11"/>
+  <IOData Name="Level_12" 	      KeyValue="134"            	MemoryAddress="11"/>
+  <IOData Name="ReFundButton_12" 	      KeyValue="212"            	MemoryAddress="11"/>
+  <IOData Name="CoinReset_12" 	                              MemoryAddress="32"/>
+  <IOData Name="TicketReset_12" 	                            MemoryAddress="33"/>
+  <IOPackData Name="InsertCoinCount_12" 	  Size="1"                    MemoryAddress="15" />
+  <IOPackData Name="RestCoinToRefund_12" 	Size="1"                    MemoryAddress="16" />
+  <IOPackData Name="RestTicketToRefund_12" 	Size="1"                    MemoryAddress="17" />
+  <IOPackData Name="CoinRefund_12" 	  Size="1"                    MemoryAddress="6" />
+  <IOPackData Name="TicketRefund_12" 	  Size="1"                    MemoryAddress="7" />
+
+  <IOData Name="EcchangeIn_13"					KeyData="/"                 MemoryAddress="11"/>
+  <IOData Name="EcchangeOut_13"					KeyValue="136"              MemoryAddress="11"/>
+  <IOData Name="Right_13" 				KeyData="p"                 MemoryAddress="11"/>
+  <IOData Name="Left_13" 					KeyData="o"                 MemoryAddress="11"/>
+  <IOData Name="Up_13"						KeyValue="164"              MemoryAddress="11"/>
+  <IOData Name="Down_13" 					KeyValue="165"              MemoryAddress="11"/>
+  <IOData Name="Fire_13" 					KeyData="["                 MemoryAddress="11"/>
+  <IOData Name="Level_13" 				KeyData="]"                 MemoryAddress="11"/>
+  <IOData Name="ReFundButton_13" 				KeyValue="213"              MemoryAddress="11"/>
+  <IOData Name="CoinReset_13" 	                              MemoryAddress="40"/>
+  <IOData Name="TicketReset_13" 	                            MemoryAddress="41"/>
+  <IOPackData Name="InsertCoinCount_13" 	  Size="1"                    MemoryAddress="20"/>
+  <IOPackData Name="RestCoinToRefund_13" 	Size="1"                    MemoryAddress="21"/>
+  <IOPackData Name="RestTicketToRefund_13" 	Size="1"                    MemoryAddress="22"/>
+  <IOPackData Name="CoinRefund_13" 	  Size="1"                    MemoryAddress="8" />
+  <IOPackData Name="TicketRefund_13" 	  Size="1"                    MemoryAddress="9" />
+</IODataInfoList>

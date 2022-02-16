@@ -1,0 +1,90 @@
+<ImageCollisionData Name="ClownFish" Count="34">
+    <CollisionData Name="ClownFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-22.00,0.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,20.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00001" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-26.00,2.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,20.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-7.00,-6.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,20.00,19.00,0.00,-22.00,8.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00003" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-7.00,-5.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-19.00,13.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-8.00,-6.00,0.00,16.00,-11.00,0.00,33.00,2.00,0.00,17.00,18.00,0.00,-17.00,17.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00005" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-5.00,-10.00,0.00,22.00,-12.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-12.00,21.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-5.00,-8.00,0.00,20.00,-12.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-12.00,21.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00007" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-7.00,-11.00,0.00,22.00,-12.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-10.00,24.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-5.00,-10.00,0.00,21.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-11.00,21.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00009" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-4.00,-7.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-12.00,21.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-7.00,-6.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-15.00,17.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00011" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-3.00,-8.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,-17.00,15.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00012" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-10.00,-3.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,21.00,19.00,0.00,-19.00,10.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00013" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-21.00,3.00,0.00,3.00,-10.00,0.00,22.00,-8.00,0.00,31.00,3.00,0.00,23.00,18.00,0.00,0.00,20.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00014" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-23.00,1.00,0.00,16.00,-11.00,0.00,33.00,6.00,0.00,21.00,20.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00015" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-21.00,-2.00,0.00,16.00,-10.00,0.00,35.00,6.00,0.00,19.00,22.00,0.00,-3.00,14.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00016" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-16.00,-9.00,0.00,19.00,-8.00,0.00,31.00,4.00,0.00,19.00,21.00,0.00,3.00,21.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00017" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-15.00,-12.00,0.00,24.00,-5.00,0.00,33.00,9.00,0.00,17.00,22.00,0.00,-10.00,13.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00018" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-12.00,-14.00,0.00,21.00,-6.00,0.00,32.00,8.00,0.00,15.00,23.00,0.00,-10.00,13.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00019" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-12.00,-13.00,0.00,19.00,-7.00,0.00,30.00,8.00,0.00,18.00,21.00,0.00,-1.00,19.00,0.00,-10.00,9.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00020" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-12.00,-12.00,0.00,16.00,-8.00,0.00,30.00,7.00,0.00,19.00,20.00,0.00,3.00,19.00,0.00,-11.00,8.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00021" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-12.00,-11.00,0.00,20.00,-6.00,0.00,30.00,7.00,0.00,21.00,19.00,0.00,3.00,20.00,0.00,-11.00,11.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00022" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-15.00,-8.00,0.00,17.00,-8.00,0.00,30.00,6.00,0.00,19.00,20.00,0.00,3.00,18.00,0.00,-9.00,10.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00023" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-21.00,-2.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,0.00,18.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00024" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-21.00,-2.00,0.00,16.00,-11.00,0.00,31.00,4.00,0.00,17.00,18.00,0.00,0.00,17.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00025" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-21.00,-2.00,0.00,24.00,-10.00,0.00,31.00,4.00,0.00,26.00,17.00,0.00,-1.00,19.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00026" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-21.00,-2.00,0.00,24.00,-11.00,0.00,31.00,4.00,0.00,24.00,18.00,0.00,2.00,18.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="ClownFish_00027" Count="0" />
+    <CollisionData Name="ClownFish_00028" Count="0" />
+    <CollisionData Name="ClownFish_00029" Count="0" />
+    <CollisionData Name="ClownFish_00030" Count="0" />
+    <CollisionData Name="ClownFish_00031" Count="0" />
+    <CollisionData Name="ClownFish_00032" Count="0" />
+    <CollisionData Name="ClownFish_00033" Count="0" />
+</ImageCollisionData>

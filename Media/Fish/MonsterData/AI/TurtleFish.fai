@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="TurtleFish" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="TurtleFish" Type="cFAIAnimationCharacter" cFAICharacterStatus="TurtleFish" Speed="9" RunAwaySpeed="40" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="TurtleFish" cFAICharacterInterface="TurtleFish" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="100" Wall="0,0,1280,720" XDistanceRestrict="5,10" YDistanceRestrict="5,10" TimeRestrict="22,25" PointRestrict="25,32" DistanceChangePoint="4,6" DirectionOffsetX="-0.6,0.6" DirectionOffsetY="-0.6,0.6" LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="0" PathFile="Fish/MonsterData/Path/TurtleFish.path" />
+	</cFAIMachine>
+</Root>

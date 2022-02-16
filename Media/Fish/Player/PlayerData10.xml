@@ -1,0 +1,225 @@
+<root>
+	<Player ID="0">
+		<PlayerData Position="300,900,0" Rotation="0,0,0" />
+		<IO Left="Q" Right="W" Up="128" Down="129" Level="R" Fire="E"   FireRepeat="0.3" LevelUpRepeat="0.2" />
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_1P_IdleNormal" ShotMPDI="CannonTube_XS_1P_FireNormal"  />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_1P_IdleNormal" ShotMPDI="CannonTube_S_1P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_1P_IdleNormal" ShotMPDI="CannonTube_M_1P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_1P_IdleNormal" ShotMPDI="CannonTube_L_1P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+	<Player ID="1" >
+		<PlayerData Position="732,900.5,0" Rotation="0,0,0" />
+		<IO Left="A" Right="S" Up="140" Down="141" Level="F" Fire="D"   FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_2P_IdleNormal" ShotMPDI="CannonTube_XS_2P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_2P_IdleNormal" ShotMPDI="CannonTube_S_2P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_2P_IdleNormal" ShotMPDI="CannonTube_M_2P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_2P_IdleNormal" ShotMPDI="CannonTube_L_2P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+
+	<Player ID="2" >
+		<PlayerData Position="1163,900,0" Rotation="0,0,0" />
+		<IO Left="Z" Right="X" Up="142" Down="143" Level="V" Fire="C"  FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_3P_IdleNormal" ShotMPDI="CannonTube_XS_3P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_3P_IdleNormal" ShotMPDI="CannonTube_S_3P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_3P_IdleNormal" ShotMPDI="CannonTube_M_3P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_3P_IdleNormal" ShotMPDI="CannonTube_L_3P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+
+	<Player ID="3" >
+		<PlayerData Position="1440,607,0" Rotation="0,0,270" />
+		<IO Left="T" Right="Y" Up="144" Down="145" Level="U" Fire="I"   FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_4P_IdleNormal" ShotMPDI="CannonTube_XS_4P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_4P_IdleNormal" ShotMPDI="CannonTube_S_4P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_4P_IdleNormal" ShotMPDI="CannonTube_M_4P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_4P_IdleNormal" ShotMPDI="CannonTube_L_4P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+
+	<Player ID="4" >
+		<PlayerData Position="1440,226,0" Rotation="0,0,270" />
+		<IO Left="G" Right="H" Up="146" Down="147" Level="J" Fire="K"   FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_5P_IdleNormal" ShotMPDI="CannonTube_XS_5P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_5P_IdleNormal" ShotMPDI="CannonTube_S_5P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_5P_IdleNormal" ShotMPDI="CannonTube_M_5P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_5P_IdleNormal" ShotMPDI="CannonTube_L_5P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+
+	<Player ID="5" >
+		<PlayerData Position="1118,0,0" Rotation="0,0,180" />
+		<IO Left="B" Right="N" Up="148" Down="149" Level="M" Fire=","   FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_6P_IdleNormal" ShotMPDI="CannonTube_XS_6P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_6P_IdleNormal" ShotMPDI="CannonTube_S_6P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_6P_IdleNormal" ShotMPDI="CannonTube_M_6P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_6P_IdleNormal" ShotMPDI="CannonTube_L_6P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+	<Player ID="6" >
+		<PlayerData Position="687,0,0" Rotation="0,0,180" />
+		<IO Left="O" Right="P" Up="150" Down="151" Level="{" Fire="}"   FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_7P_IdleNormal" ShotMPDI="CannonTube_XS_7P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_7P_IdleNormal" ShotMPDI="CannonTube_S_7P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_7P_IdleNormal" ShotMPDI="CannonTube_M_7P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_7P_IdleNormal" ShotMPDI="CannonTube_L_7P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+	<Player ID="7" >
+		<PlayerData Position="257,0,0" Rotation="0,0,180" />
+		<IO Left="q" Right="w" Up="152" Down="153" Level="e" Fire="r"  FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_8P_IdleNormal" ShotMPDI="CannonTube_XS_8P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_8P_IdleNormal" ShotMPDI="CannonTube_S_8P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_8P_IdleNormal" ShotMPDI="CannonTube_M_8P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_8P_IdleNormal" ShotMPDI="CannonTube_L_8P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+	<Player ID="8" >
+		<PlayerData Position="0,271,0" Rotation="0,0,90" />
+		<IO Left="a" Right="s" Up="154" Down="155" Level="f" Fire="d" FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_9P_IdleNormal" ShotMPDI="CannonTube_XS_9P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_9P_IdleNormal" ShotMPDI="CannonTube_S_9P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_9P_IdleNormal" ShotMPDI="CannonTube_M_9P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_9P_IdleNormal" ShotMPDI="CannonTube_L_9P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>
+
+	<Player ID="9" >
+		<PlayerData Position="0,652,0" Rotation="0,0,90" />
+		<IO Left="z" Right="x" Up="156" Down="157" Level="v" Fire="c" FireRepeat="0.3" LevelUpRepeat="0.2"/>
+		<Weapon RotateSpeed="1.5">
+			<WeaponLevelData>
+			<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_XS_10P_IdleNormal" ShotMPDI="CannonTube_XS_10P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_S_10P_IdleNormal" ShotMPDI="CannonTube_S_10P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_M_10P_IdleNormal" ShotMPDI="CannonTube_M_10P_FireNormal" />
+				<Data MPDIList="Fish/Image/PlayerUI/Cannon_0001.mpdi" IdleMPDI="CannonTube_L_10P_IdleNormal" ShotMPDI="CannonTube_L_10P_FireNormal" />
+			</WeaponLevelData>
+			<BulletFireStatus>
+				<Level Index="1" Min="1" Max="299" AddValue="10" />
+				<Level Index="2" Min="300" Max="599" />
+				<Level Index="3" Min="600" Max="1000" />
+			</BulletFireStatus>
+		</Weapon>
+		<PlayerBody>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerNormalBody"/>
+			<Data MPDIList="Fish/Image/PlayerUI/PlayerUI.mpdi" MPDI="PlayerEnergyBody"/>
+		</PlayerBody>
+	</Player>		
+</root>

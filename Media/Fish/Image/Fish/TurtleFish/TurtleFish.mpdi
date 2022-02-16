@@ -1,0 +1,190 @@
+<MPDIList Name="TurtleFish_mpdi" Count="8" MPDIVersion="1.2" PICount="1" ImageName="TurtleFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="1.500000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="1.600000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="1.700000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="1.800000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="1.900000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="2.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="2.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="2.200000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="2.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="2.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="NormalMove1" PathCount="1" PlayCount="-1" TotalPlayTime="0.550000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.275000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.550000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00028" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00030" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00028" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00031" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00032" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00033" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00034" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00034" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="1.500000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="1.600000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="1.700000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="1.800000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="1.900000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="2.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="2.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="2.200000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="2.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="2.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00024" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="1.500000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="1.600000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="1.700000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="1.800000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="1.900000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="2.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="2.100000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="2.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="2.300000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="2.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite1" PathCount="2" PlayCount="-1" TotalPlayTime="0.550000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.275000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.550000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFishAttackWhite1" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.275000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.550000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="1.500000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="1.600000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="1.700000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="1.800000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="1.900000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="2.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="2.100000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="2.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="2.300000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="2.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00024" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFishAttackRed" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.95" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.90" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.85" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.80" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.75" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.600000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.70" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.700000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.60" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.800000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.900000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.40" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.30" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.100000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.20" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.300000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.20" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.400000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.30" PIName="TurtleFish" ImageName="TurtleFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="1.500000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.40" PIName="TurtleFish" ImageName="TurtleFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="1.600000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="TurtleFish" ImageName="TurtleFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="1.700000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.60" PIName="TurtleFish" ImageName="TurtleFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="1.800000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.70" PIName="TurtleFish" ImageName="TurtleFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="1.900000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.75" PIName="TurtleFish" ImageName="TurtleFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="2.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.80" PIName="TurtleFish" ImageName="TurtleFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="2.100000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.85" PIName="TurtleFish" ImageName="TurtleFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="2.200000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.90" PIName="TurtleFish" ImageName="TurtleFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="2.300000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.95" PIName="TurtleFish" ImageName="TurtleFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="2.400000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed1" PathCount="2" PlayCount="-1" TotalPlayTime="0.550000">
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.275000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.550000" Size="130.00,174.00" Scale="1.00,1.00" Color="0.73,0.84,0.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFishAttackRed1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.275000" Size="130.00,174.00" Scale="1.00,1.00" PIName="TurtleFish" ImageName="TurtleFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.550000" Size="130.00,174.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="TurtleFish" ImageName="TurtleFish_00025" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

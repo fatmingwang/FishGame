@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="PufferFish" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="PufferFish" Type="cFAIAnimationCharacter" cFAICharacterStatus="BlueFish" Speed="9" RunAwaySpeed="35" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="PufferFish" cFAICharacterInterface="PufferFish" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="100" Wall="0,0,1280,720" XDistanceRestrict="4,10" YDistanceRestrict="4,10" TimeRestrict="22,25" PointRestrict="25,32" DistanceChangePoint="5,7" DirectionOffsetX="-0.5,0.5" DirectionOffsetY="-0.5,0.5" LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="0" PathFile="Fish/MonsterData/Path/PufferFish.path" />
+	</cFAIMachine>
+</Root>

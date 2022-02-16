@@ -1,0 +1,23 @@
+<MPDIList Name="Group-ThreeFish_mpdi" Count="3" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="ThreeFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ThreeFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-10.00,-16.00,0.00" Time="0.000000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+            <PointDataList Index="1" Position="-65.00,-53.00,0.00" Time="0.100000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+            <PointDataList Index="2" Position="-61.00,5.00,0.00" Time="0.200000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ThreeFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ThreeFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-40.00,-39.00,0.00" Time="0.000000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+            <PointDataList Index="1" Position="-94.00,-9.00,0.00" Time="0.100000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+            <PointDataList Index="2" Position="-93.00,-70.00,0.00" Time="0.200000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ThreeFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ThreeFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-50.00,-33.00,0.00" Time="0.000000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+            <PointDataList Index="1" Position="-101.00,-66.00,0.00" Time="0.100000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+            <PointDataList Index="2" Position="-136.00,-31.00,0.00" Time="0.200000" Size="112.00,67.00" PIName="allfish" ImageName="ThreeFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

@@ -1,0 +1,104 @@
+<MPDIList Name="GoldDragon_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="GoldDragon.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="1.650000">
+        <CueToStartCurvesWithTime Name="GoldDragon" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.137500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.275000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.412500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.550000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.687500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.825000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.962500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.100000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.237500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.375000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.512500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.650000" Size="618.31,175.23" Scale="1.21,0.99" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="1.650000">
+        <CueToStartCurvesWithTime Name="GoldDragon" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.137500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.275000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.412500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.550000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.687500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.825000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.962500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.100000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.237500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.375000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.512500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.650000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldDragonAttachRed" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.137500" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.17" PIName="GoldDragon" ImageName="GoldDragon_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.275000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.34" PIName="GoldDragon" ImageName="GoldDragon_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.412500" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.51" PIName="GoldDragon" ImageName="GoldDragon_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.550000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.67" PIName="GoldDragon" ImageName="GoldDragon_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.687500" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.84" PIName="GoldDragon" ImageName="GoldDragon_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.825000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.962500" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.84" PIName="GoldDragon" ImageName="GoldDragon_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.100000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.67" PIName="GoldDragon" ImageName="GoldDragon_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.237500" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.51" PIName="GoldDragon" ImageName="GoldDragon_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.375000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.34" PIName="GoldDragon" ImageName="GoldDragon_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.512500" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.17" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.650000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="1.650000">
+        <CueToStartCurvesWithTime Name="GoldDragon" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.137500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.275000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.412500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.550000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.687500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.825000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.962500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.100000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.237500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.375000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.512500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.650000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldDragonAttachWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.137500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.275000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.412500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.550000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.687500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.825000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.962500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.100000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.237500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.375000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.512500" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.650000" Size="511.00,177.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="GoldDragon" ImageName="GoldDragon_00011" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.320000">
+        <CueToStartCurvesWithTime Name="GoldDragon" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00017" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00023" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00017" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.100000">
+        <CueToStartCurvesWithTime Name="GoldDragon" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00016" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.122222" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00018" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.244444" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00019" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.366667" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00020" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.488889" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00021" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.611111" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00022" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.733333" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00024" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.855556" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00024" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.977778" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00024" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.100000" Size="511.00,177.00" Scale="1.00,1.00" PIName="GoldDragon" ImageName="GoldDragon_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

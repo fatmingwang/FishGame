@@ -1,0 +1,19 @@
+<!-- Author:staric,Time:2012/12/14 ¤U¤È 02:24:45 -->
+<PuzzleImage OriginalNameSort="JellyFish_00000,JellyFish_00001,JellyFish_00002,JellyFish_00003,JellyFish_00004,JellyFish_00005,JellyFish_00006,JellyFish_00007,JellyFish_00008,JellyFish_00009,JellyFish_00010,JellyFish_00011,JellyFish_00012,JellyFish_00013,JellyFish_00014,JellyFish_00015" ImageName="JellyFish.png" Count="16" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="JellyFish_00000" UV="0,0,0.2480469,0.2226563" OffsetPos="10,27" Size="127,114" OriginalSize="146,168" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="JellyFish_00001" UV="0.25,0,0.4960938,0.2207031" OffsetPos="13,28" Size="126,113" OriginalSize="146,168" ShowPosInPI="128,0" />
+    <PuzzleUnit Name="JellyFish_00002" UV="0.4980469,0,0.7402344,0.2207031" OffsetPos="16,28" Size="124,113" OriginalSize="146,168" ShowPosInPI="255,0" />
+    <PuzzleUnit Name="JellyFish_00003" UV="0.7421875,0,0.9804688,0.2207031" OffsetPos="19,28" Size="122,113" OriginalSize="146,168" ShowPosInPI="380,0" />
+    <PuzzleUnit Name="JellyFish_00004" UV="0,0.2246094,0.2402344,0.4414063" OffsetPos="18,29" Size="123,111" OriginalSize="146,168" ShowPosInPI="0,115" />
+    <PuzzleUnit Name="JellyFish_00005" UV="0.2421875,0.2246094,0.4902344,0.4453125" OffsetPos="14,28" Size="127,113" OriginalSize="146,168" ShowPosInPI="124,115" />
+    <PuzzleUnit Name="JellyFish_00006" UV="0.4921875,0.2246094,0.7402344,0.4824219" OffsetPos="14,19" Size="127,132" OriginalSize="146,168" ShowPosInPI="252,115" />
+    <PuzzleUnit Name="JellyFish_00007" UV="0.7421875,0.2246094,0.9707031,0.5273438" OffsetPos="23,7" Size="117,155" OriginalSize="146,168" ShowPosInPI="380,115" />
+    <PuzzleUnit Name="JellyFish_00008" UV="0.00390625,0.4472656,0.21875,0.7578125" OffsetPos="29,5" Size="110,159" OriginalSize="146,168" ShowPosInPI="2,229" />
+    <PuzzleUnit Name="JellyFish_00009" UV="0.2207031,0.4472656,0.4355469,0.7421875" OffsetPos="28,9" Size="110,151" OriginalSize="146,168" ShowPosInPI="113,229" />
+    <PuzzleUnit Name="JellyFish_00010" UV="0.4355469,0.484375,0.6601563,0.7480469" OffsetPos="22,17" Size="115,135" OriginalSize="146,168" ShowPosInPI="223,248" />
+    <PuzzleUnit Name="JellyFish_00011" UV="0.6601563,0.5292969,0.8925781,0.7539063" OffsetPos="17,27" Size="119,115" OriginalSize="146,168" ShowPosInPI="338,271" />
+    <PuzzleUnit Name="JellyFish_00012" UV="0.001953125,0.765625,0.2421875,0.9902344" OffsetPos="13,27" Size="123,115" OriginalSize="146,168" ShowPosInPI="1,392" />
+    <PuzzleUnit Name="JellyFish_00013" UV="0.2441406,0.765625,0.4882813,0.9902344" OffsetPos="11,27" Size="125,115" OriginalSize="146,168" ShowPosInPI="125,392" />
+    <PuzzleUnit Name="JellyFish_00014" UV="0.4902344,0.765625,0.7363281,0.9902344" OffsetPos="10,27" Size="126,115" OriginalSize="146,168" ShowPosInPI="251,392" />
+    <PuzzleUnit Name="JellyFish_00015" UV="0.7402344,0.7617188,0.9882813,0.984375" OffsetPos="9,27" Size="127,114" OriginalSize="146,168" ShowPosInPI="379,390" />
+</PuzzleImage>

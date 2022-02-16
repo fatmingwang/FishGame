@@ -1,0 +1,23 @@
+<MPDIList Name="Group-BlueFish_mpdi" Count="3" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="BlueFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="BlueFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-4.00,-17.00,0.00" Time="0.000000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="4.00,15.00,0.00" Time="0.100000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="-68.00,-37.00,0.00" Time="0.200000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlueFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="BlueFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-5.00,-9.00,0.00" Time="0.000000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="-70.00,-25.00,0.00" Time="0.100000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="-55.00,20.00,0.00" Time="0.200000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlueFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="BlueFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-20.00,-14.00,0.00" Time="0.000000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="1" Position="-93.00,-2.00,0.00" Time="0.100000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+            <PointDataList Index="2" Position="-73.00,-45.00,0.00" Time="0.200000" Size="106.00,68.00" PIName="allfish" ImageName="BlueFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

@@ -1,0 +1,64 @@
+<MPDIList Name="Winnings01_mpdi" Count="2" MPDIVersion="1.2" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="winnings1-1" PathCount="3" PlayCount="1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="KnifeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1113.05,290.15,0.00" Time="1.100000" Size="115.28,63.14" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="1" Position="1113.71,372.24,0.00" Time="1.200000" Size="115.28,63.14" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="2" Position="1073.81,442.68,0.00" Time="1.300000" Size="115.28,63.14" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="3" Position="1012.03,485.20,0.00" Time="1.400000" Size="115.28,63.14" PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="4" Position="912.46,497.16,0.00" Time="1.500000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="5" Position="823.59,467.52,0.00" Time="1.600000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="6" Position="763.84,411.04,0.00" Time="1.700000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="7" Position="751.40,323.46,0.00" Time="1.800000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="8" Position="775.51,247.38,0.00" Time="1.900000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="9" Position="831.95,188.62,0.00" Time="2.000000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="10" Position="913.27,157.91,0.00" Time="2.100000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="11" Position="1012.70,173.97,0.00" Time="2.300000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="12" Position="1077.61,226.65,0.00" Time="2.400000" Size="115.28,63.14"  PIName="allfish" ImageName="KnifeFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1135.10,157.52,0.00" Time="0.000000" Size="257.00,114.00"  PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="974.41,72.91,0.00" Time="0.100000" Size="257.00,114.00"  PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="743.29,46.49,0.00" Time="0.200000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="622.24,143.64,0.00" Time="0.300000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="564.42,285.40,0.00" Time="0.400000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="5" Position="586.31,411.40,0.00" Time="0.500000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="6" Position="718.90,546.91,0.00" Time="0.600000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="7" Position="947.84,553.23,0.00" Time="0.700000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="8" Position="1127.11,476.46,0.00" Time="0.800000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SilverKenmu" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="873.00,239.00,0.00" Time="0.001000" Size="266.00,262.00"   PIName="allfish" ImageName="SilverKenmu" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings1-2" PathCount="3" PlayCount="1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="RedKenmu" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="317.00,226.00,0.00" Time="0.001000" Size="266.00,262.00"   PIName="allfish" ImageName="RedKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="KnifeFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="234.00,376.00,0.00" Time="1.100000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="1" Position="230.00,294.00,0.00" Time="1.200000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="2" Position="267.00,222.00,0.00" Time="1.300000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="3" Position="327.00,177.00,0.00" Time="1.400000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="4" Position="426.00,161.00,0.00" Time="1.500000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="5" Position="516.00,187.00,0.00" Time="1.600000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="6" Position="578.00,241.00,0.00" Time="1.700000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="7" Position="594.00,328.00,0.00" Time="1.800000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="8" Position="573.00,405.00,0.00" Time="1.900000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="9" Position="519.00,466.00,0.00" Time="2.000000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="10" Position="439.00,500.00,0.00" Time="2.100000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="11" Position="339.00,488.00,0.00" Time="2.300000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+            <PointDataList Index="12" Position="272.00,438.00,0.00" Time="2.400000" Size="115.28,63.14"   PIName="allfish" ImageName="KnifeFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="MarlinFish" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="104.00,478.00,0.00" Time="0.000000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="1" Position="268.00,556.00,0.00" Time="0.100000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="2" Position="500.00,573.00,0.00" Time="0.200000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="3" Position="617.00,471.00,0.00" Time="0.300000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="4" Position="669.00,327.00,0.00" Time="0.400000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="5" Position="642.00,202.00,0.00" Time="0.500000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="6" Position="504.00,72.00,0.00" Time="0.600000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="7" Position="275.00,75.00,0.00" Time="0.700000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+            <PointDataList Index="8" Position="99.00,159.00,0.00" Time="0.800000" Size="257.00,114.00"   PIName="allfish" ImageName="MarlinFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

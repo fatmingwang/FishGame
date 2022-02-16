@@ -1,0 +1,73 @@
+<Root EachPlayerLimitCount="6">
+	<CollisionFile FileName="Fish/Image/Bullet/Attack.collision" />
+
+	<PlayerBullet Index="0"  MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_1P" Speed="900"  WebMPDI="FishingNet_XS_1P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_1P"  Speed="900"  WebMPDI="FishingNet_S_1P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_1P"  Speed="900"  WebMPDI="FishingNet_M_1P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_1P"  Speed="1050" WebMPDI="FishingNet_L_1P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="1" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_2P" Speed="900"  WebMPDI="FishingNet_XS_2P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_2P"  Speed="900"  WebMPDI="FishingNet_S_2P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_2P"  Speed="900"  WebMPDI="FishingNet_M_2P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_2P"  Speed="1050" WebMPDI="FishingNet_L_2P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="2" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_3P" Speed="900"  WebMPDI="FishingNet_XS_3P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_3P"  Speed="900"  WebMPDI="FishingNet_S_3P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_3P"  Speed="900"  WebMPDI="FishingNet_M_3P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_3P"  Speed="1050" WebMPDI="FishingNet_L_3P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="3" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_4P" Speed="900"  WebMPDI="FishingNet_XS_4P" WebCollsiion="1Pnet2"/>
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_4P"  Speed="900"  WebMPDI="FishingNet_S_4P"  WebCollsiion="1Pnet_LV2"/>
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_4P"  Speed="900"  WebMPDI="FishingNet_M_4P"  WebCollsiion="1Pnet_LV3"/>
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_4P"  Speed="1050" WebMPDI="FishingNet_L_4P"  WebCollsiion="1Pnet_LV4"/>
+	</PlayerBullet>
+
+	<PlayerBullet Index="4" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_5P" Speed="900"  WebMPDI="FishingNet_XS_5P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_5P"  Speed="900"  WebMPDI="FishingNet_S_5P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_5P"  Speed="900"  WebMPDI="FishingNet_M_5P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_5P"  Speed="1050" WebMPDI="FishingNet_L_5P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="5" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_6P" Speed="900"  WebMPDI="FishingNet_XS_6P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_6P"  Speed="900"  WebMPDI="FishingNet_S_6P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_6P"  Speed="900"  WebMPDI="FishingNet_M_6P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_6P"  Speed="1050" WebMPDI="FishingNet_L_6P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="6" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_7P" Speed="900"  WebMPDI="FishingNet_XS_7P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_7P"  Speed="900"  WebMPDI="FishingNet_S_7P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_7P"  Speed="900"  WebMPDI="FishingNet_M_7P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_7P"  Speed="1050" WebMPDI="FishingNet_L_7P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="7" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_8P" Speed="900"  WebMPDI="FishingNet_XS_8P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_8P"  Speed="900"  WebMPDI="FishingNet_S_8P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_8P"  Speed="900"  WebMPDI="FishingNet_M_8P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_8P"  Speed="1050" WebMPDI="FishingNet_L_8P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="8" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_9P" Speed="900"  WebMPDI="FishingNet_XS_9P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_9P"  Speed="900"  WebMPDI="FishingNet_S_9P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_9P"  Speed="900"  WebMPDI="FishingNet_M_9P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_9P"  Speed="1050" WebMPDI="FishingNet_L_9P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+
+	<PlayerBullet Index="9" MPDIList="Fish/Image/Bullet/Bullet_0001.mpdi" NetMPDIList="Fish/Image/Bullet/FishingNet_0001.mpdi" >
+		<LV1 BulletCollision="1P_bullet"     BulletMPDI="Bullet_XS_10P" Speed="900"  WebMPDI="FishingNet_XS_10P" WebCollsiion="1Pnet2"    />
+		<LV2 BulletCollision="1P_bullet_LV2" BulletMPDI="Bullet_S_10P"  Speed="900"  WebMPDI="FishingNet_S_10P"  WebCollsiion="1Pnet_LV2" />
+		<LV3 BulletCollision="1P_bullet_LV3" BulletMPDI="Bullet_M_10P"  Speed="900"  WebMPDI="FishingNet_M_10P"  WebCollsiion="1Pnet_LV3" />
+		<LV4 BulletCollision="1P_bullet_LV4" BulletMPDI="Bullet_L_10P"  Speed="1050" WebMPDI="FishingNet_L_10P"  WebCollsiion="1Pnet_LV4" />
+	</PlayerBullet>
+</Root>

@@ -1,0 +1,5 @@
+<Root>
+	<ScreenSkip On="0" 	Count="500" />
+
+	<Log	On="1" 		WriteTime="15" />
+</Root>

@@ -1,0 +1,632 @@
+<MPDIList Name="BigFour002_mpdi" Count="5" MPDIVersion="1.2" PICount="2" ImageName="TurtleFish.pi,BigsThreeFourDisc.pi">
+    <MultiPathDynamicImage Name="Flee" PathCount="8" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-21.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-21.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-21.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-21.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-21.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-21.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-21.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-21.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-21.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-21.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-21.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-21.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-21.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-146.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-146.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-146.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-146.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-146.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-146.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-146.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-146.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-146.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-146.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-146.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-146.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-146.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-17.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-87.00,-17.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-87.00,-17.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-87.00,-17.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-87.00,-17.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-87.00,-17.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-87.00,-17.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-87.00,-17.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-87.00,-17.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-87.00,-17.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-87.00,-17.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-87.00,-17.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-87.00,-17.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-83.00,-144.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-83.00,-144.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-83.00,-144.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-83.00,-144.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-83.00,-144.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-83.00,-144.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-83.00,-144.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-83.00,-144.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-83.00,-144.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-83.00,-144.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-83.00,-144.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-83.00,-144.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-83.00,-144.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-117.00,-83.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-117.00,-83.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-117.00,-83.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-117.00,-83.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-117.00,-83.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-117.00,-83.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-117.00,-83.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-117.00,-83.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-117.00,-83.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-117.00,-83.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-117.00,-83.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-117.00,-83.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-117.00,-83.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-117.00,-83.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="9.00,-80.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="9.00,-80.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="9.00,-80.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="9.00,-80.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="9.00,-80.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="9.00,-80.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="9.00,-80.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="9.00,-80.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="9.00,-80.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="9.00,-80.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="9.00,-80.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="9.00,-80.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="9.00,-80.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="9.00,-80.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-54.00,-140.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-54.00,-140.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-54.00,-140.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-54.00,-140.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-54.00,-140.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-54.00,-140.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-54.00,-140.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-54.00,-140.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-54.00,-140.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-54.00,-140.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-54.00,-140.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-54.00,-140.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-54.00,-140.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-54.00,-140.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-55.00,-18.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-55.00,-18.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-55.00,-18.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-55.00,-18.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-55.00,-18.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-55.00,-18.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-55.00,-18.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-55.00,-18.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-55.00,-18.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-55.00,-18.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-55.00,-18.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-55.00,-18.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-55.00,-18.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-55.00,-18.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="8" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-21.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-21.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-21.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-21.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-21.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-21.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-21.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-21.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-21.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-21.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-21.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-21.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-21.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-146.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-146.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-146.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-146.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-146.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-146.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-146.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-146.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-146.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-146.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-146.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-146.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-146.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-17.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-87.00,-17.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-87.00,-17.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-87.00,-17.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-87.00,-17.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-87.00,-17.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-87.00,-17.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-87.00,-17.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-87.00,-17.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-87.00,-17.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-87.00,-17.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-87.00,-17.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-87.00,-17.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-83.00,-144.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-83.00,-144.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-83.00,-144.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-83.00,-144.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-83.00,-144.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-83.00,-144.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-83.00,-144.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-83.00,-144.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-83.00,-144.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-83.00,-144.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-83.00,-144.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-83.00,-144.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-83.00,-144.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-117.00,-83.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-117.00,-83.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-117.00,-83.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-117.00,-83.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-117.00,-83.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-117.00,-83.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-117.00,-83.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-117.00,-83.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-117.00,-83.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-117.00,-83.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-117.00,-83.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-117.00,-83.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-117.00,-83.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-117.00,-83.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="9.00,-80.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="9.00,-80.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="9.00,-80.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="9.00,-80.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="9.00,-80.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="9.00,-80.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="9.00,-80.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="9.00,-80.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="9.00,-80.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="9.00,-80.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="9.00,-80.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="9.00,-80.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="9.00,-80.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="9.00,-80.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-54.00,-140.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-54.00,-140.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-54.00,-140.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-54.00,-140.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-54.00,-140.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-54.00,-140.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-54.00,-140.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-54.00,-140.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-54.00,-140.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-54.00,-140.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-54.00,-140.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-54.00,-140.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-54.00,-140.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-54.00,-140.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-55.00,-18.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-55.00,-18.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-55.00,-18.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-55.00,-18.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-55.00,-18.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-55.00,-18.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-55.00,-18.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-55.00,-18.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-55.00,-18.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-55.00,-18.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-55.00,-18.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-55.00,-18.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-55.00,-18.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-55.00,-18.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="8" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-21.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-21.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-21.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-21.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-21.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-21.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-21.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-21.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-21.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-21.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-21.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-21.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-21.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-146.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-146.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-146.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-146.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-146.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-146.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-146.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-146.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-146.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-146.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-146.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-146.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-146.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-17.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-87.00,-17.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-87.00,-17.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-87.00,-17.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-87.00,-17.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-87.00,-17.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-87.00,-17.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-87.00,-17.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-87.00,-17.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-87.00,-17.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-87.00,-17.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-87.00,-17.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-87.00,-17.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-83.00,-144.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-83.00,-144.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-83.00,-144.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-83.00,-144.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-83.00,-144.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-83.00,-144.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-83.00,-144.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-83.00,-144.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-83.00,-144.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-83.00,-144.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-83.00,-144.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-83.00,-144.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-83.00,-144.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-117.00,-83.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-117.00,-83.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-117.00,-83.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-117.00,-83.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-117.00,-83.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-117.00,-83.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-117.00,-83.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-117.00,-83.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-117.00,-83.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-117.00,-83.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-117.00,-83.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-117.00,-83.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-117.00,-83.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-117.00,-83.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="9.00,-80.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="9.00,-80.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="9.00,-80.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="9.00,-80.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="9.00,-80.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="9.00,-80.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="9.00,-80.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="9.00,-80.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="9.00,-80.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="9.00,-80.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="9.00,-80.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="9.00,-80.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="9.00,-80.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="9.00,-80.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-54.00,-140.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-54.00,-140.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-54.00,-140.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-54.00,-140.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-54.00,-140.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-54.00,-140.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-54.00,-140.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-54.00,-140.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-54.00,-140.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-54.00,-140.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-54.00,-140.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-54.00,-140.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-54.00,-140.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-54.00,-140.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-55.00,-18.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-55.00,-18.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-55.00,-18.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-55.00,-18.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-55.00,-18.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-55.00,-18.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-55.00,-18.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-55.00,-18.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-55.00,-18.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-55.00,-18.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-55.00,-18.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-55.00,-18.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-55.00,-18.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-55.00,-18.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="8" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-21.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-21.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-21.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-21.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-21.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-21.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-21.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-21.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-21.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-21.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-21.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-21.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-21.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-146.00,-81.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-146.00,-81.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-146.00,-81.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-146.00,-81.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-146.00,-81.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-146.00,-81.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-146.00,-81.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-146.00,-81.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-146.00,-81.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-146.00,-81.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-146.00,-81.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-146.00,-81.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-146.00,-81.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-17.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-87.00,-17.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-87.00,-17.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-87.00,-17.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-87.00,-17.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-87.00,-17.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-87.00,-17.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-87.00,-17.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-87.00,-17.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-87.00,-17.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-87.00,-17.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-87.00,-17.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-87.00,-17.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-83.00,-144.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-83.00,-144.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-83.00,-144.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-83.00,-144.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-83.00,-144.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-83.00,-144.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-83.00,-144.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-83.00,-144.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-83.00,-144.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-83.00,-144.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-83.00,-144.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-83.00,-144.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-83.00,-144.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-117.00,-83.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-117.00,-83.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-117.00,-83.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-117.00,-83.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-117.00,-83.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-117.00,-83.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-117.00,-83.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-117.00,-83.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-117.00,-83.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-117.00,-83.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-117.00,-83.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-117.00,-83.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-117.00,-83.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-117.00,-83.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="9.00,-80.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="9.00,-80.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="9.00,-80.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="9.00,-80.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="9.00,-80.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="9.00,-80.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="9.00,-80.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="9.00,-80.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="9.00,-80.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="9.00,-80.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="9.00,-80.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="9.00,-80.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="9.00,-80.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="9.00,-80.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-54.00,-140.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-54.00,-140.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-54.00,-140.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-54.00,-140.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-54.00,-140.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-54.00,-140.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-54.00,-140.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-54.00,-140.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-54.00,-140.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-54.00,-140.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-54.00,-140.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-54.00,-140.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-54.00,-140.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-54.00,-140.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="-55.00,-18.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="-55.00,-18.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="-55.00,-18.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="-55.00,-18.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="-55.00,-18.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="-55.00,-18.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="-55.00,-18.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="-55.00,-18.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="-55.00,-18.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="-55.00,-18.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="-55.00,-18.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="-55.00,-18.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="-55.00,-18.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="-55.00,-18.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="NormalMove" PathCount="8" PlayCount="-1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="BigFour3" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="124.00,63.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="124.00,63.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="124.00,63.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="124.00,63.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="124.00,63.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="124.00,63.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="124.00,63.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="124.00,63.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="124.00,63.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="124.00,63.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="124.00,63.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="124.00,63.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="124.00,63.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour2" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-1.00,63.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="-1.00,63.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="-1.00,63.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="-1.00,63.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="-1.00,63.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="-1.00,63.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="-1.00,63.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="-1.00,63.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="-1.00,63.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="-1.00,63.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="-1.00,63.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="-1.00,63.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="-1.00,63.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour4" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="58.00,127.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="58.00,127.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="58.00,127.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="58.00,127.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="58.00,127.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="58.00,127.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="58.00,127.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="58.00,127.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="58.00,127.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="58.00,127.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="58.00,127.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="58.00,127.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="58.00,127.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigFour" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="62.00,0.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="1" Position="62.00,0.00,0.00" Time="0.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="2" Position="62.00,0.00,0.00" Time="0.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="3" Position="62.00,0.00,0.00" Time="0.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="4" Position="62.00,0.00,0.00" Time="0.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="5" Position="62.00,0.00,0.00" Time="0.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="6" Position="62.00,0.00,0.00" Time="1.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="7" Position="62.00,0.00,0.00" Time="1.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="8" Position="62.00,0.00,0.00" Time="1.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="9" Position="62.00,0.00,0.00" Time="1.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="10" Position="62.00,0.00,0.00" Time="1.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="11" Position="62.00,0.00,0.00" Time="1.833333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+            <PointDataList Index="12" Position="62.00,0.00,0.00" Time="2.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BigsThreeFourDisc" ImageName="BigFour" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="28.00,61.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="28.00,61.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="28.00,61.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="28.00,61.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="28.00,61.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="28.00,61.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="28.00,61.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="28.00,61.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="28.00,61.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="28.00,61.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="28.00,61.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="28.00,61.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="28.00,61.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="28.00,61.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="154.00,64.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="154.00,64.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="154.00,64.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="154.00,64.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="154.00,64.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="154.00,64.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="154.00,64.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="154.00,64.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="154.00,64.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="154.00,64.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="154.00,64.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="154.00,64.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="154.00,64.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="154.00,64.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="91.00,4.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="91.00,4.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="91.00,4.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="91.00,4.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="91.00,4.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="91.00,4.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="91.00,4.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="91.00,4.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="91.00,4.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="91.00,4.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="91.00,4.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="91.00,4.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="91.00,4.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="91.00,4.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="TurtleFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="14" LOD="1">
+            <PointDataList Index="0" Position="90.00,126.00,0.00" Time="0.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00000" />
+            <PointDataList Index="1" Position="90.00,126.00,0.00" Time="0.153846" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00001" />
+            <PointDataList Index="2" Position="90.00,126.00,0.00" Time="0.307692" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00002" />
+            <PointDataList Index="3" Position="90.00,126.00,0.00" Time="0.461538" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00003" />
+            <PointDataList Index="4" Position="90.00,126.00,0.00" Time="0.615385" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00004" />
+            <PointDataList Index="5" Position="90.00,126.00,0.00" Time="0.769231" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00005" />
+            <PointDataList Index="6" Position="90.00,126.00,0.00" Time="0.923077" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00006" />
+            <PointDataList Index="7" Position="90.00,126.00,0.00" Time="1.076923" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00007" />
+            <PointDataList Index="8" Position="90.00,126.00,0.00" Time="1.230769" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00008" />
+            <PointDataList Index="9" Position="90.00,126.00,0.00" Time="1.384615" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00009" />
+            <PointDataList Index="10" Position="90.00,126.00,0.00" Time="1.538462" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00010" />
+            <PointDataList Index="11" Position="90.00,126.00,0.00" Time="1.692308" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00011" />
+            <PointDataList Index="12" Position="90.00,126.00,0.00" Time="1.846154" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00012" />
+            <PointDataList Index="13" Position="90.00,126.00,0.00" Time="2.000000" Size="128.70,168.30" Scale="1.10,1.10" PIName="TurtleFish" ImageName="TurtleFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

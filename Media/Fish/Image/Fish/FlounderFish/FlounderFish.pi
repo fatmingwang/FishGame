@@ -1,0 +1,23 @@
+<!-- Author:Fatming,Time:2013/9/26 ¤U¤È 06:16:55 -->
+<PuzzleImage OriginalNameSort="FlounderFish_00000,FlounderFish_00001,FlounderFish_00002,FlounderFish_00003,FlounderFish_00004,FlounderFish_00005,FlounderFish_00006,FlounderFish_00007,FlounderFish_00008,FlounderFish_00009,FlounderFishAttack_00000,FlounderFishAttack_00001,FlounderFishAttack_00002,FlounderFishAttack_00003,FlounderFishAttack_00004,FlounderFishAttack_00005,FlounderFishAttack_00006,FlounderFishAttack_00007,FlounderFishAttack_00008,FlounderFishAttack_00009" ImageName="FlounderFish.png" Count="20" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="FlounderFish_00000" UV="0,0,0.1484375,0.1474609" OffsetPos="7,11" Size="152,151" OriginalSize="176,176" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="FlounderFish_00001" UV="0.1494141,0,0.3046875,0.1484375" OffsetPos="6,11" Size="159,152" OriginalSize="176,176" ShowPosInPI="153,0" />
+    <PuzzleUnit Name="FlounderFish_00002" UV="0.3056641,0,0.4541016,0.1542969" OffsetPos="6,8" Size="152,158" OriginalSize="176,176" ShowPosInPI="313,0" />
+    <PuzzleUnit Name="FlounderFish_00003" UV="0.4550781,0,0.5976563,0.1689453" OffsetPos="6,0" Size="146,173" OriginalSize="176,176" ShowPosInPI="466,0" />
+    <PuzzleUnit Name="FlounderFish_00004" UV="0.5986328,0,0.7236328,0.171875" OffsetPos="7,0" Size="128,176" OriginalSize="176,176" ShowPosInPI="613,0" />
+    <PuzzleUnit Name="FlounderFish_00005" UV="0.7246094,0,0.8496094,0.1416016" OffsetPos="7,15" Size="128,145" OriginalSize="176,176" ShowPosInPI="742,0" />
+    <PuzzleUnit Name="FlounderFish_00006" UV="0.8505859,0,0.9755859,0.1357422" OffsetPos="7,18" Size="128,139" OriginalSize="176,176" ShowPosInPI="871,0" />
+    <PuzzleUnit Name="FlounderFish_00007" UV="0,0.1728516,0.1259766,0.3125" OffsetPos="6,14" Size="129,143" OriginalSize="176,176" ShowPosInPI="0,177" />
+    <PuzzleUnit Name="FlounderFish_00008" UV="0.1269531,0.1728516,0.2529297,0.3232422" OffsetPos="6,9" Size="129,154" OriginalSize="176,176" ShowPosInPI="130,177" />
+    <PuzzleUnit Name="FlounderFish_00009" UV="0.2539063,0.1728516,0.3935547,0.3291016" OffsetPos="6,7" Size="143,160" OriginalSize="176,176" ShowPosInPI="260,177" />
+    <PuzzleUnit Name="FlounderFishAttack_00000" UV="0.3945313,0.1728516,0.5429688,0.3203125" OffsetPos="7,11" Size="152,151" OriginalSize="176,176" ShowPosInPI="404,177" />
+    <PuzzleUnit Name="FlounderFishAttack_00001" UV="0.5439453,0.1728516,0.6992188,0.3212891" OffsetPos="6,11" Size="159,152" OriginalSize="176,176" ShowPosInPI="557,177" />
+    <PuzzleUnit Name="FlounderFishAttack_00002" UV="0.7001953,0.1728516,0.8486328,0.3271484" OffsetPos="6,8" Size="152,158" OriginalSize="176,176" ShowPosInPI="717,177" />
+    <PuzzleUnit Name="FlounderFishAttack_00003" UV="0.8496094,0.1728516,0.9921875,0.3417969" OffsetPos="6,0" Size="146,173" OriginalSize="176,176" ShowPosInPI="870,177" />
+    <PuzzleUnit Name="FlounderFishAttack_00004" UV="0,0.3427734,0.125,0.5146484" OffsetPos="7,0" Size="128,176" OriginalSize="176,176" ShowPosInPI="0,351" />
+    <PuzzleUnit Name="FlounderFishAttack_00005" UV="0.1259766,0.3427734,0.2509766,0.484375" OffsetPos="7,15" Size="128,145" OriginalSize="176,176" ShowPosInPI="129,351" />
+    <PuzzleUnit Name="FlounderFishAttack_00006" UV="0.2519531,0.3427734,0.3769531,0.4785156" OffsetPos="7,18" Size="128,139" OriginalSize="176,176" ShowPosInPI="258,351" />
+    <PuzzleUnit Name="FlounderFishAttack_00007" UV="0.3779297,0.3427734,0.5039063,0.4824219" OffsetPos="6,14" Size="129,143" OriginalSize="176,176" ShowPosInPI="387,351" />
+    <PuzzleUnit Name="FlounderFishAttack_00008" UV="0.5048828,0.3427734,0.6308594,0.4931641" OffsetPos="6,9" Size="129,154" OriginalSize="176,176" ShowPosInPI="517,351" />
+    <PuzzleUnit Name="FlounderFishAttack_00009" UV="0.6318359,0.3427734,0.7714844,0.4990234" OffsetPos="6,7" Size="143,160" OriginalSize="176,176" ShowPosInPI="647,351" />
+</PuzzleImage>

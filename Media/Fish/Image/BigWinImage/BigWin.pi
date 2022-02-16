@@ -1,0 +1,19 @@
+<!-- Author:User,Time:2012/11/23 ¤W¤È 09:56:11 -->
+<PuzzleImage OriginalNameSort="BigWinNumerial0,BigWinNumerial1,BigWinNumerial2,BigWinNumerial3,BigWinNumerial4,BigWinNumerial5,BigWinNumerial6,BigWinNumerial7,BigWinNumerial8,BigWinNumerial9,Won,money,Runner_Bonues_1,Runner_Bonues_2,Runner_M,Runner_S" ImageName="BigWin.png" Count="16" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BigWinNumerial0" UV="0,0,0.06,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="BigWinNumerial1" UV="0.06333333,0,0.1233333,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="38,0" />
+    <PuzzleUnit Name="BigWinNumerial2" UV="0.1266667,0,0.1866667,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="76,0" />
+    <PuzzleUnit Name="BigWinNumerial3" UV="0.19,0,0.25,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="114,0" />
+    <PuzzleUnit Name="BigWinNumerial4" UV="0.2533333,0,0.3133333,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="152,0" />
+    <PuzzleUnit Name="BigWinNumerial5" UV="0.3166667,0,0.3766667,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="190,0" />
+    <PuzzleUnit Name="BigWinNumerial6" UV="0.38,0,0.44,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="228,0" />
+    <PuzzleUnit Name="BigWinNumerial7" UV="0.4433333,0,0.5033333,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="266,0" />
+    <PuzzleUnit Name="BigWinNumerial8" UV="0.5066667,0,0.5666667,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="304,0" />
+    <PuzzleUnit Name="BigWinNumerial9" UV="0.57,0,0.63,0.08166666" OffsetPos="0,0" Size="36,49" OriginalSize="36,49" ShowPosInPI="342,0" />
+    <PuzzleUnit Name="money" UV="0.79,0,0.9666666,0.1766667" OffsetPos="0,0" Size="106,106" OriginalSize="106,106" ShowPosInPI="474,0" />
+    <PuzzleUnit Name="Runner_Bonues_1" UV="0.006666667,0.08666667,0.3716667,0.455" OffsetPos="8,9" Size="219,221" OriginalSize="238,237" ShowPosInPI="4,52" />
+    <PuzzleUnit Name="Runner_Bonues_2" UV="0.3816667,0.08833333,0.7466667,0.4566667" OffsetPos="8,9" Size="219,221" OriginalSize="238,237" ShowPosInPI="229,53" />
+    <PuzzleUnit Name="Runner_M" UV="0.005,0.4633333,0.375,0.89" OffsetPos="0,0" Size="222,256" OriginalSize="222,256" ShowPosInPI="3,278" />
+    <PuzzleUnit Name="Runner_S" UV="0.385,0.4666667,0.7183333,0.8" OffsetPos="0,0" Size="200,200" OriginalSize="200,200" ShowPosInPI="231,280" />
+    <PuzzleUnit Name="Won" UV="0.6333333,0,0.7866667,0.07833333" OffsetPos="0,0" Size="92,47" OriginalSize="92,47" ShowPosInPI="380,0" />
+</PuzzleImage>

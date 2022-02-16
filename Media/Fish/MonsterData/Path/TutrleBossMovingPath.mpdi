@@ -1,0 +1,37 @@
+<MPDIList Name="TutrleBossMovingPath_mpdi" Count="1" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="Boss" PathCount="4" PlayCount="1" TotalPlayTime="13.000000">
+        <CueToStartCurvesWithTime Name="GoldDragon2" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="4">
+            <PointDataList Index="0" Position="-570.00,265.00,0.00" Time="0.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="1" Position="61.00,99.00,0.00" Time="2.166667" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="2" Position="1191.00,107.00,0.00" Time="4.333333" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="3" Position="1216.00,657.00,0.00" Time="6.500000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="4" Position="84.00,662.00,0.00" Time="8.666667" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="5" Position="59.00,97.00,0.00" Time="10.833334" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="6" Position="-606.00,51.00,0.00" Time="13.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldDragon3" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="4">
+            <PointDataList Index="0" Position="1159.00,-206.00,0.00" Time="0.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="1" Position="1171.00,665.00,0.00" Time="2.600000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="2" Position="90.00,665.00,0.00" Time="5.200000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="3" Position="79.00,53.00,0.00" Time="7.800000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="4" Position="1161.00,62.00,0.00" Time="10.400000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="5" Position="1165.00,-202.00,0.00" Time="13.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldDragon4" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="4">
+            <PointDataList Index="0" Position="59.00,782.00,0.00" Time="0.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="1" Position="41.00,47.00,0.00" Time="2.600000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="2" Position="1183.00,47.00,0.00" Time="5.200000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="3" Position="1177.00,652.00,0.00" Time="7.800000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="4" Position="64.00,656.00,0.00" Time="10.400000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="5" Position="53.00,759.00,0.00" Time="13.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldDragon1" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="4">
+            <PointDataList Index="0" Position="1209.00,755.00,0.00" Time="0.000000" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="1" Position="1196.00,40.00,0.00" Time="2.599800" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="2" Position="67.00,28.00,0.00" Time="5.199600" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="3" Position="60.00,670.00,0.00" Time="7.799400" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="4" Position="1200.00,680.00,0.00" Time="10.399200" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+            <PointDataList Index="5" Position="1230.00,761.00,0.00" Time="12.999001" Size="474.00,149.00" PIName="allfish" ImageName="GoldDragon" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

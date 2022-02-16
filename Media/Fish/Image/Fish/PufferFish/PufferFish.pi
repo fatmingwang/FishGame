@@ -1,0 +1,28 @@
+<!-- Author:staric,Time:2013/2/19 ¤W¤È 11:59:10 -->
+<PuzzleImage OriginalNameSort="PufferFish_00000,PufferFish_00001,PufferFish_00002,PufferFish_00003,PufferFish_00004,PufferFish_00005,PufferFish_00006,PufferFish_00007,PufferFish_00008,PufferFish_00009,PufferFish_00010,PufferFish_00011,PufferFish_00012,PufferFish_00013,PufferFish_00014,PufferFish_00015,PufferFish_00016,PufferFish_00017,PufferFish_00018,PufferFish_00019,PufferFish_00020,PufferFish_00021,PufferFish_00022,PufferFish_00023,PufferFish_00024" ImageName="PufferFish.png" Count="25" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="PufferFish_00000" UV="0,0,0.1933594,0.1699219" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="PufferFish_00001" UV="0.1972656,0,0.390625,0.1699219" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="101,0" />
+    <PuzzleUnit Name="PufferFish_00002" UV="0.3945313,0,0.5878906,0.1699219" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="202,0" />
+    <PuzzleUnit Name="PufferFish_00003" UV="0.5917969,0,0.7851563,0.1699219" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="303,0" />
+    <PuzzleUnit Name="PufferFish_00004" UV="0.7890625,0,0.9824219,0.1699219" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="404,0" />
+    <PuzzleUnit Name="PufferFish_00005" UV="0,0.1738281,0.1933594,0.34375" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="0,89" />
+    <PuzzleUnit Name="PufferFish_00006" UV="0.1972656,0.1738281,0.390625,0.34375" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="101,89" />
+    <PuzzleUnit Name="PufferFish_00007" UV="0.3945313,0.1738281,0.5878906,0.34375" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="202,89" />
+    <PuzzleUnit Name="PufferFish_00008" UV="0.5917969,0.1738281,0.7851563,0.34375" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="303,89" />
+    <PuzzleUnit Name="PufferFish_00009" UV="0.7890625,0.1738281,0.9824219,0.34375" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="404,89" />
+    <PuzzleUnit Name="PufferFish_00010" UV="0,0.3476563,0.1933594,0.5175781" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="0,178" />
+    <PuzzleUnit Name="PufferFish_00011" UV="0.1972656,0.3476563,0.390625,0.5175781" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="101,178" />
+    <PuzzleUnit Name="PufferFish_00012" UV="0.3945313,0.3476563,0.5878906,0.5175781" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="202,178" />
+    <PuzzleUnit Name="PufferFish_00013" UV="0.5917969,0.3476563,0.7851563,0.5175781" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="303,178" />
+    <PuzzleUnit Name="PufferFish_00014" UV="0.7890625,0.3476563,0.9824219,0.5175781" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="404,178" />
+    <PuzzleUnit Name="PufferFish_00015" UV="0,0.5214844,0.1933594,0.6914063" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="0,267" />
+    <PuzzleUnit Name="PufferFish_00016" UV="0.1972656,0.5214844,0.390625,0.6914063" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="101,267" />
+    <PuzzleUnit Name="PufferFish_00017" UV="0.3945313,0.5214844,0.5878906,0.6914063" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="202,267" />
+    <PuzzleUnit Name="PufferFish_00018" UV="0.5917969,0.5214844,0.7851563,0.6914063" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="303,267" />
+    <PuzzleUnit Name="PufferFish_00019" UV="0.7890625,0.5214844,0.9824219,0.6914063" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="404,267" />
+    <PuzzleUnit Name="PufferFish_00020" UV="0,0.6953125,0.1933594,0.8652344" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="0,356" />
+    <PuzzleUnit Name="PufferFish_00021" UV="0.1972656,0.6953125,0.390625,0.8652344" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="101,356" />
+    <PuzzleUnit Name="PufferFish_00022" UV="0.3945313,0.6953125,0.5878906,0.8652344" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="202,356" />
+    <PuzzleUnit Name="PufferFish_00023" UV="0.5917969,0.6953125,0.7851563,0.8652344" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="303,356" />
+    <PuzzleUnit Name="PufferFish_00024" UV="0.7890625,0.6953125,0.9824219,0.8652344" OffsetPos="0,0" Size="99,87" OriginalSize="99,87" ShowPosInPI="404,356" />
+</PuzzleImage>

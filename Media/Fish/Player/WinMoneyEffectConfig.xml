@@ -1,0 +1,9 @@
+<root TotalEffectAmount="500" CoinEffectMaxAmount="10" PrizeEffectMaxAmount="10">
+	<EffectInfo EffectName="GoldCoin"   EffectType="Coin"   MPDIList="Fish\Image\CoinEffect\CoinPopup.mpdi"    EffectMPDI="GoldCoinPopup"     NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+	<EffectInfo EffectName="SilverCoin" EffectType="Coin"   MPDIList="Fish\Image\CoinEffect\CoinPopup.mpdi"    EffectMPDI="SilverCoinPopup"   NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+	<EffectInfo EffectName="BigWin"     EffectType="BigWin" MPDIList="Fish\Image\BigWinImage\BigWin.mpdi"      EffectMPDI="BigWin3"           NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+	<EffectInfo EffectName="BigWin1"    EffectType="BigWin" MPDIList="Fish\Image\BigWinImage\BigWinShow1.mpdi" EffectMPDI="BigWinShow1-3"     NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+	<EffectInfo EffectName="BigWin2"    EffectType="BigWin" MPDIList="Fish\Image\BigWinImage\BigWinShow2.mpdi" EffectMPDI="BigWinShow2Loop-3" NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+	<EffectInfo EffectName="BigWin3"    EffectType="BigWin" MPDIList="Fish\Image\BigWinImage\BigWinShow3.mpdi" EffectMPDI="BigWinShow3"       NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+	<EffectInfo EffectName="BonusShow"  EffectType="BigWin" MPDIList="Fish\Image\BigWinImage\BonusShow.mpdi"   EffectMPDI="BonusShow_D"       NumerialMPDIList="Fish\Image\CoinEffect\CoinScore.mpdi" NumerialMPDI="Player1CoinScore" />
+</root>

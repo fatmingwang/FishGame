@@ -1,0 +1,38 @@
+<!-- Author:matt,Time:2013/2/4 ¤U¤È 03:14:30 -->
+<PuzzleImage OriginalNameSort="SquidFish_00000,SquidFish_00001,SquidFish_00002,SquidFish_00003,SquidFish_00004,SquidFish_00005,SquidFish_00006,SquidFish_00007,SquidFish_00008,SquidFish_00009,SquidFish_00010,SquidFish_00011,SquidFish_00012,SquidFish_00013,SquidFish_00014,SquidFish_00015,SquidFish_00016,SquidFish_00017,SquidFish_00018,SquidFish_00019,SquidFish_00020,SquidFish_00021,SquidFish_00022,SquidFish_00023,SquidFish_00024,SquidFish_00025,SquidFish_00026,SquidFish_00027,SquidFish_00028,SquidFish_00029,SquidFish_00030,SquidFish_00031,SquidFish_00032,SquidFish_00033,SquidFish_00034" ImageName="SquidFish.png" Count="35" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="SquidFish_00000" UV="0,0,0.1835938,0.08789063" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="SquidFish_00001" UV="0.1894531,0,0.3730469,0.08789063" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,0" />
+    <PuzzleUnit Name="SquidFish_00002" UV="0.3789063,0,0.5625,0.08789063" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,0" />
+    <PuzzleUnit Name="SquidFish_00003" UV="0.5683594,0,0.7519531,0.08789063" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,0" />
+    <PuzzleUnit Name="SquidFish_00004" UV="0.7578125,0,0.9414063,0.08789063" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,0" />
+    <PuzzleUnit Name="SquidFish_00005" UV="0,0.09375,0.1835938,0.1816406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,48" />
+    <PuzzleUnit Name="SquidFish_00006" UV="0.1894531,0.09375,0.3730469,0.1816406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,48" />
+    <PuzzleUnit Name="SquidFish_00007" UV="0.3789063,0.09375,0.5625,0.1816406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,48" />
+    <PuzzleUnit Name="SquidFish_00008" UV="0.5683594,0.09375,0.7519531,0.1816406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,48" />
+    <PuzzleUnit Name="SquidFish_00009" UV="0.7578125,0.09375,0.9414063,0.1816406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,48" />
+    <PuzzleUnit Name="SquidFish_00010" UV="0,0.1875,0.1835938,0.2753906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,96" />
+    <PuzzleUnit Name="SquidFish_00011" UV="0.1894531,0.1875,0.3730469,0.2753906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,96" />
+    <PuzzleUnit Name="SquidFish_00012" UV="0.3789063,0.1875,0.5625,0.2753906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,96" />
+    <PuzzleUnit Name="SquidFish_00013" UV="0.5683594,0.1875,0.7519531,0.2753906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,96" />
+    <PuzzleUnit Name="SquidFish_00014" UV="0.7578125,0.1875,0.9414063,0.2753906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,96" />
+    <PuzzleUnit Name="SquidFish_00015" UV="0,0.28125,0.1835938,0.3691406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,144" />
+    <PuzzleUnit Name="SquidFish_00016" UV="0.1894531,0.28125,0.3730469,0.3691406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,144" />
+    <PuzzleUnit Name="SquidFish_00017" UV="0.3789063,0.28125,0.5625,0.3691406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,144" />
+    <PuzzleUnit Name="SquidFish_00018" UV="0.5683594,0.28125,0.7519531,0.3691406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,144" />
+    <PuzzleUnit Name="SquidFish_00019" UV="0.7578125,0.28125,0.9414063,0.3691406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,144" />
+    <PuzzleUnit Name="SquidFish_00020" UV="0,0.375,0.1835938,0.4628906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,192" />
+    <PuzzleUnit Name="SquidFish_00021" UV="0.1894531,0.375,0.3730469,0.4628906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,192" />
+    <PuzzleUnit Name="SquidFish_00022" UV="0.3789063,0.375,0.5625,0.4628906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,192" />
+    <PuzzleUnit Name="SquidFish_00023" UV="0.5683594,0.375,0.7519531,0.4628906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,192" />
+    <PuzzleUnit Name="SquidFish_00024" UV="0.7578125,0.375,0.9414063,0.4628906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,192" />
+    <PuzzleUnit Name="SquidFish_00025" UV="0,0.46875,0.1835938,0.5566406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,240" />
+    <PuzzleUnit Name="SquidFish_00026" UV="0.1894531,0.46875,0.3730469,0.5566406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,240" />
+    <PuzzleUnit Name="SquidFish_00027" UV="0.3789063,0.46875,0.5625,0.5566406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,240" />
+    <PuzzleUnit Name="SquidFish_00028" UV="0.5683594,0.46875,0.7519531,0.5566406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,240" />
+    <PuzzleUnit Name="SquidFish_00029" UV="0.7578125,0.46875,0.9414063,0.5566406" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,240" />
+    <PuzzleUnit Name="SquidFish_00030" UV="0,0.5625,0.1835938,0.6503906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="0,288" />
+    <PuzzleUnit Name="SquidFish_00031" UV="0.1894531,0.5625,0.3730469,0.6503906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="97,288" />
+    <PuzzleUnit Name="SquidFish_00032" UV="0.3789063,0.5625,0.5625,0.6503906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="194,288" />
+    <PuzzleUnit Name="SquidFish_00033" UV="0.5683594,0.5625,0.7519531,0.6503906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="291,288" />
+    <PuzzleUnit Name="SquidFish_00034" UV="0.7578125,0.5625,0.9414063,0.6503906" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="388,288" />
+</PuzzleImage>

@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="BigFour002" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="BigFour002" Type="cFAIAnimationCharacter" cFAICharacterStatus="BigFour002" Speed="10" RunAwaySpeed="35"  >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="BigFour002" StartBehaviorName="Path" cFAICharacterInterface="BigFour002" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="100" Wall="0,0,1280,720" XDistanceRestrict="3,7" YDistanceRestrict="3,7" TimeRestrict="24,27" PointRestrict="30,37" DistanceChangePoint="8,11" DirectionOffsetX="-0.3,0.3" DirectionOffsetY="-0.3,0.3" LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="0" PathFile="Fish/MonsterData/Path/TurtleFish.path" />
+	</cFAIMachine>
+</Root>

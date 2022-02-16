@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="HammerheadFish" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="HammerheadFish" Type="cFAIAnimationCharacter" cFAICharacterStatus="HammerheadFish" Speed="30" RunAwaySpeed="51" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="HammerheadFish" StartBehaviorName="Path" cFAICharacterInterface="HammerheadFish" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="0" Wall="0,0,1280,720" XDistanceRestrict="0.8,2" YDistanceRestrict="0.9,1.5" TimeRestrict="15,25" PointRestrict="30,35" DistanceChangePoint="3,7"  LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="100" PathFile="Fish/MonsterData/Path/HammerheadFish.path" />
+	</cFAIMachine>
+</Root>

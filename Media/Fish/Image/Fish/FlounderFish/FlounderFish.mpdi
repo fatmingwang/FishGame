@@ -1,0 +1,81 @@
+<MPDIList Name="FlounderFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="FlounderFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="FlounderFish" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.750000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.900000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.050000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.200000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00009" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="FlounderFish" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.750000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.900000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.050000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.200000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00009" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FlounderFishAttack" Blending="1" SrcBlendingData="770" DestBlendingData="771" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFishAttack_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.29" PIName="FlounderFish" ImageName="FlounderFishAttack_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.59" PIName="FlounderFish" ImageName="FlounderFishAttack_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.88" PIName="FlounderFish" ImageName="FlounderFishAttack_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFishAttack_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.750000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFishAttack_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.900000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.88" PIName="FlounderFish" ImageName="FlounderFishAttack_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.050000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.59" PIName="FlounderFish" ImageName="FlounderFishAttack_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.200000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.29" PIName="FlounderFish" ImageName="FlounderFishAttack_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.300000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFishAttack_00009" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="1.300000">
+        <CueToStartCurvesWithTime Name="FlounderFish" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.750000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.900000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.050000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.200000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00009" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FlounderFishAttack" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.750000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.900000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.050000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.200000" Size="176.00,176.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="FlounderFish" ImageName="FlounderFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00009" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="FlounderFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+            <PointDataList Index="1" Position="9.00,-10.00,0.00" Time="0.150000" Size="176.00,176.00" Scale="1.00,1.00" Angles="0.00,0.00,-9.00" PIName="FlounderFish" ImageName="FlounderFish_00008" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00002" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="FlounderFish" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="-6.00,0.00,0.00" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="176.00,176.00" Scale="1.00,1.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="1.000000" Size="200.64,200.64" Scale="1.14,1.14" Angles="0.00,0.00,360.00" PIName="FlounderFish" ImageName="FlounderFish_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

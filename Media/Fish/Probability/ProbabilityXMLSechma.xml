@@ -1,0 +1,26 @@
+<Root>
+	<!--Header Name="TimeGap" Size="1" /-->
+	<Data	Name="P1Revnune" Size="8" Type="int64" />
+	<Data	Name="P2Revnune" Size="8" Type="int64" />
+	<Data	Name="P3Revnune" Size="8" Type="int64" />
+	<Data	Name="P4Revnune" Size="8" Type="int64" />
+	<Data	Name="P5Revnune" Size="8" Type="int64" />
+	<Data	Name="P6Revnune" Size="8" Type="int64" />
+	<Data	Name="P7Revnune" Size="8" Type="int64" />
+	<Data	Name="P8Revnune" Size="8" Type="int64" />
+	<Data	Name="P9Revnune" Size="8" Type="int64" />
+	<Data	Name="P10Revnune" Size="8" Type="int64" />
+	<Data	Name="P1Money"   Size="8" Type="int64" />
+	<Data	Name="P2Money"   Size="8" Type="int64" />
+	<Data	Name="P3Money"   Size="8" Type="int64" />
+	<Data	Name="P4Money"   Size="8" Type="int64" />
+	<Data	Name="P5Money"   Size="8" Type="int64" />
+	<Data	Name="P6Money"   Size="8" Type="int64" />
+	<Data	Name="P7Money"   Size="8" Type="int64" />
+	<Data	Name="P8Money"   Size="8" Type="int64" />
+	<Data	Name="P9Money"   Size="8" Type="int64" />
+	<Data	Name="P10Money"   Size="8" Type="int64" />
+	<Data	Name="TotalRevnune" Size="8" Type="int64" />
+	<Data	Name="Probability" Size="4" Type="float" />
+
+</Root>

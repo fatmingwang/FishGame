@@ -1,0 +1,343 @@
+<EventPackages FontFile="EventFont" ChangePackageVariableName="CurrentPackageName" EventObjectStatusFileName="WithMachineNumberEventObjectStatus.xml" EventVariableFileName="WithMachineNumberVariableData.xml" EventInstanceFileName="WithMachineNumberEventInstance.xml">
+
+	<EventPackage Name="MainMenu" >
+		<cEventObjectInstance Name="StartMainMenu"       cEventInstance="StartMainMenu" />
+		<cEventObjectInstance Name="MainMenuIntoSubMenu" cEventInstance="MainMenuIntoSubMenu" />
+
+		<cEventObjectInstance Name="MainMenu_SelctionUp"   cEventInstance="MainMenu_SelctionUp" />
+		<cEventObjectInstance Name="MainMenu_SelctionDown" cEventInstance="MainMenu_SelctionDown" />
+
+		<cEventObjectInstance Name="MainMenuImg" cEventObjectStatus="MainMenuImg" />
+
+		<cEventObjectInstance Name="MainMenuTip"         cEventObjectStatus="MainMenuTip"         EventObjectStatusVariable="VendorMenuSelectedIndex" />
+		<cEventObjectInstance Name="MainMenu_SelectImg"  cEventObjectStatus="MainMenu_SelectImg"  EventObjectStatusVariable="VendorMenuSelectedIndex" />
+		<cEventObjectInstance Name="MainMenu_SelectFish" cEventObjectStatus="MainMenu_SelectFish" EventObjectStatusVariable="VendorMenuSelectedIndex" />
+	</EventPackage>
+
+	<EventPackage Name="ParameterAdjust" >
+		<cEventObjectInstance Name="RestoreDefaultValue" cEventInstance="RestoreDefaultValue" />
+		<cEventObjectInstance Name="SaveData"            cEventInstance="SaveData" />
+		<cEventObjectInstance Name="BackToMainMenu"      cEventInstance="BackToMainMenu" />
+
+		<cEventObjectInstance Name="ParameterAdjust_SelctionUp"   cEventInstance="ParameterAdjust_SelctionUp" />
+		<cEventObjectInstance Name="ParameterAdjust_SelctionDown" cEventInstance="ParameterAdjust_SelctionDown" />
+
+		<cEventObjectInstance Name="ParameterAdjust_FirePowerLimitSelectLeft"  cEventInstance="ParameterAdjust_FirePowerLimitSelectLeft" />
+		<cEventObjectInstance Name="ParameterAdjust_FirePowerLimitSelectRight" cEventInstance="ParameterAdjust_FirePowerLimitSelectRight" />
+
+		<cEventObjectInstance Name="ParameterAdjust_FirePowerMinSelectLeft"  cEventInstance="ParameterAdjust_FirePowerMinSelectLeft" />
+		<cEventObjectInstance Name="ParameterAdjust_FirePowerMinSelectRight" cEventInstance="ParameterAdjust_FirePowerMinSelectRight" />
+
+		<cEventObjectInstance Name="ParameterAdjust_FirePowerAddPointSelectLeft"  cEventInstance="ParameterAdjust_FirePowerAddPointSelectLeft" />
+		<cEventObjectInstance Name="ParameterAdjust_FirePowerAddPointSelectRight" cEventInstance="ParameterAdjust_FirePowerAddPointSelectRight" />
+
+		<cEventObjectInstance Name="ParameterAdjust_RefundCoinOrTicketSelectLeft"  cEventInstance="ParameterAdjust_RefundCoinOrTicketSelectLeft" />
+		<cEventObjectInstance Name="ParameterAdjust_RefundCoinOrTicketSelectRight" cEventInstance="ParameterAdjust_RefundCoinOrTicketSelectRight" />
+
+		<cEventObjectInstance Name="ParameterAdjust_SoundVolumeLeft"  cEventInstance="ParameterAdjust_SoundVolumeLeft" />
+		<cEventObjectInstance Name="ParameterAdjust_SoundVolumeRight" cEventInstance="ParameterAdjust_SoundVolumeRight" />
+
+		<cEventObjectInstance Name="ParameterAdjust_ModelTypeSelectLeft"  cEventInstance="ParameterAdjust_ModelTypeSelectLeft" />
+		<cEventObjectInstance Name="ParameterAdjust_ModelTypeSelectRight" cEventInstance="ParameterAdjust_ModelTypeSelectRight" />
+
+
+
+
+		<cEventObjectInstance Name="ParameterAdjustImg" cEventObjectStatus="ParameterAdjustImg" />
+
+		<cEventObjectInstance Name="PowerLimitImg"    cEventObjectStatus="PowerLimitImg"    />
+		<cEventObjectInstance Name="PowerMinImg"      cEventObjectStatus="PowerMinImg"      EventObjectStatusVariable="BulletPayRateMinPoint" />
+		<cEventObjectInstance Name="PowerAddPointImg" cEventObjectStatus="PowerAddPointImg" EventObjectStatusVariable="BulletPayRateAddPoint" />
+		<cEventObjectInstance Name="CoinTicketImg"    cEventObjectStatus="CoinTicketImg"    EventObjectStatusVariable="RefundCoinOrTicket" />
+		<cEventObjectInstance Name="SoundVolumeImg"   cEventObjectStatus="SoundVolumeImg"   EventObjectStatusVariable="Sound" />
+		<cEventObjectInstance Name="PlayerCount_Img"  cEventObjectStatus="PlayerCount_Img"  EventObjectStatusVariable="PlayerCount" />
+		<cEventObjectInstance Name="PlayerCount_Text" cEventObjectStatus="PlayerCount_Text" EventObjectStatusVariable="PlayerCount" />
+
+
+		<cEventObjectInstance Name="ParameterAdjust_Tip"        cEventObjectStatus="ParameterAdjust_Tip"        EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="ParameterAdjust_SelectImg"  cEventObjectStatus="ParameterAdjust_SelectImg"  EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="ParameterAdjust_SelectFish" cEventObjectStatus="ParameterAdjust_SelectFish" EventObjectStatusVariable="AllSubMenuResetIndex" />
+	</EventPackage>
+
+	<EventPackage Name="DecodeAdjust" >
+
+
+		<cEventObjectInstance Name="DecodeAdjust_ProbabilitySelectLeft"  cEventInstance="DecodeAdjust_ProbabilitySelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_ProbabilitySelectRight" cEventInstance="DecodeAdjust_ProbabilitySelectRight" />
+
+		<cEventObjectInstance Name="DecodeAdjust_ExchangeInSelectLeft"  cEventInstance="DecodeAdjust_ExchangeInSelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_ExchangeInSelectRight" cEventInstance="DecodeAdjust_ExchangeInSelectRight" />
+
+		<cEventObjectInstance Name="DecodeAdjust_CoinToScoreSelectLeft"  cEventInstance="DecodeAdjust_CoinToScoreSelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_CoinToScoreSelectRight" cEventInstance="DecodeAdjust_CoinToScoreSelectRight" />
+
+		<cEventObjectInstance Name="DecodeAdjust_TicketToScoreSelectLeft"  cEventInstance="DecodeAdjust_TicketToScoreSelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_TicketToScoreSelectRight" cEventInstance="DecodeAdjust_TicketToScoreSelectRight" />
+
+		<cEventObjectInstance Name="DecodeAdjust_MoneyLimitSelectLeft"  cEventInstance="DecodeAdjust_MoneyLimitSelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_MoneyLimitSelectRight" cEventInstance="DecodeAdjust_MoneyLimitSelectRight" />
+
+		<cEventObjectInstance Name="DecodeAdjust_ReportDaySelectLeft"  cEventInstance="DecodeAdjust_ReportDaySelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_ReportDaySelectRight" cEventInstance="DecodeAdjust_ReportDaySelectRight" />
+
+		<cEventObjectInstance Name="DecodeAdjust_PlaceTypeSelectLeft"  cEventInstance="DecodeAdjust_PlaceTypeSelectLeft" />
+		<cEventObjectInstance Name="DecodeAdjust_PlaceTypeSelectRight" cEventInstance="DecodeAdjust_PlaceTypeSelectRight" />
+
+
+
+
+
+
+		<cEventObjectInstance Name="RestoreDefaultValue"  cEventInstance="RestoreDefaultValue" />
+		<cEventObjectInstance Name="DecodeAdjustSaveData" cEventInstance="DecodeAdjustSaveData" />
+		<cEventObjectInstance Name="BackToMainMenu"       cEventInstance="BackToMainMenu" />
+		< cEventObjectInstance Name="OpenBarcodeInput"     cEventInstance="OpenBarcodeInput" />
+
+		<cEventObjectInstance Name="DecodeAdjust_SelctionUp"   cEventInstance="DecodeAdjust_SelctionUp" />
+		<cEventObjectInstance Name="DecodeAdjust_SelctionDown" cEventInstance="DecodeAdjust_SelctionDown" />
+
+		<cEventObjectInstance Name="DecodeAdjustImg" cEventObjectStatus="DecodeAdjustImg" />
+
+
+		<cEventObjectInstance Name="MainProbabilityImg" cEventObjectStatus="DecodeAdjust_Probability_Status" 	EventObjectStatusVariable="Probability" />
+		<cEventObjectInstance Name="OpenScoreImg"       cEventObjectStatus="DecodeAdjust_ExchangeIn_Status"     EventObjectStatusVariable="Exchange_In" />
+		<cEventObjectInstance Name="CoinToScoreStatus"  cEventObjectStatus="DecodeAdjust_CoinToScore_Status"  	EventObjectStatusVariable="CoinToScore" />
+		<cEventObjectInstance Name="TicketToScoreImg"   cEventObjectStatus="DecodeAdjust_TicketToScore_Status"  EventObjectStatusVariable="TicketToScore" />
+		<cEventObjectInstance Name="MoneyLimitImg"      cEventObjectStatus="DecodeAdjust_MoneyLimit_Status"     EventObjectStatusVariable="MoneyLimit" />
+		<cEventObjectInstance Name="ReportDayImg"       cEventObjectStatus="DecodeAdjust_ReportDay_Status"      EventObjectStatusVariable="ReportDay" />
+		<cEventObjectInstance Name="PlaceTypeImg"       cEventObjectStatus="DecodeAdjust_PlaceType_Status"      EventObjectStatusVariable="PlaceType" />
+
+
+		<!-- cEventObjectInstance Name="DecodeAdjust_Tip"        cEventObjectStatus="DecodeAdjust_Tip"        EventObjectStatusVariable="AllSubMenuResetIndex" /-->
+		<cEventObjectInstance Name="DecodeAdjust_SelectImg"  cEventObjectStatus="DecodeAdjust_SelectImg"  EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="DecodeAdjust_SelectFish" cEventObjectStatus="DecodeAdjust_SelectFish" EventObjectStatusVariable="AllSubMenuResetIndex" />
+
+		< cEventObjectInstance Name="ShowBarcodeInfo" cEventObjectStatus="ShowBarcodeInfo" AllStatusWorking="1" />
+	</EventPackage>
+
+	<EventPackage Name="Audit" >
+		<cEventObjectInstance Name="AuditBackToMainMenu" cEventInstance="AuditBackToMainMenu" />
+
+		<cEventObjectInstance Name="AuditImg" cEventObjectStatus="AuditImg" />
+
+		<cEventObjectInstance Name="ShowAuditAllDataInfoImg" cEventObjectStatus="ShowAuditAllDataInfoImg" AllStatusWorking="1" />
+	</EventPackage>
+
+	<EventPackage Name="ReportAccount" >
+		<cEventObjectInstance Name="BackToMainMenu"  cEventInstance="BackToMainMenu" />
+		<cEventObjectInstance Name="ReportDelayTime" cEventInstance="ReportDelayTime" />
+		<cEventObjectInstance Name="IntoReportInput" cEventInstance="IntoReportInput" />
+
+		<cEventObjectInstance Name="ReportAccount_SelctionUp"   cEventInstance="ReportAccount_SelctionUp" />
+		<cEventObjectInstance Name="ReportAccount_SelctionDown" cEventInstance="ReportAccount_SelctionDown" />
+
+		<cEventObjectInstance Name="ReportAccountImg" cEventObjectStatus="ReportAccountImg" />
+
+		<cEventObjectInstance Name="ReportAccount_Tip"        cEventObjectStatus="ReportAccount_Tip"        EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="ReportAccount_SelectImg"  cEventObjectStatus="ReportAccount_SelectImg"  EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="ReportAccount_SelectFish" cEventObjectStatus="ReportAccount_SelectFish" EventObjectStatusVariable="AllSubMenuResetIndex" />
+	</EventPackage>
+
+	<EventPackage Name="Setup" >
+		<cEventObjectInstance Name="BackToMainMenu"     cEventInstance="BackToMainMenu" />
+		<cEventObjectInstance Name="OpenIOTest"         cEventInstance="OpenIOTest" />
+		<cEventObjectInstance Name="OpenChangePassword" cEventInstance="OpenChangePassword" />
+		<cEventObjectInstance Name="OpenClearRecord"    cEventInstance="OpenClearRecord" />
+
+		<cEventObjectInstance Name="Setup_SelctionUp"   cEventInstance="Setup_SelctionUp" />
+		<cEventObjectInstance Name="Setup_SelctionDown" cEventInstance="Setup_SelctionDown" />
+
+		<cEventObjectInstance Name="SetupImg" cEventObjectStatus="SetupImg" />
+
+		<cEventObjectInstance Name="Setup_Tip"        cEventObjectStatus="Setup_Tip"        EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="Setup_SelectImg"  cEventObjectStatus="Setup_SelectImg"  EventObjectStatusVariable="AllSubMenuResetIndex" />
+		<cEventObjectInstance Name="Setup_SelectFish" cEventObjectStatus="Setup_SelectFish" EventObjectStatusVariable="AllSubMenuResetIndex" />
+	</EventPackage>
+
+	<EventPackage Name="ClearReportRecord" >
+		<cEventObjectInstance Name="BackToSetup"              cEventInstance="BackToSetup" />
+		<cEventObjectInstance Name="CheckClearRecordPassword" cEventInstance="CheckClearRecordPassword" />
+
+		<cEventObjectInstance Name="ClearRecordInputUp"    cEventInstance="ClearRecordInputUp" />
+		<cEventObjectInstance Name="ClearRecordInputDown"  cEventInstance="ClearRecordInputDown" />
+		<cEventObjectInstance Name="ClearRecordInputLeft"  cEventInstance="ClearRecordInputLeft" />
+		<cEventObjectInstance Name="ClearRecordInputRight" cEventInstance="ClearRecordInputRight" />
+
+		<cEventObjectInstance Name="ClearRecordBG"           cEventObjectStatus="ClearRecordBG" />
+		<cEventObjectInstance Name="ClearRecordInputImg"     cEventObjectStatus="ClearRecordInputImg" />
+		<cEventObjectInstance Name="ClearRecodeTitleImg"     cEventObjectStatus="ClearRecodeTitleImg" />
+		<cEventObjectInstance Name="ClearRecordNumericImg"   cEventObjectStatus="ClearRecordNumericImg" />
+		<cEventObjectInstance Name="ClearRecordUnderlineImg" cEventObjectStatus="ClearRecordUnderlineImg" EventObjectStatusVariable="ClearRecordInputUnderlineIdx" />
+	</EventPackage>
+
+	<EventPackage Name="ClearReportResult" >
+		<cEventObjectInstance Name="ClearReportResultClick" cEventInstance="ClearReportResultClick" />
+
+		<cEventObjectInstance Name="BarcodeInputBG"       cEventObjectStatus="BarcodeInputBG" />
+		<cEventObjectInstance Name="MsgBoxImg"            cEventObjectStatus="MsgBoxImg" />
+		<cEventObjectInstance Name="ClearReportResultImg" cEventObjectStatus="ClearReportResultImg" EventObjectStatusVariable="ClearRecordInputResult" />
+	</EventPackage>
+
+	<EventPackage Name="IOTest" >
+		<cEventObjectInstance Name="IOTestImg" cEventObjectStatus="IOTestImg" />
+
+		<cEventObjectInstance Name="IOTestExit"  cEventInstance="IOTestExit" />
+		<cEventObjectInstance Name="IOTestPress" cEventInstance="IOTestPress" />
+	</EventPackage>
+
+	<EventPackage Name="ChangePasswordOK" >
+		<cEventObjectInstance Name="BackToSetupMenu" cEventInstance="BackToSetupMenu" />
+
+		<cEventObjectInstance Name="ChangePasswordOK_BG"  cEventObjectStatus="ChangePasswordOK_BG" />
+		<cEventObjectInstance Name="ChangePasswordOK_Tip" cEventObjectStatus="ChangePasswordOK_Tip" />
+	</EventPackage>
+
+	<EventPackage Name="MainInputPassword" >
+		<cEventObjectInstance Name="CheckPassword"       cEventInstance="CheckPassword" />
+		<cEventObjectInstance Name="CancelInputPassword" cEventInstance="CancelInputPassword" />
+
+		<cEventObjectInstance Name="PasswordInputUp"    cEventInstance="PasswordInputUp" />
+		<cEventObjectInstance Name="PasswordInputDown"  cEventInstance="PasswordInputDown" />
+		<cEventObjectInstance Name="PasswordInputLeft"  cEventInstance="PasswordInputLeft" />
+		<cEventObjectInstance Name="PasswordInputRight" cEventInstance="PasswordInputRight" />
+
+		<cEventObjectInstance Name="MainInputPasswordBG"           cEventObjectStatus="MainInputPasswordBG" />
+		<cEventObjectInstance Name="MainInputPasswordInputImg"     cEventObjectStatus="MainInputPasswordInputImg" />
+		<cEventObjectInstance Name="MainInputPasswordNumericImg"   cEventObjectStatus="MainInputPasswordNumericImg" />
+		<cEventObjectInstance Name="MainInputPasswordErrorImg"     cEventObjectStatus="MainInputPasswordErrorImg"     EventObjectStatusVariable="CheckPasswordResult" />
+		<cEventObjectInstance Name="MainInputPasswordUnderlineImg" cEventObjectStatus="MainInputPasswordUnderlineImg" EventObjectStatusVariable="PasswordUnderlineIdx" />
+	</EventPackage>
+
+	<EventPackage Name="InputOldPassword" >
+		<cEventObjectInstance Name="CheckPassword"       cEventInstance="CheckPassword" />
+		<cEventObjectInstance Name="CancelInputPassword" cEventInstance="CancelInputPassword" />
+
+		<cEventObjectInstance Name="PasswordInputUp"    cEventInstance="PasswordInputUp" />
+		<cEventObjectInstance Name="PasswordInputDown"  cEventInstance="PasswordInputDown" />
+		<cEventObjectInstance Name="PasswordInputLeft"  cEventInstance="PasswordInputLeft" />
+		<cEventObjectInstance Name="PasswordInputRight" cEventInstance="PasswordInputRight" />
+
+		<cEventObjectInstance Name="InputOldPasswordBG"            cEventObjectStatus="InputOldPasswordBG" />
+		<cEventObjectInstance Name="InputOldPasswordInputImg"      cEventObjectStatus="InputOldPasswordInputImg" />
+		<cEventObjectInstance Name="InputOldPasswordTitleImg"      cEventObjectStatus="InputOldPasswordTitleImg" />
+		<cEventObjectInstance Name="MainInputPasswordNumericImg"   cEventObjectStatus="MainInputPasswordNumericImg" />
+		<cEventObjectInstance Name="MainInputPasswordErrorImg"     cEventObjectStatus="MainInputPasswordErrorImg"     EventObjectStatusVariable="CheckPasswordResult" />
+		<cEventObjectInstance Name="MainInputPasswordUnderlineImg" cEventObjectStatus="MainInputPasswordUnderlineImg" EventObjectStatusVariable="PasswordUnderlineIdx" />
+	</EventPackage>
+
+	<EventPackage Name="InputNewPassword" >
+		<cEventObjectInstance Name="CheckPassword"       cEventInstance="CheckPassword" />
+		<cEventObjectInstance Name="CancelInputPassword" cEventInstance="CancelInputPassword" />
+
+		<cEventObjectInstance Name="PasswordInputUp"    cEventInstance="PasswordInputUp" />
+		<cEventObjectInstance Name="PasswordInputDown"  cEventInstance="PasswordInputDown" />
+		<cEventObjectInstance Name="PasswordInputLeft"  cEventInstance="PasswordInputLeft" />
+		<cEventObjectInstance Name="PasswordInputRight" cEventInstance="PasswordInputRight" />
+
+		<cEventObjectInstance Name="InputNewPasswordBG"            cEventObjectStatus="InputNewPasswordBG" />
+		<cEventObjectInstance Name="InputNewPasswordInputImg"      cEventObjectStatus="InputNewPasswordInputImg" />
+		<cEventObjectInstance Name="InputNewPasswordTitleImg"      cEventObjectStatus="InputNewPasswordTitleImg" />
+		<cEventObjectInstance Name="MainInputPasswordNumericImg"   cEventObjectStatus="MainInputPasswordNumericImg" />
+		<cEventObjectInstance Name="MainInputPasswordUnderlineImg" cEventObjectStatus="MainInputPasswordUnderlineImg" EventObjectStatusVariable="PasswordUnderlineIdx" />
+	</EventPackage>
+
+	<EventPackage Name="ConfirmNewPassword" >
+		<cEventObjectInstance Name="CheckPassword"       cEventInstance="CheckPassword" />
+		<cEventObjectInstance Name="CancelInputPassword" cEventInstance="CancelInputPassword" />
+
+		<cEventObjectInstance Name="PasswordInputUp"    cEventInstance="PasswordInputUp" />
+		<cEventObjectInstance Name="PasswordInputDown"  cEventInstance="PasswordInputDown" />
+		<cEventObjectInstance Name="PasswordInputLeft"  cEventInstance="PasswordInputLeft" />
+		<cEventObjectInstance Name="PasswordInputRight" cEventInstance="PasswordInputRight" />
+
+		<cEventObjectInstance Name="ConfirmNewPasswordBG"          cEventObjectStatus="ConfirmNewPasswordBG" />
+		<cEventObjectInstance Name="ConfirmNewPasswordInputImg"    cEventObjectStatus="ConfirmNewPasswordInputImg" />
+		<cEventObjectInstance Name="ConfirmNewPasswordTitleImg"    cEventObjectStatus="ConfirmNewPasswordTitleImg" />
+		<cEventObjectInstance Name="MainInputPasswordNumericImg"   cEventObjectStatus="MainInputPasswordNumericImg" />
+		<cEventObjectInstance Name="MainInputPasswordErrorImg"     cEventObjectStatus="MainInputPasswordErrorImg"     EventObjectStatusVariable="CheckPasswordResult" />
+		<cEventObjectInstance Name="MainInputPasswordUnderlineImg" cEventObjectStatus="MainInputPasswordUnderlineImg" EventObjectStatusVariable="PasswordUnderlineIdx" />
+	</EventPackage>
+
+	<EventPackage Name="BarcodeInput" >
+		<cEventObjectInstance Name="CheckBarcodeInput" cEventInstance="CheckBarcodeInput" />
+		<cEventObjectInstance Name="BackToDecodeAdjustMenu" cEventInstance="BackToDecodeAdjustMenu" />
+
+		<cEventObjectInstance Name="BarcodeInputUp"    cEventInstance="BarcodeInputUp" />
+		<cEventObjectInstance Name="BarcodeInputDown"  cEventInstance="BarcodeInputDown" />
+		<cEventObjectInstance Name="BarcodeInputLeft"  cEventInstance="BarcodeInputLeft" />
+		<cEventObjectInstance Name="BarcodeInputRight" cEventInstance="BarcodeInputRight" />
+
+		<cEventObjectInstance Name="BarcodeInputBG"           cEventObjectStatus="BarcodeInputBG" />
+		<cEventObjectInstance Name="BarcodeInputInputImg"     cEventObjectStatus="BarcodeInputInputImg" />
+		<cEventObjectInstance Name="BarcodeInputNumericImg"   cEventObjectStatus="BarcodeInputNumericImg" />
+		<cEventObjectInstance Name="BarcodeInputUnderlineImg" cEventObjectStatus="BarcodeInputUnderlineImg" EventObjectStatusVariable="BarcodeInputUnderlineIdx" />
+	</EventPackage>
+
+	<EventPackage Name="BarcodeInputB" >
+		<cEventObjectInstance Name="CheckBarcodeInputB" cEventInstance="CheckBarcodeInputB" />
+		<cEventObjectInstance Name="BackToBarcodeInput" cEventInstance="BackToBarcodeInput" />
+
+		<cEventObjectInstance Name="BarcodeInputUpB"    cEventInstance="BarcodeInputUpB" />
+		<cEventObjectInstance Name="BarcodeInputDownB"  cEventInstance="BarcodeInputDownB" />
+		<cEventObjectInstance Name="BarcodeInputLeftB"  cEventInstance="BarcodeInputLeftB" />
+		<cEventObjectInstance Name="BarcodeInputRightB" cEventInstance="BarcodeInputRightB" />
+
+		<cEventObjectInstance Name="BarcodeInputBG"            cEventObjectStatus="BarcodeInputBG" />
+		<cEventObjectInstance Name="BarcodeInputInputImgB"     cEventObjectStatus="BarcodeInputInputImgB" />
+		<cEventObjectInstance Name="BarcodeInputNumericImgB"   cEventObjectStatus="BarcodeInputNumericImgB" />
+		<cEventObjectInstance Name="BarcodeInputUnderlineImgB" cEventObjectStatus="BarcodeInputUnderlineImgB" EventObjectStatusVariable="BarcodeInputUnderlineIdxB" />
+	</EventPackage>
+
+	<EventPackage Name="BarcodeInputFail" >
+		<cEventObjectInstance Name="BarcodeInputFailClick" cEventInstance="BarcodeInputFailClick" />
+
+		<cEventObjectInstance Name="BarcodeInputBG"           cEventObjectStatus="BarcodeInputBG" />
+		<cEventObjectInstance Name="MsgBoxImg"                cEventObjectStatus="MsgBoxImg" />
+		<cEventObjectInstance Name="BarcodeInputInputFailImg" cEventObjectStatus="BarcodeInputInputFailImg" EventObjectStatusVariable="BarcodeInputResult" />
+	</EventPackage>
+
+	<EventPackage Name="BarcodeInputResult" >
+		<cEventObjectInstance Name="BarcodeInputResultClick" cEventInstance="BarcodeInputResultClick" />
+
+		<cEventObjectInstance Name="BarcodeInputResultBg"     cEventObjectStatus="BarcodeInputResultBg" />
+		<cEventObjectInstance Name="MsgBoxImg"                cEventObjectStatus="MsgBoxImg" />
+		<cEventObjectInstance Name="BarcodeInputResultMsgImg" cEventObjectStatus="BarcodeInputResultMsgImg" EventObjectStatusVariable="BarcodeInputResult" />
+		<cEventObjectInstance Name="BarcodeInputResultTipImg" cEventObjectStatus="BarcodeInputResultTipImg" EventObjectStatusVariable="BarcodeInputResult" />
+	</EventPackage>
+
+	<EventPackage Name="ReportInput" >
+		<cEventObjectInstance Name="CheckReportInput" cEventInstance="CheckReportInput" />
+
+		<cEventObjectInstance Name="ReportInputUp"    cEventInstance="ReportInputUp" />
+		<cEventObjectInstance Name="ReportInputDown"  cEventInstance="ReportInputDown" />
+		<cEventObjectInstance Name="ReportInputLeft"  cEventInstance="ReportInputLeft" />
+		<cEventObjectInstance Name="ReportInputRight" cEventInstance="ReportInputRight" />
+
+		<cEventObjectInstance Name="ReportInputInputImg"     cEventObjectStatus="ReportInputInputImg" />
+		<cEventObjectInstance Name="ReportInputNumericImg"   cEventObjectStatus="ReportInputNumericImg" />
+		<cEventObjectInstance Name="ReportInputUnderlineImg" cEventObjectStatus="ReportInputUnderlineImg" EventObjectStatusVariable="ReportInputUnderlineIdx" />
+
+		<cEventObjectInstance Name="ShowReportInfo" cEventObjectStatus="ShowReportInfo" AllStatusWorking="1" />
+	</EventPackage>
+
+	<EventPackage Name="ReportResult" >
+		<cEventObjectInstance Name="ReportResultClick" cEventInstance="ReportResultClick" />
+
+		<cEventObjectInstance Name="ReportResultBg"        cEventObjectStatus="ReportResultBg" />
+		<cEventObjectInstance Name="MsgBoxImg"             cEventObjectStatus="MsgBoxImg" />
+		<cEventObjectInstance Name="ReportResultMsgImg"    cEventObjectStatus="ReportResultMsgImg"    EventObjectStatusVariable="ReportInputResult" />
+		<cEventObjectInstance Name="ReportResultTipImg"    cEventObjectStatus="ReportResultTipImg"    EventObjectStatusVariable="ReportInputResult" />
+		<cEventObjectInstance Name="ReportResultReportDay" cEventObjectStatus="ReportResultReportDay" EventObjectStatusVariable="ReportInputResult" />
+	</EventPackage>
+
+	<EventPackage Name="DelayTimeResult" >
+		<cEventObjectInstance Name="DelayTimeResultClick" cEventInstance="DelayTimeResultClick" />
+
+		<cEventObjectInstance Name="DelayTimeResulttBg"       cEventObjectStatus="DelayTimeResultBg" />
+		<cEventObjectInstance Name="MsgBoxImg"                cEventObjectStatus="MsgBoxImg" />
+		<cEventObjectInstance Name="DelayTimeResultMsgImg"    cEventObjectStatus="DelayTimeResultMsgImg"    EventObjectStatusVariable="DelayTimeResult" />
+		<cEventObjectInstance Name="DelayTimeResultTipImg"    cEventObjectStatus="DelayTimeResultTipImg"    EventObjectStatusVariable="DelayTimeResult" />
+		<cEventObjectInstance Name="DelayTimeResultReportDay" cEventObjectStatus="DelayTimeResultReportDay" EventObjectStatusVariable="DelayTimeResult" />
+	</EventPackage>
+
+</EventPackages>

@@ -1,0 +1,32 @@
+<!-- Author:OLINCA,Time:2013/6/26 ¤U¤È 02:46:08 -->
+<PuzzleImage OriginalNameSort="FishTimeShow1,FishTimeShow2,FishTimeShow3,FishTimeShow4,FishTimeShow5,FishTimeShow6,FishTimeShow7,FishTimeShow8,FishTimeShow9,FishTimeShow10,FreezeWeaponGet,LightningWeaponGet,ThunderWeaponGet,WindWeaponGet,MoneyNotEnough,PleaseInsertCoin,MoneyLimit,PleasePressFireButton,IOerror,DoubleWeaponGet,MoneyLocked,MoneyLockedShine,ControlPanelLinkError,RestartPlease,MoneyLimitFire_1,MoneyLimitFire_2,MoneyLimitFire_3,MoneyLimitWord_1,MoneyLimitWord_2" ImageName="Message.png" Count="29" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="ControlPanelLinkError" UV="0.005859375,0.71875,0.4931641,0.8115234" OffsetPos="0,0" Size="499,190" OriginalSize="499,190" ShowPosInPI="6,1472" />
+    <PuzzleUnit Name="DoubleWeaponGet" UV="0.4306641,0.6342773,0.765625,0.7148438" OffsetPos="0,0" Size="343,165" OriginalSize="343,165" ShowPosInPI="441,1299" />
+    <PuzzleUnit Name="FishTimeShow1" UV="0.0009765625,0.001464844,0.4736328,0.09130859" OffsetPos="1,3" Size="484,184" OriginalSize="486,192" ShowPosInPI="1,3" />
+    <PuzzleUnit Name="FishTimeShow10" UV="0.4746094,0.3623047,0.9472656,0.4560547" OffsetPos="1,0" Size="484,192" OriginalSize="486,192" ShowPosInPI="486,742" />
+    <PuzzleUnit Name="FishTimeShow2" UV="0.4746094,0,0.9472656,0.08886719" OffsetPos="1,2" Size="484,182" OriginalSize="486,192" ShowPosInPI="486,0" />
+    <PuzzleUnit Name="FishTimeShow3" UV="0,0.09082031,0.4726563,0.1821289" OffsetPos="1,0" Size="484,187" OriginalSize="486,192" ShowPosInPI="0,186" />
+    <PuzzleUnit Name="FishTimeShow4" UV="0.4746094,0.09082031,0.9472656,0.1835938" OffsetPos="1,1" Size="484,190" OriginalSize="486,192" ShowPosInPI="486,186" />
+    <PuzzleUnit Name="FishTimeShow5" UV="0,0.1845703,0.4726563,0.2744141" OffsetPos="1,6" Size="484,184" OriginalSize="486,192" ShowPosInPI="0,378" />
+    <PuzzleUnit Name="FishTimeShow6" UV="0.4746094,0.1845703,0.9472656,0.2695313" OffsetPos="1,8" Size="484,174" OriginalSize="486,192" ShowPosInPI="486,378" />
+    <PuzzleUnit Name="FishTimeShow7" UV="0,0.2753906,0.4726563,0.3564453" OffsetPos="1,8" Size="484,166" OriginalSize="486,192" ShowPosInPI="0,564" />
+    <PuzzleUnit Name="FishTimeShow8" UV="0.4746094,0.2753906,0.9472656,0.3613281" OffsetPos="1,8" Size="484,176" OriginalSize="486,192" ShowPosInPI="486,564" />
+    <PuzzleUnit Name="FishTimeShow9" UV="0,0.3623047,0.4726563,0.4545898" OffsetPos="1,2" Size="484,189" OriginalSize="486,192" ShowPosInPI="0,742" />
+    <PuzzleUnit Name="FreezeWeaponGet" UV="0,0.4570313,0.328125,0.5385742" OffsetPos="7,0" Size="336,167" OriginalSize="354,177" ShowPosInPI="0,936" />
+    <PuzzleUnit Name="IOerror" UV="0.005859375,0.6342773,0.4179688,0.7158203" OffsetPos="3,3" Size="422,167" OriginalSize="429,180" ShowPosInPI="6,1299" />
+    <PuzzleUnit Name="LightningWeaponGet" UV="0.3300781,0.4570313,0.6650391,0.5375977" OffsetPos="0,0" Size="343,165" OriginalSize="343,165" ShowPosInPI="338,936" />
+    <PuzzleUnit Name="MoneyLimit" UV="0.8320313,0.4951172,0.9853516,0.5288086" OffsetPos="0,0" Size="157,69" OriginalSize="158,70" ShowPosInPI="852,1014" />
+    <PuzzleUnit Name="MoneyLimitFire_1" UV="0.04101563,0.8886719,0.2324219,0.9506836" OffsetPos="0,0" Size="196,127" OriginalSize="196,127" ShowPosInPI="42,1820" />
+    <PuzzleUnit Name="MoneyLimitFire_2" UV="0.2519531,0.8881836,0.4433594,0.9501953" OffsetPos="0,0" Size="196,127" OriginalSize="196,127" ShowPosInPI="258,1819" />
+    <PuzzleUnit Name="MoneyLimitFire_3" UV="0.4599609,0.8876953,0.6513672,0.949707" OffsetPos="0,0" Size="196,127" OriginalSize="196,127" ShowPosInPI="471,1818" />
+    <PuzzleUnit Name="MoneyLimitWord_1" UV="0.01953125,0.8227539,0.1621094,0.8608398" OffsetPos="0,0" Size="146,78" OriginalSize="146,78" ShowPosInPI="20,1685" />
+    <PuzzleUnit Name="MoneyLimitWord_2" UV="0.1943359,0.8227539,0.3369141,0.8608398" OffsetPos="0,0" Size="146,78" OriginalSize="146,78" ShowPosInPI="199,1685" />
+    <PuzzleUnit Name="MoneyLocked" UV="0.7148438,0.5322266,0.8681641,0.565918" OffsetPos="0,0" Size="157,69" OriginalSize="157,69" ShowPosInPI="732,1090" />
+    <PuzzleUnit Name="MoneyLockedShine" UV="0.7148438,0.5673828,0.8681641,0.6010742" OffsetPos="0,0" Size="157,69" OriginalSize="157,69" ShowPosInPI="732,1162" />
+    <PuzzleUnit Name="MoneyNotEnough" UV="0.6728516,0.4946289,0.8261719,0.5283203" OffsetPos="0,0" Size="157,69" OriginalSize="157,69" ShowPosInPI="689,1013" />
+    <PuzzleUnit Name="PleaseInsertCoin" UV="0.671875,0.4584961,0.8251953,0.4921875" OffsetPos="0,0" Size="157,69" OriginalSize="158,70" ShowPosInPI="688,939" />
+    <PuzzleUnit Name="PleasePressFireButton" UV="0.8291016,0.4584961,0.9833984,0.4926758" OffsetPos="0,0" Size="158,70" OriginalSize="158,70" ShowPosInPI="849,939" />
+    <PuzzleUnit Name="RestartPlease" UV="0.5009766,0.7192383,0.9882813,0.8110352" OffsetPos="0,0" Size="499,188" OriginalSize="499,188" ShowPosInPI="513,1473" />
+    <PuzzleUnit Name="ThunderWeaponGet" UV="0,0.5395508,0.3554688,0.6259766" OffsetPos="2,2" Size="364,177" OriginalSize="369,186" ShowPosInPI="0,1105" />
+    <PuzzleUnit Name="WindWeaponGet" UV="0.3583984,0.5395508,0.7041016,0.6259766" OffsetPos="0,0" Size="354,177" OriginalSize="354,177" ShowPosInPI="367,1105" />
+</PuzzleImage>

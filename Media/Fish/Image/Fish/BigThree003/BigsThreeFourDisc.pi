@@ -1,0 +1,5 @@
+<!-- Author:OLINCA,Time:2013/7/12 ¤W¤È 09:24:49 -->
+<PuzzleImage OriginalNameSort="BigFour,BigThree" ImageName="BigsThreeFourDisc.png" Count="2" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BigFour" UV="0,0,0.3125,0.625" OffsetPos="0,0" Size="160,160" OriginalSize="160,160" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="BigThree" UV="0.3183594,0,0.6308594,0.625" OffsetPos="0,0" Size="160,160" OriginalSize="160,160" ShowPosInPI="163,0" />
+</PuzzleImage>

@@ -1,0 +1,51 @@
+<MPDIList Name="Winnings04_mpdi" Count="3" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="winnings1-1" PathCount="1" PlayCount="1" TotalPlayTime="0.101000">
+        <CueToStartCurvesWithTime Name="SilverKenmu" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="4">
+            <PointDataList Index="0" Position="511.00,164.00,0.00" Time="0.101000" Size="266.00,262.00" PIName="allfish" ImageName="SilverKenmu" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings-Fishmove1" PathCount="5" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="StingrayFish" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="1368.43,211.15,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="-267.00,633.00,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="1392.00,424.00,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="-297.00,56.00,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="-252.00,325.00,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="1463.00,327.00,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="-229.00,-50.00,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="1401.00,395.00,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="-236.00,673.00,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="1416.00,261.00,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="winnings-Fishmove2" PathCount="5" PlayCount="1" TotalPlayTime="40.000000">
+        <CueToStartCurvesWithTime Name="StingrayFish" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="-164.91,411.09,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="1495.52,101.96,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish2" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="-173.89,197.13,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="1486.03,679.66,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish3" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="1459.51,408.21,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="-251.35,289.05,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish4" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="1410.94,780.77,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="-184.85,225.44,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="StingrayFish5" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="4">
+            <PointDataList Index="0" Position="1467.32,59.93,0.00" Time="0.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+            <PointDataList Index="1" Position="-208.97,358.11,0.00" Time="40.000000" Size="223.00,144.00" PIName="allfish" ImageName="StingrayFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

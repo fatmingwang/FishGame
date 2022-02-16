@@ -1,0 +1,96 @@
+<MPDIList Name="GoldKenmuPath1_mpdi" Count="1" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="GoldKenmuPath1" PathCount="11" PlayCount="1" TotalPlayTime="30.000000">
+        <CueToStartCurvesWithTime Name="GoldKenmu" StartTime="0.000000" AnchorType="CenterCenter" Count="6" LOD="4">
+            <PointDataList Index="0" Position="1591.00,-340.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="1095.00,200.00,0.00" Time="3.700000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="882.00,331.00,0.00" Time="7.400000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="371.00,547.00,0.00" Time="11.100000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="128.00,646.00,0.00" Time="14.800000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="-349.00,854.00,0.00" Time="18.500000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu2" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="4">
+            <PointDataList Index="0" Position="-274.00,-340.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="111.00,65.00,0.00" Time="2.642857" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="400.00,419.00,0.00" Time="5.285714" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="730.00,500.00,0.00" Time="7.928571" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="905.00,419.00,0.00" Time="10.571428" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="1063.00,173.00,0.00" Time="13.214285" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="6" Position="1148.00,-240.00,0.00" Time="15.857142" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="7" Position="1351.00,-646.00,0.00" Time="18.500000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu3" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="2151.00,1004.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="1348.00,797.00,0.00" Time="4.250000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="954.00,382.00,0.00" Time="8.500000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="717.00,-379.00,0.00" Time="12.750000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="619.00,-755.00,0.00" Time="17.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu4" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="4">
+            <PointDataList Index="0" Position="2053.00,1038.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="1534.00,624.00,0.00" Time="2.428571" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="999.00,317.00,0.00" Time="4.857143" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="719.00,238.00,0.00" Time="7.285714" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="453.00,229.00,0.00" Time="9.714286" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="193.00,326.00,0.00" Time="12.142858" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="6" Position="-331.00,612.00,0.00" Time="14.571428" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="7" Position="-527.00,775.00,0.00" Time="17.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu5" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="4">
+            <PointDataList Index="0" Position="-843.00,-365.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="-180.00,186.00,0.00" Time="2.428571" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="90.00,323.00,0.00" Time="4.857143" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="336.00,387.00,0.00" Time="7.285714" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="572.00,381.00,0.00" Time="9.714286" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="820.00,352.00,0.00" Time="12.142858" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="6" Position="1057.00,191.00,0.00" Time="14.571428" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="7" Position="1802.00,-132.00,0.00" Time="17.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu6" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="4">
+            <PointDataList Index="0" Position="-735.00,110.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="-279.00,285.00,0.00" Time="2.125000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="-58.00,314.00,0.00" Time="4.250000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="306.00,279.00,0.00" Time="6.375000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="508.00,253.00,0.00" Time="8.500000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="806.00,378.00,0.00" Time="10.625000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="6" Position="1013.00,422.00,0.00" Time="12.750000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="7" Position="1299.00,299.00,0.00" Time="14.875000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="8" Position="1860.00,130.00,0.00" Time="17.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu7" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="4">
+            <PointDataList Index="0" Position="1935.00,-221.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="1393.00,170.00,0.00" Time="2.571429" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="1073.00,292.00,0.00" Time="5.142857" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="690.00,319.00,0.00" Time="7.714286" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="433.00,319.00,0.00" Time="10.285714" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="153.00,243.00,0.00" Time="12.857142" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="6" Position="-143.00,157.00,0.00" Time="15.428572" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="7" Position="-655.00,134.00,0.00" Time="18.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu8" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="4">
+            <PointDataList Index="0" Position="710.00,-578.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="407.00,-79.00,0.00" Time="3.750000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="209.00,164.00,0.00" Time="7.500000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="57.00,388.00,0.00" Time="11.250000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="-404.00,847.00,0.00" Time="15.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu9" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="4">
+            <PointDataList Index="0" Position="266.00,-471.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="558.00,162.00,0.00" Time="8.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="1023.00,1230.00,0.00" Time="16.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu10" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="4">
+            <PointDataList Index="0" Position="946.00,-506.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="784.00,229.00,0.00" Time="2.666667" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="653.00,264.00,0.00" Time="5.333333" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="3" Position="443.00,264.00,0.00" Time="8.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="4" Position="185.00,429.00,0.00" Time="10.666667" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="5" Position="268.00,570.00,0.00" Time="13.333334" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="6" Position="884.00,1093.00,0.00" Time="16.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmu11" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="4">
+            <PointDataList Index="0" Position="-646.00,-30.00,0.00" Time="0.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="1" Position="1385.00,1.00,0.00" Time="15.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+            <PointDataList Index="2" Position="1727.00,3.00,0.00" Time="30.000000" Size="504.00,473.00" PIName="allfish" ImageName="GoldKenmu" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

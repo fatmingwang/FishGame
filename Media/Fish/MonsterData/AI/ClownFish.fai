@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="ClownFish" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="ClownFish" Type="cFAIAnimationCharacter" cFAICharacterStatus="ClownFish" Speed="9" RunAwaySpeed="55" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="ClownFish" cFAICharacterInterface="ClownFish" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="100" Wall="0,0,1280,720" XDistanceRestrict="4,14" YDistanceRestrict="4,14" TimeRestrict="22,25" PointRestrict="25,32" DistanceChangePoint="2,5" DirectionOffsetX="-0.95,0.95" DirectionOffsetY="-0.95,0.95" LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="0" PathFile="Fish/MonsterData/Path/ClownFish.path" />
+	</cFAIMachine>
+</Root>

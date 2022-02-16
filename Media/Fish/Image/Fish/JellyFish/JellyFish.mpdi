@@ -1,0 +1,138 @@
+<MPDIList Name="JellyFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="JellyFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="JellyFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="JellyFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JellyFish_attack " Blending="1" SrcBlendingData="770" DestBlendingData="771" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.16" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.44" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.58" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.72" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.86" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,1.00" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.86" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.72" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.58" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.44" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.16" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.00" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="JellyFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="JellyFish_attack " Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="JellyFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="2.400000">
+        <CueToStartCurvesWithTime Name="JellyFish" StartTime="0.000000" AnchorType="CenterCenter" Count="16" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.160000" Size="126.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.320000" Size="124.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.480000" Size="122.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.640000" Size="123.00,111.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.800000" Size="127.00,113.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.960000" Size="127.00,132.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.120000" Size="117.00,155.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.280000" Size="110.00,159.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.440000" Size="110.00,151.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.600000" Size="115.00,135.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.760000" Size="119.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.920000" Size="123.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="2.080000" Size="125.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="2.240000" Size="126.00,115.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="2.400000" Size="127.00,114.00" Scale="1.00,1.00" PIName="JellyFish" ImageName="JellyFish_00015" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

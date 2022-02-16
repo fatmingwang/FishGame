@@ -1,0 +1,702 @@
+<MPDIList Name="RedKenmu_mpdi" Count="23" MPDIVersion="1.2" PICount="2" ImageName="KenmuRed.pi,RedKenmu.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="3" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldMove" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00004" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00005" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00006" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00007" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00008" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.333333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.666667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="4" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldMove" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00004" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00005" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00006" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00007" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00008" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.333333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.666667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.33" PIName="KenmuRed" ImageName="SilverKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.67" PIName="KenmuRed" ImageName="SilverKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuMove_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuMove_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.67" PIName="KenmuRed" ImageName="SilverKenmuMove_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.33" PIName="KenmuRed" ImageName="SilverKenmuMove_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuMove_00007" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="4" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldMove" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00004" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00005" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00006" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00007" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00008" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.333333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.666667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00004" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuMove_00005" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00006" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuMove_00007" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00008" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="3" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldMove" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00004" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00005" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00006" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00007" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00008" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.333333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.666667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="3" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldMove" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00004" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00005" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00006" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00007" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuMove_00008" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.333333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.666667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedDefense" PathCount="4" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="GoldDefense" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldShell" StartTime="0.600000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="5.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="3.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="4.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="6.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.362500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.725000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.087500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.450000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.812500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.175000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.537500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="2.900000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.262500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="3.987500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.350000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.712500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.075000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.437500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="5.800000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedDefenseAttackRed" PathCount="5" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="GoldDefense" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldShell" StartTime="0.600000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="5.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="3.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="4.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="6.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.362500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.725000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.087500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.450000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.812500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.175000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.537500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="2.900000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.262500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="3.987500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.350000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.712500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.075000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.437500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="5.800000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDefense_00003" BehaviorUpdate="1" StartTime="0.450000" AnchorType="CenterCenter" Count="3" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedDefenseAttackWhit" PathCount="5" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="GoldDefense" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldShell" StartTime="0.600000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="5.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="3.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="4.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="6.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.362500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.725000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.087500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.450000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.812500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.175000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.537500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="2.900000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.262500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="3.987500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.350000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.712500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.075000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.437500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="5.800000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDefense_00003" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.450000" AnchorType="CenterCenter" Count="3" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedDefense2" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="GoldDefense" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.142857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.571429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.714286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedDefense2AttackRed" PathCount="2" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="GoldDefense" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.142857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.571429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.714286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.142857" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.33" PIName="KenmuRed" ImageName="SilverKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.285714" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.67" PIName="KenmuRed" ImageName="SilverKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.571429" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00002" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.714286" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.67" PIName="KenmuRed" ImageName="SilverKenmuDefense_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.33" PIName="KenmuRed" ImageName="SilverKenmuDefense_00000" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedDefense2AttackWhit" PathCount="2" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="GoldDefense" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.142857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.285714" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.571429" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.714286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.142857" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.285714" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.571429" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.714286" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedRelax" PathCount="4" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="GoldShell" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="5.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldRelax" StartTime="5.400000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="3.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="4.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="6.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.362500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.725000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.087500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.450000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.812500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.175000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.537500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="2.900000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.262500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="3.987500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.350000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.712500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.075000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.437500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="5.800000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedRelaxAttackRed" PathCount="5" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="GoldShell" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="5.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldRelax" StartTime="5.400000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="3.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="4.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="6.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.362500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.725000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.087500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.450000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.812500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.175000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.537500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="2.900000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.262500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="3.987500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.350000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.712500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.075000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.437500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="5.800000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedRelaxAttackWhit" PathCount="5" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="GoldShell" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="5.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldRelax" StartTime="5.400000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00002" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00001" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.450000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.600000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="3.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="4.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.875000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.250000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="6.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.362500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.725000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.087500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="1.450000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="1.812500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="2.175000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="2.537500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="2.900000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="3.262500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="3.625000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="3.987500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="4.350000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="4.712500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="5.075000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="5.437500" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="5.800000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDefense_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedRotate" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="GoldRotate" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedRotateAttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldRotate" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuTransit_00000" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="15" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuRotate_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.107143" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.14" PIName="KenmuRed" ImageName="SilverKenmuRotate_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.214286" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.27" PIName="KenmuRed" ImageName="SilverKenmuRotate_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.321429" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.41" PIName="KenmuRed" ImageName="SilverKenmuRotate_00000" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.428571" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.55" PIName="KenmuRed" ImageName="SilverKenmuRotate_00001" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.535714" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.69" PIName="KenmuRed" ImageName="SilverKenmuRotate_00002" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.642857" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.82" PIName="KenmuRed" ImageName="SilverKenmuRotate_00000" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuRotate_00001" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.857143" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.82" PIName="KenmuRed" ImageName="SilverKenmuRotate_00002" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.964286" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.69" PIName="KenmuRed" ImageName="SilverKenmuRotate_00000" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.071429" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.55" PIName="KenmuRed" ImageName="SilverKenmuRotate_00001" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.178571" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.41" PIName="KenmuRed" ImageName="SilverKenmuRotate_00002" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.285714" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.27" PIName="KenmuRed" ImageName="SilverKenmuRotate_00000" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="1.392857" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.14" PIName="KenmuRed" ImageName="SilverKenmuRotate_00001" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.14" PIName="KenmuRed" ImageName="SilverKenmuRotate_00002" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedRotateAttackWhit" PathCount="2" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="GoldRotate" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuTransit_00000" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuRotate_00002" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedSlide" PathCount="3" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldSlide" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.187500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.562500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.937500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.312500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedSlideAttackRed" PathCount="4" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldSlide" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.187500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.562500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.937500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.312500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDash_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.187500" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.24" PIName="KenmuRed" ImageName="SilverKenmuDash_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.47" PIName="KenmuRed" ImageName="SilverKenmuDash_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.562500" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.71" PIName="KenmuRed" ImageName="SilverKenmuDash_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuDash_00000" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.937500" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.71" PIName="KenmuRed" ImageName="SilverKenmuDash_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.47" PIName="KenmuRed" ImageName="SilverKenmuDash_00002" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.312500" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.24" PIName="KenmuRed" ImageName="SilverKenmuDash_00003" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuDash_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedSlideAttackWhit" PathCount="4" PlayCount="-1" TotalPlayTime="1.500000">
+        <CueToStartCurvesWithTime Name="GoldSlide" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.187500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.562500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.937500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.312500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction1" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.500000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="1.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ShellReflaction2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.200000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.433333" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.866667" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="1.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="ShellReflaction2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.187500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.375000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.562500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.750000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDash_00000" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.937500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00001" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.125000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDash_00002" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="1.312500" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.500000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuDash_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedTransit" PathCount="1" PlayCount="1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="GoldTransit" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedTransitAttackRed" PathCount="2" PlayCount="1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="GoldTransit" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuTransit_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.49" PIName="KenmuRed" ImageName="SilverKenmuTransit_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,1.00" PIName="KenmuRed" ImageName="SilverKenmuTransit_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.49" PIName="KenmuRed" ImageName="SilverKenmuTransit_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" Color="0.78,0.39,1.00,0.00" PIName="KenmuRed" ImageName="SilverKenmuTransit_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedTransitAttackWhit" PathCount="2" PlayCount="1" TotalPlayTime="0.400000">
+        <CueToStartCurvesWithTime Name="GoldTransit" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="GoldKenmuDash_00000" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.49" PIName="RedKenmu" ImageName="RedKenmuTransit_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="266.00,262.00" Scale="1.00,1.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.49" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="266.00,262.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="RedKenmu" ImageName="RedKenmuTransit_00003" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

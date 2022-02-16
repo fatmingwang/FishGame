@@ -1,0 +1,23 @@
+<MPDIList Name="Group-PufferFish_mpdi" Count="3" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="PufferFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="PufferFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-117.00,-29.00,0.00" Time="0.000000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="-80.00,-66.00,0.00" Time="0.100000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="-171.00,-62.00,0.00" Time="0.200000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PufferFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="PufferFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-24.00,-25.00,0.00" Time="0.000000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="-67.00,-61.00,0.00" Time="0.100000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="-125.00,-52.00,0.00" Time="0.200000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PufferFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="PufferFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-74.00,-76.00,0.00" Time="0.000000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="1" Position="-67.00,-23.00,0.00" Time="0.100000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+            <PointDataList Index="2" Position="-125.00,-34.00,0.00" Time="0.200000" Size="88.00,103.00" PIName="allfish" ImageName="PufferFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

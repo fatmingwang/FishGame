@@ -1,0 +1,23 @@
+<MPDIList Name="Group_mpdi" Count="1" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="1" PathCount="1" PlayCount="1" TotalPlayTime="1.600000">
+        <CueToStartCurvesWithTime Name="ClownFish" StartTime="0.000000" AnchorType="CenterCenter" Count="17" LOD="1">
+            <PointDataList Index="0" Position="-15.00,-21.00,0.00" Time="0.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="1" Position="-43.00,-45.00,0.00" Time="0.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="2" Position="-55.00,-53.00,0.00" Time="0.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="3" Position="-67.00,-39.00,0.00" Time="0.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="4" Position="-69.00,-15.00,0.00" Time="0.400000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="5" Position="-62.00,2.00,0.00" Time="0.500000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="6" Position="-49.00,23.00,0.00" Time="0.600000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="7" Position="-24.00,40.00,0.00" Time="0.700000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="8" Position="-4.00,46.00,0.00" Time="0.800000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="9" Position="28.00,41.00,0.00" Time="0.900000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="10" Position="46.00,23.00,0.00" Time="1.000000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="11" Position="66.00,-14.00,0.00" Time="1.100000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="12" Position="65.00,-41.00,0.00" Time="1.200000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="13" Position="25.00,-61.00,0.00" Time="1.300000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="14" Position="21.00,-48.00,0.00" Time="1.400000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="15" Position="17.00,-37.00,0.00" Time="1.500000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+            <PointDataList Index="16" Position="-6.00,-22.00,0.00" Time="1.600000" Size="60.00,35.00" PIName="allfish" ImageName="ClownFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

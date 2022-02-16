@@ -1,0 +1,30 @@
+<MPDIList Name="Group-FlounderFish_mpdi" Count="4" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="FlounderFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="FlounderFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="9.00,-76.00,0.00" Time="0.000000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="-106.00,-85.00,0.00" Time="0.100000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="-222.00,-67.00,0.00" Time="0.200000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FlounderFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="FlounderFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-44.00,-48.00,0.00" Time="0.000000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="-134.00,-76.00,0.00" Time="0.100000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="-215.00,-28.00,0.00" Time="0.200000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FlounderFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="FlounderFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-23.00,-23.00,0.00" Time="0.000000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="-120.00,-31.00,0.00" Time="0.100000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="-218.00,-43.00,0.00" Time="0.200000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FlounderFish-3-4" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="FlounderFish-3-4" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-49.00,-49.00,0.00" Time="0.000000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="1" Position="-137.00,-9.00,0.00" Time="0.100000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+            <PointDataList Index="2" Position="-198.00,-94.00,0.00" Time="0.200000" Size="165.00,165.00" PIName="allfish" ImageName="FlounderFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

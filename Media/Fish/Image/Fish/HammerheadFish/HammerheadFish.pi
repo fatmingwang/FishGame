@@ -1,0 +1,28 @@
+<!-- Author:staric,Time:2013/2/20 ¤U¤È 01:36:41 -->
+<PuzzleImage OriginalNameSort="HammerheadFish_00000,HammerheadFish_00001,HammerheadFish_00002,HammerheadFish_00003,HammerheadFish_00004,HammerheadFish_00005,HammerheadFish_00006,HammerheadFish_00007,HammerheadFish_00008,HammerheadFish_00009,HammerheadFish_00010,HammerheadFish_00011,HammerheadFish_00012,HammerheadFish_00013,HammerheadFish_00014,HammerheadFish_00015,HammerheadFish_00016,HammerheadFish_00017,HammerheadFish_00018,HammerheadFish_00019,HammerheadFish_00020,HammerheadFish_00021,HammerheadFish_00022,HammerheadFish_00023,HammerheadFish_00024" ImageName="HammerheadFish.png" Count="25" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="HammerheadFish_00000" UV="0,0,0.1845703,0.1201172" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="HammerheadFish_00001" UV="0.1870117,0,0.371582,0.1201172" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="383,0" />
+    <PuzzleUnit Name="HammerheadFish_00002" UV="0.3740234,0,0.5585938,0.1201172" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="766,0" />
+    <PuzzleUnit Name="HammerheadFish_00003" UV="0.5610352,0,0.7456055,0.1201172" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1149,0" />
+    <PuzzleUnit Name="HammerheadFish_00004" UV="0.7480469,0,0.9326172,0.1201172" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1532,0" />
+    <PuzzleUnit Name="HammerheadFish_00005" UV="0,0.1225586,0.1845703,0.2426758" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="0,251" />
+    <PuzzleUnit Name="HammerheadFish_00006" UV="0.1870117,0.1225586,0.371582,0.2426758" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="383,251" />
+    <PuzzleUnit Name="HammerheadFish_00007" UV="0.3740234,0.1225586,0.5585938,0.2426758" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="766,251" />
+    <PuzzleUnit Name="HammerheadFish_00008" UV="0.5610352,0.1225586,0.7456055,0.2426758" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1149,251" />
+    <PuzzleUnit Name="HammerheadFish_00009" UV="0.7480469,0.1225586,0.9326172,0.2426758" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1532,251" />
+    <PuzzleUnit Name="HammerheadFish_00010" UV="0,0.2451172,0.1845703,0.3652344" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="0,502" />
+    <PuzzleUnit Name="HammerheadFish_00011" UV="0.1870117,0.2451172,0.371582,0.3652344" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="383,502" />
+    <PuzzleUnit Name="HammerheadFish_00012" UV="0.3740234,0.2451172,0.5585938,0.3652344" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="766,502" />
+    <PuzzleUnit Name="HammerheadFish_00013" UV="0.5610352,0.2451172,0.7456055,0.3652344" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1149,502" />
+    <PuzzleUnit Name="HammerheadFish_00014" UV="0.7480469,0.2451172,0.9326172,0.3652344" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1532,502" />
+    <PuzzleUnit Name="HammerheadFish_00015" UV="0,0.3676758,0.1845703,0.487793" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="0,753" />
+    <PuzzleUnit Name="HammerheadFish_00016" UV="0.1870117,0.3676758,0.371582,0.487793" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="383,753" />
+    <PuzzleUnit Name="HammerheadFish_00017" UV="0.3740234,0.3676758,0.5585938,0.487793" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="766,753" />
+    <PuzzleUnit Name="HammerheadFish_00018" UV="0.5610352,0.3676758,0.7456055,0.487793" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1149,753" />
+    <PuzzleUnit Name="HammerheadFish_00019" UV="0.7480469,0.3676758,0.9326172,0.487793" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1532,753" />
+    <PuzzleUnit Name="HammerheadFish_00020" UV="0,0.4902344,0.1845703,0.6103516" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="0,1004" />
+    <PuzzleUnit Name="HammerheadFish_00021" UV="0.1870117,0.4902344,0.371582,0.6103516" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="383,1004" />
+    <PuzzleUnit Name="HammerheadFish_00022" UV="0.3740234,0.4902344,0.5585938,0.6103516" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="766,1004" />
+    <PuzzleUnit Name="HammerheadFish_00023" UV="0.5610352,0.4902344,0.7456055,0.6103516" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1149,1004" />
+    <PuzzleUnit Name="HammerheadFish_00024" UV="0.7480469,0.4902344,0.9326172,0.6103516" OffsetPos="0,0" Size="378,246" OriginalSize="378,246" ShowPosInPI="1532,1004" />
+</PuzzleImage>

@@ -1,0 +1,14 @@
+<!-- Author:OLINCA,Time:2013/7/15 ¤U¤È 03:51:08 -->
+<PuzzleImage OriginalNameSort="PlayerBullet1,PlayerBullet2,BulletTail_01,BulletTail_02,BulletTail_03,BulletTail_04,BulletTail_05,BulletTail_06,BulletTail_07,PlayerBullet3,PlayerBullet4" ImageName="Bullet_0001.png" Count="11" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BulletTail_01" UV="0.6875,0,0.8632813,0.2890625" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="176,0" />
+    <PuzzleUnit Name="BulletTail_02" UV="0,0.3007813,0.1757813,0.5898438" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="0,77" />
+    <PuzzleUnit Name="BulletTail_03" UV="0.1875,0.3007813,0.3632813,0.5898438" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="48,77" />
+    <PuzzleUnit Name="BulletTail_04" UV="0.375,0.3007813,0.5507813,0.5898438" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="96,77" />
+    <PuzzleUnit Name="BulletTail_05" UV="0.5625,0.3007813,0.7382813,0.5898438" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="144,77" />
+    <PuzzleUnit Name="BulletTail_06" UV="0.75,0.3007813,0.9257813,0.5898438" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="192,77" />
+    <PuzzleUnit Name="BulletTail_07" UV="0,0.6015625,0.1757813,0.890625" OffsetPos="0,0" Size="45,74" OriginalSize="45,74" ShowPosInPI="0,154" />
+    <PuzzleUnit Name="PlayerBullet1" UV="0,0,0.3320313,0.2421875" OffsetPos="0,0" Size="85,62" OriginalSize="85,62" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="PlayerBullet2" UV="0.34375,0,0.6757813,0.2421875" OffsetPos="0,0" Size="85,62" OriginalSize="85,62" ShowPosInPI="88,0" />
+    <PuzzleUnit Name="PlayerBullet3" UV="0.1875,0.6015625,0.5195313,0.84375" OffsetPos="0,0" Size="85,62" OriginalSize="85,62" ShowPosInPI="48,154" />
+    <PuzzleUnit Name="PlayerBullet4" UV="0.53125,0.6015625,0.8632813,0.84375" OffsetPos="0,0" Size="85,62" OriginalSize="85,62" ShowPosInPI="136,154" />
+</PuzzleImage>

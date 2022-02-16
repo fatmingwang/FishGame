@@ -1,0 +1,43 @@
+<!-- Author:OLINCA,Time:2013/7/17 ¤W¤È 11:09:49 -->
+<PuzzleImage OriginalNameSort="Water_00000,Water_00001 ,Water_00002 ,Water_00003 ,Water_00004 ,Water_00005 ,Water_00006 ,Water_00007 ,Water_00008 ,Water_00009 ,Water_00010 ,Water_00011 ,Water_00012 ,Water_00013 ,Water_00014 ,Water_00015 ,Water_00016 ,Water_00017 ,Water_00018 ,Water_00019 ,Water_00020 ,Water_00021 ,Water_00022 ,Water_00023 ,Water_00024 ,Water_00025 ,Water_00026 ,Water_00027 ,Water_00028 ,Water_00029 ,Water_00030 ,Water_00031 ,Water_00032 ,Water_00033 ,Water_00034 ,Water_00035 ,Water_00036 ,Water_00037 ,Water_00038 ,Water_00039 " ImageName="Water.png" Count="40" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="Water_00000" UV="0,0,0.1757813,0.1098633" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="Water_00001 " UV="0.1782227,0,0.3540039,0.1098633" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,0" />
+    <PuzzleUnit Name="Water_00002 " UV="0.3564453,0,0.5322266,0.1098633" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,0" />
+    <PuzzleUnit Name="Water_00003 " UV="0.534668,0,0.7104492,0.1098633" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,0" />
+    <PuzzleUnit Name="Water_00004 " UV="0.7128906,0,0.8886719,0.1098633" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,0" />
+    <PuzzleUnit Name="Water_00005 " UV="0,0.1123047,0.1757813,0.222168" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,460" />
+    <PuzzleUnit Name="Water_00006 " UV="0.1782227,0.1123047,0.3540039,0.222168" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,460" />
+    <PuzzleUnit Name="Water_00007 " UV="0.3564453,0.1123047,0.5322266,0.222168" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,460" />
+    <PuzzleUnit Name="Water_00008 " UV="0.534668,0.1123047,0.7104492,0.222168" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,460" />
+    <PuzzleUnit Name="Water_00009 " UV="0.7128906,0.1123047,0.8886719,0.222168" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,460" />
+    <PuzzleUnit Name="Water_00010 " UV="0,0.2246094,0.1757813,0.3344727" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,920" />
+    <PuzzleUnit Name="Water_00011 " UV="0.1782227,0.2246094,0.3540039,0.3344727" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,920" />
+    <PuzzleUnit Name="Water_00012 " UV="0.3564453,0.2246094,0.5322266,0.3344727" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,920" />
+    <PuzzleUnit Name="Water_00013 " UV="0.534668,0.2246094,0.7104492,0.3344727" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,920" />
+    <PuzzleUnit Name="Water_00014 " UV="0.7128906,0.2246094,0.8886719,0.3344727" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,920" />
+    <PuzzleUnit Name="Water_00015 " UV="0,0.3369141,0.1757813,0.4467773" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,1380" />
+    <PuzzleUnit Name="Water_00016 " UV="0.1782227,0.3369141,0.3540039,0.4467773" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,1380" />
+    <PuzzleUnit Name="Water_00017 " UV="0.3564453,0.3369141,0.5322266,0.4467773" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,1380" />
+    <PuzzleUnit Name="Water_00018 " UV="0.534668,0.3369141,0.7104492,0.4467773" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,1380" />
+    <PuzzleUnit Name="Water_00019 " UV="0.7128906,0.3369141,0.8886719,0.4467773" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,1380" />
+    <PuzzleUnit Name="Water_00020 " UV="0,0.4492188,0.1757813,0.559082" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,1840" />
+    <PuzzleUnit Name="Water_00021 " UV="0.1782227,0.4492188,0.3540039,0.559082" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,1840" />
+    <PuzzleUnit Name="Water_00022 " UV="0.3564453,0.4492188,0.5322266,0.559082" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,1840" />
+    <PuzzleUnit Name="Water_00023 " UV="0.534668,0.4492188,0.7104492,0.559082" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,1840" />
+    <PuzzleUnit Name="Water_00024 " UV="0.7128906,0.4492188,0.8886719,0.559082" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,1840" />
+    <PuzzleUnit Name="Water_00025 " UV="0,0.5615234,0.1757813,0.6713867" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,2300" />
+    <PuzzleUnit Name="Water_00026 " UV="0.1782227,0.5615234,0.3540039,0.6713867" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,2300" />
+    <PuzzleUnit Name="Water_00027 " UV="0.3564453,0.5615234,0.5322266,0.6713867" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,2300" />
+    <PuzzleUnit Name="Water_00028 " UV="0.534668,0.5615234,0.7104492,0.6713867" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,2300" />
+    <PuzzleUnit Name="Water_00029 " UV="0.7128906,0.5615234,0.8886719,0.6713867" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,2300" />
+    <PuzzleUnit Name="Water_00030 " UV="0,0.6738281,0.1757813,0.7836914" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,2760" />
+    <PuzzleUnit Name="Water_00031 " UV="0.1782227,0.6738281,0.3540039,0.7836914" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,2760" />
+    <PuzzleUnit Name="Water_00032 " UV="0.3564453,0.6738281,0.5322266,0.7836914" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,2760" />
+    <PuzzleUnit Name="Water_00033 " UV="0.534668,0.6738281,0.7104492,0.7836914" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,2760" />
+    <PuzzleUnit Name="Water_00034 " UV="0.7128906,0.6738281,0.8886719,0.7836914" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,2760" />
+    <PuzzleUnit Name="Water_00035 " UV="0,0.7861328,0.1757813,0.8959961" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="0,3220" />
+    <PuzzleUnit Name="Water_00036 " UV="0.1782227,0.7861328,0.3540039,0.8959961" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="730,3220" />
+    <PuzzleUnit Name="Water_00037 " UV="0.3564453,0.7861328,0.5322266,0.8959961" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="1460,3220" />
+    <PuzzleUnit Name="Water_00038 " UV="0.534668,0.7861328,0.7104492,0.8959961" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2190,3220" />
+    <PuzzleUnit Name="Water_00039 " UV="0.7128906,0.7861328,0.8886719,0.8959961" OffsetPos="0,0" Size="720,450" OriginalSize="720,450" ShowPosInPI="2920,3220" />
+</PuzzleImage>

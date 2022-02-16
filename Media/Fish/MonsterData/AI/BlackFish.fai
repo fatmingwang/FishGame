@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="BlackFish" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="BlackFish" Type="cFAIAnimationCharacter" cFAICharacterStatus="BlackFish" Speed="10" RunAwaySpeed="22"  >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="BlackFish" StartBehaviorName="Path" cFAICharacterInterface="BlackFish" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="50" Wall="0,0,1280,720" XDistanceRestrict="16,22" YDistanceRestrict="10,14" TimeRestrict="19,22" PointRestrict="6,12" DistanceChangePoint="3,3" DirectionOffsetX="-0.7,0.7" DirectionOffsetY="-0.7,0.7" LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="50" PathFile="Fish/MonsterData/Path/BlackFish.path" />
+	</cFAIMachine>
+</Root>

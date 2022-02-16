@@ -1,0 +1,161 @@
+<MPDIList Name="ClownFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="ClownFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="ClownFish" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.033333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.066667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.133333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.233333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.266667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.300000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.366667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.400000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.433333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.466667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.533333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.566667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.600000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.633333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.666667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.700000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.733333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.766667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.800000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="ClownFish" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.033333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.066667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.133333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.233333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.266667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.300000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.366667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.400000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.433333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.466667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.533333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.566667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.600000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.633333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.666667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.700000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.733333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.766667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.800000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00024" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ClownFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="ClownFish" ImageName="ClownFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.033333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.25" PIName="ClownFish" ImageName="ClownFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.066667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="ClownFish" ImageName="ClownFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.35" PIName="ClownFish" ImageName="ClownFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.133333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="ClownFish" ImageName="ClownFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.45" PIName="ClownFish" ImageName="ClownFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="ClownFish" ImageName="ClownFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.233333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.55" PIName="ClownFish" ImageName="ClownFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.266667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.60" PIName="ClownFish" ImageName="ClownFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.300000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="ClownFish" ImageName="ClownFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.80" PIName="ClownFish" ImageName="ClownFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.366667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.90" PIName="ClownFish" ImageName="ClownFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.400000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,1.00" PIName="ClownFish" ImageName="ClownFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.433333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.90" PIName="ClownFish" ImageName="ClownFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.466667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.80" PIName="ClownFish" ImageName="ClownFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="ClownFish" ImageName="ClownFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.533333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.60" PIName="ClownFish" ImageName="ClownFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.566667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.55" PIName="ClownFish" ImageName="ClownFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.600000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.50" PIName="ClownFish" ImageName="ClownFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.633333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.45" PIName="ClownFish" ImageName="ClownFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.666667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="ClownFish" ImageName="ClownFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.700000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.35" PIName="ClownFish" ImageName="ClownFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.733333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.30" PIName="ClownFish" ImageName="ClownFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.766667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.25" PIName="ClownFish" ImageName="ClownFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.800000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.20" PIName="ClownFish" ImageName="ClownFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="0.800000">
+        <CueToStartCurvesWithTime Name="ClownFish" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.033333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.066667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.133333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.233333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.266667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.300000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.366667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.400000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.433333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.466667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.533333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.566667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.600000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.633333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.666667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.700000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.733333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.766667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.800000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00024" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="ClownFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.033333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.066667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.133333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.166667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.233333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.266667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="0.300000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="0.333333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="0.366667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="0.400000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00012" />
+            <PointDataList Index="13" Position="0.00,0.00,0.00" Time="0.433333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00013" />
+            <PointDataList Index="14" Position="0.00,0.00,0.00" Time="0.466667" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00014" />
+            <PointDataList Index="15" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00015" />
+            <PointDataList Index="16" Position="0.00,0.00,0.00" Time="0.533333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00016" />
+            <PointDataList Index="17" Position="0.00,0.00,0.00" Time="0.566667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00017" />
+            <PointDataList Index="18" Position="0.00,0.00,0.00" Time="0.600000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00018" />
+            <PointDataList Index="19" Position="0.00,0.00,0.00" Time="0.633333" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00019" />
+            <PointDataList Index="20" Position="0.00,0.00,0.00" Time="0.666667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00020" />
+            <PointDataList Index="21" Position="0.00,0.00,0.00" Time="0.700000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00021" />
+            <PointDataList Index="22" Position="0.00,0.00,0.00" Time="0.733333" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00022" />
+            <PointDataList Index="23" Position="0.00,0.00,0.00" Time="0.766667" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.50" PIName="ClownFish" ImageName="ClownFish_00023" />
+            <PointDataList Index="24" Position="0.00,0.00,0.00" Time="0.800000" Size="63.00,55.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="ClownFish" ImageName="ClownFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="ClownFishDiedShow" StartTime="0.000000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00027" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00028" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00029" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.300000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00030" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.400000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00031" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.500000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00032" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="1.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00033" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="ClownFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00025" />
+            <PointDataList Index="1" Position="2.00,-4.00,0.00" Time="0.100000" Size="63.00,55.00" Scale="1.00,1.00" Angles="0.00,0.00,12.00" PIName="ClownFish" ImageName="ClownFish_00026" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.200000" Size="63.00,55.00" Scale="1.00,1.00" PIName="ClownFish" ImageName="ClownFish_00025" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

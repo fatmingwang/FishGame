@@ -1,0 +1,107 @@
+<ImageCollisionData Name="SquidFish" Count="35">
+    <CollisionData Name="SquidFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00001" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00003" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00005" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00007" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00009" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00011" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00012" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00013" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00014" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00015" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00016" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00017" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00018" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00019" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00020" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00021" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00022" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00023" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00024" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00025" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00026" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00027" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00028" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00029" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00030" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00031" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00032" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00033" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="SquidFish_00034" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-73.00,-137.00,0.00,-75.00,165.00,0.00,75.00,165.00,0.00,75.00,-136.00,0.00" />
+    </CollisionData>
+</ImageCollisionData>

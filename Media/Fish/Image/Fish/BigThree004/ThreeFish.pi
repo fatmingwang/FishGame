@@ -1,0 +1,27 @@
+<!-- Author:matt,Time:2013/2/4 ¤U¤È 02:27:51 -->
+<PuzzleImage OriginalNameSort="ThreeFish_00000,ThreeFish_00001,ThreeFish_00002,ThreeFish_00003,ThreeFish_00004,ThreeFish_00005,ThreeFish_00006,ThreeFish_00007,ThreeFish_00008,ThreeFish_00009,ThreeFish_00010,ThreeFish_00011,ThreeFishAttachRed_00000,ThreeFishAttachRed_00001,ThreeFishAttachRed_00002,ThreeFishAttachRed_00003,ThreeFishAttachRed_00004,ThreeFishAttachRed_00005,ThreeFishAttachRed_00006,ThreeFishAttachRed_00007,ThreeFishAttachRed_00008,ThreeFishAttachRed_00009,ThreeFishAttachRed_00010,ThreeFishAttachRed_00011" ImageName="ThreeFish.png" Count="24" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="ThreeFish_00000" UV="0,0,0.1972656,0.125" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="ThreeFish_00001" UV="0.203125,0,0.4003906,0.125" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="104,0" />
+    <PuzzleUnit Name="ThreeFish_00002" UV="0.40625,0,0.6035156,0.125" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="208,0" />
+    <PuzzleUnit Name="ThreeFish_00003" UV="0.609375,0,0.8066406,0.125" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="312,0" />
+    <PuzzleUnit Name="ThreeFish_00004" UV="0,0.1308594,0.1972656,0.2558594" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="0,67" />
+    <PuzzleUnit Name="ThreeFish_00005" UV="0.203125,0.1308594,0.4003906,0.2558594" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="104,67" />
+    <PuzzleUnit Name="ThreeFish_00006" UV="0.40625,0.1308594,0.6035156,0.2558594" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="208,67" />
+    <PuzzleUnit Name="ThreeFish_00007" UV="0.609375,0.1308594,0.8066406,0.2558594" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="312,67" />
+    <PuzzleUnit Name="ThreeFish_00008" UV="0,0.2617188,0.1972656,0.3867188" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="0,134" />
+    <PuzzleUnit Name="ThreeFish_00009" UV="0.203125,0.2617188,0.4003906,0.3867188" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="104,134" />
+    <PuzzleUnit Name="ThreeFish_00010" UV="0.40625,0.2617188,0.6035156,0.3867188" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="208,134" />
+    <PuzzleUnit Name="ThreeFish_00011" UV="0.609375,0.2617188,0.8066406,0.3867188" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="312,134" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00000" UV="0,0.3925781,0.1972656,0.5175781" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="0,201" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00001" UV="0.203125,0.3925781,0.4003906,0.5175781" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="104,201" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00002" UV="0.40625,0.3925781,0.6035156,0.5175781" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="208,201" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00003" UV="0.609375,0.3925781,0.8066406,0.5175781" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="312,201" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00004" UV="0,0.5234375,0.1972656,0.6484375" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="0,268" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00005" UV="0.203125,0.5234375,0.4003906,0.6484375" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="104,268" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00006" UV="0.40625,0.5234375,0.6035156,0.6484375" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="208,268" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00007" UV="0.609375,0.5234375,0.8066406,0.6484375" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="312,268" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00008" UV="0,0.6542969,0.1972656,0.7792969" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="0,335" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00009" UV="0.203125,0.6542969,0.4003906,0.7792969" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="104,335" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00010" UV="0.40625,0.6542969,0.6035156,0.7792969" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="208,335" />
+    <PuzzleUnit Name="ThreeFishAttachRed_00011" UV="0.609375,0.6542969,0.8066406,0.7792969" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="312,335" />
+</PuzzleImage>

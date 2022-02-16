@@ -1,0 +1,15 @@
+<Root>
+	<Coin>
+		<CoinLayer Index="0" Min="0" Max="4" />
+		<CoinLayer Index="1" Min="5" Max="7" />
+		<CoinLayer Index="2" Min="8" Max="14" />
+		<CoinLayer Index="3" Min="15" Max="900000000" />
+	</Coin>
+
+	<PlayerCoinStack>
+		<CoinStack Index="0" Min="10" Max="50" />
+		<CoinStack Index="1" Min="55" Max="500" />
+		<CoinStack Index="2" Min="505" Max="2000" />
+		<CoinStack Index="3" Min="2005" Max="900000000" />
+	</PlayerCoinStack>
+</Root>

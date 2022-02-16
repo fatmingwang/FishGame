@@ -1,0 +1,18 @@
+<!-- Author:OLINCA,Time:2013/8/12 ¤W¤È 09:48:00 -->
+<PuzzleImage OriginalNameSort="BonusDoubleShow,BonusShowBreak0001,BonusShowBreak0002,BonusShowBreak0003,BonusShowBreak0004,BonusShowBreak0005,BonusShowBreak0006,BonusShowBreak0007,BonusShowBreak0008,BonusShowBreak0009,DoubleWeaponGet,Net_Lv4B,BonusTwinArrowNetFire0001,BonusTwinArrowNetFire0002,BonusTwinArrowNetFire0003" ImageName="BonusDouble.png" Count="15" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BonusDoubleShow" UV="0,0,0.078125,0.078125" OffsetPos="0,0" Size="160,160" OriginalSize="160,160" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="BonusShowBreak0001" UV="0.07958984,0,0.2260742,0.1464844" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="163,0" />
+    <PuzzleUnit Name="BonusShowBreak0002" UV="0.2275391,0,0.3740234,0.1464844" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="466,0" />
+    <PuzzleUnit Name="BonusShowBreak0003" UV="0.3754883,0,0.5219727,0.1464844" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="769,0" />
+    <PuzzleUnit Name="BonusShowBreak0004" UV="0.5234375,0,0.6699219,0.1464844" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="1072,0" />
+    <PuzzleUnit Name="BonusShowBreak0005" UV="0.6713867,0,0.8178711,0.1464844" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="1375,0" />
+    <PuzzleUnit Name="BonusShowBreak0006" UV="0.8193359,0,0.9658203,0.1464844" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="1678,0" />
+    <PuzzleUnit Name="BonusShowBreak0007" UV="0,0.1479492,0.1464844,0.2944336" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="0,303" />
+    <PuzzleUnit Name="BonusShowBreak0008" UV="0.1479492,0.1479492,0.2944336,0.2944336" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="303,303" />
+    <PuzzleUnit Name="BonusShowBreak0009" UV="0.2958984,0.1479492,0.4423828,0.2944336" OffsetPos="0,0" Size="300,300" OriginalSize="300,300" ShowPosInPI="606,303" />
+    <PuzzleUnit Name="BonusTwinArrowNetFire0001" UV="0.675293,0.1479492,0.8706055,0.3432617" OffsetPos="0,0" Size="400,400" OriginalSize="400,400" ShowPosInPI="1383,303" />
+    <PuzzleUnit Name="BonusTwinArrowNetFire0002" UV="0,0.3447266,0.1953125,0.5400391" OffsetPos="0,0" Size="400,400" OriginalSize="400,400" ShowPosInPI="0,706" />
+    <PuzzleUnit Name="BonusTwinArrowNetFire0003" UV="0.1967773,0.3447266,0.3920898,0.5400391" OffsetPos="0,0" Size="400,400" OriginalSize="400,400" ShowPosInPI="403,706" />
+    <PuzzleUnit Name="DoubleWeaponGet" UV="0.4438477,0.1479492,0.5478516,0.2026367" OffsetPos="0,0" Size="213,112" OriginalSize="213,112" ShowPosInPI="909,303" />
+    <PuzzleUnit Name="Net_Lv4B" UV="0.5493164,0.1479492,0.6738281,0.2724609" OffsetPos="0,0" Size="255,255" OriginalSize="255,255" ShowPosInPI="1125,303" />
+</PuzzleImage>

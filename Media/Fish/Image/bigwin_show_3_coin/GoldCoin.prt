@@ -1,0 +1,47 @@
+<Particle TPVersion="1.0">
+    <TextureList Name0="GoldCoin.pi" />
+    <Emiter Name="GoldCoin" Data="0.300,0,15,10000,1,771,7,1.00,-308.00,0.00,1,0.40" Texture="GoldCoin">
+        <InitPolicy Type="cPrtLifeInitrSetLife" Data="2.00,15.00,1" />
+        <InitPolicy Type="cPrtColorInitrSetColor" Data="1.00000,1.00000,1.00000,1.00000" />
+        <InitPolicy Type="cPrtSizeInitSetSize" Data="20.00,20.00,0.000" />
+        <InitPolicy Type="cPrtStartPositionInitBySquareRange" Data="10.00,10.00,10.00" />
+        <InitPolicy Type="cPrtRotateInitRotate" Data="0.0000,3.1416,3.1416" />
+        <ActPolicy Type="cPrtLifeActDyingByGameTime" />
+        <ActPolicy Type="cPrtTextureActDynamicTexture" Data="GoldCoin," />
+        <ActPolicy Type="cPrtVelocityActDircctionChange" Data="6.700,-36.800,1.900,1.300,9.100,1.900,1" />
+        <ActPolicy Type="cPrtVelocityActAcceleration" Data="700.00000" />
+    </Emiter>
+    <Emiter Name="GoldCoin_U" Data="0.300,0,15,10000,1,771,7,1.00,308.00,0.00,1,0.40" Texture="GoldCoin">
+        <InitPolicy Type="cPrtLifeInitrSetLife" Data="2.00,15.00,1" />
+        <InitPolicy Type="cPrtColorInitrSetColor" Data="1.00000,1.00000,1.00000,1.00000" />
+        <InitPolicy Type="cPrtSizeInitSetSize" Data="20.00,20.00,0.000" />
+        <InitPolicy Type="cPrtStartPositionInitBySquareRange" Data="10.00,10.00,10.00" />
+        <InitPolicy Type="cPrtRotateInitRotate" Data="0.0000,3.1416,3.1416" />
+        <ActPolicy Type="cPrtLifeActDyingByGameTime" />
+        <ActPolicy Type="cPrtTextureActDynamicTexture" Data="GoldCoin," />
+        <ActPolicy Type="cPrtVelocityActDircctionChange" Data="6.700,-36.800,1.900,1.300,-9.100,1.900,1" />
+        <ActPolicy Type="cPrtVelocityActAcceleration" Data="700.00000" />
+    </Emiter>
+    <Emiter Name="GoldCoin_R" Data="0.300,0,15,10000,1,771,7,-308.00,0.00,0.00,1,0.40" Texture="GoldCoin">
+        <InitPolicy Type="cPrtLifeInitrSetLife" Data="2.00,15.00,1" />
+        <InitPolicy Type="cPrtColorInitrSetColor" Data="1.00000,1.00000,1.00000,1.00000" />
+        <InitPolicy Type="cPrtSizeInitSetSize" Data="20.00,20.00,0.000" />
+        <InitPolicy Type="cPrtStartPositionInitBySquareRange" Data="10.00,10.00,10.00" />
+        <InitPolicy Type="cPrtRotateInitRotate" Data="0.0000,3.1416,3.1416" />
+        <ActPolicy Type="cPrtLifeActDyingByGameTime" />
+        <ActPolicy Type="cPrtTextureActDynamicTexture" Data="GoldCoin," />
+        <ActPolicy Type="cPrtVelocityActDircctionChange" Data="-368.000,6.700,1.900,9.100,1.300,1.900,1" />
+        <ActPolicy Type="cPrtVelocityActAcceleration" Data="700.00000" />
+    </Emiter>
+    <Emiter Name="GoldCoin_L" Data="0.300,0,15,10000,1,771,7,308.00,0.00,0.00,1,0.40" Texture="GoldCoin">
+        <InitPolicy Type="cPrtLifeInitrSetLife" Data="2.00,15.00,1" />
+        <InitPolicy Type="cPrtColorInitrSetColor" Data="1.00000,1.00000,1.00000,1.00000" />
+        <InitPolicy Type="cPrtSizeInitSetSize" Data="20.00,20.00,0.000" />
+        <InitPolicy Type="cPrtStartPositionInitBySquareRange" Data="10.00,10.00,10.00" />
+        <InitPolicy Type="cPrtRotateInitRotate" Data="0.0000,3.1416,3.1416" />
+        <ActPolicy Type="cPrtLifeActDyingByGameTime" />
+        <ActPolicy Type="cPrtTextureActDynamicTexture" Data="GoldCoin," />
+        <ActPolicy Type="cPrtVelocityActDircctionChange" Data="-36.800,6.700,1.900,-9.100,1.300,1.900,1" />
+        <ActPolicy Type="cPrtVelocityActAcceleration" Data="700.00000" />
+    </Emiter>
+</Particle>

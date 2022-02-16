@@ -1,0 +1,21 @@
+<!-- Author:matt,Time:2013/2/6 ¤U¤È 04:14:25 -->
+<PuzzleImage OriginalNameSort="BlackFish,HammerHeadFish,FlounderFish,GoldKenmuDefense,RedKenmuDefense,SilverKenmuDefense,AnglerFish,GoldDragon,MarlinFish,StingrayFish,TurtleFish,ThreeFish,Puffer,SquidFish,ClownFish,JellyFish,BlueFish,KnifeFish" ImageName="AllFish.png" Count="18" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="AnglerFish" UV="0.7880859,0.1894531,0.9433594,0.2949219" OffsetPos="0,0" Size="159,108" OriginalSize="159,108" ShowPosInPI="807,194" />
+    <PuzzleUnit Name="BlackFish" UV="0,0,0.3564453,0.1865234" OffsetPos="0,0" Size="365,191" OriginalSize="365,191" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="BlueFish" UV="0.5449219,0.6240234,0.6279297,0.6777344" OffsetPos="0,0" Size="85,55" OriginalSize="85,55" ShowPosInPI="558,639" />
+    <PuzzleUnit Name="ClownFish" UV="0.4003906,0.6240234,0.4589844,0.6582031" OffsetPos="0,0" Size="60,35" OriginalSize="60,35" ShowPosInPI="410,639" />
+    <PuzzleUnit Name="FlounderFish" UV="0.71875,0,0.890625,0.171875" OffsetPos="0,0" Size="176,176" OriginalSize="176,176" ShowPosInPI="736,0" />
+    <PuzzleUnit Name="GoldDragon" UV="0,0.4482422,0.4990234,0.6210938" OffsetPos="0,0" Size="511,177" OriginalSize="511,177" ShowPosInPI="0,459" />
+    <PuzzleUnit Name="GoldKenmu" UV="0,0.1894531,0.2597656,0.4453125" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,194" />
+    <PuzzleUnit Name="HammerHeadFish" UV="0.359375,0,0.7158203,0.1865234" OffsetPos="0,0" Size="365,191" OriginalSize="365,191" ShowPosInPI="368,0" />
+    <PuzzleUnit Name="JellyFish" UV="0.4619141,0.6240234,0.5419922,0.6689453" OffsetPos="0,0" Size="82,46" OriginalSize="82,46" ShowPosInPI="473,639" />
+    <PuzzleUnit Name="KnifeFish" UV="0.6308594,0.6240234,0.7587891,0.7041016" OffsetPos="0,0" Size="131,82" OriginalSize="131,82" ShowPosInPI="646,639" />
+    <PuzzleUnit Name="MarlinFish" UV="0.5019531,0.4482422,0.7529297,0.5595703" OffsetPos="0,0" Size="257,114" OriginalSize="257,114" ShowPosInPI="514,459" />
+    <PuzzleUnit Name="PufferFish" UV="0.21875,0.6240234,0.3027344,0.7167969" OffsetPos="0,0" Size="86,95" OriginalSize="86,95" ShowPosInPI="224,639" />
+    <PuzzleUnit Name="RedKenmu" UV="0.2626953,0.1894531,0.5224609,0.4453125" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="269,194" />
+    <PuzzleUnit Name="SilverKenmu" UV="0.5253906,0.1894531,0.7851563,0.4453125" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="538,194" />
+    <PuzzleUnit Name="SquidFish" UV="0.3056641,0.6240234,0.3974609,0.6679688" OffsetPos="0,0" Size="94,45" OriginalSize="94,45" ShowPosInPI="313,639" />
+    <PuzzleUnit Name="StingrayFish" UV="0.7558594,0.4482422,0.9736328,0.5888672" OffsetPos="0,0" Size="223,144" OriginalSize="223,144" ShowPosInPI="774,459" />
+    <PuzzleUnit Name="ThreeFish" UV="0.1171875,0.6240234,0.2158203,0.6865234" OffsetPos="0,0" Size="101,64" OriginalSize="101,64" ShowPosInPI="120,639" />
+    <PuzzleUnit Name="TurtleFish" UV="0,0.6240234,0.1142578,0.7734375" OffsetPos="0,0" Size="117,153" OriginalSize="117,153" ShowPosInPI="0,639" />
+</PuzzleImage>

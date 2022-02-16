@@ -1,0 +1,35 @@
+<MiniGame MiniGameFishID="1" MiniGameDuration="50,100" MaximumPayrate="350" MaximumShowOnScreen="1" >
+	<Trigger>
+		<Game Name="cMiniGameActiverAllFishesFreeze" Type="cMiniGameTriggerBase" ShowProbability="0.4" HotKey="1" >
+			<BaseData MPDIListName="Fish/Image/MiniGame/FullScreenFreeze/FullScreenFreeze.mpdi" HintMPDI="Plate" ActiverMiniGameName="cMiniGameActiverAllFishesFreeze" />
+		</Game>
+		<Game Name="cMiniGameActiverAreaBomb"  Type="cMiniGameTriggerBase" ShowProbability="0.4" HotKey="2" >
+			<BaseData MPDIListName="Fish/Image/MiniGame/AreaBomb/AreaBomb.mpdi" HintMPDI="Plate" ActiverMiniGameName="cMiniGameActiverAreaBomb" />
+		</Game>
+		<Game Name="cMiniGameActiverFullScreenBomb" Type="cMiniGameTriggerBase" ShowProbability="0.4" HotKey="3" >
+			<BaseData MPDIListName="Fish/Image/MiniGame/FullScreenBomb/FullScreenBomb.mpdi" HintMPDI="Plate" ActiverMiniGameName="cMiniGameActiverFullScreenBomb"  />
+		</Game>
+		<Game Name="cMiniGameActiverPowerUp" Type="cMiniGameTriggerBase" ShowProbability="0.4" HotKey="4" >
+			<BaseData MPDIListName="Fish/Image/MiniGame/PowerUp/PowerUp.mpdi" HintMPDI="Plate" ActiverMiniGameName="cMiniGameActiverPowerUp"  />
+		</Game>
+	</Trigger>
+	<Activer>
+		<Game Name="cMiniGameActiverAllFishesFreeze" Type="cMiniGameActiverAllFishesFreeze" HotKey="5" >
+			<BaseData MPDIListName="Fish/Image/MiniGame/FullScreenFreeze/FullScreenFreeze.mpdi" MiniGameNameMPDI="Message" EffectShowMPDI="WeaponEffect" Sound="6" />
+			<Data Duration="5" />
+		</Game>
+		<Game Name="cMiniGameActiverAreaBomb" Type="cMiniGameActiverAreaBomb" HotKey="6">
+			<BaseData MPDIListName="Fish/Image/MiniGame/AreaBomb/AreaBomb.mpdi" MiniGameNameMPDI="Message" EffectShowMPDI="WeaponEffect" Sound="6"/>
+			<PrizeWithProbability Prize="40,75,100,150,200" Probability="1,1,1,1,1" />
+			<Data ExplosionRadius="300" />
+		</Game>
+		<Game Name="cMiniGameActiverFullScreenBomb" Type="cMiniGameActiverFullScreenBomb" HotKey="7">
+			<BaseData MPDIListName="Fish/Image/MiniGame/FullScreenBomb/FullScreenBomb.mpdi" MiniGameNameMPDI="Message" EffectShowMPDI="WeaponEffect" Sound="6"/>
+			<PrizeWithProbability Prize="40,75,100,150,200" Probability="1,1,1,1,1" />
+		</Game>
+		<Game Name="cMiniGameActiverPowerUp" Type="cMiniGameActiverPowerUp" HotKey="8">
+			<BaseData MPDIListName="Fish/Image/MiniGame//PowerUp/PowerUp.mpdi" MiniGameNameMPDI="Message" Sound="6"/>
+			<Data Duration="6" />
+		</Game>
+	</Activer>
+</MiniGame>

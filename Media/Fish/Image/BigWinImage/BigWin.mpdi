@@ -1,0 +1,553 @@
+<MPDIList Name="BigWin_mpdi" Count="4" MPDIVersion="1.2" PICount="1" ImageName="BigWin.pi">
+    <MultiPathDynamicImage Name="BigWinNumerialPos" PathCount="1" PlayCount="1" TotalPlayTime="0.000000">
+        <CueToStartCurvesWithTime Name="BigWin3Numerial_0" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-20.00,-190.00,0.00" Time="0.000000" Size="26.00,33.00" Scale="0.72,0.67" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigWin1" PathCount="4" PlayCount="1" TotalPlayTime="4.000000">
+        <CueToStartCurvesWithTime Name="BigWinInside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-281.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,720.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-87.00,-281.00,0.00" Time="0.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,660.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-87.00,-281.00,0.00" Time="0.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,600.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-87.00,-281.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,540.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-87.00,-281.00,0.00" Time="1.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,480.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-87.00,-281.00,0.00" Time="1.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,420.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-87.00,-281.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,360.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-87.00,-281.00,0.00" Time="2.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-87.00,-281.00,0.00" Time="2.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,240.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-87.00,-281.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-87.00,-281.00,0.00" Time="3.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,120.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-87.00,-281.00,0.00" Time="3.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-87.00,-281.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinOutside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-281.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-87.00,-281.00,0.00" Time="0.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-87.00,-281.00,0.00" Time="0.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,120.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-87.00,-281.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-87.00,-281.00,0.00" Time="1.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,240.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-87.00,-281.00,0.00" Time="1.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-87.00,-281.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,360.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-87.00,-281.00,0.00" Time="2.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,420.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-87.00,-281.00,0.00" Time="2.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,480.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-87.00,-281.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,540.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-87.00,-281.00,0.00" Time="3.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,600.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-87.00,-281.00,0.00" Time="3.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,660.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-87.00,-281.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,720.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinOutside2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="-87.00,-281.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-87.00,-281.00,0.00" Time="0.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-87.00,-281.00,0.00" Time="0.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,120.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-87.00,-281.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,180.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-87.00,-281.00,0.00" Time="1.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,240.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-87.00,-281.00,0.00" Time="1.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,300.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-87.00,-281.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,360.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-87.00,-281.00,0.00" Time="2.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,420.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-87.00,-281.00,0.00" Time="2.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,480.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-87.00,-281.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,540.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-87.00,-281.00,0.00" Time="3.333333" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,600.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-87.00,-281.00,0.00" Time="3.666667" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,660.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-87.00,-281.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,720.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWin3Numerial_0" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-21.00,-225.00,0.00" Time="0.000000" Size="26.00,33.00" Scale="0.72,0.67" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigWin2" PathCount="7" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="BigWinInside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="-86.00,-283.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,360.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-86.00,-283.00,0.00" Time="0.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,300.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-86.00,-283.00,0.00" Time="0.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,240.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-86.00,-283.00,0.00" Time="0.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-86.00,-283.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,120.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-86.00,-283.00,0.00" Time="1.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,60.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-86.00,-283.00,0.00" Time="1.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-86.00,-283.00,0.00" Time="1.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-60.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-86.00,-283.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-120.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-86.00,-283.00,0.00" Time="2.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-86.00,-283.00,0.00" Time="2.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-240.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-86.00,-283.00,0.00" Time="2.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-86.00,-283.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-360.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="13" Position="-86.00,-283.00,0.00" Time="3.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-420.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="14" Position="-86.00,-283.00,0.00" Time="3.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-480.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="15" Position="-86.00,-283.00,0.00" Time="3.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-540.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="16" Position="-86.00,-283.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-600.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="17" Position="-86.00,-283.00,0.00" Time="4.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-660.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="18" Position="-86.00,-283.00,0.00" Time="4.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-720.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="19" Position="-86.00,-283.00,0.00" Time="4.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-780.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="20" Position="-86.00,-283.00,0.00" Time="5.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-840.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="21" Position="-86.00,-283.00,0.00" Time="5.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-900.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="22" Position="-86.00,-283.00,0.00" Time="5.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-960.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="23" Position="-86.00,-283.00,0.00" Time="5.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-1020.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="24" Position="-86.00,-283.00,0.00" Time="6.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-1080.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinOutside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="-86.00,-283.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-86.00,-283.00,0.00" Time="0.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-86.00,-283.00,0.00" Time="0.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,120.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-86.00,-283.00,0.00" Time="0.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-86.00,-283.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,240.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-86.00,-283.00,0.00" Time="1.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-86.00,-283.00,0.00" Time="1.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,360.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-86.00,-283.00,0.00" Time="1.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,420.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-86.00,-283.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,480.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-86.00,-283.00,0.00" Time="2.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,540.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-86.00,-283.00,0.00" Time="2.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,600.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-86.00,-283.00,0.00" Time="2.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,660.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-86.00,-283.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,720.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="13" Position="-86.00,-283.00,0.00" Time="3.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,780.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="14" Position="-86.00,-283.00,0.00" Time="3.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,840.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="15" Position="-86.00,-283.00,0.00" Time="3.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,900.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="16" Position="-86.00,-283.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,960.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="17" Position="-86.00,-283.00,0.00" Time="4.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1020.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="18" Position="-86.00,-283.00,0.00" Time="4.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1080.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="19" Position="-86.00,-283.00,0.00" Time="4.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1140.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="20" Position="-86.00,-283.00,0.00" Time="5.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1200.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="21" Position="-86.00,-283.00,0.00" Time="5.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1260.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="22" Position="-86.00,-283.00,0.00" Time="5.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1320.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="23" Position="-86.00,-283.00,0.00" Time="5.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1380.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="24" Position="-86.00,-283.00,0.00" Time="6.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1440.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinOutside2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="-86.00,-283.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-86.00,-283.00,0.00" Time="0.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-86.00,-283.00,0.00" Time="0.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,120.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-86.00,-283.00,0.00" Time="0.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,180.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-86.00,-283.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,240.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-86.00,-283.00,0.00" Time="1.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,300.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-86.00,-283.00,0.00" Time="1.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,360.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-86.00,-283.00,0.00" Time="1.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,420.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-86.00,-283.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,480.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-86.00,-283.00,0.00" Time="2.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,540.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-86.00,-283.00,0.00" Time="2.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,600.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-86.00,-283.00,0.00" Time="2.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,660.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-86.00,-283.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,720.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="13" Position="-86.00,-283.00,0.00" Time="3.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,780.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="14" Position="-86.00,-283.00,0.00" Time="3.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,840.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="15" Position="-86.00,-283.00,0.00" Time="3.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,900.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="16" Position="-86.00,-283.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,960.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="17" Position="-86.00,-283.00,0.00" Time="4.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1020.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="18" Position="-86.00,-283.00,0.00" Time="4.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1080.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="19" Position="-86.00,-283.00,0.00" Time="4.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1140.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="20" Position="-86.00,-283.00,0.00" Time="5.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1200.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="21" Position="-86.00,-283.00,0.00" Time="5.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1260.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="22" Position="-86.00,-283.00,0.00" Time="5.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1320.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="23" Position="-86.00,-283.00,0.00" Time="5.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1380.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="24" Position="-86.00,-283.00,0.00" Time="6.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1440.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Streaky_00" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-40.00,-373.00,0.00" Time="0.000000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-40.00,-373.00,0.00" Time="0.070000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-40.00,-373.00,0.00" Time="0.140000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-40.00,-373.00,0.00" Time="0.210000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-40.00,-373.00,0.00" Time="0.280000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-40.00,-373.00,0.00" Time="0.350000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-40.00,-373.00,0.00" Time="0.420000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-40.00,-373.00,0.00" Time="0.490000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-40.00,-373.00,0.00" Time="0.560000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-40.00,-373.00,0.00" Time="0.630000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-40.00,-373.00,0.00" Time="0.700000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Streaky2" StartTime="0.200000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-197.00,-296.00,0.00" Time="0.000000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-197.00,-296.00,0.00" Time="0.070000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-197.00,-296.00,0.00" Time="0.140000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-197.00,-296.00,0.00" Time="0.210000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-197.00,-296.00,0.00" Time="0.280000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-197.00,-296.00,0.00" Time="0.350000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-197.00,-296.00,0.00" Time="0.420000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-197.00,-296.00,0.00" Time="0.490000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-197.00,-296.00,0.00" Time="0.560000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-197.00,-296.00,0.00" Time="0.630000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-197.00,-296.00,0.00" Time="0.700000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Streaky3" StartTime="0.400000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-51.00,-251.00,0.00" Time="0.000000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-51.00,-251.00,0.00" Time="0.070000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-51.00,-251.00,0.00" Time="0.140000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-51.00,-251.00,0.00" Time="0.210000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-51.00,-251.00,0.00" Time="0.280000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-51.00,-251.00,0.00" Time="0.350000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-51.00,-251.00,0.00" Time="0.420000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-51.00,-251.00,0.00" Time="0.490000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-51.00,-251.00,0.00" Time="0.560000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-51.00,-251.00,0.00" Time="0.630000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-51.00,-251.00,0.00" Time="0.700000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWin3Numerial_0" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-20.00,-227.00,0.00" Time="0.000000" Size="26.00,33.00" Scale="0.72,0.67" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigWin3" PathCount="36" PlayCount="1" TotalPlayTime="6.000000">
+        <CueToStartCurvesWithTime Name="BGRay03" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.400000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="-50.00,-154.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-50.00,-154.00,0.00" Time="0.433333" Size="-0.00,-0.00" Scale="-0.00,-0.00" Angles="0.00,0.00,25.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-50.00,-154.00,0.00" Time="0.866667" Size="399.36,399.36" Scale="11.09,8.15" Angles="0.00,0.00,50.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-50.00,-154.00,0.00" Time="1.300000" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,75.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-50.00,-154.00,0.00" Time="1.733333" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,100.00" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-50.00,-154.00,0.00" Time="2.166667" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,125.00" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-50.00,-154.00,0.00" Time="4.600000" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,300.00" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay02" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.400000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="-246.00,-122.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-246.00,-122.00,0.00" Time="0.433333" Size="-0.00,-0.00" Scale="-0.00,-0.00" Angles="0.00,0.00,25.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-246.00,-122.00,0.00" Time="0.866667" Size="399.36,399.36" Scale="11.09,8.15" Angles="0.00,0.00,50.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-246.00,-122.00,0.00" Time="1.300000" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,75.00" Color="1.00,1.00,1.00,0.59" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-246.00,-122.00,0.00" Time="1.733333" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,100.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-246.00,-122.00,0.00" Time="2.166667" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,125.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-246.00,-122.00,0.00" Time="4.600000" Size="599.04,599.04" Scale="16.64,12.23" Angles="0.00,0.00,300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.400000" AnchorType="CenterCenter" Count="7" LOD="1">
+            <PointDataList Index="0" Position="-148.00,-161.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-148.00,-161.00,0.00" Time="0.433333" Size="-0.00,-0.00" Scale="-0.00,-0.00" Angles="0.00,0.00,25.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-148.00,-161.00,0.00" Time="0.866667" Size="399.36,399.36" Scale="11.09,8.15" Angles="0.00,0.00,50.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-148.00,-161.00,0.00" Time="1.300000" Size="1000.96,1000.96" Scale="27.80,20.43" Angles="0.00,0.00,75.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-148.00,-161.00,0.00" Time="1.733333" Size="1000.96,1000.96" Scale="27.80,20.43" Angles="0.00,0.00,100.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-148.00,-161.00,0.00" Time="2.166667" Size="1000.96,1000.96" Scale="27.80,20.43" Angles="0.00,0.00,125.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-148.00,-161.00,0.00" Time="4.600000" Size="1000.96,1000.96" Scale="27.80,20.43" Angles="0.00,0.00,300.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot05" BehaviorUpdate="1" StartTime="0.600000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-135.00,-38.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-135.00,-167.00,0.00" Time="0.600000" Size="381.00,166.50" Scale="10.58,3.40" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-135.00,-167.00,0.00" Time="0.800000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-135.00,-167.00,0.00" Time="5.400000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot05-2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.600000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-135.00,-38.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-135.00,-167.00,0.00" Time="0.600000" Size="381.00,166.50" Scale="10.58,3.40" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-135.00,-167.00,0.00" Time="0.800000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-135.00,-167.00,0.00" Time="5.400000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot04" BehaviorUpdate="1" StartTime="0.500000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-57.00,7.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-57.00,-57.50,0.00" Time="0.300000" Size="0.00,0.00" Scale="0.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-57.00,-122.00,0.00" Time="0.500000" Size="381.00,166.50" Scale="10.58,3.40" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-57.00,-122.00,0.00" Time="0.700000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-57.00,-122.00,0.00" Time="5.500000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot04-2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.500000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-57.00,7.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-57.00,-57.50,0.00" Time="0.300000" Size="0.00,0.00" Scale="0.00,0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-57.00,-122.00,0.00" Time="0.500000" Size="381.00,166.50" Scale="10.58,3.40" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-57.00,-122.00,0.00" Time="0.700000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-57.00,-122.00,0.00" Time="5.500000" Size="261.62,114.33" Scale="7.27,2.33" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot03" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-179.00,-14.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-179.00,-143.00,0.00" Time="0.600000" Size="381.00,166.50" Scale="10.58,3.40" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-179.00,-143.00,0.00" Time="0.800000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-179.00,-143.00,0.00" Time="6.000000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot03-2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-179.00,-14.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-179.00,-143.00,0.00" Time="0.600000" Size="381.00,166.50" Scale="10.58,3.40" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-179.00,-143.00,0.00" Time="0.800000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-179.00,-143.00,0.00" Time="6.000000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot02" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-18.00,10.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-18.00,-41.00,0.00" Time="0.300000" Size="-0.00,-0.00" Scale="-0.00,-0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-18.00,-92.00,0.00" Time="0.400000" Size="381.00,166.50" Scale="10.58,3.40" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-18.00,-92.00,0.00" Time="0.600000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-18.00,-92.00,0.00" Time="6.000000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot02-2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-18.00,10.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-18.00,-41.00,0.00" Time="0.300000" Size="-0.00,-0.00" Scale="-0.00,-0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-18.00,-92.00,0.00" Time="0.400000" Size="381.00,166.50" Scale="10.58,3.40" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-18.00,-92.00,0.00" Time="0.600000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-18.00,-92.00,0.00" Time="6.000000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot01" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-260.00,-4.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-260.00,-91.00,0.00" Time="0.300000" Size="381.00,166.50" Scale="10.58,3.40" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-260.00,-91.00,0.00" Time="0.500000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-260.00,-91.00,0.00" Time="6.000000" Size="312.42,136.53" Scale="8.68,2.79" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGIngot01-2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-260.00,-4.00,0.00" Time="0.000000" Size="-0.00,-0.00" Scale="-0.00,-0.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-260.00,-91.00,0.00" Time="0.300000" Size="381.00,166.50" Scale="10.58,3.40" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-260.00,-91.00,0.00" Time="0.500000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-260.00,-91.00,0.00" Time="6.000000" Size="312.42,136.53" Scale="8.68,2.79" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinInside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="-88.00,-281.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,360.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-88.00,-281.00,0.00" Time="0.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,300.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-88.00,-281.00,0.00" Time="0.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,240.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-88.00,-281.00,0.00" Time="0.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-88.00,-281.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,120.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-88.00,-281.00,0.00" Time="1.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,60.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-88.00,-281.00,0.00" Time="1.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-88.00,-281.00,0.00" Time="1.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-60.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-88.00,-281.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-120.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-88.00,-281.00,0.00" Time="2.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-88.00,-281.00,0.00" Time="2.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-240.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-88.00,-281.00,0.00" Time="2.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-88.00,-281.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-360.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="13" Position="-88.00,-281.00,0.00" Time="3.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-420.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="14" Position="-88.00,-281.00,0.00" Time="3.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-480.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="15" Position="-88.00,-281.00,0.00" Time="3.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-540.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="16" Position="-88.00,-281.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-600.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="17" Position="-88.00,-281.00,0.00" Time="4.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-660.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="18" Position="-88.00,-281.00,0.00" Time="4.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-720.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="19" Position="-88.00,-281.00,0.00" Time="4.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-780.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="20" Position="-88.00,-281.00,0.00" Time="5.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-840.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="21" Position="-88.00,-281.00,0.00" Time="5.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-900.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="22" Position="-88.00,-281.00,0.00" Time="5.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-960.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="23" Position="-88.00,-281.00,0.00" Time="5.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-1020.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="24" Position="-88.00,-281.00,0.00" Time="6.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="360.00,360.00,-1080.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinOutside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="-88.00,-281.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-88.00,-281.00,0.00" Time="0.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-88.00,-281.00,0.00" Time="0.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,120.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-88.00,-281.00,0.00" Time="0.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,180.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-88.00,-281.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,240.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-88.00,-281.00,0.00" Time="1.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,300.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-88.00,-281.00,0.00" Time="1.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,360.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-88.00,-281.00,0.00" Time="1.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,420.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-88.00,-281.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,480.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-88.00,-281.00,0.00" Time="2.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,540.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-88.00,-281.00,0.00" Time="2.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,600.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-88.00,-281.00,0.00" Time="2.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,660.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-88.00,-281.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,720.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="13" Position="-88.00,-281.00,0.00" Time="3.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,780.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="14" Position="-88.00,-281.00,0.00" Time="3.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,840.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="15" Position="-88.00,-281.00,0.00" Time="3.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,900.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="16" Position="-88.00,-281.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,960.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="17" Position="-88.00,-281.00,0.00" Time="4.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1020.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="18" Position="-88.00,-281.00,0.00" Time="4.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1080.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="19" Position="-88.00,-281.00,0.00" Time="4.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1140.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="20" Position="-88.00,-281.00,0.00" Time="5.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1200.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="21" Position="-88.00,-281.00,0.00" Time="5.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1260.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="22" Position="-88.00,-281.00,0.00" Time="5.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1320.00" Color="1.00,1.00,1.00,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="23" Position="-88.00,-281.00,0.00" Time="5.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1380.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="24" Position="-88.00,-281.00,0.00" Time="6.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1440.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWinOutside2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="25" LOD="1">
+            <PointDataList Index="0" Position="-88.00,-281.00,0.00" Time="0.000000" Size="202.50,174.00" Scale="5.63,3.55" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-88.00,-281.00,0.00" Time="0.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-88.00,-281.00,0.00" Time="0.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,120.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-88.00,-281.00,0.00" Time="0.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,180.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-88.00,-281.00,0.00" Time="1.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,240.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-88.00,-281.00,0.00" Time="1.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,300.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-88.00,-281.00,0.00" Time="1.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,360.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-88.00,-281.00,0.00" Time="1.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,420.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-88.00,-281.00,0.00" Time="2.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,480.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-88.00,-281.00,0.00" Time="2.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,540.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-88.00,-281.00,0.00" Time="2.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,600.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="11" Position="-88.00,-281.00,0.00" Time="2.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,660.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="12" Position="-88.00,-281.00,0.00" Time="3.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,720.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="13" Position="-88.00,-281.00,0.00" Time="3.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,780.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="14" Position="-88.00,-281.00,0.00" Time="3.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,840.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="15" Position="-88.00,-281.00,0.00" Time="3.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,900.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="16" Position="-88.00,-281.00,0.00" Time="4.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,960.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="17" Position="-88.00,-281.00,0.00" Time="4.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1020.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="18" Position="-88.00,-281.00,0.00" Time="4.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1080.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="19" Position="-88.00,-281.00,0.00" Time="4.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1140.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="20" Position="-88.00,-281.00,0.00" Time="5.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1200.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="21" Position="-88.00,-281.00,0.00" Time="5.250000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1260.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="22" Position="-88.00,-281.00,0.00" Time="5.500000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1320.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="23" Position="-88.00,-281.00,0.00" Time="5.750000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1380.00" Color="1.00,1.00,1.00,0.39" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="24" Position="-88.00,-281.00,0.00" Time="6.000000" Size="202.50,174.00" Scale="5.63,3.55" Angles="0.00,0.00,1440.00" Color="1.00,1.00,1.00,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Streaky_00" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-42.00,-371.00,0.00" Time="0.000000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-42.00,-371.00,0.00" Time="0.070000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-42.00,-371.00,0.00" Time="0.140000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-42.00,-371.00,0.00" Time="0.210000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-42.00,-371.00,0.00" Time="0.280000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-42.00,-371.00,0.00" Time="0.350000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-42.00,-371.00,0.00" Time="0.420000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-42.00,-371.00,0.00" Time="0.490000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-42.00,-371.00,0.00" Time="0.560000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-42.00,-371.00,0.00" Time="0.630000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-42.00,-371.00,0.00" Time="0.700000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Streaky2" StartTime="0.200000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-199.00,-294.00,0.00" Time="0.000000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-199.00,-294.00,0.00" Time="0.070000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-199.00,-294.00,0.00" Time="0.140000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-199.00,-294.00,0.00" Time="0.210000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-199.00,-294.00,0.00" Time="0.280000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-199.00,-294.00,0.00" Time="0.350000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-199.00,-294.00,0.00" Time="0.420000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-199.00,-294.00,0.00" Time="0.490000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-199.00,-294.00,0.00" Time="0.560000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-199.00,-294.00,0.00" Time="0.630000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-199.00,-294.00,0.00" Time="0.700000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Streaky3" StartTime="0.400000" AnchorType="CenterCenter" Count="11" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-53.00,-249.00,0.00" Time="0.000000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-53.00,-249.00,0.00" Time="0.070000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-53.00,-249.00,0.00" Time="0.140000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-53.00,-249.00,0.00" Time="0.210000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-53.00,-249.00,0.00" Time="0.280000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-53.00,-249.00,0.00" Time="0.350000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-53.00,-249.00,0.00" Time="0.420000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-53.00,-249.00,0.00" Time="0.490000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-53.00,-249.00,0.00" Time="0.560000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-53.00,-249.00,0.00" Time="0.630000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="10" Position="-53.00,-249.00,0.00" Time="0.700000" Size="119.52,119.28" Scale="3.32,2.43" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star2" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-266.00,-92.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-266.00,-92.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-266.00,-92.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-266.00,-92.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-266.00,-92.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-266.00,-92.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-266.00,-92.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-266.00,-92.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-266.00,-92.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-266.00,-92.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star3" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.400000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="138.00,-148.00,0.00" Time="0.000000" Size="80.00,80.00" Scale="2.22,1.63" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="138.00,-148.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="138.00,-148.00,0.00" Time="0.555556" Size="80.00,80.00" Scale="2.22,1.63" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="138.00,-148.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="138.00,-148.00,0.00" Time="1.111111" Size="80.00,80.00" Scale="2.22,1.63" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="138.00,-148.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="138.00,-148.00,0.00" Time="1.666667" Size="80.00,80.00" Scale="2.22,1.63" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="138.00,-148.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="138.00,-148.00,0.00" Time="2.222222" Size="80.00,80.00" Scale="2.22,1.63" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="138.00,-148.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star4" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.450000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="138.00,-56.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="138.00,-56.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="138.00,-56.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="138.00,-56.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="138.00,-56.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="138.00,-56.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="138.00,-56.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="138.00,-56.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="138.00,-56.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="138.00,-56.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star5" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.480000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-184.00,-148.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-184.00,-148.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-184.00,-148.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-184.00,-148.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-184.00,-148.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-184.00,-148.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-184.00,-148.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-184.00,-148.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-184.00,-148.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-184.00,-148.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star6" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.500000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="37.00,-181.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="37.00,-181.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="37.00,-181.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="37.00,-181.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="37.00,-181.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="37.00,-181.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="37.00,-181.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="37.00,-181.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="37.00,-181.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="37.00,-181.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star7" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.530000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-100.00,-185.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-100.00,-185.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-100.00,-185.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-100.00,-185.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-100.00,-185.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-100.00,-185.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-100.00,-185.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-100.00,-185.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-100.00,-185.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-100.00,-185.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star8" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.400000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1.00,-90.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="1.00,-90.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="1.00,-90.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="1.00,-90.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="1.00,-90.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="1.00,-90.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="1.00,-90.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="1.00,-90.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="1.00,-90.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="1.00,-90.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star9" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.430000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-137.00,-48.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-137.00,-48.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-137.00,-48.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-137.00,-48.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-137.00,-48.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-137.00,-48.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-137.00,-48.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-137.00,-48.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-137.00,-48.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-137.00,-48.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star10" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.450000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-102.00,-148.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-102.00,-148.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-102.00,-148.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-102.00,-148.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-102.00,-148.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="-102.00,-148.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="-102.00,-148.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="-102.00,-148.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="-102.00,-148.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="-102.00,-148.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star11" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.400000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="80.00,-56.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="80.00,-56.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="80.00,-56.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="80.00,-56.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="80.00,-56.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="80.00,-56.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="80.00,-56.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="80.00,-56.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="80.00,-56.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="80.00,-56.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Star12" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.470000" AnchorType="CenterCenter" Count="10" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="68.00,-124.00,0.00" Time="0.000000" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="68.00,-124.00,0.00" Time="0.277778" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="68.00,-124.00,0.00" Time="0.555556" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="68.00,-124.00,0.00" Time="0.833333" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="68.00,-124.00,0.00" Time="1.111111" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="5" Position="68.00,-124.00,0.00" Time="1.388889" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="6" Position="68.00,-124.00,0.00" Time="1.666667" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="7" Position="68.00,-124.00,0.00" Time="1.944445" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="8" Position="68.00,-124.00,0.00" Time="2.222222" Size="120.32,120.32" Scale="3.34,2.46" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="9" Position="68.00,-124.00,0.00" Time="2.500000" Size="39.04,39.04" Scale="1.08,0.80" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BigWin3Numerial_0" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-19.00,-221.00,0.00" Time="0.000000" Size="26.00,33.00" Scale="0.72,0.67" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay0000" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="5" LOD="1">
+            <PointDataList Index="0" Position="-43.00,-69.00,0.00" Time="0.000000" Size="499.80,1000.30" Scale="13.88,20.41" Color="1.00,1.00,0.14,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-43.00,-69.00,0.00" Time="0.250000" Size="1199.80,1000.30" Scale="33.33,20.41" Color="1.00,1.00,0.14,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="2" Position="-43.00,-69.00,0.00" Time="0.500000" Size="1199.80,1000.30" Scale="33.33,20.41" Color="1.00,1.00,0.14,0.78" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="3" Position="-43.00,-69.00,0.00" Time="0.750000" Size="1199.80,1000.30" Scale="33.33,20.41" Color="1.00,1.00,0.14,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="4" Position="-43.00,-69.00,0.00" Time="1.000000" Size="1199.80,1000.30" Scale="33.33,20.41" Color="1.00,1.00,0.14,0.00" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay00001" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="23.00,-84.00,0.00" Time="0.000000" Size="100.10,100.10" Scale="2.78,2.04" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="23.00,-84.00,0.00" Time="5.000000" Size="149.80,149.80" Scale="4.16,3.06" Angles="0.00,0.00,360.00" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay00002" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-134.00,-46.00,0.00" Time="0.000000" Size="100.10,100.10" Scale="2.78,2.04" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-134.00,-46.00,0.00" Time="5.000000" Size="149.80,149.80" Scale="4.16,3.06" Angles="0.00,0.00,360.00" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay00003" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-57.00,-141.00,0.00" Time="0.000000" Size="100.10,100.10" Scale="2.78,2.04" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-57.00,-141.00,0.00" Time="5.000000" Size="149.80,149.80" Scale="4.16,3.06" Angles="0.00,0.00,360.00" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BGRay00004" BehaviorUpdate="1" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-27.00,-56.00,0.00" Time="0.000000" Size="100.10,100.10" Scale="2.78,2.04" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+            <PointDataList Index="1" Position="-27.00,-56.00,0.00" Time="5.000000" Size="149.80,149.80" Scale="4.16,3.06" Angles="0.00,0.00,360.00" Color="1.00,1.00,0.14,0.12" PIName="BigWin" ImageName="BigWinNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

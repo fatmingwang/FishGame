@@ -1,0 +1,27 @@
+<Particle TPVersion="1.0">
+    <TextureList Name0="Bobble4.png" Name1="Bobble3.png" Name2="Bobble5.png" />
+    <Emiter Name="Bobble" Data="0.000,0,50,1000,770,771,7,50.00,1.00,0.00,1,5.00" Texture="Bobble5">
+        <InitPolicy Type="cPrtLifeInitrSetLife" Data="0.20,1.50,1" />
+        <InitPolicy Type="cPrtColorInitrSetColor" Data="0.40000,0.40000,0.40000,1.00000" />
+        <InitPolicy Type="cPrtSizeInitSetSize" Data="60.00,60.00" />
+        <InitPolicy Type="cPrtStartPositionInitBySquareRange" Data="37.00,412.00,10.00" />
+        <InitPolicy Type="cPrtColorInitrSetRandomColor" Data="0.40000,0.40000,1.00000,0.30000" />
+        <ActPolicy Type="cPrtLifeActDyingByGameTime" />
+        <ActPolicy Type="cPrtRotateActRotate" Data="-0.0000,0.0000,0.0262,1,81.0000,1" />
+        <ActPolicy Type="cPrtSizeActBlending" Data="20.00,20.00,0" />
+        <ActPolicy Type="cPrtColorActBlendingByLife" Data="0.30000,1.00000,0.60000,0.30000,1" />
+        <ActPolicy Type="cPrtColorActBlendingBy2Color" Data="0.60000,1.00000,1.00000,1.00000,0.70000,0.00000,1.00000,0.00000" />
+    </Emiter>
+    <Emiter Name="Bobble2" Data="0.000,0,50,1000,770,771,7,50.00,1.00,0.00,1,5.00" Texture="Bobble5">
+        <InitPolicy Type="cPrtLifeInitrSetLife" Data="0.20,1.50,1" />
+        <InitPolicy Type="cPrtColorInitrSetColor" Data="0.40000,0.40000,0.40000,1.00000" />
+        <InitPolicy Type="cPrtSizeInitSetSize" Data="40.00,40.00" />
+        <InitPolicy Type="cPrtStartPositionInitBySquareRange" Data="37.00,412.00,10.00" />
+        <InitPolicy Type="cPrtColorInitrSetRandomColor" Data="0.40000,0.40000,1.00000,0.30000" />
+        <ActPolicy Type="cPrtLifeActDyingByGameTime" />
+        <ActPolicy Type="cPrtRotateActRotate" Data="-0.0000,0.0000,0.0262,1,81.0000,1" />
+        <ActPolicy Type="cPrtSizeActBlending" Data="20.00,20.00,0" />
+        <ActPolicy Type="cPrtColorActBlendingByLife" Data="0.30000,1.00000,0.60000,0.30000,1" />
+        <ActPolicy Type="cPrtColorActBlendingBy2Color" Data="1.00000,1.00000,1.00000,1.00000,1.00000,1.00000,1.00000,0.00000" />
+    </Emiter>
+</Particle>

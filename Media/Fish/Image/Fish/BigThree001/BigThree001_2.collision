@@ -1,0 +1,60 @@
+<ImageCollisionData Name="BlueFish" Count="28">
+    <CollisionData Name="BlueFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00001" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00003" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00005" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00007" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00009" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00011" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00012" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFish_00013" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFishAttachRed_00000" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-1.00,-57.00,0.00,53.00,-70.00,0.00,89.00,-52.00,0.00,53.00,-41.00,0.00,5.00,-54.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="BlueFishAttachRed_00001" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00002" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00003" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00004" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00005" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00006" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00007" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00008" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00009" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00010" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00011" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00012" Count="0" />
+    <CollisionData Name="BlueFishAttachRed_00013" Count="0" />
+</ImageCollisionData>

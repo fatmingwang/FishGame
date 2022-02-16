@@ -1,0 +1,8 @@
+<GameEffectManager>
+	<GameEffect Count="1" AlwaysRun="1" >
+		<cGameEffectCardMarqueeManager Count="10" PI="Fish/Image/CoinEffect/ShowGetMoney.pi" MaximumCount="10" ViewableCount="4" StartPos="0,0,0" EndPos="70,0,0" HoldTime="0.51" TimeToDestination="1" >
+			<cNumerialImage PIFileName="Fish/Image/CoinEffect/ShowGetMoney.pi" StartPIUnitName="FishScoreCardNumerial0" EndPIUnitName="FishScoreCardNumerial9" />
+			<Matrix Data="......."/>
+		</cGameEffectCardMarqueeManager>
+	</GameEffect>
+</GameEffectManager>

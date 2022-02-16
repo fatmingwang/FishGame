@@ -1,0 +1,659 @@
+<MPDIList Name="FullScreenBomb_mpdi" Count="5" MPDIVersion="1.3" PICount="1" ImageName="BonusBomb.pi">
+    <MultiPathDynamicImage Name="Plate" PathCount="6" PlayCount="-1" TotalPlayTime="13.000000">
+        <CueToStartCurvesWithTime Name="BonusBombBonusShowOutside" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="1" Position="-81.00,-78.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-30.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="2" Position="-81.00,-78.00,0.00" Time="2.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-60.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="3" Position="-81.00,-78.00,0.00" Time="3.250000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="4" Position="-81.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="5" Position="-81.00,-78.00,0.00" Time="5.416667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-150.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="6" Position="-81.00,-78.00,0.00" Time="6.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-180.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="7" Position="-81.00,-78.00,0.00" Time="7.583333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="8" Position="-81.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="9" Position="-81.00,-78.00,0.00" Time="9.750000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-270.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="10" Position="-81.00,-78.00,0.00" Time="10.833334" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-300.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="11" Position="-81.00,-78.00,0.00" Time="11.916667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+            <PointDataList Index="12" Position="-81.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusBomb" ImageName="BonusBombOutside" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusBombBonusShowInside" BehaviorUpdate="1" Blending="1" SrcBlendingData="1" DestBlendingData="774" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="1" Position="-81.00,-78.00,0.00" Time="1.083333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,30.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="2" Position="-81.00,-78.00,0.00" Time="2.166667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,60.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="3" Position="-81.00,-78.00,0.00" Time="3.250000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,90.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="4" Position="-81.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,120.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="5" Position="-81.00,-78.00,0.00" Time="5.416667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,150.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="6" Position="-81.00,-78.00,0.00" Time="6.500000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,180.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="7" Position="-81.00,-78.00,0.00" Time="7.583333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,210.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="8" Position="-81.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,240.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="9" Position="-81.00,-78.00,0.00" Time="9.750000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,270.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="10" Position="-81.00,-78.00,0.00" Time="10.833334" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,300.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="11" Position="-81.00,-78.00,0.00" Time="11.916667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,330.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+            <PointDataList Index="12" Position="-81.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,360.00" PIName="BonusBomb" ImageName="BonusBombInside_00000" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusBombBonusShowEffect" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="0.00,108.00,0.00" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-78.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="1" Position="-78.00,-78.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="2" Position="-78.00,-78.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="3" Position="-78.00,-78.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="4" Position="-78.00,-78.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="5" Position="-78.00,-78.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="6" Position="-78.00,-78.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="7" Position="-78.00,-78.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="8" Position="-78.00,-78.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="9" Position="-78.00,-78.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="10" Position="-78.00,-78.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="11" Position="-78.00,-78.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="12" Position="-78.00,-78.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="13" Position="-78.00,-78.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="14" Position="-78.00,-78.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="15" Position="-78.00,-78.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="16" Position="-78.00,-78.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="17" Position="-78.00,-78.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="18" Position="-78.00,-78.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="19" Position="-78.00,-78.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="20" Position="-78.00,-78.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="21" Position="-78.00,-78.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="22" Position="-78.00,-78.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="23" Position="-78.00,-78.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="24" Position="-78.00,-78.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="25" Position="-78.00,-78.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="26" Position="-78.00,-78.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="27" Position="-78.00,-78.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="28" Position="-78.00,-78.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="29" Position="-78.00,-78.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="30" Position="-78.00,-78.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="31" Position="-78.00,-78.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="32" Position="-78.00,-78.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="33" Position="-78.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="34" Position="-78.00,-78.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="35" Position="-78.00,-78.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="36" Position="-78.00,-78.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="37" Position="-78.00,-78.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="38" Position="-78.00,-78.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="39" Position="-78.00,-78.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="40" Position="-78.00,-78.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="41" Position="-78.00,-78.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="42" Position="-78.00,-78.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="43" Position="-78.00,-78.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="44" Position="-78.00,-78.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="45" Position="-78.00,-78.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="46" Position="-78.00,-78.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="47" Position="-78.00,-78.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="48" Position="-78.00,-78.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="49" Position="-78.00,-78.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="50" Position="-78.00,-78.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="51" Position="-78.00,-78.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="52" Position="-78.00,-78.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="53" Position="-78.00,-78.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="54" Position="-78.00,-78.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="55" Position="-78.00,-78.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="56" Position="-78.00,-78.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="57" Position="-78.00,-78.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="58" Position="-78.00,-78.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="59" Position="-78.00,-78.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="60" Position="-78.00,-78.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="61" Position="-78.00,-78.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="62" Position="-78.00,-78.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="63" Position="-78.00,-78.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="64" Position="-78.00,-78.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="65" Position="-78.00,-78.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="66" Position="-78.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="67" Position="-78.00,-78.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="68" Position="-78.00,-78.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="69" Position="-78.00,-78.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="70" Position="-78.00,-78.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="71" Position="-78.00,-78.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="72" Position="-78.00,-78.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="73" Position="-78.00,-78.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="74" Position="-78.00,-78.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="75" Position="-78.00,-78.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="76" Position="-78.00,-78.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="77" Position="-78.00,-78.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="78" Position="-78.00,-78.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="79" Position="-78.00,-78.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="80" Position="-78.00,-78.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="81" Position="-78.00,-78.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="82" Position="-78.00,-78.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="83" Position="-78.00,-78.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="84" Position="-78.00,-78.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="85" Position="-78.00,-78.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="86" Position="-78.00,-78.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="87" Position="-78.00,-78.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="88" Position="-78.00,-78.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="89" Position="-78.00,-78.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="90" Position="-78.00,-78.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="91" Position="-78.00,-78.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="92" Position="-78.00,-78.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="93" Position="-78.00,-78.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="94" Position="-78.00,-78.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="95" Position="-78.00,-78.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="96" Position="-78.00,-78.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="97" Position="-78.00,-78.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="98" Position="-78.00,-78.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="99" Position="-78.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusBombBonusShowEffect2" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="0.00,-3.00,0.00" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-78.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="1" Position="-78.00,-78.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="2" Position="-78.00,-78.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="3" Position="-78.00,-78.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="4" Position="-78.00,-78.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="5" Position="-78.00,-78.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="6" Position="-78.00,-78.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="7" Position="-78.00,-78.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="8" Position="-78.00,-78.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="9" Position="-78.00,-78.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="10" Position="-78.00,-78.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="11" Position="-78.00,-78.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="12" Position="-78.00,-78.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="13" Position="-78.00,-78.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="14" Position="-78.00,-78.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="15" Position="-78.00,-78.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="16" Position="-78.00,-78.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="17" Position="-78.00,-78.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="18" Position="-78.00,-78.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="19" Position="-78.00,-78.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="20" Position="-78.00,-78.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="21" Position="-78.00,-78.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="22" Position="-78.00,-78.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="23" Position="-78.00,-78.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="24" Position="-78.00,-78.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="25" Position="-78.00,-78.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="26" Position="-78.00,-78.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="27" Position="-78.00,-78.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="28" Position="-78.00,-78.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="29" Position="-78.00,-78.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="30" Position="-78.00,-78.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="31" Position="-78.00,-78.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="32" Position="-78.00,-78.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="33" Position="-78.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="34" Position="-78.00,-78.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="35" Position="-78.00,-78.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="36" Position="-78.00,-78.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="37" Position="-78.00,-78.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="38" Position="-78.00,-78.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="39" Position="-78.00,-78.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="40" Position="-78.00,-78.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="41" Position="-78.00,-78.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="42" Position="-78.00,-78.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="43" Position="-78.00,-78.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="44" Position="-78.00,-78.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="45" Position="-78.00,-78.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="46" Position="-78.00,-78.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="47" Position="-78.00,-78.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="48" Position="-78.00,-78.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="49" Position="-78.00,-78.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="50" Position="-78.00,-78.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="51" Position="-78.00,-78.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="52" Position="-78.00,-78.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="53" Position="-78.00,-78.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="54" Position="-78.00,-78.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="55" Position="-78.00,-78.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="56" Position="-78.00,-78.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="57" Position="-78.00,-78.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="58" Position="-78.00,-78.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="59" Position="-78.00,-78.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="60" Position="-78.00,-78.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="61" Position="-78.00,-78.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="62" Position="-78.00,-78.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="63" Position="-78.00,-78.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="64" Position="-78.00,-78.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="65" Position="-78.00,-78.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="66" Position="-78.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="67" Position="-78.00,-78.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="68" Position="-78.00,-78.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="69" Position="-78.00,-78.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="70" Position="-78.00,-78.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="71" Position="-78.00,-78.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="72" Position="-78.00,-78.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="73" Position="-78.00,-78.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="74" Position="-78.00,-78.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="75" Position="-78.00,-78.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="76" Position="-78.00,-78.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="77" Position="-78.00,-78.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="78" Position="-78.00,-78.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="79" Position="-78.00,-78.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="80" Position="-78.00,-78.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="81" Position="-78.00,-78.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="82" Position="-78.00,-78.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="83" Position="-78.00,-78.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="84" Position="-78.00,-78.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="85" Position="-78.00,-78.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="86" Position="-78.00,-78.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="87" Position="-78.00,-78.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="88" Position="-78.00,-78.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="89" Position="-78.00,-78.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+            <PointDataList Index="90" Position="-78.00,-78.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusBomb" ImageName="BonusBombEffect_00000" />
+            <PointDataList Index="91" Position="-78.00,-78.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusBomb" ImageName="BonusBombEffect_00001" />
+            <PointDataList Index="92" Position="-78.00,-78.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusBomb" ImageName="BonusBombEffect_00002" />
+            <PointDataList Index="93" Position="-78.00,-78.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusBomb" ImageName="BonusBombEffect_00003" />
+            <PointDataList Index="94" Position="-78.00,-78.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusBomb" ImageName="BonusBombEffect_00004" />
+            <PointDataList Index="95" Position="-78.00,-78.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusBomb" ImageName="BonusBombEffect_00005" />
+            <PointDataList Index="96" Position="-78.00,-78.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusBomb" ImageName="BonusBombEffect_00006" />
+            <PointDataList Index="97" Position="-78.00,-78.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusBomb" ImageName="BonusBombEffect_00007" />
+            <PointDataList Index="98" Position="-78.00,-78.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusBomb" ImageName="BonusBombEffect_00008" />
+            <PointDataList Index="99" Position="-78.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusBomb" ImageName="BonusBombEffect_00009" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusBombBonusShowFont" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="1" Position="-81.00,-78.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="2" Position="-81.00,-78.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="3" Position="-81.00,-78.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="4" Position="-81.00,-78.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="5" Position="-81.00,-78.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="6" Position="-81.00,-78.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="7" Position="-81.00,-78.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="8" Position="-81.00,-78.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="9" Position="-81.00,-78.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="10" Position="-81.00,-78.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="11" Position="-81.00,-78.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="12" Position="-81.00,-78.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="13" Position="-81.00,-78.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="14" Position="-81.00,-78.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="15" Position="-81.00,-78.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="16" Position="-81.00,-78.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="17" Position="-81.00,-78.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="18" Position="-81.00,-78.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="19" Position="-81.00,-78.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="20" Position="-81.00,-78.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="21" Position="-81.00,-78.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="22" Position="-81.00,-78.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="23" Position="-81.00,-78.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="24" Position="-81.00,-78.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="25" Position="-81.00,-78.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="26" Position="-81.00,-78.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="27" Position="-81.00,-78.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="28" Position="-81.00,-78.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="29" Position="-81.00,-78.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="30" Position="-81.00,-78.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="31" Position="-81.00,-78.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="32" Position="-81.00,-78.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="33" Position="-81.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="34" Position="-81.00,-78.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="35" Position="-81.00,-78.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="36" Position="-81.00,-78.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="37" Position="-81.00,-78.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="38" Position="-81.00,-78.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="39" Position="-81.00,-78.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="40" Position="-81.00,-78.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="41" Position="-81.00,-78.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="42" Position="-81.00,-78.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="43" Position="-81.00,-78.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="44" Position="-81.00,-78.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="45" Position="-81.00,-78.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="46" Position="-81.00,-78.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="47" Position="-81.00,-78.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="48" Position="-81.00,-78.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="49" Position="-81.00,-78.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="50" Position="-81.00,-78.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="51" Position="-81.00,-78.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="52" Position="-81.00,-78.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="53" Position="-81.00,-78.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="54" Position="-81.00,-78.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="55" Position="-81.00,-78.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="56" Position="-81.00,-78.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="57" Position="-81.00,-78.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="58" Position="-81.00,-78.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="59" Position="-81.00,-78.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="60" Position="-81.00,-78.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="61" Position="-81.00,-78.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="62" Position="-81.00,-78.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="63" Position="-81.00,-78.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="64" Position="-81.00,-78.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="65" Position="-81.00,-78.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="66" Position="-81.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="67" Position="-81.00,-78.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="68" Position="-81.00,-78.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="69" Position="-81.00,-78.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="70" Position="-81.00,-78.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="71" Position="-81.00,-78.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="72" Position="-81.00,-78.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="73" Position="-81.00,-78.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="74" Position="-81.00,-78.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="75" Position="-81.00,-78.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="76" Position="-81.00,-78.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="77" Position="-81.00,-78.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="78" Position="-81.00,-78.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="79" Position="-81.00,-78.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="80" Position="-81.00,-78.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="81" Position="-81.00,-78.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="82" Position="-81.00,-78.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="83" Position="-81.00,-78.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="84" Position="-81.00,-78.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="85" Position="-81.00,-78.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="86" Position="-81.00,-78.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="87" Position="-81.00,-78.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="88" Position="-81.00,-78.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="89" Position="-81.00,-78.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="90" Position="-81.00,-78.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="91" Position="-81.00,-78.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="92" Position="-81.00,-78.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="93" Position="-81.00,-78.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="94" Position="-81.00,-78.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="95" Position="-81.00,-78.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="96" Position="-81.00,-78.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="97" Position="-81.00,-78.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="98" Position="-81.00,-78.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusBomb" ImageName="BonusBombFont" />
+            <PointDataList Index="99" Position="-81.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusBomb" ImageName="BonusBombFont" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusBombBonusShowFont2" BehaviorUpdate="1" StartTime="0.000000" RotationPosOffset="3.00,0.00,0.00" AnchorType="CenterCenter" Count="100" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="-81.00,-78.00,0.00" Time="0.000000" Size="160.00,160.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="1" Position="-81.00,-78.00,0.00" Time="0.131313" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-3.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="2" Position="-81.00,-78.00,0.00" Time="0.262626" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-7.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="3" Position="-81.00,-78.00,0.00" Time="0.393939" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-10.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="4" Position="-81.00,-78.00,0.00" Time="0.525253" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-14.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="5" Position="-81.00,-78.00,0.00" Time="0.656566" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-18.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="6" Position="-81.00,-78.00,0.00" Time="0.787879" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-21.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="7" Position="-81.00,-78.00,0.00" Time="0.919192" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-25.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="8" Position="-81.00,-78.00,0.00" Time="1.050505" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-29.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="9" Position="-81.00,-78.00,0.00" Time="1.181818" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-32.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="10" Position="-81.00,-78.00,0.00" Time="1.313131" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-36.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="11" Position="-81.00,-78.00,0.00" Time="1.444444" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-40.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="12" Position="-81.00,-78.00,0.00" Time="1.575758" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-43.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="13" Position="-81.00,-78.00,0.00" Time="1.707071" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-47.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="14" Position="-81.00,-78.00,0.00" Time="1.838384" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-50.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="15" Position="-81.00,-78.00,0.00" Time="1.969697" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-54.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="16" Position="-81.00,-78.00,0.00" Time="2.101010" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-58.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="17" Position="-81.00,-78.00,0.00" Time="2.232323" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-61.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="18" Position="-81.00,-78.00,0.00" Time="2.363636" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-65.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="19" Position="-81.00,-78.00,0.00" Time="2.494950" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-69.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="20" Position="-81.00,-78.00,0.00" Time="2.626263" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-72.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="21" Position="-81.00,-78.00,0.00" Time="2.757576" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-76.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="22" Position="-81.00,-78.00,0.00" Time="2.888889" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-80.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="23" Position="-81.00,-78.00,0.00" Time="3.020202" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-83.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="24" Position="-81.00,-78.00,0.00" Time="3.151515" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-87.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="25" Position="-81.00,-78.00,0.00" Time="3.282828" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-90.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="26" Position="-81.00,-78.00,0.00" Time="3.414141" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-94.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="27" Position="-81.00,-78.00,0.00" Time="3.545455" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-98.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="28" Position="-81.00,-78.00,0.00" Time="3.676768" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-101.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="29" Position="-81.00,-78.00,0.00" Time="3.808081" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-105.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="30" Position="-81.00,-78.00,0.00" Time="3.939394" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-109.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="31" Position="-81.00,-78.00,0.00" Time="4.070707" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-112.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="32" Position="-81.00,-78.00,0.00" Time="4.202020" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-116.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="33" Position="-81.00,-78.00,0.00" Time="4.333333" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-120.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="34" Position="-81.00,-78.00,0.00" Time="4.464646" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-123.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="35" Position="-81.00,-78.00,0.00" Time="4.595960" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-127.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="36" Position="-81.00,-78.00,0.00" Time="4.727273" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-130.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="37" Position="-81.00,-78.00,0.00" Time="4.858586" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-134.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="38" Position="-81.00,-78.00,0.00" Time="4.989899" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-138.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="39" Position="-81.00,-78.00,0.00" Time="5.121212" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-141.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="40" Position="-81.00,-78.00,0.00" Time="5.252525" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-145.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="41" Position="-81.00,-78.00,0.00" Time="5.383838" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-149.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="42" Position="-81.00,-78.00,0.00" Time="5.515152" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-152.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="43" Position="-81.00,-78.00,0.00" Time="5.646465" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-156.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="44" Position="-81.00,-78.00,0.00" Time="5.777778" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-160.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="45" Position="-81.00,-78.00,0.00" Time="5.909091" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-163.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="46" Position="-81.00,-78.00,0.00" Time="6.040404" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-167.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="47" Position="-81.00,-78.00,0.00" Time="6.171717" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-170.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="48" Position="-81.00,-78.00,0.00" Time="6.303030" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-174.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="49" Position="-81.00,-78.00,0.00" Time="6.434343" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-178.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="50" Position="-81.00,-78.00,0.00" Time="6.565657" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-181.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="51" Position="-81.00,-78.00,0.00" Time="6.696970" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-185.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="52" Position="-81.00,-78.00,0.00" Time="6.828283" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-189.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="53" Position="-81.00,-78.00,0.00" Time="6.959596" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-192.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="54" Position="-81.00,-78.00,0.00" Time="7.090909" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-196.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="55" Position="-81.00,-78.00,0.00" Time="7.222222" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-200.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="56" Position="-81.00,-78.00,0.00" Time="7.353535" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-203.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="57" Position="-81.00,-78.00,0.00" Time="7.484848" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-207.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="58" Position="-81.00,-78.00,0.00" Time="7.616161" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-210.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="59" Position="-81.00,-78.00,0.00" Time="7.747475" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-214.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="60" Position="-81.00,-78.00,0.00" Time="7.878788" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-218.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="61" Position="-81.00,-78.00,0.00" Time="8.010101" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-221.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="62" Position="-81.00,-78.00,0.00" Time="8.141414" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-225.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="63" Position="-81.00,-78.00,0.00" Time="8.272727" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-229.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="64" Position="-81.00,-78.00,0.00" Time="8.404040" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-232.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="65" Position="-81.00,-78.00,0.00" Time="8.535354" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-236.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="66" Position="-81.00,-78.00,0.00" Time="8.666667" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-240.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="67" Position="-81.00,-78.00,0.00" Time="8.797979" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-243.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="68" Position="-81.00,-78.00,0.00" Time="8.929293" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-247.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="69" Position="-81.00,-78.00,0.00" Time="9.060606" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-250.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="70" Position="-81.00,-78.00,0.00" Time="9.191919" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-254.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="71" Position="-81.00,-78.00,0.00" Time="9.323233" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-258.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="72" Position="-81.00,-78.00,0.00" Time="9.454545" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-261.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="73" Position="-81.00,-78.00,0.00" Time="9.585858" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-265.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="74" Position="-81.00,-78.00,0.00" Time="9.717172" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-269.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="75" Position="-81.00,-78.00,0.00" Time="9.848485" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-272.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="76" Position="-81.00,-78.00,0.00" Time="9.979798" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-276.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="77" Position="-81.00,-78.00,0.00" Time="10.111111" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-280.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="78" Position="-81.00,-78.00,0.00" Time="10.242424" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-283.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="79" Position="-81.00,-78.00,0.00" Time="10.373737" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-287.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="80" Position="-81.00,-78.00,0.00" Time="10.505051" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-290.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="81" Position="-81.00,-78.00,0.00" Time="10.636364" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-294.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="82" Position="-81.00,-78.00,0.00" Time="10.767676" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-298.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="83" Position="-81.00,-78.00,0.00" Time="10.898990" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-301.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="84" Position="-81.00,-78.00,0.00" Time="11.030303" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-305.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="85" Position="-81.00,-78.00,0.00" Time="11.161616" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-309.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="86" Position="-81.00,-78.00,0.00" Time="11.292930" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-312.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="87" Position="-81.00,-78.00,0.00" Time="11.424242" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-316.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="88" Position="-81.00,-78.00,0.00" Time="11.555555" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-320.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="89" Position="-81.00,-78.00,0.00" Time="11.686869" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-323.64" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="90" Position="-81.00,-78.00,0.00" Time="11.818182" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-327.27" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="91" Position="-81.00,-78.00,0.00" Time="11.949495" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-330.91" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="92" Position="-81.00,-78.00,0.00" Time="12.080808" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-334.55" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="93" Position="-81.00,-78.00,0.00" Time="12.212121" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-338.18" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="94" Position="-81.00,-78.00,0.00" Time="12.343434" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-341.82" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="95" Position="-81.00,-78.00,0.00" Time="12.474748" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-345.45" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="96" Position="-81.00,-78.00,0.00" Time="12.606060" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-349.09" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="97" Position="-81.00,-78.00,0.00" Time="12.737373" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-352.73" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="98" Position="-81.00,-78.00,0.00" Time="12.868687" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-356.36" PIName="BonusBomb" ImageName="BonusBombFont2" />
+            <PointDataList Index="99" Position="-81.00,-78.00,0.00" Time="13.000000" Size="160.00,160.00" Scale="1.00,1.00" Angles="0.00,0.00,-360.00" PIName="BonusBomb" ImageName="BonusBombFont2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Explode" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="BonusShowBreak" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="-144.00,-138.00,0.00" Time="0.000000" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0001" />
+            <PointDataList Index="1" Position="-144.00,-138.00,0.00" Time="0.111111" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0002" />
+            <PointDataList Index="2" Position="-144.00,-138.00,0.00" Time="0.222222" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0003" />
+            <PointDataList Index="3" Position="-144.00,-138.00,0.00" Time="0.333333" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0004" />
+            <PointDataList Index="4" Position="-144.00,-138.00,0.00" Time="0.444444" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0005" />
+            <PointDataList Index="5" Position="-144.00,-138.00,0.00" Time="0.555556" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0006" />
+            <PointDataList Index="6" Position="-144.00,-138.00,0.00" Time="0.666667" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0007" />
+            <PointDataList Index="7" Position="-144.00,-138.00,0.00" Time="0.777778" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0008" />
+            <PointDataList Index="8" Position="-144.00,-138.00,0.00" Time="0.888889" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0009" />
+            <PointDataList Index="9" Position="-144.00,-138.00,0.00" Time="1.000000" Size="900.00,900.00" Scale="3.00,3.00" PIName="BonusBomb" ImageName="BonusShowBreak0001" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="WeaponEffect" PathCount="25" PlayCount="1" TotalPlayTime="2.450000">
+        <CueToStartCurvesWithTime Name="BonusBomb" StartTime="0.000000" AnchorType="CenterCenter" Count="19" LOD="1">
+            <PointDataList Index="0" Position="539.00,331.00,0.00" Time="0.000000" Size="1131.20,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00000" />
+            <PointDataList Index="1" Position="539.00,331.00,0.00" Time="0.088889" Size="1136.80,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00001" />
+            <PointDataList Index="2" Position="539.00,331.00,0.00" Time="0.177778" Size="1601.60,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00002" />
+            <PointDataList Index="3" Position="539.00,331.00,0.00" Time="0.266667" Size="1428.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00003" />
+            <PointDataList Index="4" Position="539.00,331.00,0.00" Time="0.355556" Size="1456.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00004" />
+            <PointDataList Index="5" Position="539.00,331.00,0.00" Time="0.444444" Size="1220.80,991.20" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00005" />
+            <PointDataList Index="6" Position="539.00,331.00,0.00" Time="0.533333" Size="1775.20,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00006" />
+            <PointDataList Index="7" Position="539.00,331.00,0.00" Time="0.622222" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00007" />
+            <PointDataList Index="8" Position="539.00,331.00,0.00" Time="0.711111" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00008" />
+            <PointDataList Index="9" Position="539.00,331.00,0.00" Time="0.800000" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00024" />
+            <PointDataList Index="10" Position="539.00,331.00,0.00" Time="0.888889" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00025" />
+            <PointDataList Index="11" Position="539.00,331.00,0.00" Time="0.977778" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00026" />
+            <PointDataList Index="12" Position="539.00,331.00,0.00" Time="1.066667" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00027" />
+            <PointDataList Index="13" Position="539.00,331.00,0.00" Time="1.155556" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+            <PointDataList Index="14" Position="539.00,331.00,0.00" Time="1.244444" Size="1792.00,1008.00" Scale="5.60,5.60" Angles="-180.00,-180.00,0.00" PIName="BonusBomb" ImageName="BonusBomb_00027" />
+            <PointDataList Index="15" Position="539.00,331.00,0.00" Time="1.333333" Size="1792.00,1008.00" Scale="5.60,5.60" Angles="-180.00,-180.00,0.00" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+            <PointDataList Index="16" Position="539.00,331.00,0.00" Time="1.422222" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00027" />
+            <PointDataList Index="17" Position="539.00,331.00,0.00" Time="1.511111" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+            <PointDataList Index="18" Position="539.00,331.00,0.00" Time="1.600000" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BonusBomb2" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.000000" AnchorType="CenterCenter" Count="19" LOD="1">
+            <PointDataList Index="0" Position="539.00,331.00,0.00" Time="0.000000" Size="1131.20,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00000" />
+            <PointDataList Index="1" Position="539.00,331.00,0.00" Time="0.088889" Size="1136.80,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00001" />
+            <PointDataList Index="2" Position="539.00,331.00,0.00" Time="0.177778" Size="1601.60,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00002" />
+            <PointDataList Index="3" Position="539.00,331.00,0.00" Time="0.266667" Size="1428.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00003" />
+            <PointDataList Index="4" Position="539.00,331.00,0.00" Time="0.355556" Size="1456.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00004" />
+            <PointDataList Index="5" Position="539.00,331.00,0.00" Time="0.444444" Size="1220.80,991.20" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00005" />
+            <PointDataList Index="6" Position="539.00,331.00,0.00" Time="0.533333" Size="1775.20,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00006" />
+            <PointDataList Index="7" Position="539.00,331.00,0.00" Time="0.622222" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00007" />
+            <PointDataList Index="8" Position="539.00,331.00,0.00" Time="0.711111" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00008" />
+            <PointDataList Index="9" Position="539.00,331.00,0.00" Time="0.800000" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00024" />
+            <PointDataList Index="10" Position="539.00,331.00,0.00" Time="0.888889" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00025" />
+            <PointDataList Index="11" Position="539.00,331.00,0.00" Time="0.977778" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00026" />
+            <PointDataList Index="12" Position="539.00,331.00,0.00" Time="1.066667" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00027" />
+            <PointDataList Index="13" Position="539.00,331.00,0.00" Time="1.155556" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+            <PointDataList Index="14" Position="539.00,331.00,0.00" Time="1.244444" Size="1792.00,1008.00" Scale="5.60,5.60" Angles="-180.00,-180.00,0.00" PIName="BonusBomb" ImageName="BonusBomb_00027" />
+            <PointDataList Index="15" Position="539.00,331.00,0.00" Time="1.333333" Size="1792.00,1008.00" Scale="5.60,5.60" Angles="-180.00,-180.00,0.00" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+            <PointDataList Index="16" Position="539.00,331.00,0.00" Time="1.422222" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00027" />
+            <PointDataList Index="17" Position="539.00,331.00,0.00" Time="1.511111" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+            <PointDataList Index="18" Position="539.00,331.00,0.00" Time="1.600000" Size="1792.00,1008.00" Scale="5.60,5.60" PIName="BonusBomb" ImageName="BonusBomb_00028" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="whit" BehaviorUpdate="1" StartTime="0.050000" AnchorType="CenterCenter" Count="12" LOD="1">
+            <PointDataList Index="0" Position="714.00,351.00,0.00" Time="0.000000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="1" Position="714.00,351.00,0.00" Time="0.100000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="2" Position="714.00,351.00,0.00" Time="0.200000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="3" Position="714.00,351.00,0.00" Time="0.300000" Size="2240.00,1400.00" Scale="44.80,28.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="4" Position="714.00,351.00,0.00" Time="0.400000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="5" Position="714.00,351.00,0.00" Time="0.500000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="6" Position="714.00,351.00,0.00" Time="0.600000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="7" Position="714.00,351.00,0.00" Time="0.700000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="8" Position="714.00,351.00,0.00" Time="0.800000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.20" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="9" Position="714.00,351.00,0.00" Time="0.900000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="10" Position="714.00,351.00,0.00" Time="1.000000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="whit" />
+            <PointDataList Index="11" Position="714.00,351.00,0.00" Time="1.200000" Size="2240.00,1400.00" Scale="44.80,28.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="whit" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="580.00,680.00,0.00" Time="0.250000" Size="1260.00,294.00" Scale="4.20,4.20" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="580.00,680.00,0.00" Time="0.300000" Size="1260.00,294.00" Scale="4.20,4.20" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="586.00,680.00,0.00" Time="1.500000" Size="1260.00,294.00" Scale="4.20,4.20" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="580.00,680.00,0.00" Time="2.000000" Size="1260.00,294.00" Scale="4.20,4.20" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould2" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="197.00,724.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="206.00,724.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="197.00,724.00,0.00" Time="1.800000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="197.00,724.00,0.00" Time="2.200000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould3" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="1029.00,766.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="1023.00,766.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="1029.00,766.00,0.00" Time="1.600000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="1029.00,766.00,0.00" Time="2.100000" Size="1260.00,293.30" Scale="4.20,4.19" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould23" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-72.00,547.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="-72.00,547.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="-72.00,553.00,0.00" Time="1.700000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="-72.00,547.00,0.00" Time="2.100000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould324" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="-97.00,167.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="-97.00,161.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="-97.00,167.00,0.00" Time="1.500000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="-97.00,167.00,0.00" Time="2.000000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould27" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="526.00,67.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="526.00,67.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="520.00,67.00,0.00" Time="1.800000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="526.00,67.00,0.00" Time="2.100000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould228" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="169.00,23.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="160.00,23.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="169.00,23.00,0.00" Time="1.800000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="169.00,23.00,0.00" Time="2.200000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould329" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="986.00,65.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="992.00,65.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="986.00,65.00,0.00" Time="1.500000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="986.00,65.00,0.00" Time="2.100000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould34" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="1234.00,582.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="1234.00,582.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="1234.00,576.00,0.00" Time="1.800000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="1234.00,582.00,0.00" Time="2.200000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="badcould335" BehaviorUpdate="1" StartTime="0.250000" AnchorType="CenterCenter" Count="4" LOD="1">
+            <PointDataList Index="0" Position="1209.00,190.00,0.00" Time="0.250000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="1" Position="1209.00,196.00,0.00" Time="0.300000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="2" Position="1209.00,190.00,0.00" Time="1.800000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="badcould" />
+            <PointDataList Index="3" Position="1209.00,190.00,0.00" Time="2.000000" Size="1260.00,293.30" Scale="4.20,4.19" Angles="0.00,0.00,270.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="badcould" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap2" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1284.00,727.00,0.00" Time="0.000000" Size="331.58,248.31" Scale="2.81,2.79" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="1284.00,727.00,0.00" Time="0.100000" Size="331.58,248.31" Scale="2.81,2.79" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="1284.00,727.00,0.00" Time="0.200000" Size="331.58,248.31" Scale="2.81,2.79" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="1284.00,727.00,0.00" Time="0.300000" Size="331.58,248.31" Scale="2.81,2.79" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap6" Blending="1" SrcBlendingData="770" DestBlendingData="771" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="372.00,744.00,0.00" Time="0.000000" Size="494.42,373.80" Scale="4.19,4.20" Angles="0.00,0.00,-6.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="372.00,744.00,0.00" Time="0.100000" Size="494.42,373.80" Scale="4.19,4.20" Angles="0.00,0.00,-6.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="372.00,744.00,0.00" Time="0.200000" Size="494.42,373.80" Scale="4.19,4.20" Angles="0.00,0.00,-6.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="372.00,744.00,0.00" Time="0.300000" Size="494.42,373.80" Scale="4.19,4.20" Angles="0.00,0.00,-6.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="687.00,665.00,0.00" Time="0.000000" Size="494.42,373.80" Scale="4.19,4.20" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="687.00,665.00,0.00" Time="0.100000" Size="494.42,373.80" Scale="4.19,4.20" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="687.00,665.00,0.00" Time="0.200000" Size="494.42,373.80" Scale="4.19,4.20" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="687.00,665.00,0.00" Time="0.300000" Size="494.42,373.80" Scale="4.19,4.20" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap3" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1046.00,741.00,0.00" Time="0.000000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,12.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="1046.00,741.00,0.00" Time="0.100000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,12.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="1046.00,741.00,0.00" Time="0.200000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,12.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="1046.00,741.00,0.00" Time="0.300000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,12.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap225" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="11.00,212.00,0.00" Time="0.000000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="11.00,212.00,0.00" Time="0.100000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="11.00,212.00,0.00" Time="0.200000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="11.00,212.00,0.00" Time="0.300000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,90.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap326" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="22.00,549.00,0.00" Time="0.000000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="22.00,549.00,0.00" Time="0.100000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="22.00,549.00,0.00" Time="0.200000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="22.00,549.00,0.00" Time="0.300000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,60.00" Color="1.00,1.00,1.00,0.59" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap230" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1229.00,80.00,0.00" Time="0.000000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-167.00" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="1229.00,80.00,0.00" Time="0.100000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-167.00" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="1229.00,80.00,0.00" Time="0.200000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-167.00" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="1229.00,80.00,0.00" Time="0.300000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-167.00" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap631" Blending="1" SrcBlendingData="770" DestBlendingData="771" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="152.00,21.00,0.00" Time="0.000000" Size="247.80,186.90" Scale="2.10,2.10" Angles="0.00,0.00,-132.00" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="152.00,21.00,0.00" Time="0.100000" Size="247.80,186.90" Scale="2.10,2.10" Angles="0.00,0.00,-132.00" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="152.00,21.00,0.00" Time="0.200000" Size="247.80,186.90" Scale="2.10,2.10" Angles="0.00,0.00,-132.00" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="152.00,21.00,0.00" Time="0.300000" Size="247.80,186.90" Scale="2.10,2.10" Angles="0.00,0.00,-132.00" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap32" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="472.00,58.00,0.00" Time="0.000000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.20" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="472.00,58.00,0.00" Time="0.100000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.20" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="472.00,58.00,0.00" Time="0.200000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.20" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="472.00,58.00,0.00" Time="0.300000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,-180.00" Color="1.00,1.00,1.00,0.20" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap333" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="803.00,71.00,0.00" Time="0.000000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,-210.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="803.00,71.00,0.00" Time="0.100000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,-210.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="803.00,71.00,0.00" Time="0.200000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,-210.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="803.00,71.00,0.00" Time="0.300000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,-210.00" Color="1.00,1.00,1.00,0.39" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap236" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1307.00,260.00,0.00" Time="0.000000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,270.00" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="1307.00,260.00,0.00" Time="0.100000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,270.00" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="1307.00,260.00,0.00" Time="0.200000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,270.00" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="1307.00,260.00,0.00" Time="0.300000" Size="331.58,248.31" Scale="2.81,2.79" Angles="0.00,0.00,270.00" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="zap337" Blending="1" SrcBlendingData="770" DestBlendingData="1" StartTime="0.300000" AnchorType="CenterCenter" Count="4" LOD="1" Loop="1">
+            <PointDataList Index="0" Position="1298.00,589.00,0.00" Time="0.000000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,240.00" PIName="BonusBomb" ImageName="zap_01" />
+            <PointDataList Index="1" Position="1298.00,589.00,0.00" Time="0.100000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,240.00" PIName="BonusBomb" ImageName="zap_02" />
+            <PointDataList Index="2" Position="1298.00,589.00,0.00" Time="0.200000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,240.00" PIName="BonusBomb" ImageName="zap_03" />
+            <PointDataList Index="3" Position="1298.00,589.00,0.00" Time="0.300000" Size="411.82,310.61" Scale="3.49,3.49" Angles="0.00,0.00,240.00" PIName="BonusBomb" ImageName="zap_01" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FishExplodeEffect" PathCount="0" PlayCount="-1" TotalPlayTime="0.000000" />
+    <MultiPathDynamicImage Name="Message" PathCount="1" PlayCount="1" TotalPlayTime="2.000000">
+        <CueToStartCurvesWithTime Name="ThunderWeaponGet" BehaviorUpdate="1" StartTime="0.000000" AnchorType="CenterCenter" Count="8" LOD="1">
+            <PointDataList Index="0" Position="-130.00,-65.00,0.00" Time="0.000000" Size="0.00,0.00" Scale="0.00,0.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="1" Position="-130.00,-206.00,0.00" Time="0.400000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="2" Position="-130.00,-191.00,0.00" Time="0.440000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="3" Position="-130.00,-206.00,0.00" Time="0.480000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="4" Position="-130.00,-191.00,0.00" Time="0.520000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="5" Position="-130.00,-206.00,0.00" Time="0.560000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="6" Position="-130.00,-206.00,0.00" Time="1.800000" Size="213.00,112.00" Scale="1.00,1.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+            <PointDataList Index="7" Position="-130.00,-206.00,0.00" Time="2.000000" Size="213.00,112.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BonusBomb" ImageName="ThunderWeaponGet" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

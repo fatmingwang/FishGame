@@ -1,0 +1,23 @@
+<ImageCollisionData Name="BlueFish" Count="7">
+    <CollisionData Name="blue_00000" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+    <CollisionData Name="blue_00001" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+    <CollisionData Name="blue_00002" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+    <CollisionData Name="blue_00003" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+    <CollisionData Name="blue_00004" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+    <CollisionData Name="blue_00005" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+    <CollisionData Name="blue_00006" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="2.00,5.00,0.00" Radius="21.000000" />
+    </CollisionData>
+</ImageCollisionData>

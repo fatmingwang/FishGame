@@ -1,0 +1,59 @@
+<ImageCollisionData Name="HammerheadFish" Count="25">
+    <CollisionData Name="HammerheadFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-129.00,57.00,0.00,40.00,-48.00,0.00,156.00,-49.00,0.00,162.00,28.00,0.00,126.00,95.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00001" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-133.00,48.00,0.00,40.00,-48.00,0.00,151.00,-57.00,0.00,162.00,28.00,0.00,133.00,101.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-141.00,33.00,0.00,33.00,-53.00,0.00,155.00,-58.00,0.00,162.00,28.00,0.00,138.00,96.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00003" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-143.00,24.00,0.00,34.00,-55.00,0.00,145.00,-60.00,0.00,162.00,28.00,0.00,139.00,92.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-145.00,10.00,0.00,32.00,-56.00,0.00,147.00,-62.00,0.00,162.00,28.00,0.00,149.00,87.00,0.00,32.00,63.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00005" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-133.00,-13.00,0.00,27.00,-54.00,0.00,141.00,-64.00,0.00,162.00,28.00,0.00,146.00,87.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-123.00,-25.00,0.00,25.00,-55.00,0.00,140.00,-64.00,0.00,162.00,28.00,0.00,149.00,92.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00007" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-133.00,-14.00,0.00,29.00,-55.00,0.00,141.00,-65.00,0.00,162.00,28.00,0.00,146.00,89.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-139.00,9.00,0.00,32.00,-54.00,0.00,147.00,-62.00,0.00,162.00,28.00,0.00,147.00,90.00,0.00,31.00,61.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00009" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-140.00,23.00,0.00,33.00,-52.00,0.00,153.00,-60.00,0.00,162.00,28.00,0.00,142.00,92.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-138.00,30.00,0.00,32.00,-52.00,0.00,154.00,-60.00,0.00,162.00,28.00,0.00,146.00,95.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00011" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-138.00,48.00,0.00,40.00,-48.00,0.00,155.00,-59.00,0.00,162.00,28.00,0.00,134.00,99.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00012" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-129.00,60.00,0.00,40.00,-48.00,0.00,156.00,-49.00,0.00,162.00,28.00,0.00,126.00,95.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00013" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-36.00,10.00,0.00,52.00,-50.00,0.00,172.00,-24.00,0.00,158.00,58.00,0.00,100.00,115.00,0.00,-99.00,99.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00014" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-120.00,52.00,0.00,-102.00,8.00,0.00,-22.00,-31.00,0.00,36.00,-62.00,0.00,147.00,-24.00,0.00,151.00,55.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00015" Count="1">
+        <Shape Type="Convex" DataCount="6" Data="-91.00,-62.00,0.00,-27.00,19.00,0.00,63.00,54.00,0.00,194.00,26.00,0.00,154.00,-57.00,0.00,92.00,-99.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="HammerheadFish_00016" Count="0" />
+    <CollisionData Name="HammerheadFish_00017" Count="0" />
+    <CollisionData Name="HammerheadFish_00018" Count="0" />
+    <CollisionData Name="HammerheadFish_00019" Count="0" />
+    <CollisionData Name="HammerheadFish_00020" Count="0" />
+    <CollisionData Name="HammerheadFish_00021" Count="0" />
+    <CollisionData Name="HammerheadFish_00022" Count="0" />
+    <CollisionData Name="HammerheadFish_00023" Count="0" />
+    <CollisionData Name="HammerheadFish_00024" Count="0" />
+</ImageCollisionData>

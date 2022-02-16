@@ -1,0 +1,104 @@
+<MPDIList Name="HammerheadFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="HammerheadFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="1.550000">
+        <CueToStartCurvesWithTime Name="HammerheadFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.129167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.258333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.387500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.516667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.645833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.775000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.904167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.033333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.162500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.291667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.420833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.550000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00012" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="HammerheadFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00013" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00015" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="HammerheadFish" StartTime="0.000000" AnchorType="CenterCenter" Count="10" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00016" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.066667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00017" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.133333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00018" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.200000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00019" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.266667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00020" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.333333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00021" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.400000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00022" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.466667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00023" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="0.533333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00024" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.000000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00024" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="1.550000">
+        <CueToStartCurvesWithTime Name="HammerheadFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.129167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.258333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.387500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.516667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.645833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.775000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.904167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.033333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.162500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.291667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.420833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.550000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00012" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.10" PIName="HammerheadFish" ImageName="HammerheadFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.129167" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.25" PIName="HammerheadFish" ImageName="HammerheadFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.258333" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="HammerheadFish" ImageName="HammerheadFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.387500" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.55" PIName="HammerheadFish" ImageName="HammerheadFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.516667" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="HammerheadFish" ImageName="HammerheadFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.645833" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.85" PIName="HammerheadFish" ImageName="HammerheadFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.775000" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.904167" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.85" PIName="HammerheadFish" ImageName="HammerheadFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.033333" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.70" PIName="HammerheadFish" ImageName="HammerheadFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.162500" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.55" PIName="HammerheadFish" ImageName="HammerheadFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.291667" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.40" PIName="HammerheadFish" ImageName="HammerheadFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.420833" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.25" PIName="HammerheadFish" ImageName="HammerheadFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.550000" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,0.00,0.00,0.10" PIName="HammerheadFish" ImageName="HammerheadFish_00012" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="1.550000">
+        <CueToStartCurvesWithTime Name="HammerheadFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.129167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.258333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.387500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.516667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.645833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.775000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.904167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.033333" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.162500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.291667" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.420833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.550000" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00012" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="HammerheadFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.129167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.258333" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.387500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.516667" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.645833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.775000" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.904167" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.033333" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.162500" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.291667" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.420833" Size="378.00,246.00" Scale="1.00,1.00" PIName="HammerheadFish" ImageName="HammerheadFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.550000" Size="378.00,246.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="HammerheadFish" ImageName="HammerheadFish_00012" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

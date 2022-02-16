@@ -1,0 +1,9 @@
+<Root Warning="cFAILeaveFiledBehavior Name=Leave這一行不能拿掉" >
+	<cFAICharacterStatus Name="BossTurtleDefence" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="BossTurtleDefence" Type="cFAIAnimationCharacter" cFAICharacterStatus="BossTurtleDefence" Speed="150" RunAwaySpeed="148" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="BossTurtleDefence" cFAICharacterInterface="BossTurtleDefence" StopWhileNoAI="1" >
+		<cFAIIdleAIBehavior Name="Idle" Probability="10" Time="10" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+	</cFAIMachine>
+</Root>

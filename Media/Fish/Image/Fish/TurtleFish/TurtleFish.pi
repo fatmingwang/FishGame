@@ -1,0 +1,38 @@
+<!-- Author:staric,Time:2013/2/19 ¤U¤È 05:22:08 -->
+<PuzzleImage OriginalNameSort="TurtleFish_00000,TurtleFish_00001,TurtleFish_00002,TurtleFish_00003,TurtleFish_00004,TurtleFish_00005,TurtleFish_00006,TurtleFish_00007,TurtleFish_00008,TurtleFish_00009,TurtleFish_00010,TurtleFish_00011,TurtleFish_00012,TurtleFish_00013,TurtleFish_00014,TurtleFish_00015,TurtleFish_00016,TurtleFish_00017,TurtleFish_00018,TurtleFish_00019,TurtleFish_00020,TurtleFish_00021,TurtleFish_00022,TurtleFish_00023,TurtleFish_00024,TurtleFish_00025,TurtleFish_00026,TurtleFish_00027,TurtleFish_00028,TurtleFish_00029,TurtleFish_00030,TurtleFish_00031,TurtleFish_00032,TurtleFish_00033,TurtleFish_00034" ImageName="TurtleFish.png" Count="35" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="TurtleFish_00000" UV="0,0,0.1269531,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="TurtleFish_00001" UV="0.1298828,0,0.2568359,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="133,0" />
+    <PuzzleUnit Name="TurtleFish_00002" UV="0.2597656,0,0.3867188,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="266,0" />
+    <PuzzleUnit Name="TurtleFish_00003" UV="0.3896484,0,0.5166016,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="399,0" />
+    <PuzzleUnit Name="TurtleFish_00004" UV="0.5195313,0,0.6464844,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="532,0" />
+    <PuzzleUnit Name="TurtleFish_00005" UV="0.6494141,0,0.7763672,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="665,0" />
+    <PuzzleUnit Name="TurtleFish_00006" UV="0.7792969,0,0.90625,0.1660305" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="798,0" />
+    <PuzzleUnit Name="TurtleFish_00007" UV="0,0.1688931,0.1269531,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="0,177" />
+    <PuzzleUnit Name="TurtleFish_00008" UV="0.1298828,0.1688931,0.2568359,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="133,177" />
+    <PuzzleUnit Name="TurtleFish_00009" UV="0.2597656,0.1688931,0.3867188,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="266,177" />
+    <PuzzleUnit Name="TurtleFish_00010" UV="0.3896484,0.1688931,0.5166016,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="399,177" />
+    <PuzzleUnit Name="TurtleFish_00011" UV="0.5195313,0.1688931,0.6464844,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="532,177" />
+    <PuzzleUnit Name="TurtleFish_00012" UV="0.6494141,0.1688931,0.7763672,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="665,177" />
+    <PuzzleUnit Name="TurtleFish_00013" UV="0.7792969,0.1688931,0.90625,0.3349237" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="798,177" />
+    <PuzzleUnit Name="TurtleFish_00014" UV="0,0.3377863,0.1269531,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="0,354" />
+    <PuzzleUnit Name="TurtleFish_00015" UV="0.1298828,0.3377863,0.2568359,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="133,354" />
+    <PuzzleUnit Name="TurtleFish_00016" UV="0.2597656,0.3377863,0.3867188,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="266,354" />
+    <PuzzleUnit Name="TurtleFish_00017" UV="0.3896484,0.3377863,0.5166016,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="399,354" />
+    <PuzzleUnit Name="TurtleFish_00018" UV="0.5195313,0.3377863,0.6464844,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="532,354" />
+    <PuzzleUnit Name="TurtleFish_00019" UV="0.6494141,0.3377863,0.7763672,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="665,354" />
+    <PuzzleUnit Name="TurtleFish_00020" UV="0.7792969,0.3377863,0.90625,0.5038168" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="798,354" />
+    <PuzzleUnit Name="TurtleFish_00021" UV="0,0.5066794,0.1269531,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="0,531" />
+    <PuzzleUnit Name="TurtleFish_00022" UV="0.1298828,0.5066794,0.2568359,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="133,531" />
+    <PuzzleUnit Name="TurtleFish_00023" UV="0.2597656,0.5066794,0.3867188,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="266,531" />
+    <PuzzleUnit Name="TurtleFish_00024" UV="0.3896484,0.5066794,0.5166016,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="399,531" />
+    <PuzzleUnit Name="TurtleFish_00025" UV="0.5195313,0.5066794,0.6464844,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="532,531" />
+    <PuzzleUnit Name="TurtleFish_00026" UV="0.6494141,0.5066794,0.7763672,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="665,531" />
+    <PuzzleUnit Name="TurtleFish_00027" UV="0.7792969,0.5066794,0.90625,0.6727099" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="798,531" />
+    <PuzzleUnit Name="TurtleFish_00028" UV="0,0.6755725,0.1269531,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="0,708" />
+    <PuzzleUnit Name="TurtleFish_00029" UV="0.1298828,0.6755725,0.2568359,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="133,708" />
+    <PuzzleUnit Name="TurtleFish_00030" UV="0.2597656,0.6755725,0.3867188,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="266,708" />
+    <PuzzleUnit Name="TurtleFish_00031" UV="0.3896484,0.6755725,0.5166016,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="399,708" />
+    <PuzzleUnit Name="TurtleFish_00032" UV="0.5195313,0.6755725,0.6464844,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="532,708" />
+    <PuzzleUnit Name="TurtleFish_00033" UV="0.6494141,0.6755725,0.7763672,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="665,708" />
+    <PuzzleUnit Name="TurtleFish_00034" UV="0.7792969,0.6755725,0.90625,0.841603" OffsetPos="0,0" Size="130,174" OriginalSize="130,174" ShowPosInPI="798,708" />
+</PuzzleImage>

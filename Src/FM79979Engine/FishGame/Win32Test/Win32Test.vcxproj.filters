@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Win32">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="GameApp">
+      <UniqueIdentifier>{ed9af0ef-dd99-4e00-8d79-13bd0c5825fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameApp\Device">
+      <UniqueIdentifier>{0a040750-e870-4c5e-a3be-be243d432d5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameApp\TestLogSetup">
+      <UniqueIdentifier>{67b3cdf4-d9c0-423a-b6af-e75b4811ece3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameApp\SceneChange">
+      <UniqueIdentifier>{eb27a6d5-75db-4513-973a-ce097dfeec22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameApp\QuickInfo">
+      <UniqueIdentifier>{112fe7e5-3c95-4faa-a9cd-387dfd1c7123}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\FileNameDefine.h">
+      <Filter>GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\GameApp.h">
+      <Filter>GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\stdafx.h">
+      <Filter>GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\DeviceRefundCoin.h">
+      <Filter>GameApp\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\TestLogSetup.h">
+      <Filter>GameApp\TestLogSetup</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\SceneChange.h">
+      <Filter>GameApp\SceneChange</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameApp\QucikInfo.h">
+      <Filter>GameApp\QuickInfo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>Win32</Filter>
+    </Image>
+    <Image Include="test.ico">
+      <Filter>Win32</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32Test.cpp">
+      <Filter>Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\GameApp.cpp">
+      <Filter>GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\stdafx.cpp">
+      <Filter>GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\DeviceRefundCoin.cpp">
+      <Filter>GameApp\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\DeviceRefundCoinManager.cpp">
+      <Filter>GameApp\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\TestLogSetup.cpp">
+      <Filter>GameApp\TestLogSetup</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\ScaneChange.cpp">
+      <Filter>GameApp\SceneChange</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameApp\QucikInfo.cpp">
+      <Filter>GameApp\QuickInfo</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="test.rc">
+      <Filter>Win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

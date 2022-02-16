@@ -1,0 +1,24 @@
+<!-- Author:staric,Time:2013/2/19 ¤W¤È 11:20:55 -->
+<PuzzleImage OriginalNameSort="KnifeFish_00000,KnifeFish_00002,KnifeFish_00004,KnifeFish_00006,KnifeFish_00008,KnifeFish_00010,KnifeFish_00012,KnifeFish_00014,KnifeFish_00016,KnifeFish_00018,KnifeFish_00020,KnifeFish_00022,KnifeFish_00024,KnifeFish_00025,KnifeFish_00026,KnifeFish_00027,KnifeFish_00028,KnifeFish_00029,KnifeFish_00030,KnifeFish_00031,KnifeFish_00032" ImageName="KnifeFish.png" Count="21" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="KnifeFish_00000" UV="0,0,0.21875,0.1640625" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="KnifeFish_00002" UV="0.2207031,0,0.4394531,0.1640625" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="113,0" />
+    <PuzzleUnit Name="KnifeFish_00004" UV="0.4414063,0,0.6601563,0.1640625" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="226,0" />
+    <PuzzleUnit Name="KnifeFish_00006" UV="0.6621094,0,0.8808594,0.1640625" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="339,0" />
+    <PuzzleUnit Name="KnifeFish_00008" UV="0,0.1660156,0.21875,0.3300781" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="0,85" />
+    <PuzzleUnit Name="KnifeFish_00010" UV="0.2207031,0.1660156,0.4394531,0.3300781" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="113,85" />
+    <PuzzleUnit Name="KnifeFish_00012" UV="0.4414063,0.1660156,0.6601563,0.3300781" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="226,85" />
+    <PuzzleUnit Name="KnifeFish_00014" UV="0.6621094,0.1660156,0.8808594,0.3300781" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="339,85" />
+    <PuzzleUnit Name="KnifeFish_00016" UV="0,0.3320313,0.21875,0.4960938" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="0,170" />
+    <PuzzleUnit Name="KnifeFish_00018" UV="0.2207031,0.3320313,0.4394531,0.4960938" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="113,170" />
+    <PuzzleUnit Name="KnifeFish_00020" UV="0.4414063,0.3320313,0.6601563,0.4960938" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="226,170" />
+    <PuzzleUnit Name="KnifeFish_00022" UV="0.6621094,0.3320313,0.8808594,0.4960938" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="339,170" />
+    <PuzzleUnit Name="KnifeFish_00024" UV="0,0.4980469,0.21875,0.6621094" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="0,255" />
+    <PuzzleUnit Name="KnifeFish_00025" UV="0.2207031,0.4980469,0.4394531,0.6621094" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="113,255" />
+    <PuzzleUnit Name="KnifeFish_00026" UV="0.4414063,0.4980469,0.6601563,0.6621094" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="226,255" />
+    <PuzzleUnit Name="KnifeFish_00027" UV="0.6621094,0.4980469,0.8808594,0.6621094" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="339,255" />
+    <PuzzleUnit Name="KnifeFish_00028" UV="0,0.6640625,0.21875,0.828125" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="0,340" />
+    <PuzzleUnit Name="KnifeFish_00029" UV="0.2207031,0.6640625,0.4394531,0.828125" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="113,340" />
+    <PuzzleUnit Name="KnifeFish_00030" UV="0.4414063,0.6640625,0.6601563,0.828125" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="226,340" />
+    <PuzzleUnit Name="KnifeFish_00031" UV="0.6621094,0.6640625,0.8808594,0.828125" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="339,340" />
+    <PuzzleUnit Name="KnifeFish_00032" UV="0,0.8300781,0.21875,0.9941406" OffsetPos="0,0" Size="112,84" OriginalSize="112,84" ShowPosInPI="0,425" />
+</PuzzleImage>

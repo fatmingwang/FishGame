@@ -1,0 +1,349 @@
+<MPDIList Name="Audit_mpdi" Count="2" MPDIVersion="1.1" PICount="1" ImageName="background.pi">
+    <MultiPathDynamicImage Name="SetRevenueRecordPos" PathCount="25" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="Num715" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,448.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,448.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,448.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,448.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,448.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,448.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,448.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,448.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,448.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num614" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,412.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,412.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,412.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,412.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,412.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,412.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,412.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,412.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,412.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num513" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,376.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,376.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,376.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,376.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,376.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,376.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,376.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,376.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,376.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num412" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,340.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,340.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,340.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,340.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,340.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,340.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,340.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,340.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,340.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num311" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,304.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,304.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,304.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,304.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,304.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,304.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,304.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,304.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,304.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num210" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,268.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,268.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,268.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,268.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,268.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,268.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,268.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,268.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,268.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num9" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,229.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,229.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,229.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,229.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,229.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,229.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,229.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,229.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,229.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num816" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="431.00,484.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="420.00,484.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="409.00,484.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="398.00,484.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="387.00,484.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="376.00,484.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="365.00,484.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="354.00,484.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="343.00,484.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="data" StartTime="0.000000" AnchorType="CenterCenter" Count="11" LOD="1">
+            <PointDataList Index="0" Position="806.00,567.00,0.00" Time="0.000000" Size="29.00,16.00" PIName="background" ImageName="AM" />
+            <PointDataList Index="1" Position="793.00,567.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="2" Position="780.00,567.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="3" Position="767.00,567.00,0.00" Time="0.300000" Size="12.00,17.00" PIName="background" ImageName="_D" />
+            <PointDataList Index="4" Position="754.00,567.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="5" Position="741.00,567.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="6" Position="728.00,567.00,0.00" Time="0.600000" Size="12.00,17.00" PIName="background" ImageName="_D" />
+            <PointDataList Index="7" Position="715.00,567.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="8" Position="702.00,567.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="9" Position="689.00,567.00,0.00" Time="0.900000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+            <PointDataList Index="10" Position="676.00,567.00,0.00" Time="1.000000" Size="9.00,16.00" PIName="background" ImageName="datanum0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num20" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,484.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,484.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,484.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,484.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,484.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,484.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,484.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,484.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,484.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num21" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,448.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,448.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,448.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,448.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,448.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,448.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,448.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,448.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,448.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num22" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,412.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,412.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,412.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,412.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,412.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,412.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,412.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,412.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,412.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num23" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,376.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,376.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,376.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,376.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,376.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,376.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,376.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,376.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,376.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num24" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,340.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,340.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,340.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,340.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,340.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,340.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,340.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,340.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,340.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num25" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,304.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,304.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,304.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,304.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,304.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,304.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,304.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,304.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,304.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num26" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,268.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,268.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,268.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,268.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,268.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,268.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,268.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,268.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,268.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num27" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="739.00,229.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="728.00,229.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="717.00,229.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="706.00,229.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="695.00,229.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="684.00,229.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="673.00,229.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="662.00,229.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="651.00,229.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num30" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,484.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,484.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,484.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,484.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,484.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,484.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,484.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,484.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,484.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num31" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,448.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,448.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,448.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,448.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,448.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,448.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,448.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,448.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,448.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num32" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,412.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,412.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,412.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,412.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,412.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,412.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,412.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,412.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,412.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num33" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,376.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,376.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,376.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,376.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,376.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,376.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,376.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,376.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,376.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num34" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,340.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,340.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,340.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,340.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,340.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,340.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,340.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,340.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,340.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num35" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,304.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,304.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,304.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,304.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,304.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,304.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,304.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,304.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,304.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num36" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,268.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,268.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,268.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,268.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,268.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,268.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,268.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,268.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,268.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Num37" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="1045.00,229.00,0.00" Time="0.000000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="1" Position="1034.00,229.00,0.00" Time="0.100000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="2" Position="1023.00,229.00,0.00" Time="0.200000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="3" Position="1012.00,229.00,0.00" Time="0.300000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="4" Position="1001.00,229.00,0.00" Time="0.400000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="5" Position="990.00,229.00,0.00" Time="0.500000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="6" Position="979.00,229.00,0.00" Time="0.600000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="7" Position="968.00,229.00,0.00" Time="0.700000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+            <PointDataList Index="8" Position="957.00,229.00,0.00" Time="0.800000" Size="9.00,16.00" PIName="background" ImageName="datanum6" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SetRevenueRecord" PathCount="22" PlayCount="1" TotalPlayTime="0.100000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="background_1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.100000" Size="1280.00,720.00" PIName="background" ImageName="background_1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="475.00,152.00,0.00" Time="0.100000" Size="2.00,397.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="470.00,152.00,0.00" Time="0.100000" Size="2.00,397.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line3" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="327.00,349.00,0.00" Time="0.100000" Size="2.00,286.00" Angles="0.00,0.00,90.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line4" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="927.00,349.00,0.00" Time="0.100000" Size="2.00,289.00" Angles="0.00,0.00,90.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line5" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="627.00,354.00,0.00" Time="0.100000" Size="2.00,889.00" Angles="0.00,0.00,90.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="SetRevenueRecord" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.100000" Size="167.00,33.00" PIName="background" ImageName="Revenue recordRecord" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="RecordAll" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="186.00,161.00,0.00" Time="0.100000" Size="60.00,18.00" PIName="background" ImageName="RecordAll" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="RecordNow" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="487.00,161.00,0.00" Time="0.100000" Size="80.00,17.00" PIName="background" ImageName="RecordNow" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="RevenueRecordWord1" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-617.00,4.00,0.00" Time="0.100000" Size="95.00,273.00" PIName="background" ImageName="Revenue recordRecordWord1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="RevenueRecordWord2" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="753.00,229.00,0.00" Time="0.100000" Size="18.00,273.00" PIName="background" ImageName="Revenue recordRecordWord2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="RevenueRecordWord1a" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-314.00,4.00,0.00" Time="0.100000" Size="95.00,273.00" PIName="background" ImageName="Revenue recordRecordWord1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="RevenueRecordWord2a" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="1058.00,229.00,0.00" Time="0.100000" Size="18.00,273.00" PIName="background" ImageName="Revenue recordRecordWord2" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="PressStrengThenCannonShift" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="392.00,607.00,0.00" Time="0.100000" Size="395.00,18.00" PIName="background" ImageName="AuditMessage" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LastTimeExpense" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="484.00,563.00,0.00" Time="0.100000" Size="155.00,20.00" PIName="background" ImageName="LastTimeExpense" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="F_ok" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="564.00,656.00,0.00" Time="0.100000" Size="110.00,24.00" PIName="background" ImageName="F_ok" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="LastRecord" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="797.00,161.00,0.00" Time="0.100000" Size="85.00,17.00" PIName="background" ImageName="LastRecord" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line6" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="783.00,152.00,0.00" Time="0.100000" Size="2.00,397.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line7" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="778.00,152.00,0.00" Time="0.100000" Size="2.00,397.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="line8" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="626.00,349.00,0.00" Time="0.100000" Size="2.00,304.00" Angles="0.00,0.00,90.00" PIName="background" ImageName="line" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Revenue recordRecordWord1b" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-5.00,4.00,0.00" Time="0.100000" Size="95.00,273.00" PIName="background" ImageName="Revenue recordRecordWord1" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="Revenue recordRecordWord2b" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="444.00,229.00,0.00" Time="0.100000" Size="18.00,273.00" PIName="background" ImageName="Revenue recordRecordWord2" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

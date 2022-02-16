@@ -1,0 +1,11 @@
+<Root Warning="cFAILeaveFiledBehavior Name=Leave這一行不能拿掉" >
+	<cFAICharacterStatus Name="BossTurtleMoving" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="BossTurtleMoving" Type="cFAIAnimationCharacter" cFAICharacterStatus="BossTurtleMoving" Speed="20" RunAwaySpeed="148">
+	</cFAICharacterInterface>
+	<cFAIMachine Name="BossTurtleMoving" cFAICharacterInterface="BossTurtleMoving" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="10" Wall="0,0,1280,720" XDistanceRestrict="5,8" YDistanceRestrict="5,7" TimeRestrict="16,18" PointRestrict="8,12" DistanceChangePoint="3,7" LOD="5" />
+		<cFAIWalkToDestinationAIBehavior Name="ToCenter" Probability="0" DestPos="640,360,0" Speed="300" />
+		<cFAIPathBehavior Name="FixedPath" Probability="90" PathFile="Fish/MonsterData/Path/TutrleBossMovingPath.path" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="30" Radius="650" />
+	</cFAIMachine>
+</Root>

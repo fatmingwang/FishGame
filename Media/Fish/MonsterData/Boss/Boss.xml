@@ -1,0 +1,6 @@
+<Root>
+	<Boss LeaestBiteMoney="10000,30000" AliveTime="30,50" />
+	<Status Name="Moving" MonsterName="GoldKenmu" Probability="10"  />
+	<Status Name="Defence" MonsterName="GoldKenmuDefence" Probability="10" />
+	<Status Name="RandomlyRotation" MonsterName="GoldKenmuRandomlyRotation" Probability="50" />
+</Root>

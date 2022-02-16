@@ -1,0 +1,77 @@
+<ImageCollisionData Name="Attack" Count="33">
+    <CollisionData Name="10P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="11P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="12P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="13P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="14P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="1P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="1P_bullet_LV2" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-16.00,-16.00,0.00,13.00,-16.00,0.00,13.00,14.00,0.00,-17.00,14.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="1P_bullet_LV3" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-23.00,-18.00,0.00,22.00,-18.00,0.00,22.00,13.00,0.00,-25.00,13.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="1P_bullet_LV4" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-28.00,-16.00,0.00,-1.00,-23.00,0.00,24.00,-18.00,0.00,25.00,15.00,0.00,-29.00,15.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="1Pnet_LV2" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="60.000000" />
+    </CollisionData>
+    <CollisionData Name="1Pnet_LV2B" Count="0" />
+    <CollisionData Name="1Pnet_LV3" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="60.000000" />
+    </CollisionData>
+    <CollisionData Name="1Pnet_LV3B" Count="0" />
+    <CollisionData Name="1Pnet_LV4" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="60.000000" />
+    </CollisionData>
+    <CollisionData Name="1Pnet_LV4B" Count="0" />
+    <CollisionData Name="1Pnet2" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="60.000000" />
+    </CollisionData>
+    <CollisionData Name="1Pnet2B" Count="0" />
+    <CollisionData Name="2P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="-1.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="3P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="4P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="5P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="6P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="7P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="8P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="0.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="9P_bullet" Count="1">
+        <Shape Type="Circle" DataCount="1" Data="1.00,0.00,0.00" Radius="12.000000" />
+    </CollisionData>
+    <CollisionData Name="bullet tail1" Count="0" />
+    <CollisionData Name="bullet tail2" Count="0" />
+    <CollisionData Name="bullet tail3" Count="0" />
+    <CollisionData Name="bullet tail4" Count="0" />
+    <CollisionData Name="bullet tail5" Count="0" />
+    <CollisionData Name="bullet tail6" Count="0" />
+    <CollisionData Name="bullet tail7" Count="0" />
+    <CollisionData Name="NetWave" Count="0" />
+</ImageCollisionData>

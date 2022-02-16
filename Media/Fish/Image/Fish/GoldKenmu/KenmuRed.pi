@@ -1,0 +1,28 @@
+<!-- Author:staric,Time:2013/2/4 ¤U¤È 02:51:33 -->
+<PuzzleImage OriginalNameSort="ShellReflaction1,ShellReflaction2,SilverKenmuDash_00000,SilverKenmuDash_00001,SilverKenmuDash_00002,SilverKenmuDash_00003,SilverKenmuDefense_00000,SilverKenmuDefense_00001,SilverKenmuDefense_00002,SilverKenmuDefense_00003,SilverKenmuMove_00000,SilverKenmuMove_00001,SilverKenmuMove_00002,SilverKenmuMove_00003,SilverKenmuMove_00004,SilverKenmuMove_00005,SilverKenmuMove_00006,SilverKenmuMove_00007,SilverKenmuRotate_00000,SilverKenmuRotate_00001,SilverKenmuRotate_00002,SilverKenmuTransit_00000,SilverKenmuTransit_00001,SilverKenmuTransit_00002,SilverKenmuTransit_00003" ImageName="KenmuRed.png" Count="25" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="ShellReflaction1" UV="0,0,0.1298828,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="ShellReflaction2" UV="0.1303711,0,0.2602539,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,0" />
+    <PuzzleUnit Name="SilverKenmuDash_00000" UV="0.2607422,0,0.390625,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,0" />
+    <PuzzleUnit Name="SilverKenmuDash_00001" UV="0.3911133,0,0.5209961,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,0" />
+    <PuzzleUnit Name="SilverKenmuDash_00002" UV="0.5214844,0,0.6513672,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1068,0" />
+    <PuzzleUnit Name="SilverKenmuDash_00003" UV="0.6518555,0,0.7817383,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1335,0" />
+    <PuzzleUnit Name="SilverKenmuDefense_00000" UV="0.7822266,0,0.9121094,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1602,0" />
+    <PuzzleUnit Name="SilverKenmuDefense_00001" UV="0,0.128418,0.1298828,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,263" />
+    <PuzzleUnit Name="SilverKenmuDefense_00002" UV="0.1303711,0.128418,0.2602539,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,263" />
+    <PuzzleUnit Name="SilverKenmuDefense_00003" UV="0.2607422,0.128418,0.390625,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,263" />
+    <PuzzleUnit Name="SilverKenmuMove_00000" UV="0.3911133,0.128418,0.5209961,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,263" />
+    <PuzzleUnit Name="SilverKenmuMove_00001" UV="0.5214844,0.128418,0.6513672,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1068,263" />
+    <PuzzleUnit Name="SilverKenmuMove_00002" UV="0.6518555,0.128418,0.7817383,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1335,263" />
+    <PuzzleUnit Name="SilverKenmuMove_00003" UV="0.7822266,0.128418,0.9121094,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1602,263" />
+    <PuzzleUnit Name="SilverKenmuMove_00004" UV="0,0.2568359,0.1298828,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,526" />
+    <PuzzleUnit Name="SilverKenmuMove_00005" UV="0.1303711,0.2568359,0.2602539,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,526" />
+    <PuzzleUnit Name="SilverKenmuMove_00006" UV="0.2607422,0.2568359,0.390625,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,526" />
+    <PuzzleUnit Name="SilverKenmuMove_00007" UV="0.3911133,0.2568359,0.5209961,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,526" />
+    <PuzzleUnit Name="SilverKenmuRotate_00000" UV="0.5214844,0.2568359,0.6513672,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1068,526" />
+    <PuzzleUnit Name="SilverKenmuRotate_00001" UV="0.6518555,0.2568359,0.7817383,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1335,526" />
+    <PuzzleUnit Name="SilverKenmuRotate_00002" UV="0.7822266,0.2568359,0.9121094,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1602,526" />
+    <PuzzleUnit Name="SilverKenmuTransit_00000" UV="0,0.3852539,0.1298828,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,789" />
+    <PuzzleUnit Name="SilverKenmuTransit_00001" UV="0.1303711,0.3852539,0.2602539,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,789" />
+    <PuzzleUnit Name="SilverKenmuTransit_00002" UV="0.2607422,0.3852539,0.390625,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,789" />
+    <PuzzleUnit Name="SilverKenmuTransit_00003" UV="0.3911133,0.3852539,0.5209961,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,789" />
+</PuzzleImage>

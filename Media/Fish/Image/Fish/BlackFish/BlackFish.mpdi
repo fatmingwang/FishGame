@@ -1,0 +1,103 @@
+<MPDIList Name="BlackFish_mpdi" Count="5" MPDIVersion="1.2" PICount="1" ImageName="BlackFish.pi">
+    <MultiPathDynamicImage Name="NormalMove" PathCount="1" PlayCount="-1" TotalPlayTime="1.600000">
+        <CueToStartCurvesWithTime Name="BlackFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.133333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.266667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.400000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.533333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.666667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.800000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.933333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.066667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.200000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.333333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.466667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.600000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00012" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackRed" PathCount="2" PlayCount="-1" TotalPlayTime="1.600000">
+        <CueToStartCurvesWithTime Name="BlackFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.133333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.266667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.400000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.533333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.666667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.800000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.933333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.066667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.200000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.333333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.466667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.600000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00012" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BlackFishAttackRed" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.20" PIName="BlackFish" ImageName="BlackFish1_0000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.133333" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.30" PIName="BlackFish" ImageName="BlackFish1_0001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.266667" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.40" PIName="BlackFish" ImageName="BlackFish1_0002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.400000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.55" PIName="BlackFish" ImageName="BlackFish1_0003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.533333" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.70" PIName="BlackFish" ImageName="BlackFish1_0004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.666667" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.85" PIName="BlackFish" ImageName="BlackFish1_0005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.800000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish1_0006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.933333" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.85" PIName="BlackFish" ImageName="BlackFish1_0007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.066667" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.70" PIName="BlackFish" ImageName="BlackFish1_0008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.200000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.55" PIName="BlackFish" ImageName="BlackFish1_0009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.333333" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.40" PIName="BlackFish" ImageName="BlackFish1_0010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.466667" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.30" PIName="BlackFish" ImageName="BlackFish1_0011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.600000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.20" PIName="BlackFish" ImageName="BlackFish1_0012" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AttackWhite" PathCount="2" PlayCount="-1" TotalPlayTime="1.600000">
+        <CueToStartCurvesWithTime Name="BlackFish" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.133333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.266667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.400000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.533333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.666667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.800000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.933333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.066667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.200000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.333333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.466667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.600000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00012" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="BlackFishAttackWhite" Blending="1" SrcBlendingData="770" DestBlendingData="772" StartTime="0.000000" AnchorType="CenterCenter" Count="13" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00000" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.133333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00001" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.266667" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00002" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.400000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00003" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.533333" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00004" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.666667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00005" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.800000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00006" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.933333" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00007" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.066667" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00008" />
+            <PointDataList Index="9" Position="0.00,0.00,0.00" Time="1.200000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00009" />
+            <PointDataList Index="10" Position="0.00,0.00,0.00" Time="1.333333" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00010" />
+            <PointDataList Index="11" Position="0.00,0.00,0.00" Time="1.466667" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00011" />
+            <PointDataList Index="12" Position="0.00,0.00,0.00" Time="1.600000" Size="347.00,185.00" Scale="1.00,1.00" Color="1.00,1.00,1.00,0.00" PIName="BlackFish" ImageName="BlackFish_00012" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="Flee" PathCount="1" PlayCount="-1" TotalPlayTime="0.300000">
+        <CueToStartCurvesWithTime Name="BlackFish" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00013" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.150000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00015" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.300000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00013" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="DiedShow" PathCount="1" PlayCount="1" TotalPlayTime="1.000000">
+        <CueToStartCurvesWithTime Name="BlackFish" StartTime="0.000000" AnchorType="CenterCenter" Count="9" LOD="1">
+            <PointDataList Index="0" Position="0.00,0.00,0.00" Time="0.000000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00016" />
+            <PointDataList Index="1" Position="0.00,0.00,0.00" Time="0.076250" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00017" />
+            <PointDataList Index="2" Position="0.00,0.00,0.00" Time="0.152500" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00018" />
+            <PointDataList Index="3" Position="0.00,0.00,0.00" Time="0.228750" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00019" />
+            <PointDataList Index="4" Position="0.00,0.00,0.00" Time="0.305000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00020" />
+            <PointDataList Index="5" Position="0.00,0.00,0.00" Time="0.381250" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00021" />
+            <PointDataList Index="6" Position="0.00,0.00,0.00" Time="0.457500" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00022" />
+            <PointDataList Index="7" Position="0.00,0.00,0.00" Time="0.533750" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00023" />
+            <PointDataList Index="8" Position="0.00,0.00,0.00" Time="1.000000" Size="347.00,185.00" Scale="1.00,1.00" PIName="BlackFish" ImageName="BlackFish_00023" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

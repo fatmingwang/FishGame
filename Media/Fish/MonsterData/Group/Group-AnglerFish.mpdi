@@ -1,0 +1,8 @@
+<MPDIList Name="Group-AnglerFish_mpdi" Count="1" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="AnglerFish-2-1" PathCount="1" PlayCount="1" TotalPlayTime="0.100000">
+        <CueToStartCurvesWithTime Name="AnglerFish-2-1" StartTime="0.000000" AnchorType="CenterCenter" Count="2" LOD="1">
+            <PointDataList Index="0" Position="-44.00,-36.00,0.00" Time="0.000000" Size="181.00,115.00" PIName="allfish" ImageName="AnglerFish" />
+            <PointDataList Index="1" Position="-145.00,18.00,0.00" Time="0.100000" Size="181.00,115.00" PIName="allfish" ImageName="AnglerFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

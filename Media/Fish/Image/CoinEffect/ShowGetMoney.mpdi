@@ -1,0 +1,335 @@
+<MPDIList Name="ShowGetMoney_mpdi" Count="63" MPDIVersion="1.2" PICount="2" ImageName="ShowGetMoney.pi,PlayerUI.pi">
+    <MultiPathDynamicImage Name="ShowGetMoneyNumerial" PathCount="7" PlayCount="1" TotalPlayTime="0.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial07" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-250.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial06" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-235.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial05" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-220.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial04" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-205.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial03" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-190.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial02" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-175.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+        <CueToStartCurvesWithTime Name="FishScoreCardNumerial01" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-160.00,-130.00,0.00" Time="0.000000" Size="14.00,20.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FishScoreCardNumerial0" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AnglerFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="AnglerFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AnglerFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="AnglerFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="AnglerFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="AnglerFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigFour001MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigFour001MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigFour002MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigFour002MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigFour003MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigFour003MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigThree001MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigThree001MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigThree001THU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigThree001THU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigThree002MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigThree002MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigThree003MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigThree003MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BigThree004MER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BigThree004MER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlackFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BlackFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlackFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BlackFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlackFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BlackFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlueFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BlueFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlueFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BlueFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="BlueFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="BlueFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="ClownFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="ClownFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ClownFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="ClownFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FlounderFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FlounderFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="FlounderFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="FlounderFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldBlackFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldBlackFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldDragonMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldDragonMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldDragonTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldDragonTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldHammerHeadFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldHammerHeadFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldKenmuMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldKenmuMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldKenmuTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldKenmuTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="GoldTunaFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="GoldTunaFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="HammerheadFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="HammerheadFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="HammerheadFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="HammerheadFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="HammerheadFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="HammerheadFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="JellyFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="JellyFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="JellyFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="JellyFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="JellyFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="JellyFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="KillerFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="KillerFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="KnifeFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="KnifeFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="KnifeFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="KnifeFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="KnifeFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="KnifeFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MarlinFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="MarlinFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MarlinFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="MarlinFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="MarlinFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="MarlinFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PufferFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="PufferFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PufferFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="PufferFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="PufferFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="PufferFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedKenmuMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="RedKenmuMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="RedKenmuTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="RedKenmuTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SilverKenmuMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="SilverKenmuMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SilverKenmuTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="SilverKenmuTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SquidFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="SquidFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SquidFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="SquidFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SquidFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="SquidFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="StingrayFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="StingrayFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="StingrayFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="AnglerFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="StingrayFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="AnglerFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ThreeFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="ThreeFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ThreeFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="ThreeFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="ThreeFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="ThreeFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="TunaFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="TunaFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="TurtleFishGDW_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="TurtleFishGDW" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="TurtleFishMER_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="TurtleFishMER" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="TurtleFishTHU_ShowGetMoney" PathCount="1" PlayCount="1" TotalPlayTime="1.000000" StopAtLastFrame="1">
+        <CueToStartCurvesWithTime Name="FishScoreCardClownAnemonefish" StartTime="0.000000" AnchorType="CenterCenter" Count="1" LOD="1">
+            <PointDataList Index="0" Position="-217.00,-107.00,0.00" Time="1.000000" Size="73.00,106.00" Scale="1.00,1.00" PIName="ShowGetMoney" ImageName="TurtleFishTHU" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

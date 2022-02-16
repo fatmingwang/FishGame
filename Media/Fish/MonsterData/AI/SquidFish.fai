@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="SquidFish" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="SquidFish" Type="cFAIAnimationCharacter" cFAICharacterStatus="SquidFish" Speed="12" RunAwaySpeed="45" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="SquidFish" cFAICharacterInterface="SquidFish" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="100" Wall="0,0,1280,720" XDistanceRestrict="4,19" YDistanceRestrict="4,19" TimeRestrict="22,25" PointRestrict="30,32" DistanceChangePoint="4,6" DirectionOffsetX="-0.8,0.8" DirectionOffsetY="-0.8,0.8" LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="0" PathFile="Fish/MonsterData/Path/SquidFish.path" />
+	</cFAIMachine>
+</Root>

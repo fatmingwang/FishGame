@@ -1,0 +1,74 @@
+<ImageCollisionData Name="GoldDragon" Count="24">
+    <CollisionData Name="GoldDragon_00000" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00001" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-183.00,12.00,0.00,-151.00,44.00,0.00,228.00,56.00,0.00,248.00,0.00,0.00,105.00,-33.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00002" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-181.00,16.00,0.00,-154.00,45.00,0.00,227.00,61.00,0.00,259.00,10.00,0.00,106.00,-28.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00003" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-181.00,19.00,0.00,-163.00,42.00,0.00,234.00,64.00,0.00,252.00,15.00,0.00,106.00,-31.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00004" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-187.00,22.00,0.00,-163.00,42.00,0.00,243.00,57.00,0.00,247.00,2.00,0.00,104.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00005" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00006" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00007" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00008" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00,186.00,-41.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00009" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00,178.00,-45.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00010" Count="1">
+        <Shape Type="Convex" DataCount="5" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00,178.00,-35.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00011" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00013" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-221.00,14.00,0.00,-208.00,34.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00014" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-181.00,40.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00015" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-221.00,5.00,0.00,-220.00,32.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00016" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00017" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-189.00,-3.00,0.00,-163.00,42.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00018" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-161.00,-19.00,0.00,-153.00,25.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00019" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-122.00,-48.00,0.00,-116.00,7.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00020" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-99.00,-45.00,0.00,-108.00,25.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00021" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-82.00,-25.00,0.00,-97.00,48.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00022" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-69.00,-12.00,0.00,-99.00,60.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00023" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-79.00,-8.00,0.00,-90.00,60.00,0.00,232.00,51.00,0.00,253.00,-26.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="GoldDragon_00024" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-97.00,3.00,0.00,-86.00,61.00,0.00,232.00,51.00,0.00,247.00,-14.00,0.00" />
+    </CollisionData>
+</ImageCollisionData>

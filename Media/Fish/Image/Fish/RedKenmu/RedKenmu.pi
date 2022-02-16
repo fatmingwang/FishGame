@@ -1,0 +1,28 @@
+<!-- Author:staric,Time:2013/2/4 ¤U¤È 03:54:29 -->
+<PuzzleImage OriginalNameSort="RedKenmuDash_00000,RedKenmuDash_00001,RedKenmuDash_00002,RedKenmuDash_00003,RedKenmuDefense_00000,RedKenmuDefense_00001,RedKenmuDefense_00002,RedKenmuDefense_00003,RedKenmuMove_00000,RedKenmuMove_00001,RedKenmuMove_00002,RedKenmuMove_00004,RedKenmuMove_00005,RedKenmuMove_00006,RedKenmuMove_00007,RedKenmuMove_00008,RedKenmuRotate_00000,RedKenmuRotate_00001,RedKenmuRotate_00002,RedKenmuTransit_00000,RedKenmuTransit_00001,RedKenmuTransit_00002,RedKenmuTransit_00003,ShellReflaction1,ShellReflaction2" ImageName="RedKenmu.png" Count="25" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="RedKenmuDash_00000" UV="0,0,0.1298828,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="RedKenmuDash_00001" UV="0.1303711,0,0.2602539,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,0" />
+    <PuzzleUnit Name="RedKenmuDash_00002" UV="0.2607422,0,0.390625,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,0" />
+    <PuzzleUnit Name="RedKenmuDash_00003" UV="0.3911133,0,0.5209961,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,0" />
+    <PuzzleUnit Name="RedKenmuDefense_00000" UV="0.5214844,0,0.6513672,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1068,0" />
+    <PuzzleUnit Name="RedKenmuDefense_00001" UV="0.6518555,0,0.7817383,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1335,0" />
+    <PuzzleUnit Name="RedKenmuDefense_00002" UV="0.7822266,0,0.9121094,0.1279297" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1602,0" />
+    <PuzzleUnit Name="RedKenmuDefense_00003" UV="0,0.128418,0.1298828,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,263" />
+    <PuzzleUnit Name="RedKenmuMove_00000" UV="0.1303711,0.128418,0.2602539,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,263" />
+    <PuzzleUnit Name="RedKenmuMove_00001" UV="0.2607422,0.128418,0.390625,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,263" />
+    <PuzzleUnit Name="RedKenmuMove_00002" UV="0.3911133,0.128418,0.5209961,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,263" />
+    <PuzzleUnit Name="RedKenmuMove_00004" UV="0.5214844,0.128418,0.6513672,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1068,263" />
+    <PuzzleUnit Name="RedKenmuMove_00005" UV="0.6518555,0.128418,0.7817383,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1335,263" />
+    <PuzzleUnit Name="RedKenmuMove_00006" UV="0.7822266,0.128418,0.9121094,0.2563477" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1602,263" />
+    <PuzzleUnit Name="RedKenmuMove_00007" UV="0,0.2568359,0.1298828,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,526" />
+    <PuzzleUnit Name="RedKenmuMove_00008" UV="0.1303711,0.2568359,0.2602539,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,526" />
+    <PuzzleUnit Name="RedKenmuRotate_00000" UV="0.2607422,0.2568359,0.390625,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,526" />
+    <PuzzleUnit Name="RedKenmuRotate_00001" UV="0.3911133,0.2568359,0.5209961,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,526" />
+    <PuzzleUnit Name="RedKenmuRotate_00002" UV="0.5214844,0.2568359,0.6513672,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1068,526" />
+    <PuzzleUnit Name="RedKenmuTransit_00000" UV="0.6518555,0.2568359,0.7817383,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1335,526" />
+    <PuzzleUnit Name="RedKenmuTransit_00001" UV="0.7822266,0.2568359,0.9121094,0.3847656" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="1602,526" />
+    <PuzzleUnit Name="RedKenmuTransit_00002" UV="0,0.3852539,0.1298828,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="0,789" />
+    <PuzzleUnit Name="RedKenmuTransit_00003" UV="0.1303711,0.3852539,0.2602539,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="267,789" />
+    <PuzzleUnit Name="ShellReflaction1" UV="0.2607422,0.3852539,0.390625,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="534,789" />
+    <PuzzleUnit Name="ShellReflaction2" UV="0.3911133,0.3852539,0.5209961,0.5131836" OffsetPos="0,0" Size="266,262" OriginalSize="266,262" ShowPosInPI="801,789" />
+</PuzzleImage>

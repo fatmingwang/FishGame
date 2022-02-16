@@ -1,0 +1,10 @@
+<Root>
+	<cFAICharacterStatus Name="GoldDragon" HP="100" Strength="1" Defence="100" Agile="100" Dexterous="100" Lucky="100" />
+	<cFAICharacterInterface Name="GoldDragon" Type="cFAIAnimationCharacter" cFAICharacterStatus="GoldDragon" Speed="23" RunAwaySpeed="23" >
+	</cFAICharacterInterface>
+	<cFAIMachine Name="GoldDragon" StartBehaviorName="Path" cFAICharacterInterface="GoldDragon" StopWhileNoAI="1" >
+		<cFAIFiledPathBehavior Name="Path"  Probability="0" Wall="0,0,1280,720" XDistanceRestrict="1,1" YDistanceRestrict="1,1" TimeRestrict="25,25" PointRestrict="120,120" DistanceChangePoint="3,7"  LOD="5" />
+		<cFAILeaveFiledBehavior Name="Leave" Probability="0" Wall="0,0,1280,720" Speed="250" Radius="650" />
+		<cFAIPathBehavior Name="FixedPath" Probability="100" PathFile="Fish/MonsterData/Path/GoldDragon.path" />
+	</cFAIMachine>
+</Root>

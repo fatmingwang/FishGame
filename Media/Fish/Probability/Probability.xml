@@ -1,0 +1,3 @@
+<Root>
+	< MasterLi SingranlProcessGap="0.05" WriteLog="0" WriteErrorLog="0" COM="4" Timeout="0.3" ComportIOTimeOutError="2" SendStartSingnal="1" />
+</Root>

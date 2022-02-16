@@ -1,0 +1,30 @@
+<MPDIList Name="Group-SquidFish_mpdi" Count="4" MPDIVersion="1.1" PICount="1" ImageName="allfish.pi">
+    <MultiPathDynamicImage Name="SquidFish-3-1" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="SquidFish-3-1" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-69.00,-38.00,0.00" Time="0.000000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="1" Position="-46.00,-3.00,0.00" Time="0.100000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="2" Position="-129.00,-21.00,0.00" Time="0.200000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SquidFish-3-2" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="SquidFish-3-2" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-35.00,-40.00,0.00" Time="0.000000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="1" Position="-98.00,-65.00,0.00" Time="0.100000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="2" Position="-80.00,-15.00,0.00" Time="0.200000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SquidFish-3-3" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="SquidFish-3-3" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-73.00,-26.00,0.00" Time="0.000000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="1" Position="-121.00,0.00,0.00" Time="0.100000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="2" Position="-148.00,-44.00,0.00" Time="0.200000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+    <MultiPathDynamicImage Name="SquidFish-3-4" PathCount="1" PlayCount="1" TotalPlayTime="0.200000">
+        <CueToStartCurvesWithTime Name="SquidFish-3-4" StartTime="0.000000" AnchorType="CenterCenter" Count="3" LOD="1">
+            <PointDataList Index="0" Position="-39.00,-49.00,0.00" Time="0.000000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="1" Position="-119.00,-33.00,0.00" Time="0.100000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+            <PointDataList Index="2" Position="-133.00,-72.00,0.00" Time="0.200000" Size="135.00,65.00" PIName="allfish" ImageName="SquidFish" />
+        </CueToStartCurvesWithTime>
+    </MultiPathDynamicImage>
+</MPDIList>

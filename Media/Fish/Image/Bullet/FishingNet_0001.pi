@@ -1,0 +1,16 @@
+<!-- Author:OLINCA,Time:2013/8/12 ¤W¤È 10:55:21 -->
+<PuzzleImage OriginalNameSort="Net_Lv1B,Net_Lv2B,Net_Lv3B,Net_Lv4B,Net_Lv1,Net_Lv2,Net_Lv3,Net_Lv4,NetWave,BonusTwinArrowNetFire0001,BonusTwinArrowNetFire0002,BonusTwinArrowNetFire0003,Net_Lv4B_2" ImageName="FishingNet_0001.png" Count="13" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="BonusTwinArrowNetFire0001" UV="0,0.2509766,0.1953125,0.6416016" OffsetPos="0,0" Size="400,400" OriginalSize="400,400" ShowPosInPI="0,257" />
+    <PuzzleUnit Name="BonusTwinArrowNetFire0002" UV="0.1967773,0.2509766,0.3920898,0.6416016" OffsetPos="0,0" Size="400,400" OriginalSize="400,400" ShowPosInPI="403,257" />
+    <PuzzleUnit Name="BonusTwinArrowNetFire0003" UV="0.3935547,0.2509766,0.5888672,0.6416016" OffsetPos="0,0" Size="400,400" OriginalSize="400,400" ShowPosInPI="806,257" />
+    <PuzzleUnit Name="Net_Lv1" UV="0.4311523,0,0.5048828,0.1464844" OffsetPos="52,53" Size="151,150" OriginalSize="255,255" ShowPosInPI="883,0" />
+    <PuzzleUnit Name="Net_Lv1B" UV="0,0,0.08740234,0.1738281" OffsetPos="38,39" Size="179,178" OriginalSize="255,255" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="Net_Lv2" UV="0.5063477,0,0.5908203,0.1660156" OffsetPos="41,43" Size="173,170" OriginalSize="255,255" ShowPosInPI="1037,0" />
+    <PuzzleUnit Name="Net_Lv2B" UV="0.08886719,0,0.1884766,0.2001953" OffsetPos="25,26" Size="204,205" OriginalSize="255,255" ShowPosInPI="182,0" />
+    <PuzzleUnit Name="Net_Lv3" UV="0.5922852,0,0.6855469,0.1855469" OffsetPos="32,33" Size="191,190" OriginalSize="255,255" ShowPosInPI="1213,0" />
+    <PuzzleUnit Name="Net_Lv3B" UV="0.1899414,0,0.3046875,0.2304688" OffsetPos="9,10" Size="235,236" OriginalSize="255,255" ShowPosInPI="389,0" />
+    <PuzzleUnit Name="Net_Lv4" UV="0.6870117,0,0.7871094,0.1992188" OffsetPos="25,26" Size="205,204" OriginalSize="255,255" ShowPosInPI="1407,0" />
+    <PuzzleUnit Name="Net_Lv4B" UV="0.3061523,0,0.4296875,0.2480469" OffsetPos="0,1" Size="253,254" OriginalSize="255,255" ShowPosInPI="627,0" />
+    <PuzzleUnit Name="Net_Lv4B_2" UV="0.590332,0.2509766,0.7148438,0.5" OffsetPos="0,0" Size="255,255" OriginalSize="255,255" ShowPosInPI="1209,257" />
+    <PuzzleUnit Name="NetWave" UV="0.7885742,0,0.8447266,0.1123047" OffsetPos="7,7" Size="115,115" OriginalSize="128,128" ShowPosInPI="1615,0" />
+</PuzzleImage>

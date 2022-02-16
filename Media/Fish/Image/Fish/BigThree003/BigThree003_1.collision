@@ -1,0 +1,38 @@
+<ImageCollisionData Name="JellyFish" Count="12">
+    <CollisionData Name="JellyFish_00000" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00001" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00002" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00003" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00004" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00005" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00006" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00007" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00008" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00009" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00010" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+    <CollisionData Name="JellyFish_00011" Count="1">
+        <Shape Type="Convex" DataCount="4" Data="-155.00,-65.00,0.00,-155.00,73.00,0.00,160.00,72.00,0.00,160.00,-65.00,0.00" />
+    </CollisionData>
+</ImageCollisionData>

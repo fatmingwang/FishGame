@@ -1,0 +1,4 @@
+<!-- Author:OLINCA,Time:2013/5/21 ¤U¤È 01:52:38 -->
+<PuzzleImage OriginalNameSort="Line" ImageName="Line.png" Count="1" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="Line" UV="0,0,1,1" OffsetPos="0,0" Size="16,6" OriginalSize="16,6" ShowPosInPI="0,0" />
+</PuzzleImage>

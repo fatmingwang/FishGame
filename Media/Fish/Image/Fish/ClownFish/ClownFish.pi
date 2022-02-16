@@ -1,0 +1,37 @@
+<!-- Author:staric,Time:2013/2/19 ¤W¤È 09:03:25 -->
+<PuzzleImage OriginalNameSort="ClownFish_00000,ClownFish_00001,ClownFish_00002,ClownFish_00003,ClownFish_00004,ClownFish_00005,ClownFish_00006,ClownFish_00007,ClownFish_00008,ClownFish_00009,ClownFish_00010,ClownFish_00011,ClownFish_00012,ClownFish_00013,ClownFish_00014,ClownFish_00015,ClownFish_00016,ClownFish_00017,ClownFish_00018,ClownFish_00019,ClownFish_00020,ClownFish_00021,ClownFish_00022,ClownFish_00023,ClownFish_00024,ClownFish_00025,ClownFish_00026,ClownFish_00027,ClownFish_00028,ClownFish_00029,ClownFish_00030,ClownFish_00031,ClownFish_00032,ClownFish_00033" ImageName="ClownFish.png" Count="34" GeneratePuzzleimageUnit="0">
+    <PuzzleUnit Name="ClownFish_00000" UV="0,0,0.1230469,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="0,0" />
+    <PuzzleUnit Name="ClownFish_00001" UV="0.1269531,0,0.25,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="65,0" />
+    <PuzzleUnit Name="ClownFish_00002" UV="0.2539063,0,0.3769531,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="130,0" />
+    <PuzzleUnit Name="ClownFish_00003" UV="0.3808594,0,0.5039063,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="195,0" />
+    <PuzzleUnit Name="ClownFish_00004" UV="0.5078125,0,0.6308594,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="260,0" />
+    <PuzzleUnit Name="ClownFish_00005" UV="0.6347656,0,0.7578125,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="325,0" />
+    <PuzzleUnit Name="ClownFish_00006" UV="0.7617188,0,0.8847656,0.1074219" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="390,0" />
+    <PuzzleUnit Name="ClownFish_00007" UV="0,0.1113281,0.1230469,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="0,57" />
+    <PuzzleUnit Name="ClownFish_00008" UV="0.1269531,0.1113281,0.25,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="65,57" />
+    <PuzzleUnit Name="ClownFish_00009" UV="0.2539063,0.1113281,0.3769531,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="130,57" />
+    <PuzzleUnit Name="ClownFish_00010" UV="0.3808594,0.1113281,0.5039063,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="195,57" />
+    <PuzzleUnit Name="ClownFish_00011" UV="0.5078125,0.1113281,0.6308594,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="260,57" />
+    <PuzzleUnit Name="ClownFish_00012" UV="0.6347656,0.1113281,0.7578125,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="325,57" />
+    <PuzzleUnit Name="ClownFish_00013" UV="0.7617188,0.1113281,0.8847656,0.21875" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="390,57" />
+    <PuzzleUnit Name="ClownFish_00014" UV="0,0.2226563,0.1230469,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="0,114" />
+    <PuzzleUnit Name="ClownFish_00015" UV="0.1269531,0.2226563,0.25,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="65,114" />
+    <PuzzleUnit Name="ClownFish_00016" UV="0.2539063,0.2226563,0.3769531,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="130,114" />
+    <PuzzleUnit Name="ClownFish_00017" UV="0.3808594,0.2226563,0.5039063,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="195,114" />
+    <PuzzleUnit Name="ClownFish_00018" UV="0.5078125,0.2226563,0.6308594,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="260,114" />
+    <PuzzleUnit Name="ClownFish_00019" UV="0.6347656,0.2226563,0.7578125,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="325,114" />
+    <PuzzleUnit Name="ClownFish_00020" UV="0.7617188,0.2226563,0.8847656,0.3300781" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="390,114" />
+    <PuzzleUnit Name="ClownFish_00021" UV="0,0.3339844,0.1230469,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="0,171" />
+    <PuzzleUnit Name="ClownFish_00022" UV="0.1269531,0.3339844,0.25,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="65,171" />
+    <PuzzleUnit Name="ClownFish_00023" UV="0.2539063,0.3339844,0.3769531,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="130,171" />
+    <PuzzleUnit Name="ClownFish_00024" UV="0.3808594,0.3339844,0.5039063,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="195,171" />
+    <PuzzleUnit Name="ClownFish_00025" UV="0.5078125,0.3339844,0.6308594,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="260,171" />
+    <PuzzleUnit Name="ClownFish_00026" UV="0.6347656,0.3339844,0.7578125,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="325,171" />
+    <PuzzleUnit Name="ClownFish_00027" UV="0.7617188,0.3339844,0.8847656,0.4414063" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="390,171" />
+    <PuzzleUnit Name="ClownFish_00028" UV="0,0.4453125,0.1230469,0.5527344" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="0,228" />
+    <PuzzleUnit Name="ClownFish_00029" UV="0.1269531,0.4453125,0.25,0.5527344" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="65,228" />
+    <PuzzleUnit Name="ClownFish_00030" UV="0.2539063,0.4453125,0.3769531,0.5527344" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="130,228" />
+    <PuzzleUnit Name="ClownFish_00031" UV="0.3808594,0.4453125,0.5039063,0.5527344" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="195,228" />
+    <PuzzleUnit Name="ClownFish_00032" UV="0.5078125,0.4453125,0.6308594,0.5527344" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="260,228" />
+    <PuzzleUnit Name="ClownFish_00033" UV="0.6347656,0.4453125,0.7578125,0.5527344" OffsetPos="0,0" Size="63,55" OriginalSize="63,55" ShowPosInPI="325,228" />
+</PuzzleImage>
