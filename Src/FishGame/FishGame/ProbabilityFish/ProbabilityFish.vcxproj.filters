@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MasterLee">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="MasterLee\Data">
+      <UniqueIdentifier>{6fb0fe10-b31b-401b-9ca1-7a0c1941947f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MasterLee\Comport">
+      <UniqueIdentifier>{9ebc44c6-5989-41a6-9cef-37b212335e8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MasterLee\Comport\StartSingnal">
+      <UniqueIdentifier>{597f9689-9958-435a-bfdf-c492792ca7d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MasterLee\Comport\Thread">
+      <UniqueIdentifier>{04b32749-1a78-435a-a8e7-33e367b45fd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MasterLee\Comport\Base">
+      <UniqueIdentifier>{246fb935-6974-45cb-bcf5-5246b2ac0b2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BulletBank">
+      <UniqueIdentifier>{e4db50ef-6b83-4433-bea7-df6df05a7408}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProbbilityCard\Probability_MasterLee.cpp">
+      <Filter>MasterLee</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbbilityCard\ComportFishData.cpp">
+      <Filter>MasterLee\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbbilityCard\SerialIO_MasterLee.cpp">
+      <Filter>MasterLee\Comport</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbbilityCard\SendGameStartPacket.cpp">
+      <Filter>MasterLee\Comport\StartSingnal</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbbilityCard\SerialThread.cpp">
+      <Filter>MasterLee\Comport\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbbilityCard\SerialCtrl.cpp">
+      <Filter>MasterLee\Comport\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbbilityCard\SerialIOBase.cpp">
+      <Filter>MasterLee\Comport\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\BankFormat.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\BankMode.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\BankNegativeMode.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\BankPossitiveMode.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\BankRunner.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\BulletDataAndBankRepositorManager.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBank\FakeRevenue.cpp">
+      <Filter>BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="FileSaver.cpp">
+      <Filter>MasterLee</Filter>
+    </ClCompile>
+    <ClCompile Include="FishProbability.cpp">
+      <Filter>MasterLee</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>MasterLee</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ProbbilityCard\Probability_MasterLee.h">
+      <Filter>MasterLee</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbbilityCard\ComportFishData.h">
+      <Filter>MasterLee\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbbilityCard\SerialIO_MasterLee.h">
+      <Filter>MasterLee\Comport</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbbilityCard\SendGameStartPacket.h">
+      <Filter>MasterLee\Comport\StartSingnal</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbbilityCard\SerialThread.h">
+      <Filter>MasterLee\Comport\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbbilityCard\SerialIOBase.h">
+      <Filter>MasterLee\Comport\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\BankFormat.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\BankMode.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\BankNegativeMode.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\BankPossitiveMode.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\BankRunner.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\BulletDataAndBankRepositorManager.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBank\FakeRevenue.h">
+      <Filter>BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="FileSaver.h" />
+    <ClInclude Include="FishProbability.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+</Project>
