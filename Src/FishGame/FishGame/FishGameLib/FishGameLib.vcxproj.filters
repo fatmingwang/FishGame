@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{1793d794-cbf7-46cb-85e9-1fb0a327945f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameBullet">
+      <UniqueIdentifier>{e4e3ae95-2cf2-47cb-bbd1-35539eea1e39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameEffect">
+      <UniqueIdentifier>{b916bf7f-a343-43a9-a918-4dad5d11584f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\MiniGame">
+      <UniqueIdentifier>{697bca4c-5c78-4ff0-8b1b-684664bd18af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Monster">
+      <UniqueIdentifier>{5099fc9d-fe67-4be3-a3b8-d9dfee19d89f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\ControlPanel">
+      <UniqueIdentifier>{4bedf7d6-cda0-4a4e-8458-c3421829f320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\PlayerBehavior">
+      <UniqueIdentifier>{cb5fc11d-da1a-4f61-8146-c4bbdfa0ee48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\ProbabilityFish">
+      <UniqueIdentifier>{0540f3db-f146-4fa6-85b4-53f98c98addc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\FishDiedEffect.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\FishGroup.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\FishMultiCollision.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\FishNormal.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\Monster.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\MonsterGenerate.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster\MonsterManager.h">
+      <Filter>Game\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="GameBullet\Bullet.h">
+      <Filter>Game\GameBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="GameBullet\BulletData.h">
+      <Filter>Game\GameBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="GameBullet\BulletManager.h">
+      <Filter>Game\GameBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="GameBullet\BulletPlayer.h">
+      <Filter>Game\GameBullet</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\FishDiedEffect.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\FishGroup.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\FishMultiCollision.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\FishNormal.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\Monster.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\MonsterGenerate.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster\MonsterManager.cpp">
+      <Filter>Game\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBullet\Bullet.cpp">
+      <Filter>Game\GameBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBullet\BulletManager.cpp">
+      <Filter>Game\GameBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="GameBullet\BulletPlayer.cpp">
+      <Filter>Game\GameBullet</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

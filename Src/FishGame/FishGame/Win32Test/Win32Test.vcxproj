@@ -272,36 +272,8 @@
       <Project>{e063a3a9-93fd-4f7a-ad22-aa36a144b338}</Project>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="..\Bullet\Bullet.vcxproj">
-      <Project>{1924e53c-2608-4640-ad30-dc5c796eff68}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\ControlPanel\ControlPanel.vcxproj">
-      <Project>{af0e7859-3773-4e19-923e-38894c43973d}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
     <ProjectReference Include="..\GameBullet\GameBullet.vcxproj">
       <Project>{1924e53c-2608-4640-ad30-dc5c796eff68}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\GameEffect\GameEffect.vcxproj">
-      <Project>{734e67fe-4351-4b38-9af4-4ffc58af639b}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\MiniGame\MiniGame.vcxproj">
-      <Project>{befd3814-0ac0-4b4d-8c68-96831987687e}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\Monster\Monster.vcxproj">
-      <Project>{d653576b-9502-43ed-9998-e600b555c664}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\PlayerBehavior\PlayerBehavior.vcxproj">
-      <Project>{64a7bbc6-e1f0-45ae-a147-be8f5e3458a1}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\ProbabilityFish\ProbabilityFish.vcxproj">
-      <Project>{ee85b901-4ff3-430f-9f83-8631b27095a9}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
