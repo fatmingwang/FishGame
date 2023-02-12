@@ -1,11 +1,11 @@
 #include "stdafx.h"
 #include "Weapon.h"
-#include "../../Core/FMEvent/AllEventInclude.h"
 #include "../ControlPanel/ControlPanel.h"
 #include "../GameApp/GameApp.h"
-#include "../Bullet/BulletManager.h"
-#include "../Bullet/Bullet.h"
+#include "../GameBullet/BulletManager.h"
+#include "../GameBullet/Bullet.h"
 #include "PlayerData.h"
+#include "../FileNameDefine.h"
 
 
 cBulletFireStatus::cBulletFireStatus(TiXmlElement* e_pTiXmlElement,Frame*e_pPlayerFrame)
@@ -53,7 +53,7 @@ cBulletFireStatus::cBulletFireStatus(TiXmlElement* e_pTiXmlElement,Frame*e_pPlay
 	cPuzzleImage*l_pNumber = cGameApp::GetPuzzleImageByFileName((WCHAR*)PLAYER_NUMRIAL);
 	if(l_pNumber)
 	{
-		m_pLevelNumberImage = l_pNumber->GetNumerialImageByName(L"TubeLVNumerial0",L"TubeLVNumerial9");
+		m_pLevelNumberImage = l_pNumber->GetNumeralImageByName(L"TubeLVNumerial0",L"TubeLVNumerial9");
 	}
 	else
 	{
@@ -124,7 +124,7 @@ void	cBulletFireStatus::LevelCheck()
 	{
 		if(m_iCurrentLevel>=m_LevelRangeList[i].iStart&&m_iCurrentLevel<=m_LevelRangeList[i].iEnd)
 		{
-			m_iLevelRangeIndex = i;
+			m_iLevelRangeIndex = (int)i;
 			return;
 		}
 	}
@@ -306,8 +306,8 @@ void	cFishPlayerWeapon::CheckCurrentWeaponOffsetPos()
 		{
 			cPuzzleImageUnit*l_pPIUnit = l_p->pPI->GetObject(l_p->iImageIndex);
 			POINT	l_Pos = *l_pPIUnit->GetOffsetPos();
-			l_Pos.x	+= *l_pPIUnit->GetWidth();
-			l_Pos.y += *l_pPIUnit->GetHeight();
+			l_Pos.x	+= l_pPIUnit->GetWidth();
+			l_Pos.y += l_pPIUnit->GetHeight();
 			l_Pos.x /= 2;
 			l_Pos.y /= 2;
 			m_fTubeHeight = (float)l_Pos.y;

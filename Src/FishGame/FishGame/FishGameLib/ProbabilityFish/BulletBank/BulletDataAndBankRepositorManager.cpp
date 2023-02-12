@@ -1,14 +1,15 @@
-#include "../stdafx.h"
+#include "stdafx.h"
 #include "BulletDataAndBankRepositorManager.h"
 #include "BankFormat.h"
 #include "BankRunner.h"
-#include "../../Bullet/Bullet.h"
+#include "../../GameBullet/Bullet.h"
 #include "../../Monster/MonsterManager.h"
 #include "../../GameApp/GameApp.h"
-#include "../../GameApp/FileNameDefine.h"
+#include "../../FileNameDefine.h"
 #include "../../PlayerBehavior/PlayerData.h"
 #include "../FishProbability.h"
 #include "../../MiniGame/MiniGameManager.h"
+#include "../../ControlPanel/ControlPanel.h"
 
 int		g_iEasyDiedCount = 1;
 #ifdef DEBUG

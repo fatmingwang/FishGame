@@ -42,7 +42,7 @@ void	cGameEffectScoreWithCoin::sCoinSpinAnimationData::Update(float e_fElpaseTim
 	{
 		fCurrentTime -= l_fTimeGap;
 		++iCurrentIndex;
-		int	l_iSize = e_pAnimationData->size();
+		int	l_iSize = (int)e_pAnimationData->size();
 		if( iCurrentIndex >= l_iSize )
 			iCurrentIndex = 0;
 	}

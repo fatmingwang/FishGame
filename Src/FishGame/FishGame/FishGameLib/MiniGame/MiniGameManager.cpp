@@ -6,7 +6,7 @@
 #include "MiniGameActiverPowerUp.h"
 #include "../GameApp/GameApp.h"
 #include "../GameApp/SceneChange.h"
-#include "../GameApp/FileNameDefine.h"
+#include "../FileNameDefine.h"
 #include "../Monster/MonsterManager.h"
 #include "../PlayerBehavior/PlayerData.h"
 #include "../ProbabilityFish/FishProbability.h"

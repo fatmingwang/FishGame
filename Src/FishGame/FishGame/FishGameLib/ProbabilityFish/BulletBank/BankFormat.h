@@ -1,11 +1,4 @@
-
-
-
-
-
-
-#ifndef _BANK_FORMAT_H_
-#define _BANK_FORMAT_H_
+#pragma once
 
 #include "BankMode.h"
 //<Root>
@@ -51,5 +44,3 @@ public:
 	void	Update(float e_fElpaseTime);
 	void	DebugRender( int e_nPosX, int e_nPosY );
 };
-
-#endif

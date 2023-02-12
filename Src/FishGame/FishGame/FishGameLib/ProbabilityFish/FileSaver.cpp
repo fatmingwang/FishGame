@@ -4,6 +4,8 @@
 #include "../GameApp/TestLogSetup.h"
 #include "../PlayerBehavior/PlayerData.h"
 #include "FishProbability.h"
+#include "../ControlPanel/ControlPanel.h"
+#include "../FileNameDefine.h"
 cFileSaver::cFileSaver(const char*e_strPlayerFileName,const char*e_strStaticFileName)
 {
 	m_pPlayerMoneyLogFile = 0;
@@ -26,7 +28,8 @@ cFileSaver::cFileSaver(const char*e_strPlayerFileName,const char*e_strStaticFile
 	m_pi64LatestCoinIn = l_pLatestToastCoin->GetInt64();
 	m_pi64LatestCoinOut = l_pLatestRefundCoin->GetInt64();
 
-	m_WritePlayerMoneyTC.SetTargetTime( cGameApp::m_sbDeviceExist?0.05f:1.f );
+	//m_WritePlayerMoneyTC.SetTargetTime( cGameApp::m_sbDeviceExist?0.05f:1.f );
+	m_WritePlayerMoneyTC.SetTargetTime(1.f);
 #ifdef DEBUG
 	m_WritePlayerMoneyTC.SetTargetTime( 9 );
 #endif
@@ -137,7 +140,7 @@ void	cFileSaver::OpenPlayerFile(const char*e_strPlayerFileName)
 			//4*8=32
 			int	l_iPlayerCountSaved = (l_iSize-(6*sizeof(int64)))/(sizeof(int64)*2);
 			//avoid spuid guy open as text and save it.
-			byte*l_pData = (byte*)l_BinaryFile.GetDataFile(0);
+			unsigned char*l_pData = (unsigned char*)l_BinaryFile.GetDataFile(0);
 			*m_pi64LatestInMoney = l_BinaryFile.GetInt64(l_pData);l_pData += sizeof(int64);
 			*m_pi64LatestOutMoney = l_BinaryFile.GetInt64(l_pData);l_pData += sizeof(int64);
 			*m_pi64LatestRevenue = *m_pi64LatestInMoney-*m_pi64LatestOutMoney;
@@ -189,7 +192,8 @@ void	cFileSaver::OpenPlayerFile(const char*e_strPlayerFileName)
 	//m_pPlayerMoneyLogFile
 	SAFE_DELETE(m_pPlayerMoneyLogFile);
 	m_pPlayerMoneyLogFile = new cBinaryFile();
-	m_pPlayerMoneyLogFile->Writefile(PLAYER_MONEY_DATA,true,cGameApp::m_sbDeviceExist);
+	//m_pPlayerMoneyLogFile->Writefile(PLAYER_MONEY_DATA,true,cGameApp::m_sbDeviceExist);
+	m_pPlayerMoneyLogFile->Writefile(PLAYER_MONEY_DATA, true, false);
 	WrtiePlayerFile(99.f);
 }
 

@@ -1,12 +1,4 @@
-
-
-
-
-
-
-#ifndef _FAKE_REVENUE_H_
-#define _FAKE_REVENUE_H_
-
+#pragma once
 //fake money bank
 
 
@@ -38,5 +30,3 @@ struct	sFakeRevenue
 	//while bCurrentRoundFakeRevenueGet is active call this to get fake revenue
 	int		GetchFakeRevenue();
 };
-
-#endif

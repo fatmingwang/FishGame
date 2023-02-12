@@ -1,9 +1,10 @@
-#include "../stdafx.h"
+#include "stdafx.h"
 #include "BankMode.h"
 #include "../FishProbability.h"
 #include "../../GameApp/GameApp.h"
 #include "BankRunner.h"
 #include "BulletDataAndBankRepositorManager.h"
+#include "../../ControlPanel/ControlPanel.h"
 
 
 cBankMode::cBankMode(float e_pTargetProbability)

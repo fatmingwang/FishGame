@@ -1,9 +1,10 @@
-#include "../stdafx.h"
+#include "stdafx.h"
 #include "BankRunner.h"
 #include "BankPossitiveMode.h"
 #include "BankNegativeMode.h"
 #include "../FishProbability.h"
 #include "../../GameApp/GameApp.h"
+#include "../../ControlPanel/ControlPanel.h"
 
 
 cBankRunner::cBankRunner(TiXmlElement*e_pXmlElement)

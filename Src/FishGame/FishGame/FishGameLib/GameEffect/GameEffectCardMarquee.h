@@ -1,5 +1,4 @@
-#ifndef _GAME_EFFECT_MARQUEE_H_
-#define _GAME_EFFECT_MARQUEE_H_
+#pragma once
 
 
 enum	eQueueCardStatus
@@ -42,7 +41,7 @@ public:
 	cGameEffectPlayerCardMarquee(cPuzzleImage*e_pCardPI,int e_iMaximumCount,float e_fTimeToDestination,Vector3 e_vStartPos,Vector3 e_vDestination,float e_fHoldTime,int e_iViewCount,cMatrix44 e_matShowMatrix,cNumeralImage*e_pNumerialImage);
 	virtual ~cGameEffectPlayerCardMarquee();
 	void					Init();
-	void					AddData(WCHAR*e_strFishName,int e_iValueForShow);
+	void					AddData(const wchar_t*e_strFishName,int e_iValueForShow);
 	void					Update(float e_fElpaseTime);
 	void					Render();
 };
@@ -67,5 +66,3 @@ public:
 	virtual	void				Update(float e_fElpaseTime);
 };
 
-
-#endif

@@ -1,5 +1,4 @@
-#ifndef _MINI_GAME_BASE_H_
-#define _MINI_GAME_BASE_H_
+#pragma once
 
 class	cMonster;
 class	cPlayerBehaviorBase;
@@ -64,5 +63,3 @@ public:
 	int						ProcessMiniGameMonsterDataWithNewPrize();
 	void*					CloneExtraData(){ return 0; }	
 };
-
-#endif

@@ -1,9 +1,9 @@
 #include "stdafx.h"
 #include "PlayerData.h"
 #include <direct.h>
-#include "../Bullet/Bullet.h"
+#include "../GameBullet/Bullet.h"
 #include "../GameApp/GameApp.h"
-#include "../Bullet/BulletManager.h"
+#include "../GameBullet/BulletManager.h"
 #include "../MiniGame/MiniGameBase.h"
 #include "../Monster/MonsterManager.h"
 #include "../ProbabilityFish/FishProbability.h"
@@ -12,6 +12,7 @@
 #include "WinMoneyEffect.h"
 #include "Weapon.h"
 #include "../GameEffect/GameEffectBase.h"
+#include "../FileNameDefine.h"
 
 cPlayerData::cPlayerData( TiXmlElement*e_pElement )
 {
@@ -63,11 +64,11 @@ cPlayerData::~cPlayerData()
 
 
 
-void cPlayerData::AddScore( cMonster* Fish, int Money )
+void cPlayerData::AddScore( cMonster* e_pFish, int Money )
 {	
 	m_i64Score += Money;
 
-	if ( !Fish )
+	if ( !e_pFish)
 		return;
 
 	//CoinStack
@@ -76,7 +77,7 @@ void cPlayerData::AddScore( cMonster* Fish, int Money )
 	//	CoinStackPushData TempCoinStackData;
 
 	//	TempCoinStackData.Money      = Money;
-	//	TempCoinStackData.FishID     = Fish->GetID();
+	//	TempCoinStackData.e_pFishID     = e_pFish->GetID();
 	//	TempCoinStackData.PosRot	 = GetPlayerRotation().z;
 	//	TempCoinStackData.ShowMatrix = cMatrix44::TranslationMatrix( GetPlayerPosition() ) * cMatrix44::RotationMatrix( GetPlayerRotation() );
 
@@ -89,42 +90,43 @@ void cPlayerData::AddScore( cMonster* Fish, int Money )
 	{
 		if(Money>=m_CoinRangeList[i].iStart&&Money<=m_CoinRangeList[i].iEnd)
 		{
-			m_iCoinRangeIndex = i;
+			m_iCoinRangeIndex = (int)i;
 			break;
 		}
 	}
 
-	WCHAR* CoinEffectName; 
+	const wchar_t* l_strCoinEffectName = nullptr;
 
 	eWinMoneyEffectCoinCount l_eWinMoneyEffectCoinCount;
 
 	if( m_iCoinRangeIndex == 0 )
 	{
-		CoinEffectName = L"SilverCoin";
+		l_strCoinEffectName = L"SilverCoin";
 		l_eWinMoneyEffectCoinCount = eWinMoneyEffectCoinCount_Triple;
 	}
 	else if(m_iCoinRangeIndex == 1)
 	{
-		CoinEffectName = L"SilverCoin";
+		l_strCoinEffectName = L"SilverCoin";
 		l_eWinMoneyEffectCoinCount = eWinMoneyEffectCoinCount_Penta;
 	}
 	else if(m_iCoinRangeIndex == 2)
 	{
-		CoinEffectName = L"GoldCoin";
+		l_strCoinEffectName = L"GoldCoin";
 		l_eWinMoneyEffectCoinCount = eWinMoneyEffectCoinCount_Triple;
 	}
 	else if(m_iCoinRangeIndex == 3)
 	{
-		CoinEffectName = L"GoldCoin";
+		l_strCoinEffectName = L"GoldCoin";
 		l_eWinMoneyEffectCoinCount = eWinMoneyEffectCoinCount_Penta;
 	}
+	auto l_Mat = cMatrix44::TranslationMatrix(e_pFish->GetCenterPos())* cMatrix44::RotationMatrix(m_vPlayerRot);
 
-	cFishApp::m_spWinMoneyEffectManager->RequireWinMoneyEffectBase( CoinEffectName, cMatrix44::TranslationMatrix( Fish->GetCenterPos() ) * cMatrix44::RotationMatrix( m_vPlayerRot ), Money, this, l_eWinMoneyEffectCoinCount );
+	cFishApp::m_spWinMoneyEffectManager->RequireWinMoneyEffectBase(l_strCoinEffectName, l_Mat,Money, this, l_eWinMoneyEffectCoinCount );
 
 	sGameEffectInputData	l_GameEffectInputData;
 	l_GameEffectInputData.iPlayerID = this->m_iPlayerID;
-	l_GameEffectInputData.strMonstrName = (WCHAR*)Fish->GetName();
-	l_GameEffectInputData.ShowMatrix = Fish->GetTransform();
+	l_GameEffectInputData.strMonstrName = e_pFish->GetName();
+	l_GameEffectInputData.ShowMatrix = e_pFish->GetTransform();
 	l_GameEffectInputData.iValue = Money;
 
 	cFishApp::m_spGameEffectManager->RequirePrizeEffect(L"cGameEffectCardMarqueeManager",(void*)&l_GameEffectInputData,false);
@@ -379,8 +381,9 @@ void cPlayerData::InternalUpdate( float e_fElpaseTime )
 {
 	//if ( m_pCoinStackEffect )
 	//	m_pCoinStackEffect->Update( e_fElpaseTime );
-
-	if(!g_pIOSMDriverInterface->IsIOError())
+	
+	//if(!g_pIOSMDriverInterface->IsIOError())
+	if (1)
 	{
 		if(!cFishApp::m_spProbabilityFish->IsMasterLeeIOError() && m_i64Score <=9999999 && !m_bCoinNotEnough && !cFishApp::m_spControlPanel->m_bShowReportTipImage)
 		{
@@ -452,7 +455,8 @@ void	cPlayerData::KeyUpdate(float e_fElpaseTime)
 
 	m_FireClick.SingnalProcess();
 	m_FireClick.Update(e_fElpaseTime);
-	if( m_FireClick.IsSatisfiedCondition() && !g_pIOSMDriverInterface->IsIOError() )
+	//if( m_FireClick.IsSatisfiedCondition() && !g_pIOSMDriverInterface->IsIOError() )
+	if (m_FireClick.IsSatisfiedCondition())
 	{
 		m_FireClick.Init();
 		if( m_i64Score >= m_iMinScoreBet )

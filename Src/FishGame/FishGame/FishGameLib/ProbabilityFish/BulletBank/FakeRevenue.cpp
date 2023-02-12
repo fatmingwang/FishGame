@@ -1,6 +1,7 @@
-#include "../stdafx.h"
+#include "stdafx.h"
 #include "FakeRevenue.h"
 #include "../../GameApp/GameApp.h"
+#include "../../ControlPanel/ControlPanel.h"
 //fake money bank
 
 sFakeRevenue::sFakeRevenue()

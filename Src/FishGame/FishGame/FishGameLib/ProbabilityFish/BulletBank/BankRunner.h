@@ -1,11 +1,4 @@
-
-
-
-
-
-
-#ifndef _cBankRunner_H_
-#define _cBankRunner_H_
+#pragma once
 
 class	cBankMode;
 class	cPossitiveBankMode;
@@ -44,5 +37,3 @@ public:
 	Vector2	GetTargetPercentValueRange(){return m_vTargetPercentValueRange;}
 	bool	IsLeastMoneyOk(int64 e_i64Money);
 };
-
-#endif

@@ -3,11 +3,12 @@
 #include "CoinEffect.h"
 #include "PrizeEffect.h"
 #include "WinMoneyEffect.h"
+#include "../FileNameDefine.h"
 
 struct WinMoneyEffectConfigData
 {
-	const WCHAR*			EffectName;
-	const WCHAR*			EffectType;
+	const wchar_t*			EffectName;
+	const wchar_t*			EffectType;
 	WinMoneyEffectMPDIData  MPDIData;
 };
 
@@ -62,8 +63,6 @@ void cWinMoneyEffectManager::LoadWinMoneyEffectXMLData()
 		TO_NEXT_VALUE
 
 		std::vector< WinMoneyEffectConfigData > TotalWinMoneyEffectInfo;
-
-		TotalWinMoneyEffectInfo.empty();
 
 		TempWinMoneyEffectConfig = TempWinMoneyEffectConfig->FirstChildElement();
 
@@ -154,7 +153,7 @@ void cWinMoneyEffectManager::LoadWinMoneyEffectXMLData()
 	}	
 }
 
-cWinMoneyEffectBase* cWinMoneyEffectManager::RequirePrizeEffect( const WCHAR* EffectTypeName, cMatrix44 AniMatrix, int Money, cPlayerData* pPlayer, bool e_bForceRequire )
+cWinMoneyEffectBase* cWinMoneyEffectManager::RequirePrizeEffect(const wchar_t* EffectTypeName, cMatrix44 AniMatrix, int Money, cPlayerData* pPlayer, bool e_bForceRequire )
 {
 	if ( !pPlayer )
 		return NULL;
@@ -202,7 +201,7 @@ cWinMoneyEffectBase* cWinMoneyEffectManager::RequirePrizeEffect( const WCHAR* Ef
 	return NULL;	
 }
 
-cWinMoneyEffectBase* cWinMoneyEffectManager::RequireWinMoneyEffectBase( const WCHAR* EffectTypeName, cMatrix44& AniMatrix, int Money, cPlayerData* pPlayer, eWinMoneyEffectCoinCount MoneyCount, bool e_bForceRequire )
+cWinMoneyEffectBase* cWinMoneyEffectManager::RequireWinMoneyEffectBase(const wchar_t* EffectTypeName, cMatrix44& AniMatrix, int Money, cPlayerData* pPlayer, eWinMoneyEffectCoinCount MoneyCount, bool e_bForceRequire )
 {
 	if ( ( MoneyCount >= eWinMoneyEffectCoinCount_Max ) || !pPlayer )
 		return NULL;

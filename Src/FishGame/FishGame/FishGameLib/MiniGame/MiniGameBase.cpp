@@ -116,12 +116,12 @@ cMiniGameActiverBase::cMiniGameActiverBase(TiXmlElement*e_pXMLElement)
 		PARSE_ELEMENT_START(l_pPrizeWithProbabilityXMLElement)
 			COMPARE_NAME("Prize")
 			{
-				m_PrizeWithProbabilityVector.ValueVector = GetValueListByCommaDivide<int>(l_strValue);
+				m_PrizeWithProbabilityVector.m_ValueVector = GetValueListByCommaDivide<int>(l_strValue);
 			}
 			else
 			COMPARE_NAME("Probability")
 			{
-				m_PrizeWithProbabilityVector.ProbabilityVector = GetValueListByCommaDivide<int>(l_strValue);
+				m_PrizeWithProbabilityVector.m_ProbabilityVector = GetValueListByCommaDivide<int>(l_strValue);
 			}
 		PARSE_NAME_VALUE_END
 	}

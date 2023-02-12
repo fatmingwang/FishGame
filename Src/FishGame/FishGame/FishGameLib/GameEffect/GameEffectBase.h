@@ -1,5 +1,4 @@
-#ifndef _FISH_PRIZE_EFFECT_H_
-#define _FISH_PRIZE_EFFECT_H_
+#pragma once
 
 ////
 ////the start condition for inherit class to implement
@@ -27,11 +26,11 @@ public:
 
 struct	sGameEffectInputData
 {
-	int			iPlayerID;
-	cMatrix44	ShowMatrix;
-	cMatrix44	DestinationMatrix;
-	int			iValue;
-	WCHAR*		strMonstrName;
+	int				iPlayerID;
+	cMatrix44		ShowMatrix;
+	cMatrix44		DestinationMatrix;
+	int				iValue;
+	const wchar_t*	strMonstrName;
 };
 
 typedef cGameEffectBase*    (*GameEffectParseFunction)(TiXmlElement*e_pElement);
@@ -59,5 +58,3 @@ public:
 	void Render();
 	void Update( float ElapseTime );
 };
-
-#endif

@@ -1,5 +1,4 @@
-#ifndef _MINI_GAME_ACTIVER_ALL_FISH_FREEZE_H_
-#define _MINI_GAME_ACTIVER_ALL_FISH_FREEZE_H_
+#pragma once
 
 #include "MiniGameBase.h"
 
@@ -14,5 +13,3 @@ public:
 	virtual	void			Init();
 	virtual	void			Update(float e_fElpaseTime);
 };
-
-#endif

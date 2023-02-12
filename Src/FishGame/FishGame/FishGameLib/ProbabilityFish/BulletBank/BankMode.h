@@ -1,11 +1,4 @@
-
-
-
-
-
-
-#ifndef _BANK_MODE_H_
-#define _BANK_MODE_H_
+#pragma once
 //
 #include "FakeRevenue.h"
 //
@@ -57,5 +50,3 @@ public:
 	virtual	void	DebugRender( int e_iPosX,int e_iPosY ) = 0;
 	virtual	bool	IsFakeMoneyEnoughToPay(int e_iMoney){ return false; }
 };
-
-#endif

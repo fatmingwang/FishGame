@@ -24,8 +24,8 @@ public:
 	cWinMoneyEffectManager();
 	virtual ~cWinMoneyEffectManager();
 
-	cWinMoneyEffectBase* RequirePrizeEffect( const WCHAR* EffectTypeName, cMatrix44 AniMatrix, int Money, cPlayerData* pPlayer, bool e_bForceRequire = false );
-	cWinMoneyEffectBase* RequireWinMoneyEffectBase( const WCHAR* EffectTypeName, cMatrix44& AniMatrix, int Money, cPlayerData* pPlayer, eWinMoneyEffectCoinCount MoneyCount, bool e_bForceRequire = false );
+	cWinMoneyEffectBase* RequirePrizeEffect( const wchar_t* EffectTypeName, cMatrix44 AniMatrix, int Money, cPlayerData* pPlayer, bool e_bForceRequire = false );
+	cWinMoneyEffectBase* RequireWinMoneyEffectBase(const wchar_t* EffectTypeName, cMatrix44& AniMatrix, int Money, cPlayerData* pPlayer, eWinMoneyEffectCoinCount MoneyCount, bool e_bForceRequire = false );
 
 	void Init();
 	void Render();

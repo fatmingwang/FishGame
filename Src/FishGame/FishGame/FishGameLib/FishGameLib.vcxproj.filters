@@ -33,6 +33,9 @@
     <Filter Include="Game\ProbabilityFish">
       <UniqueIdentifier>{0540f3db-f146-4fa6-85b4-53f98c98addc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Game\ProbabilityFish\BulletBank">
+      <UniqueIdentifier>{b608d880-317b-4f82-9bec-1e01a5e05d09}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -71,6 +74,93 @@
     <ClInclude Include="GameBullet\BulletPlayer.h">
       <Filter>Game\GameBullet</Filter>
     </ClInclude>
+    <ClInclude Include="GameEffect\AllGameEffectInclude.h">
+      <Filter>Game\GameEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEffect\GameEffectBase.h">
+      <Filter>Game\GameEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEffect\GameEffectCardMarquee.h">
+      <Filter>Game\GameEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEffect\GameEffectScoreWithCoin.h">
+      <Filter>Game\GameEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame\MiniGameActiverAllFishesFreeze.h">
+      <Filter>Game\MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame\MiniGameActiverAreaBomb.h">
+      <Filter>Game\MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame\MiniGameActiverFullScreenBomb.h">
+      <Filter>Game\MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame\MiniGameActiverPowerUp.h">
+      <Filter>Game\MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame\MiniGameBase.h">
+      <Filter>Game\MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame\MiniGameManager.h">
+      <Filter>Game\MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\CoinEffect.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\CoinStack.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\CoinStackEffect.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\PlayerBehaviorBase.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\PlayerData.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\PrizeEffect.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\SingleCoinEffectAnimation.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\Weapon.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\WinMoneyEffect.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBehavior\WinMoneyEffectBase.h">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\FileSaver.h">
+      <Filter>Game\ProbabilityFish</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\FishProbability.h">
+      <Filter>Game\ProbabilityFish</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\BankFormat.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\BankMode.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\BankNegativeMode.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\BankPossitiveMode.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\BankRunner.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\BulletDataAndBankRepositorManager.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
+    <ClInclude Include="ProbabilityFish\BulletBank\FakeRevenue.h">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -105,6 +195,93 @@
     </ClCompile>
     <ClCompile Include="GameBullet\BulletPlayer.cpp">
       <Filter>Game\GameBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEffect\GameEffectBase.cpp">
+      <Filter>Game\GameEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEffect\GameEffectCardMarquee.cpp">
+      <Filter>Game\GameEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEffect\GameEffectDataParse.cpp">
+      <Filter>Game\GameEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEffect\GameEffectScoreWithCoin.cpp">
+      <Filter>Game\GameEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGame\MiniGameActiverAllFishesFreeze.cpp">
+      <Filter>Game\MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGame\MiniGameActiverAreaBomb.cpp">
+      <Filter>Game\MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGame\MiniGameActiverFullScreenBomb.cpp">
+      <Filter>Game\MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGame\MiniGameActiverPowerUp.cpp">
+      <Filter>Game\MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGame\MiniGameBase.cpp">
+      <Filter>Game\MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGame\MiniGameManager.cpp">
+      <Filter>Game\MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\CoinEffect.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\CoinStack.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\CoinStackEffect.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\PlayerBehaviorBase.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\PlayerData.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\PrizeEffect.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\SingleCoinEffectAnimation.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\Weapon.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\WinMoneyEffect.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBehavior\WinMoneyEffectBase.cpp">
+      <Filter>Game\PlayerBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\FileSaver.cpp">
+      <Filter>Game\ProbabilityFish</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\FishProbability.cpp">
+      <Filter>Game\ProbabilityFish</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\BankFormat.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\BankMode.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\BankNegativeMode.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\BankPossitiveMode.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\BankRunner.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\BulletDataAndBankRepositorManager.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ProbabilityFish\BulletBank\FakeRevenue.cpp">
+      <Filter>Game\ProbabilityFish\BulletBank</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,19 +1,17 @@
 #include "stdafx.h"
 #include "FishProbability.h"
 #include "BulletBank/BankMode.h"
-#include "ProbbilityCard/Probability_MasterLee.h"
-#include "ProbbilityCard/ComportFishData.h"
 #include "FileSaver.h"
-#include "ProbbilityCard/SerialIO_MasterLee.h"
-#include "ProbbilityCard/SerialThread.h"
 #include "BulletBank/BulletDataAndBankRepositorManager.h"
 #include "../GameApp/TestLogSetup.h"
 #include "../GameApp/GameApp.h"
 #include "../Monster/MonsterManager.h"
-#include "../Bullet/Bullet.h"
+#include "../GameBullet/Bullet.h"
 #include "../PlayerBehavior/PlayerData.h"
 #include "../PlayerBehavior/PlayerData.h"
 #include "../MiniGame/MiniGameManager.h"
+#include "../ControlPanel/ControlPanel.h"
+#include "../FileNameDefine.h"
 
 cProbabilityFish::cProbabilityFish()
 {
@@ -24,7 +22,7 @@ cProbabilityFish::cProbabilityFish()
 	m_pMPDI_MasterLeeIOErrorMessage = 0;
 	m_fSafeToGiveProbabilityOffset = 0.01f;
 	//
-	m_pProbability_MasterLee = 0;
+	//m_pProbability_MasterLee = 0;
 	m_pFileSaver = 0;
 
 	cEventVariable*l_pLatestIncome =		cFishApp::m_spControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"Latest_TotalIncome");
@@ -50,7 +48,7 @@ cProbabilityFish::~cProbabilityFish()
 {
 	SAFE_DELETE(m_pBulletData);
 	SAFE_DELETE(m_pFileSaver);
-	SAFE_DELETE( m_pProbability_MasterLee );
+	//SAFE_DELETE( m_pProbability_MasterLee );
 	SAFE_DELETE( m_pMPDI_MasterLeeIOErrorMessage );
 
 }
@@ -62,47 +60,47 @@ bool	cProbabilityFish::MyParse( TiXmlElement *e_pRoot )
 	while( e_pRoot )
 	{
 		l_strName = e_pRoot->Value();
-		COMPARE_NAME("MasterLi")
-		{
-			cFishApp::m_sbIsUsingMasterLeeProbability = true;
-			PARSE_ELEMENT_START(e_pRoot)
-				COMPARE_NAME("WriteLog")
-				{
-					cSerialIO_MasterLee::m_sbWriteLog = VALUE_TO_BOOLEAN;
-				}
-				else
-				COMPARE_NAME("WriteErrorLog")
-				{
-					cSerialIO_MasterLee::m_sbWriteErrorLog = VALUE_TO_BOOLEAN;
-				}
-				else
-				COMPARE_NAME("COM")
-				{
-					cSerialIO_MasterLee::m_siCom = VALUE_TO_INT;
-				}
-				else
-				COMPARE_NAME("Timeout")
-				{
-					cSerialIO_MasterLee::m_sfTimeOut = VALUE_TO_FLOAT;
-				}
-				else
-				COMPARE_NAME("ComportIOTimeOutError")
-				{
-					cSerialIO_MasterLee::m_sfComportIOTimeOutError = VALUE_TO_FLOAT;
-				}
-				else
-				COMPARE_NAME("SendStartSingnal")
-				{
-					cSerialIO_MasterLee::m_sbReceiveStartSingnal = VALUE_TO_BOOLEAN;
-				}
-				else
-				COMPARE_NAME("SingranlProcessGap")
-				{
-					cSerialThread::m_sfTargetTimeToWrite = VALUE_TO_FLOAT;
-				}
-				
-			PARSE_NAME_VALUE_END
-		}
+		//COMPARE_NAME("MasterLi")
+		//{
+		//	cFishApp::m_sbIsUsingMasterLeeProbability = true;
+		//	PARSE_ELEMENT_START(e_pRoot)
+		//		COMPARE_NAME("WriteLog")
+		//		{
+		//			cSerialIO_MasterLee::m_sbWriteLog = VALUE_TO_BOOLEAN;
+		//		}
+		//		else
+		//		COMPARE_NAME("WriteErrorLog")
+		//		{
+		//			cSerialIO_MasterLee::m_sbWriteErrorLog = VALUE_TO_BOOLEAN;
+		//		}
+		//		else
+		//		COMPARE_NAME("COM")
+		//		{
+		//			cSerialIO_MasterLee::m_siCom = VALUE_TO_INT;
+		//		}
+		//		else
+		//		COMPARE_NAME("Timeout")
+		//		{
+		//			cSerialIO_MasterLee::m_sfTimeOut = VALUE_TO_FLOAT;
+		//		}
+		//		else
+		//		COMPARE_NAME("ComportIOTimeOutError")
+		//		{
+		//			cSerialIO_MasterLee::m_sfComportIOTimeOutError = VALUE_TO_FLOAT;
+		//		}
+		//		else
+		//		COMPARE_NAME("SendStartSingnal")
+		//		{
+		//			cSerialIO_MasterLee::m_sbReceiveStartSingnal = VALUE_TO_BOOLEAN;
+		//		}
+		//		else
+		//		COMPARE_NAME("SingranlProcessGap")
+		//		{
+		//			cSerialThread::m_sfTargetTimeToWrite = VALUE_TO_FLOAT;
+		//		}
+		//		
+		//	PARSE_NAME_VALUE_END
+		//}
 		e_pRoot = e_pRoot->NextSiblingElement();
 	}
 	return true;
@@ -120,12 +118,12 @@ void	cProbabilityFish::Init()
 		UT::ErrorMsg(L"FISH_PROBABILITY",L"parse failed");
 	}
 	//
-	if( cFishApp::m_sbIsUsingMasterLeeProbability )
-	{
-		SAFE_DELETE( m_pProbability_MasterLee );
-		m_pProbability_MasterLee = new cProbability_MasterLee();
-		m_pProbability_MasterLee->Initial();
-	}
+	//if( cFishApp::m_sbIsUsingMasterLeeProbability )
+	//{
+	//	SAFE_DELETE( m_pProbability_MasterLee );
+	//	m_pProbability_MasterLee = new cProbability_MasterLee();
+	//	m_pProbability_MasterLee->Initial();
+	//}
 
 	//Show IO Message
 	cMPDIList*	l_pMessageMPDIList = cGameApp::GetMPDIListByFileName( MESSAGE_MPDILIST );
@@ -141,10 +139,10 @@ void	cProbabilityFish::Update(float e_fElpaseTime)
 	m_fMachinRunTime += e_fElpaseTime;
 	if( cFishApp::m_spMonsterManager)
 	{
-		if( cFishApp::m_sbIsUsingMasterLeeProbability )
-		{
-			m_pProbability_MasterLee->Update( e_fElpaseTime );
-		}
+		//if( cFishApp::m_sbIsUsingMasterLeeProbability )
+		//{
+		//	m_pProbability_MasterLee->Update( e_fElpaseTime );
+		//}
 	}
 	if( m_pBulletData )
 		m_pBulletData->Update( e_fElpaseTime );
@@ -350,8 +348,8 @@ Vector3		cProbabilityFish::GetRandomPos( float e_fRadius )
 {
 	sMinMaxData<float>	l_fPosX;
 	sMinMaxData<float>	l_fPosY;
-	l_fPosX.Max = cGameApp::m_svGameResolution.x;		l_fPosX.Min = 0.f;
-	l_fPosY.Max = cGameApp::m_svGameResolution.y;		l_fPosY.Min = 0.f;
+	l_fPosX.Max = cGameApp::m_spOpenGLRender->m_vGameResolution.x;		l_fPosX.Min = 0.f;
+	l_fPosY.Max = cGameApp::m_spOpenGLRender->m_vGameResolution.y;		l_fPosY.Min = 0.f;
 	//
 	++g_suiDirection ;
 	//
@@ -373,12 +371,12 @@ Vector3		cProbabilityFish::GetRandomPos( float e_fRadius )
 		l_vPos.y = -e_fRadius;
 		break;
 	case 2://eD_RIGHT:
-		l_vPos.x = cGameApp::m_svGameResolution.x+e_fRadius;
+		l_vPos.x = cGameApp::m_spOpenGLRender->m_vGameResolution.x+e_fRadius;
 		l_vPos.y = l_fPosY.Rand();
 		break;
 	case 3://eD_DOWN:
 		l_vPos.x = l_fPosX.Rand();
-		l_vPos.y = cGameApp::m_svGameResolution.y+e_fRadius;
+		l_vPos.y = cGameApp::m_spOpenGLRender->m_vGameResolution.y+e_fRadius;
 		break;
 	} //end switch
 	l_vPos.z = 0.f;

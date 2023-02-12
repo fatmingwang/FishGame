@@ -1,5 +1,4 @@
-#ifndef _MINIGAME_MANAGER_H_
-#define _MINIGAME_MANAGER_H_
+#pragma once
 
 #include "MiniGameBase.h"
 
@@ -52,5 +51,3 @@ public:
 
 	cMiniGameActiverBase*		RequireMiniGameActiverBase( const WCHAR* e_strName,int e_iPayRate,int e_iMoney,cPlayerBehaviorBase*e_pPlayer,cMonster*e_pMonster);
 };
-
-#endif

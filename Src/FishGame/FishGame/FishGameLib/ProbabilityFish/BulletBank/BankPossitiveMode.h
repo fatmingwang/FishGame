@@ -1,11 +1,4 @@
-
-
-
-
-
-
-#ifndef _cPossitiveBankMode_H_
-#define _cPossitiveBankMode_H_
+#pragma once
 
 #include "BankMode.h"
 
@@ -33,5 +26,3 @@ public:
 	virtual	void	DebugRender( int e_iPosX,int e_iPosY );
 	virtual	bool	IsFakeMoneyEnoughToPay(int e_iMoney);
 };
-
-#endif

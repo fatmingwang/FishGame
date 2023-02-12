@@ -1,5 +1,4 @@
-#ifndef _MINI_GAME_ACTIVER_POWER_UP_H_
-#define _MINI_GAME_ACTIVER_POWER_UP_H_
+#pragma once
 
 #include "MiniGameBase.h"
 
@@ -16,5 +15,3 @@ public:
 	virtual	void			Update(float e_fElpaseTime);
 	virtual	void			Render();
 };
-
-#endif

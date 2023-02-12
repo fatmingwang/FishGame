@@ -1,7 +1,4 @@
-#ifndef _ALL_GAME_EFFECT_INCLUDE_H_
-#define _ALL_GAME_EFFECT_INCLUDE_H_
+#pragma once
 
 #include "GameEffectBase.h"
 //#include "GameEffectCardMarquee.h"
-
-#endif

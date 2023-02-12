@@ -1,11 +1,4 @@
-
-
-
-
-
-
-#ifndef _cNegativeBankMode_H_
-#define _cNegativeBankMode_H_
+#pragma once
 
 #include "BankMode.h"
 
@@ -39,5 +32,3 @@ public:
 	bool			IsMoneyOutOk(int e_iMoney,int e_iPayRate);
 	virtual	void	DebugRender( int e_iPosX,int e_iPosY );
 };
-
-#endif

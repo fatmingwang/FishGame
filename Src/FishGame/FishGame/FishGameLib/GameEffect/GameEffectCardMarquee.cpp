@@ -111,7 +111,7 @@ void	cGameEffectPlayerCardMarquee::Init()
 	m_MoveTC.Start();
 	m_AfterMoveHoldTime.Start();
 }
-void	cGameEffectPlayerCardMarquee::AddData(WCHAR*e_strFishName,int e_iValueForShow)
+void	cGameEffectPlayerCardMarquee::AddData(const wchar_t*e_strFishName,int e_iValueForShow)
 {
 	int	l_iSize = (int)m_CardDataList.size();
 	if( l_iSize < m_iMaximumCount )

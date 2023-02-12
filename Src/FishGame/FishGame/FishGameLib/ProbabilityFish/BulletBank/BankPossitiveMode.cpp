@@ -1,7 +1,8 @@
-#include "../stdafx.h"
+#include "stdafx.h"
 #include "BankPossitiveMode.h"
 #include "../FishProbability.h"
 #include "../../GameApp/GameApp.h"
+#include "../../ControlPanel/ControlPanel.h"
 #include "BankRunner.h"
 
 cPossitiveBankMode::cPossitiveBankMode(float e_pTargetProbability)

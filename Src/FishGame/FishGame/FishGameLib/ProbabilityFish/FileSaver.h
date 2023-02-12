@@ -1,5 +1,4 @@
-#ifndef _FILE_SAVER_H_
-#define _FILE_SAVER_H_
+#pragma once
 
 class	cFileSaver
 {
@@ -28,5 +27,3 @@ public:
 	void					RevenueAdd( int e_iMoney, int e_iPlayerID );
 	void					ClearLatestRecord(bool e_bClearPlayerMoney);
 };
-
-#endif

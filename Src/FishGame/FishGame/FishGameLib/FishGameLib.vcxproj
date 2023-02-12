@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{3e50106f-529f-435f-a2ec-11918c3c8b40}</ProjectGuid>
+    <RootNamespace>FishGameLib</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>
+      </SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>
+      </SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>
+      </SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>
+      </SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="GameBullet\Bullet.h" />
+    <ClInclude Include="GameBullet\BulletData.h" />
+    <ClInclude Include="GameBullet\BulletManager.h" />
+    <ClInclude Include="GameBullet\BulletPlayer.h" />
+    <ClInclude Include="GameEffect\AllGameEffectInclude.h" />
+    <ClInclude Include="GameEffect\GameEffectBase.h" />
+    <ClInclude Include="GameEffect\GameEffectCardMarquee.h" />
+    <ClInclude Include="GameEffect\GameEffectScoreWithCoin.h" />
+    <ClInclude Include="MiniGame\MiniGameActiverAllFishesFreeze.h" />
+    <ClInclude Include="MiniGame\MiniGameActiverAreaBomb.h" />
+    <ClInclude Include="MiniGame\MiniGameActiverFullScreenBomb.h" />
+    <ClInclude Include="MiniGame\MiniGameActiverPowerUp.h" />
+    <ClInclude Include="MiniGame\MiniGameBase.h" />
+    <ClInclude Include="MiniGame\MiniGameManager.h" />
+    <ClInclude Include="Monster\FishDiedEffect.h" />
+    <ClInclude Include="Monster\FishGroup.h" />
+    <ClInclude Include="Monster\FishMultiCollision.h" />
+    <ClInclude Include="Monster\FishNormal.h" />
+    <ClInclude Include="Monster\Monster.h" />
+    <ClInclude Include="Monster\MonsterGenerate.h" />
+    <ClInclude Include="Monster\MonsterManager.h" />
+    <ClInclude Include="PlayerBehavior\CoinEffect.h" />
+    <ClInclude Include="PlayerBehavior\CoinStack.h" />
+    <ClInclude Include="PlayerBehavior\CoinStackEffect.h" />
+    <ClInclude Include="PlayerBehavior\PlayerBehaviorBase.h" />
+    <ClInclude Include="PlayerBehavior\PlayerData.h" />
+    <ClInclude Include="PlayerBehavior\PrizeEffect.h" />
+    <ClInclude Include="PlayerBehavior\SingleCoinEffectAnimation.h" />
+    <ClInclude Include="PlayerBehavior\Weapon.h" />
+    <ClInclude Include="PlayerBehavior\WinMoneyEffect.h" />
+    <ClInclude Include="PlayerBehavior\WinMoneyEffectBase.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\BankFormat.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\BankMode.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\BankNegativeMode.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\BankPossitiveMode.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\BankRunner.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\BulletDataAndBankRepositorManager.h" />
+    <ClInclude Include="ProbabilityFish\BulletBank\FakeRevenue.h" />
+    <ClInclude Include="ProbabilityFish\FileSaver.h" />
+    <ClInclude Include="ProbabilityFish\FishProbability.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameBullet\Bullet.cpp" />
+    <ClCompile Include="GameBullet\BulletManager.cpp" />
+    <ClCompile Include="GameBullet\BulletPlayer.cpp" />
+    <ClCompile Include="GameEffect\GameEffectBase.cpp" />
+    <ClCompile Include="GameEffect\GameEffectCardMarquee.cpp" />
+    <ClCompile Include="GameEffect\GameEffectDataParse.cpp" />
+    <ClCompile Include="GameEffect\GameEffectScoreWithCoin.cpp" />
+    <ClCompile Include="MiniGame\MiniGameActiverAllFishesFreeze.cpp" />
+    <ClCompile Include="MiniGame\MiniGameActiverAreaBomb.cpp" />
+    <ClCompile Include="MiniGame\MiniGameActiverFullScreenBomb.cpp" />
+    <ClCompile Include="MiniGame\MiniGameActiverPowerUp.cpp" />
+    <ClCompile Include="MiniGame\MiniGameBase.cpp" />
+    <ClCompile Include="MiniGame\MiniGameManager.cpp" />
+    <ClCompile Include="Monster\FishDiedEffect.cpp" />
+    <ClCompile Include="Monster\FishGroup.cpp" />
+    <ClCompile Include="Monster\FishMultiCollision.cpp" />
+    <ClCompile Include="Monster\FishNormal.cpp" />
+    <ClCompile Include="Monster\Monster.cpp" />
+    <ClCompile Include="Monster\MonsterGenerate.cpp" />
+    <ClCompile Include="Monster\MonsterManager.cpp" />
+    <ClCompile Include="PlayerBehavior\CoinEffect.cpp" />
+    <ClCompile Include="PlayerBehavior\CoinStack.cpp" />
+    <ClCompile Include="PlayerBehavior\CoinStackEffect.cpp" />
+    <ClCompile Include="PlayerBehavior\PlayerBehaviorBase.cpp" />
+    <ClCompile Include="PlayerBehavior\PlayerData.cpp" />
+    <ClCompile Include="PlayerBehavior\PrizeEffect.cpp" />
+    <ClCompile Include="PlayerBehavior\SingleCoinEffectAnimation.cpp" />
+    <ClCompile Include="PlayerBehavior\Weapon.cpp" />
+    <ClCompile Include="PlayerBehavior\WinMoneyEffect.cpp" />
+    <ClCompile Include="PlayerBehavior\WinMoneyEffectBase.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\BankFormat.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\BankMode.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\BankNegativeMode.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\BankPossitiveMode.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\BankRunner.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\BulletDataAndBankRepositorManager.cpp" />
+    <ClCompile Include="ProbabilityFish\BulletBank\FakeRevenue.cpp" />
+    <ClCompile Include="ProbabilityFish\FileSaver.cpp" />
+    <ClCompile Include="ProbabilityFish\FishProbability.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

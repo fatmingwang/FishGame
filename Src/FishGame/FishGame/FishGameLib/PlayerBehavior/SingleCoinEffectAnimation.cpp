@@ -131,7 +131,7 @@ void SingleCoinEffectAnimation::SetCoinEffectMPDIData( cMatrix44& AniOriPos, cMa
 
 		m_AniDelayTime   = AniDelayTime;
 		m_bPlayAnimation = true;
-		m_MoveRemainTIme = 1.5f * ( Length / cGameApp::m_svGameResolution.x );
+		m_MoveRemainTIme = 1.5f * ( Length / cGameApp::m_spOpenGLRender->m_vGameResolution.x );
 
 		m_AniOriPos        = AniOriPos;
 		m_AniEndPos        = AniEndPos;

@@ -1,4 +1,4 @@
-#include "../stdafx.h"
+#include "stdafx.h"
 #include "BankFormat.h"
 //
 #include "BankRunner.h"
@@ -126,11 +126,3 @@ void	cBankRunnerManager::DebugRender( int e_nPosX, int e_nPosY )
 	cBankRunner*	l_pSubRepositoryBank = this->GetObject( m_iCurrentWorkingIndex );
 	l_pSubRepositoryBank->DebugRender( e_nPosX + 250, e_nPosY );
 }
-
-
-
-
-
-
-
-

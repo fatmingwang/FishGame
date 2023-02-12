@@ -1,5 +1,4 @@
-#ifndef _SCORE_WITH_COIN_H_
-#define _SCORE_WITH_COIN_H_
+#pragma once
 
 class	cGameEffectScoreWithCoin:public cGameEffectBase
 {
@@ -53,5 +52,3 @@ public:
 	virtual	NamedTypedObject*	Clone(){return  0;}
 	virtual	void				Update(float e_fElpaseTime);
 };
-
-#endif

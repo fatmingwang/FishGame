@@ -1,5 +1,4 @@
-#ifndef _FISH_PROBABILITY_H_
-#define _FISH_PROBABILITY_H_
+#pragma once
 //
 class	cProbabilityData;
 class	cProbability_Fatming;
@@ -36,7 +35,7 @@ public:
 	void								MonsterToKeepGoing( sHittedFishData *e_pHittedFishData, float e_fAddProbability );
 
 	cProbability_Fatming				*m_pProbability_Fatming;
-	cProbability_MasterLee				*m_pProbability_MasterLee;
+	//cProbability_MasterLee				*m_pProbability_MasterLee;
 	//
 	float								m_fSafeToGiveProbabilityOffset;
 	//
@@ -74,5 +73,3 @@ public:
 
 	cBulletDataAndBankRepositorManager*	GetBulletData(){return  m_pBulletData;}
 };
-
-#endif

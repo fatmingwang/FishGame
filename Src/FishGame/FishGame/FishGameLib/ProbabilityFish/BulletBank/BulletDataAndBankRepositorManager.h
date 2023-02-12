@@ -1,5 +1,4 @@
-#ifndef _BULLET_DATA_AMD_BANK_REPOSITOR_MANAGER_H_
-#define _BULLET_DATA_AMD_BANK_REPOSITOR_MANAGER_H_
+#pragma once
 //
 //
 class	cBankRunnerManager;
@@ -40,5 +39,3 @@ public:
 	int64									GetExtractRevenueValue( int e_iOutMoney, int e_iPayRate );
 	//
 };
-
-#endif

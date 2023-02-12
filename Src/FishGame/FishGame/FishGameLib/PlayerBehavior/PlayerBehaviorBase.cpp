@@ -2,6 +2,7 @@
 #include "PlayerBehaviorBase.h"
 #include "PlayerData.h"
 #include "../GameApp/GameApp.h"
+#include "../FileNameDefine.h"
 #include "../ControlPanel/ControlPanel.h"
 
 cPlayerBehaviorBase::cPlayerBehaviorBase()
@@ -66,7 +67,7 @@ void	cPlayerBehaviorBase::Init()
 		m_pMessageInsertCoin->Init();
 		m_pMessageInsertCoin->SetParent(&m_PlayerFrame,false);
 		cPuzzleImage*l_pNumber = cGameApp::GetPuzzleImageByFileName((WCHAR*)PLAYER_NUMRIAL);
-		m_pScoreNumberImage = l_pNumber->GetNumerialImageByName(L"PlayerScoreNumerial0",L"PlayerScoreNumerial9");
+		m_pScoreNumberImage = l_pNumber->GetNumeralImageByName(L"PlayerScoreNumerial0",L"PlayerScoreNumerial9");
 		m_PlayerMatrix = cMatrix44::TranslationMatrix(m_vPlayerPos)*cMatrix44::RotationMatrix(m_vPlayerRot);
 	}
 	InternalInit();
@@ -93,10 +94,10 @@ void	cPlayerBehaviorBase::Update(float e_fElpaseTime)
 		m_pMessageMoneyReachLimit->Update(e_fElpaseTime);
 	}
 
-	if( g_pIOSMDriverInterface->IsIOError() && m_pMessageIOError )
-	{
-		m_pMessageIOError->Update(e_fElpaseTime);
-	}
+	//if( g_pIOSMDriverInterface->IsIOError() && m_pMessageIOError )
+	//{
+	//	m_pMessageIOError->Update(e_fElpaseTime);
+	//}
 
 	if(m_bCoinNotEnough)
 	{
@@ -132,10 +133,10 @@ void	cPlayerBehaviorBase::Render()
 		m_pMessageMoneyReachLimit->Render();
 	}
 
-	if( g_pIOSMDriverInterface->IsIOError() && m_pMessageIOError )
-	{
-		m_pMessageIOError->Render();
-	}
+	//if( g_pIOSMDriverInterface->IsIOError() && m_pMessageIOError )
+	//{
+	//	m_pMessageIOError->Render();
+	//}
 
 	if(m_bCoinNotEnough)
 	{
