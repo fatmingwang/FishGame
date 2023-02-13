@@ -1,8 +1,11 @@
 #pragma once
+
+#include "../FileNameDefine.h"
+
 //
 #define eAuditList_Max 8
 //
-
+#define	SETUP_CHANGE_FILE_NAME			L"RecordFile/SetupChanged.xml"
 enum eParameterAdjustList
 {
 	eParaAdjust_PayRateLimit,
@@ -25,8 +28,8 @@ enum eDecodeList
 	eDecode_PlaceType,
 	eDecode_Max,
 };
-extern WCHAR* ParaAdjustList[ eParaAdjust_Max ] ;
-extern WCHAR* DecodeList[ eDecode_Max ]; 
+extern const wchar_t* ParaAdjustList[ eParaAdjust_Max ] ;
+extern const wchar_t* DecodeList[ eDecode_Max ];
 enum eChangePasswordStep
 {
 	eChangePasswordNone,
@@ -120,7 +123,7 @@ public:
 	int							m_iReportCount;
 
 	int64						GetTimeForInt64();
-	WCHAR*						GetTime(int64 e_iTime);
+	const wchar_t*				GetTime(int64 e_iTime);
 	int64						GetRestTimeToReport();
 	void						WriteTimeStamp();
 

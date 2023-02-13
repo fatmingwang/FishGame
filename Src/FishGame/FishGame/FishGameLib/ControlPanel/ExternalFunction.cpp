@@ -1,7 +1,6 @@
 #include "stdafx.h"
 //
 #include "ControlPanel.h"
-#include "../../Core/FMEvent/EventButtonTrigger.h"
 //
 extern cControlPanel *g_pControlPanel;
 //
@@ -57,7 +56,7 @@ void	GeneratingVendorHintCode()
 	std::vector<int>	l_PasswordVector = GetValueListByCommaDivide<int>(l_str.c_str());
 	int	l_iValue = 0;
 	int	l_iDecimal = 1;
-	for(int i=l_PasswordVector.size()-1;i>-1;--i)
+	for(size_t i=l_PasswordVector.size()-1;i>-1;--i)
 	{
 		l_iValue += l_iDecimal*l_PasswordVector[i];
 		l_iDecimal *= 10;
@@ -82,7 +81,7 @@ void	GeneratingAuditHintCode()
 	std::vector<int>	l_PasswordVector = GetValueListByCommaDivide<int>(l_str.c_str());
 	int	l_iValue = 0;
 	int	l_iDecimal = 1;
-	for(int i=l_PasswordVector.size()-1;i>-1;--i)
+	for(size_t i=l_PasswordVector.size()-1;i>-1;--i)
 	{
 		l_iValue += l_iDecimal*l_PasswordVector[i];
 		l_iDecimal *= 10;

@@ -70,6 +70,9 @@
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IntDir>..\..\..\..\..\Intermedia\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
@@ -139,6 +142,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ControlPanel\ControlPanel.h" />
+    <ClInclude Include="ControlPanel\MouseTrigger.h" />
+    <ClInclude Include="ControlPanel\ValueChangerActiver.h" />
     <ClInclude Include="GameBullet\Bullet.h" />
     <ClInclude Include="GameBullet\BulletData.h" />
     <ClInclude Include="GameBullet\BulletManager.h" />
@@ -182,6 +188,10 @@
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ControlPanel\ControlPanel.cpp" />
+    <ClCompile Include="ControlPanel\ExternalFunction.cpp" />
+    <ClCompile Include="ControlPanel\MouseTrigger.cpp" />
+    <ClCompile Include="ControlPanel\ValueChangerActiver.cpp" />
     <ClCompile Include="GameBullet\Bullet.cpp" />
     <ClCompile Include="GameBullet\BulletManager.cpp" />
     <ClCompile Include="GameBullet\BulletPlayer.cpp" />

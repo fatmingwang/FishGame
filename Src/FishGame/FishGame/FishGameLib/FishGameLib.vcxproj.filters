@@ -161,6 +161,15 @@
     <ClInclude Include="ProbabilityFish\BulletBank\FakeRevenue.h">
       <Filter>Game\ProbabilityFish\BulletBank</Filter>
     </ClInclude>
+    <ClInclude Include="ControlPanel\ControlPanel.h">
+      <Filter>Game\ControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPanel\MouseTrigger.h">
+      <Filter>Game\ControlPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPanel\ValueChangerActiver.h">
+      <Filter>Game\ControlPanel</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -282,6 +291,18 @@
     </ClCompile>
     <ClCompile Include="ProbabilityFish\BulletBank\FakeRevenue.cpp">
       <Filter>Game\ProbabilityFish\BulletBank</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPanel\ControlPanel.cpp">
+      <Filter>Game\ControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPanel\ExternalFunction.cpp">
+      <Filter>Game\ControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPanel\MouseTrigger.cpp">
+      <Filter>Game\ControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPanel\ValueChangerActiver.cpp">
+      <Filter>Game\ControlPanel</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
