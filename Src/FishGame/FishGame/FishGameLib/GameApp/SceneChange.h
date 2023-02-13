@@ -1,5 +1,4 @@
-#ifndef _SCENE_CHANGE_H_
-#define _SCENE_CHANGE_H_
+#pragma once
 //
 //<BG ChangeCircle="300,500">
 //	<NormaleBG Name="BG1.png,BG2.png,BG3.png" Probability="50" />
@@ -108,5 +107,3 @@ public:
 	bool	IsChangeScene();
 	bool	IsTimeReachSceneChange(float e_fRestTimeToReachSceneChange);
 };
-//end
-#endif

@@ -1,5 +1,4 @@
-#ifndef GAME_APP_H
-#define GAME_APP_H
+#pragma once
 //
 class	cMiniGameManager;
 class	cMonsterManager;
@@ -7,9 +6,7 @@ class	cPlayerManager;
 class	cBulletManager;
 class	cControlPanel;
 class	cProbabilityFish;
-class	cRefoundCoinDeviceManager;
 class	cSceneChange;
-class	cTestLogFile;
 class	cWinMoneyEffectManager;
 class	cGameEffectManager;
 
@@ -51,9 +48,7 @@ public:
 	static	cBulletManager*			m_pBulletManager;
 	static  cControlPanel*			m_spControlPanel;
 	static  cProbabilityFish*		m_spProbabilityFish;
-	cRefoundCoinDeviceManager*		m_pRefoundCoinDeviceManager;
 	static	cSceneChange*			m_spSceneChange;
-	static	cTestLogFile*			m_spTestLogFile;
 	static  cWinMoneyEffectManager* m_spWinMoneyEffectManager;
 	static  cGameEffectManager*		m_spGameEffectManager;
 
@@ -66,5 +61,3 @@ public:
 	//<root FullScreen="0" Resolution="960,640" ViewPort="960,640" DeviceOrietation="0" />
 	static void					ResoluctionParse2(char*e_strFileName);
 };
-
-#endif

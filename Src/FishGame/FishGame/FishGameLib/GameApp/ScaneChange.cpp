@@ -3,9 +3,11 @@
 //
 #include "GameApp.h"
 //
+#include "../ControlPanel/ControlPanel.h"
 #include "../Monster/MonsterManager.h"
 #include "../Monster/FishGroup.h"
 #include "../MiniGame/MiniGameManager.h"
+#include "../FileNameDefine.h"
 //
 #include "../ProbabilityFish/FishProbability.h"
 
@@ -74,7 +76,7 @@ cSceneChange::~cSceneChange()
 	SAFE_DELETE(m_pFishGroupList);
 	//SAFE_DELETE( m_pBGImage );
 	//SAFE_DELETE( m_pLastBGImage );
-	DELETE_VECTOR(m_SpecialSceneList,sSpecialSceneData*)
+	DELETE_VECTOR(m_SpecialSceneList)
 }
 
 void	cSceneChange::HandleElementData(TiXmlElement*e_pTiXmlElement)
@@ -304,7 +306,7 @@ void	cSceneChange::UpdateeeSCS_WAIT_FISH_LEAVE(float e_fElpaseTime)
 	{
 		m_BubbleMovingTC.Start();
 		m_BubbleClamDownTC.Start();
-		m_pPrtEmitter->Emit(Vector3(cGameApp::m_svGameResolution.x,cGameApp::m_svGameResolution.y/2.f,0.f));
+		m_pPrtEmitter->Emit(Vector3(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y/2.f,0.f));
 		m_pPrtEmitter->SetLoop(true);
 		m_eSceneChangeStatus = eSCS_BUBBLE_GO;
 		cGameApp::SoundPlay(L"30",true);
@@ -329,7 +331,7 @@ void	cSceneChange::UpdateeeSCS_BUBBLE_GO(float e_fElpaseTime)
 	else
 	{
 		m_pWaterMPDI->SetColor(Vector4(0.5,0.5,0.5,0.5));
-		m_pPrtEmitter->SetPos(Vector3(cGameApp::m_svGameResolution.x/2.f,cGameApp::m_svGameResolution.y/2.f,0.f));
+		m_pPrtEmitter->SetPos(Vector3(cGameApp::m_spOpenGLRender->m_vGameResolution.x/2.f, cGameApp::m_spOpenGLRender->m_vGameResolution.y/2.f,0.f));
 		this->m_pBGImage->SetColor(Vector4(1,1,1,m_BubbleMovingTC.GetLERP()));
 		if(m_pBGAnimation)
 			m_pBGAnimation->SetColor(Vector4(1,1,1,m_BubbleMovingTC.GetLERP()));
@@ -541,7 +543,7 @@ int		IndexOfVector(const char*e_strName,std::vector<std::string>*e_pList)
 	{
 		if(!strcmp((*e_pList)[i].c_str(),e_strName))
 		{
-			return i;
+			return (int)i;
 		}
 	}
 	return -1;
@@ -600,8 +602,8 @@ void	cSceneChange::ChangeSpecialScene()
 	const char *l_strImageName = m_SpecialBG.ImageNameList[l_iIndex].c_str();
 	//m_pBGImage = new cBaseImage(l_strImageName);
 	m_pBGImage = dynamic_cast<cBaseImage*>(cGameApp::m_spImageParser->GetObject( UT::CharToWchar(UT::GetFileNameWithoutFullPath(l_strImageName)) ));
-	m_pBGImage->SetWidth((int)cGameApp::m_svGameResolution.x);
-	m_pBGImage->SetHeight((int)cGameApp::m_svGameResolution.y);
+	m_pBGImage->SetWidth((int)cGameApp::m_spOpenGLRender->m_vGameResolution.x);
+	m_pBGImage->SetHeight((int)cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 	m_CurrentBGName = m_SpecialBG.ImageNameList[l_iIndex];
 
 	const WCHAR*l_str = &m_pBGImage->GetName()[2];

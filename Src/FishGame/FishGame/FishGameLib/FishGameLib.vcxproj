@@ -145,6 +145,8 @@
     <ClInclude Include="ControlPanel\ControlPanel.h" />
     <ClInclude Include="ControlPanel\MouseTrigger.h" />
     <ClInclude Include="ControlPanel\ValueChangerActiver.h" />
+    <ClInclude Include="GameApp\GameApp.h" />
+    <ClInclude Include="GameApp\SceneChange.h" />
     <ClInclude Include="GameBullet\Bullet.h" />
     <ClInclude Include="GameBullet\BulletData.h" />
     <ClInclude Include="GameBullet\BulletManager.h" />
@@ -192,6 +194,8 @@
     <ClCompile Include="ControlPanel\ExternalFunction.cpp" />
     <ClCompile Include="ControlPanel\MouseTrigger.cpp" />
     <ClCompile Include="ControlPanel\ValueChangerActiver.cpp" />
+    <ClCompile Include="GameApp\GameApp.cpp" />
+    <ClCompile Include="GameApp\ScaneChange.cpp" />
     <ClCompile Include="GameBullet\Bullet.cpp" />
     <ClCompile Include="GameBullet\BulletManager.cpp" />
     <ClCompile Include="GameBullet\BulletPlayer.cpp" />

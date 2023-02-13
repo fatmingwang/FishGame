@@ -1,7 +1,6 @@
 #include "stdafx.h"
 #include "FileSaver.h"
 #include "../GameApp/GameApp.h"
-#include "../GameApp/TestLogSetup.h"
 #include "../PlayerBehavior/PlayerData.h"
 #include "FishProbability.h"
 #include "../ControlPanel/ControlPanel.h"
@@ -36,14 +35,6 @@ cFileSaver::cFileSaver(const char*e_strPlayerFileName,const char*e_strStaticFile
 	//m_WritePlayerMoneyTC.SetTargetTime( 0.2f );
 	m_WritePlayerMoneyTC.Start();
 	OpenPlayerFile(e_strPlayerFileName);
-
-	if(cFishApp::m_spTestLogFile->IsWriteLog())
-	{
-		m_pi64PlayerRevenueLog = new int64[cFishApp::m_spControlPanel->m_iPlayerCount];
-		memset( m_pi64PlayerRevenueLog, 0, sizeof(int64)*cFishApp::m_spControlPanel->m_iPlayerCount);
-		m_pStaticsLogFile = new cBinaryFile();
-		m_pStaticsLogFile->Writefile(e_strStaticFileName,true,false);
-	}
 }
 
 cFileSaver::~cFileSaver()
@@ -93,7 +84,7 @@ void	cFileSaver::WriteStaticFile()
 	{
 		return;
 	}
-	if(!cFishApp::m_spTestLogFile || !cFishApp::m_spTestLogFile->IsWriteFile())
+	if(1)
 	{
 		return;
 	}

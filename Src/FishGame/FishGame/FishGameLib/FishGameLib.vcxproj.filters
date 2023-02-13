@@ -36,6 +36,9 @@
     <Filter Include="Game\ProbabilityFish\BulletBank">
       <UniqueIdentifier>{b608d880-317b-4f82-9bec-1e01a5e05d09}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Game\GameApp">
+      <UniqueIdentifier>{cc240215-7936-4fea-a43d-6fc0f19bb94a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -170,6 +173,12 @@
     <ClInclude Include="ControlPanel\ValueChangerActiver.h">
       <Filter>Game\ControlPanel</Filter>
     </ClInclude>
+    <ClInclude Include="GameApp\GameApp.h">
+      <Filter>Game\GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="GameApp\SceneChange.h">
+      <Filter>Game\GameApp</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -303,6 +312,12 @@
     </ClCompile>
     <ClCompile Include="ControlPanel\ValueChangerActiver.cpp">
       <Filter>Game\ControlPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="GameApp\GameApp.cpp">
+      <Filter>Game\GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="GameApp\ScaneChange.cpp">
+      <Filter>Game\GameApp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

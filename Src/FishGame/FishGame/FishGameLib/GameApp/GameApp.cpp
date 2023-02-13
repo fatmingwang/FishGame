@@ -1,21 +1,16 @@
 #include "stdafx.h"
 #include "winioctl.h"
 #include "GameApp.h"
-#include "QucikInfo.h"
-#include "DeviceRefundCoin.h"
 #include "SceneChange.h"
-#include "TestLogSetup.h"
 #include "../MiniGame/MiniGameManager.h"
 #include "../Monster/MonsterManager.h"
 #include "../PlayerBehavior/PlayerData.h"
-#include "../Bullet/BulletManager.h"
+#include "../GameBullet/BulletManager.h"
 #include "../ProbabilityFish/FishProbability.h"
-
 #include "../GameEffect/GameEffectBase.h"
-
+#include "../ControlPanel/ControlPanel.h"
 #include <intrin.h>
 #include "../PlayerBehavior/WinMoneyEffect.h"
-bool	g_bGoToControleTest = false;
 //
 UINT					g_uiFrame = 0;
 //
@@ -27,7 +22,6 @@ cBulletManager*			cFishApp::m_pBulletManager = 0;
 cControlPanel*			cFishApp::m_spControlPanel = 0;
 cProbabilityFish*		cFishApp::m_spProbabilityFish = 0;
 cSceneChange*			cFishApp::m_spSceneChange = 0;
-cTestLogFile*			cFishApp::m_spTestLogFile = 0;
 bool					cFishApp::m_sbSceneChange = false;
 float					cFishApp::m_sfMonsterUpdateSpeed = 1.f;
 UINT64					cFishApp::m_sui64CurrentStep = 0;
@@ -37,7 +31,6 @@ cWinMoneyEffectManager* cFishApp::m_spWinMoneyEffectManager = 0;
 cGameEffectManager*		cFishApp::m_spGameEffectManager = 0;
 
 bool*					g_pbIsUsingMasterLeeProbability = &cFishApp::m_sbIsUsingMasterLeeProbability;
-cQuickInfo*				g_pQuickInfo = 0;
 extern bool	g_bLeave;
 bool		g_bInitOk = false;
 extern bool		g_bProtected;
@@ -55,25 +48,25 @@ void	LoadingProgressInfo()
 {	cGameApp::m_sTimeAndFPS.Update();
 	if( cGameApp::m_sTimeAndFPS.fElpaseTime >0.032f )
 	{
-		WCHAR*l_strLoadingInfo = L"Loading...";
-		int	l_iLength = wcslen(l_strLoadingInfo);
-		WCHAR	l_str[MAX_PATH];
-		memcpy(l_str,l_strLoadingInfo,sizeof(WCHAR)*g_iLoadingStep);
+		const wchar_t*l_strLoadingInfo = L"Loading...";
+		int	l_iLength = (int)wcslen(l_strLoadingInfo);
+		wchar_t	l_str[MAX_PATH];
+		memcpy(l_str,l_strLoadingInfo,sizeof(wchar_t)*g_iLoadingStep);
 		l_str[g_iLoadingStep] = L'\0';
 		UseShaderProgram();
-		glViewport(0,0,(int)cGameApp::m_svViewPortSize.x,(int)cGameApp::m_svViewPortSize.y);
+		glViewport(0,0,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.x,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
 		glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
 		glClearColor( 0,0.5,0.5,1 );
 		glClearDepth(1.0f);	
 		glEnable(GL_TEXTURE_2D);
-		glEnable2D(cGameApp::m_svGameResolution.x,cGameApp::m_svGameResolution.y);
+		glEnable2D(cGameApp::m_spOpenGLRender->m_vViewPortSize.x, cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
 		if( g_pLoadingImage )
 		{
 			g_pLoadingImage->Render();
 			//g_pLoadingImage->Render(cMatrix44::TranslationMatrix(Vector3(*g_pLoadingImage->GetImageShowWidth()/2,*g_pLoadingImage->GetImageShowHeight()/2,0))*cMatrix44::ScaleMatrix(Vector3(frand(0.999,1.001),1,1)));
 		}
-		//cGameApp::m_spGlyphFontRender->RenderFont(cGameApp::m_svGameResolution.x/2-100.f,100.f,l_str);
-		SwapBuffers(cGameApp::m_sHdc);
+		//cGameApp::m_spGlyphFontRender->RenderFont(cGameApp::m_spOpenGLRender->m_vViewPortSize.x/2-100.f,100.f,l_str);
+		SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
 		++g_iLoadingStep;
 		if( g_iLoadingStep >= l_iLength )
 			g_iLoadingStep = 1;
@@ -116,23 +109,11 @@ cFishApp::cFishApp(Vector2 e_vGameResolution,Vector2 e_vViewportSize)
 	cGameApp::OutputDebugInfoString(L"\nEnd");
 	//m_sbSpeedControl = true;
 	m_bLeave = false;
-	m_pRefoundCoinDeviceManager = 0;
-	if(!g_pIOSMDriverInterface)
-	{
-		this->m_spLogFile->WriteToFileImmediatelyWithLine(L"start init 8051 IO");
-		g_pIOSMDriverInterface = new cIOSMDriverInterface();
-		g_pIOSMDriverInterface->Init();
-		this->m_spLogFile->WriteToFileImmediatelyWithLine(L"init 8051 IO ok");
-		if(g_pIOSMDriverInterface->Parse("Fish/IO/IOData.xml"))
-			this->m_spLogFile->WriteToFileImmediatelyWithLine(L"Fish/IO/IOData-file.xml ok");
-		else
-			this->m_spLogFile->WriteToFileImmediatelyWithLine(L"Fish/IO/IOData-file.xml falied");
-	}
+
 	if(!cGameApp::m_spSoundParser->Parse("Fish/Sound/Sound.xml"))
 	{
 		UT::ErrorMsg(L"Fish/Sound.xml",L"parse sound error");
 	}
-	g_pQuickInfo = new cQuickInfo(Vector2(0,0),38);
 	//cGameApp::m_spSoundParser->GetObject(L"3")->SetVolume(0.1f);
 }
 
@@ -149,10 +130,7 @@ cFishApp::~cFishApp()
 	Sleep(10);
 	GameDataDestroy();
 	SAFE_DELETE( m_spControlPanel );
-	SAFE_DELETE( m_pRefoundCoinDeviceManager );
 	Destroy();
-	SAFE_DELETE( g_pQuickInfo );
-	SAFE_DELETE( g_pIOSMDriverInterface );
 }
 
 void	cFishApp::Init()
@@ -177,16 +155,15 @@ void	cFishApp::Init()
 	if( UT::IsFileExists("Fish/Image/Loading.png") )
 	{
 		UseShaderProgram();
-		glViewport(0,0,(int)m_svViewPortSize.Width(),(int)m_svViewPortSize.Height());
-		//glScissor(0,0,(int)m_svViewPortSize.x,(int)m_svViewPortSize.y);
+		glViewport(0,0,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(),(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Height());
 		glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
 		glClearColor( 0,0.5,0.5,1 );
 		glClearDepth(1.0f);	
 		glEnable(GL_TEXTURE_2D);
-		glEnable2D(cGameApp::m_svGameResolution.x,cGameApp::m_svGameResolution.y);
+		glEnable2D(cGameApp::m_spOpenGLRender->m_vViewPortSize.x, cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
 		cBaseImage*l_pLoadingImage = new cBaseImage("Fish/Image/Loading.png");
 		l_pLoadingImage->Render();
-		SwapBuffers(cGameApp::m_sHdc);
+		SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
 		SAFE_DELETE(l_pLoadingImage);
 	} 
 	//
@@ -211,25 +188,16 @@ void	cFishApp::Init()
 	//	this->m_svGameResolution.x = GAME_RESOLUTION_WIDTH;
 	//	this->m_svGameResolution.y = GAME_RESOLUTION_HEIGHT;	
 	//}
-	this->m_svGameScale.x = this->m_svGameResolution.x/GAME_RESOLUTION_WIDTH;
-	this->m_svGameScale.y = this->m_svGameResolution.y/GAME_RESOLUTION_HEIGHT;
-	if( !g_bGoToControleTest )
-	{
-		m_spSceneChange = new cSceneChange();
-		m_pBulletManager = new cBulletManager();
-		m_spMiniGameManager = new cMiniGameManager();
-		m_spMonsterManager = new cMonsterManager();
-		m_spPlayerManager = new cPlayerManager();
-		m_spProbabilityFish = new cProbabilityFish();
-		m_spTestLogFile = new cTestLogFile();
-		m_pRefoundCoinDeviceManager = new cRefoundCoinDeviceManager();
-		m_spWinMoneyEffectManager = new cWinMoneyEffectManager();
-		m_spGameEffectManager = new cGameEffectManager();
-	}
-	else
-	{
-		m_spControlPanel->IntoControlPanel();
-	}
+	cGameApp::m_spOpenGLRender->m_vGameScale.x = cGameApp::m_spOpenGLRender->m_vGameResolution.x/GAME_RESOLUTION_WIDTH;
+	cGameApp::m_spOpenGLRender->m_vGameScale.y = cGameApp::m_spOpenGLRender->m_vGameResolution.y/GAME_RESOLUTION_HEIGHT;
+	m_spSceneChange = new cSceneChange();
+	m_pBulletManager = new cBulletManager();
+	m_spMiniGameManager = new cMiniGameManager();
+	m_spMonsterManager = new cMonsterManager();
+	m_spPlayerManager = new cPlayerManager();
+	m_spProbabilityFish = new cProbabilityFish();
+	m_spWinMoneyEffectManager = new cWinMoneyEffectManager();
+	m_spGameEffectManager = new cGameEffectManager();
 	//PrintMemoryInfo();
 	if( m_spMiniGameManager )
 		m_spMiniGameManager->Init();
@@ -249,11 +217,6 @@ void	cFishApp::Init()
 	if( m_spSceneChange )
 		m_spSceneChange->Init();
 	//PrintMemoryInfo();
-	if(m_pRefoundCoinDeviceManager)
-		m_pRefoundCoinDeviceManager->Init(IO8051_DATA_Refound);
-	//PrintMemoryInfo();
-	if( m_spTestLogFile )
-		m_spTestLogFile->Init();
 	if ( m_spWinMoneyEffectManager )
 		m_spWinMoneyEffectManager->Init();
 	if( m_spGameEffectManager )
@@ -272,9 +235,7 @@ void	cFishApp::GameDataDestroy()
 	SAFE_DELETE(m_spMonsterManager);
 	SAFE_DELETE(m_spPlayerManager);
 	SAFE_DELETE(m_pBulletManager);
-	SAFE_DELETE(m_pRefoundCoinDeviceManager);
 	SAFE_DELETE(m_spSceneChange);
-	SAFE_DELETE(m_spTestLogFile);
 	SAFE_DELETE(m_spWinMoneyEffectManager);
 	SAFE_DELETE(m_spGameEffectManager);
 }
@@ -305,7 +266,7 @@ const int	g_iAllDebugInfo = 10;
 float	g_fUpdateUsingTime[g_iAllDebugInfo];
 float	g_fRenderTime[g_iAllDebugInfo];
 
-WCHAR*g_strDebugInfo[g_iAllDebugInfo] = {L"IO",
+const wchar_t*g_strDebugInfo[g_iAllDebugInfo] = {L"IO",
 							L"GameApp",
 							L"SceneChange",
 							L"MiniGameManager",
@@ -364,18 +325,16 @@ void	cFishApp::ResoluctionParse2(char*e_strFileName)
 			m_sbDebugFunctionWorking = _wtoi(l_strDebugFunctionWorking)?true:false;
 		}		
 
-		if( l_strDevice )
-			m_sbDeviceExist = _wtoi(l_strDevice)?true:false;
 		if( l_strResolution )
 		{
 			POINT	l_Resolution = GetPoint(l_strResolution);
 			if( !l_strViewPort )
 			{
-				cGameApp::m_svViewPortSize.x = (float)l_Resolution.x;
-				cGameApp::m_svViewPortSize.y = (float)l_Resolution.y;
+				cGameApp::m_spOpenGLRender->m_vViewPortSize.x = (float)l_Resolution.x;
+				cGameApp::m_spOpenGLRender->m_vViewPortSize.y = (float)l_Resolution.y;
 			}
-			cGameApp::m_svGameResolution.x = (float)l_Resolution.x;
-			cGameApp::m_svGameResolution.y = (float)l_Resolution.y;
+			cGameApp::m_spOpenGLRender->m_vViewPortSize.x = (float)l_Resolution.x;
+			cGameApp::m_spOpenGLRender->m_vViewPortSize.y = (float)l_Resolution.y;
 			//if(!m_spClickMouseBehavior)
 			//	m_spClickMouseBehavior = new cClickMouseBehavior();
 			//m_spClickMouseBehavior->SetCollisionRange(Vector4(0,0,m_svGameResolution.x,m_svGameResolution.y));
@@ -383,14 +342,14 @@ void	cFishApp::ResoluctionParse2(char*e_strFileName)
 		if( l_strViewPort )
 		{
 			POINT	l_Resolution = GetPoint(l_strViewPort);
-			cGameApp::m_svViewPortSize.z = (float)l_Resolution.x;
-			cGameApp::m_svViewPortSize.w = (float)l_Resolution.y;
+			cGameApp::m_spOpenGLRender->m_vViewPortSize.z = (float)l_Resolution.x;
+			cGameApp::m_spOpenGLRender->m_vViewPortSize.w = (float)l_Resolution.y;
 		}
 		if( l_strDeviceOrietation )
 		{
 			int	l_iIndex = _wtoi(l_strDeviceOrietation);
 			if( l_iIndex <= eDD_LANDSCAPE_RIGHT )
-				cGameApp::m_seDeviceDirection = (eDeviceDirection)l_iIndex;
+				cGameApp::m_spOpenGLRender->m_eDeviceDirection = (eDeviceDirection)l_iIndex;
 		}
 		if( l_strHideMouseCursor )
 		{
@@ -413,8 +372,6 @@ void	cFishApp::Update(float e_fElpaseTime)
 //		e_fElpaseTime = 1/30.f;
 //#endif
 	g_TimeStamp.Update();
-	if( g_pIOSMDriverInterface )
-		g_pIOSMDriverInterface->Update(e_fElpaseTime);
 	TimsStamp(eDI_IO,true);
 	bool	l_bControlPanel = false;
 	if( m_spControlPanel )
@@ -424,15 +381,11 @@ void	cFishApp::Update(float e_fElpaseTime)
 	}
 	if( l_bControlPanel )
 	{
-		if( g_pQuickInfo )
-			g_pQuickInfo->DisableShowInfo();
 		if ( !m_spControlPanel->IsInControlPanelMode() )
 			Init();
 	}
 	else
 	{
-		if( g_pQuickInfo )
-			g_pQuickInfo->Update();
 
 		if ( m_MiniGameShakeTm > 0.f )
 		{
@@ -443,10 +396,6 @@ void	cFishApp::Update(float e_fElpaseTime)
 		}
 
 		cGameApp::Update(e_fElpaseTime);
-		if( m_spTestLogFile )
-		{
-			m_spTestLogFile->Update(e_fElpaseTime);
-		}
 		TimsStamp(eDI_GAMEAPP,true);
 		if( m_spSceneChange )
 			m_spSceneChange->Update(e_fElpaseTime);
@@ -483,11 +432,6 @@ void	cFishApp::Update(float e_fElpaseTime)
 			m_spProbabilityFish->Update(e_fElpaseTime);
 		}
 		TimsStamp(eDI_PROBABILITY,true);
-		//MyUpdate(e_fElpaseTime);
-		if(m_pRefoundCoinDeviceManager)
-		{
-			m_pRefoundCoinDeviceManager->Update(e_fElpaseTime);
-		}
 		TimsStamp(eDI_REFOUND_DEVICE,true);
 	}
 	++g_uiFrame;
@@ -495,22 +439,7 @@ void	cFishApp::Update(float e_fElpaseTime)
 
 void	cFishApp::Render()
 {
-	glViewport((int)m_svViewPortSize.x,(int)m_svViewPortSize.y,(int)m_svViewPortSize.z,(int)m_svViewPortSize.w);
-	//glScissor(0,0,(int)m_svViewPortSize.x,(int)m_svViewPortSize.y);
-	glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
-	glClearColor( 0,0.5,0.5,1 );
-	glClearDepth(1.0f);	
-	glEnable(GL_TEXTURE_2D);
-	glEnable2D(cGameApp::m_svGameResolution.x,cGameApp::m_svGameResolution.y);
-
-	cMatrix44 l_matProjection;
-	glhOrthof2((float*)l_matProjection.m, -300, cGameApp::m_svGameResolution.x+300, cGameApp::m_svGameResolution.y+300, -300, -10000, 10000);
-	FATMING_CORE::SetupShaderViewProjectionMatrix((float*)&l_matProjection,false);
-
-	glEnable(GL_TEXTURE_2D);
-	glEnable(GL_ALPHA_TEST);
-	glEnable(GL_BLEND);
-	glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
+	cGameApp::Render();
 	//glAlphaFunc(GL_GREATER,0.001f);	
 	g_TimeStamp.Update();
 	if( m_spControlPanel && m_spControlPanel->IsInControlPanelMode() )
@@ -539,8 +468,6 @@ void	cFishApp::Render()
 		if(m_spProbabilityFish)
 			m_spProbabilityFish->Render();
 		TimsStamp(eDI_PROBABILITY,false);
-		if(m_pRefoundCoinDeviceManager)
-			m_pRefoundCoinDeviceManager->Render();
 		TimsStamp(eDI_REFOUND_DEVICE,false);
 		if(m_spSceneChange)
 			m_spSceneChange->LastRender();
@@ -556,7 +483,7 @@ void	cFishApp::Render()
 			m_spGameEffectManager->Render();
 		TimsStamp( eDI_WINMONEYEFFECT, false );
 		TimsStamp(eDI_SCENE_CHANGE,false,true);
-		glEnable2D(cGameApp::m_svGameResolution.x,cGameApp::m_svGameResolution.y);
+		glEnable2D(cGameApp::m_spOpenGLRender->m_vViewPortSize.x, cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
 ////#ifdef DEBUG
 //		if( cGameApp::m_spGlyphFontRender)
 //		{
@@ -565,16 +492,9 @@ void	cFishApp::Render()
 ////#endif
 		if ( m_spControlPanel )
 			m_spControlPanel->RenderOverReportTime();
-		if( g_pQuickInfo )
-			g_pQuickInfo->Render();
 		if( g_sbCollisionRender && m_sbDebugFunctionWorking )
 		{
 			cGameApp::m_spGlyphFontRender->RenderFont( 750, 30, UT::CharToWchar(cGameApp::m_sTimeAndFPS.GetFPS()) );
-			if(g_pIOSMDriverInterface)
-			{
-				//g_pIOSMDriverInterface->Render();
-				//TimsStamp(eDI_IO,false);
-			}
 			if( cGameApp::m_spGlyphFontRender)
 			{
 				WCHAR   l_str[MAX_PATH];
@@ -604,7 +524,7 @@ void	cFishApp::Render()
 	glDisable(GL_TEXTURE_2D);
 	glDisable2D();
 #ifdef WIN32
-	SwapBuffers(cGameApp::m_sHdc);
+	SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
 #endif
 }
 
@@ -649,7 +569,7 @@ void	cFishApp::KeyDown(char e_char)
 	 cGameApp::KeyDown(e_char);
 	 if ( e_char == 46 )
 		 m_spControlPanel->m_bPressOpenControlPanel = true;
-	if( m_sbDebugFunctionWorking && !this->m_sbDeviceExist )
+	if( m_sbDebugFunctionWorking )
 	{
 		int	l_iPlayerIndex = e_char-96;//right keyboard 0
 		if( l_iPlayerIndex >-1 && l_iPlayerIndex <= cFishApp::m_spControlPanel->m_iPlayerCount )
@@ -681,12 +601,12 @@ void	cFishApp::KeyUp(char e_char)
 	{
 		if ( cGameApp::m_sucKeyData[ 17 ] && e_char == 38 )
 		{
-			switch ( cGameApp::m_seDeviceDirection )
+			switch (cGameApp::m_spOpenGLRender->m_eDeviceDirection )
 			{
-				case eDD_PORTRAIT:        cGameApp::m_seDeviceDirection = eDD_UPSIDE_DOWN;     break;
-				case eDD_UPSIDE_DOWN:     cGameApp::m_seDeviceDirection = eDD_LANDSCAPE_LEFT;  break;
-				case eDD_LANDSCAPE_LEFT:  cGameApp::m_seDeviceDirection = eDD_LANDSCAPE_RIGHT; break;
-				case eDD_LANDSCAPE_RIGHT: cGameApp::m_seDeviceDirection = eDD_PORTRAIT;        break;
+				case eDD_PORTRAIT:        cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_UPSIDE_DOWN;     break;
+				case eDD_UPSIDE_DOWN:     cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_LANDSCAPE_LEFT;  break;
+				case eDD_LANDSCAPE_LEFT:  cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_LANDSCAPE_RIGHT; break;
+				case eDD_LANDSCAPE_RIGHT: cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_PORTRAIT;        break;
 			}
 		}
 		if ( e_char == 110 )
@@ -720,7 +640,7 @@ void	cFishApp::KeyUp(char e_char)
 			l_pBullet->Fire(0,Vector3(400,400,0),l_fAngle);
 		}
 	}*/
-	if( m_sbDebugFunctionWorking && !this->m_sbDeviceExist && m_spPlayerManager )
+	if( m_sbDebugFunctionWorking && m_spPlayerManager )
 	{
 		int	l_iPlayerIndex = e_char-96;//right keyboard 0
 		if( l_iPlayerIndex >-1 && l_iPlayerIndex < cFishApp::m_spControlPanel->m_iPlayerCount )

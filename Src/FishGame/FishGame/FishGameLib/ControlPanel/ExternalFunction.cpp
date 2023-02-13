@@ -6,12 +6,6 @@ extern cControlPanel *g_pControlPanel;
 //
 #define	MAGIC_NUMBER_FOR_ENCODE	0xabcdef01
 #define	MAXIMUM_DATA_COUNT	498
-//
-
-
-
-
-
 
 
 
@@ -22,12 +16,6 @@ unsigned int	DeCodeHintCode( unsigned int e_iValue)
 	//
 	return l_iValue2;
 }
-
-
-
-
-
-
 
 
  int	GenerationHintCode( int e_iValue)
@@ -42,60 +30,42 @@ unsigned int	DeCodeHintCode( unsigned int e_iValue)
 }
 
 
-
-
-
-
-
-
 void	GeneratingVendorHintCode()
 {
-	cEventVariable*l_pEventVariable = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"VendorHintCode");
-	cEventVariable*l_pEventVariable2 = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"VendorPassword");
-	std::wstring	l_str = l_pEventVariable2->ConvertToString();
-	std::vector<int>	l_PasswordVector = GetValueListByCommaDivide<int>(l_str.c_str());
-	int	l_iValue = 0;
-	int	l_iDecimal = 1;
-	for(size_t i=l_PasswordVector.size()-1;i>-1;--i)
-	{
-		l_iValue += l_iDecimal*l_PasswordVector[i];
-		l_iDecimal *= 10;
-	}
-	int	l_Encode = GenerationHintCode(l_iValue);
-	//int	l_iDecode = DeCodeHintCode(l_Encode);
-	l_pEventVariable->SetInt(l_Encode);
+	//cEventVariable*l_pEventVariable = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"VendorHintCode");
+	//cEventVariable*l_pEventVariable2 = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"VendorPassword");
+	//std::wstring	l_str = l_pEventVariable2->ConvertToString();
+	//std::vector<int>	l_PasswordVector = GetValueListByCommaDivide<int>(l_str.c_str());
+	//int	l_iValue = 0;
+	//int	l_iDecimal = 1;
+	//for(size_t i=l_PasswordVector.size()-1;i>-1;--i)
+	//{
+	//	l_iValue += l_iDecimal*l_PasswordVector[i];
+	//	l_iDecimal *= 10;
+	//}
+	//int	l_Encode = GenerationHintCode(l_iValue);
+	////int	l_iDecode = DeCodeHintCode(l_Encode);
+	//l_pEventVariable->SetInt(l_Encode);
 }
-
-
-
-
-
-
 
 
 void	GeneratingAuditHintCode()
 {
-	cEventVariable*l_pEventVariable = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"AuditHintCode");
-	cEventVariable*l_pEventVariable2 = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"AuditPassword");
-	std::wstring	l_str = l_pEventVariable2->ConvertToString();
-	std::vector<int>	l_PasswordVector = GetValueListByCommaDivide<int>(l_str.c_str());
-	int	l_iValue = 0;
-	int	l_iDecimal = 1;
-	for(size_t i=l_PasswordVector.size()-1;i>-1;--i)
-	{
-		l_iValue += l_iDecimal*l_PasswordVector[i];
-		l_iDecimal *= 10;
-	}
-	int	l_Encode = GenerationHintCode(l_iValue);
-	//int	l_iDecode = DeCodeHintCode(l_Encode);
-	l_pEventVariable->SetInt(l_Encode);
+	//cEventVariable*l_pEventVariable = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"AuditHintCode");
+	//cEventVariable*l_pEventVariable2 = g_pControlPanel->GetEventManager()->m_pEventVariableManager->GetObject(L"AuditPassword");
+	//std::wstring	l_str = l_pEventVariable2->ConvertToString();
+	//std::vector<int>	l_PasswordVector = GetValueListByCommaDivide<int>(l_str.c_str());
+	//int	l_iValue = 0;
+	//int	l_iDecimal = 1;
+	//for(size_t i=l_PasswordVector.size()-1;i>-1;--i)
+	//{
+	//	l_iValue += l_iDecimal*l_PasswordVector[i];
+	//	l_iDecimal *= 10;
+	//}
+	//int	l_Encode = GenerationHintCode(l_iValue);
+	////int	l_iDecode = DeCodeHintCode(l_Encode);
+	//l_pEventVariable->SetInt(l_Encode);
 }
-
-
-
-
-
-
 
 
 void	ResetRecordData()
@@ -116,23 +86,10 @@ void	ResetRecordData()
 }
 
 
-
-
-
-
-
-
 void FigureCheckCode( void *e_pData )
 {
 	g_pControlPanel->FigureCheckCodeWithMachineNumber();
 }
-
-
-
-
-
-
-
 
 void	BulletPayRateAddPoint_Check(void*e_pData)
 {
@@ -159,13 +116,6 @@ void	BulletPayRateAddPoint_Check(void*e_pData)
 	l_pPointAdd->SetInt(l_iPointAddN);
 }
 
-
-
-
-
-
-
-
 void	BulletPayRateMinPoint_Check(void*e_pData)
 {
 	int		l_iPointMin[] = {1,2,5,10,20,30,50,100,200};
@@ -191,13 +141,6 @@ void	BulletPayRateMinPoint_Check(void*e_pData)
 	}
 	l_pPointMinN->SetInt(l_iPointMinN);
 }
-
-
-
-
-
-
-
 
 void	FigureSetupCode(void*e_pData)
 {
@@ -284,86 +227,35 @@ void	FigureSetupCode(void*e_pData)
 	l_pVar->SetInt64(l_iTotal);
 }
 
-//Added By Terry Begin
-
-
-
-
-
-
-
 void ExternalFunc_SaveData( void* e_pData )
 {
 	g_pControlPanel->SaveParameterData();
 }
-
-
-
-
-
-
-
 
 void ExternalFunc_RestoreOldData( void* e_pData )
 {
 	g_pControlPanel->RestoreOldData();
 }
 
-
-
-
-
-
-
-
 void ExternalFunc_ReportDelayTime( void* e_pData )
 {
 	g_pControlPanel->ReportDelayTime();
 }
-
-// Password Begin
-
-
-
-
-
-
 
 void ExternalFunc_CheckPassword( void* e_pData )
 {
 	g_pControlPanel->CheckPassword();
 }
 
-
-
-
-
-
-
-
 void ExternalFunc_CancelInputPassword( void* e_pData )
 {
 	g_pControlPanel->CancelInputPassword();
 }
 
-
-
-
-
-
-
-
 void ExternalFunc_IncreasePasswordValue( void* e_pData )
 {
 	g_pControlPanel->ChangeInputValue( eChangeInputValueKind_Password, eChangeInputValueType_Increase, 5 );
 }
-
-
-
-
-
-
-
 
 void ExternalFunc_DecreasePasswordValue( void* e_pData )
 {
@@ -371,42 +263,15 @@ void ExternalFunc_DecreasePasswordValue( void* e_pData )
 }
 
 
-
-
-
-
-
-
 void ExternalFunc_IncreaseClearRecordPasswordValue( void* e_pData )
 {
 	g_pControlPanel->ChangeInputValue( eChangeInputValueKind_ClearRecord, eChangeInputValueType_Increase, 10 );
 }
 
-
-
-
-
-
-
-
 void ExternalFunc_DecreaseClearRecordPasswordValue( void* e_pData )
 {
 	g_pControlPanel->ChangeInputValue( eChangeInputValueKind_ClearRecord, eChangeInputValueType_Decrease, 10 );
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 void ExternalFunc_CheckReportInput( void* e_pData )
 {
@@ -485,7 +350,3 @@ void ExternalFunc_GenerateAuditRandCode( void* e_pData )
 {
 	g_pControlPanel->GenerateAuditRandCode();	
 }
-
-//Report End
-
-//Added By Terry End

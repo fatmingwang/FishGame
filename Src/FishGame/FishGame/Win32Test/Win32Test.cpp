@@ -6,7 +6,6 @@
 //
 #include "../GameApp/GameApp.h"
 #include "../GameApp/TestLogSetup.h"
-#include "../CallExe/CallExe/HIDCheck.h"
 #include "../../Core/GameplayUT/StringCompress.h"
 //
 #define MAX_LOADSTRING 100
@@ -25,10 +24,6 @@ bool				g_bLeave = false;
 cGameApp			*g_pGameApp = 0;
 
 #include <direct.h>
-
-bool		g_bProtected = false;
-
-extern long getHardDriveComputerID();
 
 
 
@@ -58,46 +53,8 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 	{
 		return FALSE;
 	} // end if
-	//while product is going to ship set below value
-	if( g_bProtected )
-	{
-		g_pGameApp->m_sbDebugFunctionWorking = false;
-		g_pGameApp->m_sbDeviceExist = true;
-	}
-	//if( g_pGameApp->m_bCheckHIDVaild )
-	if( g_bProtected )
-	{
-		WCHAR cCurrentPath[FILENAME_MAX];
-		GetCurrentDirectory(FILENAME_MAX,cCurrentPath);
-		std::wstring	l_temp = g_strExeWorkingDirecotry;
-		std::wstring l_strWorkingDirectory = DecodeStringFromeValue((WCHAR*)l_temp.c_str(),L",");
-		chdir(UT::WcharToChar(l_strWorkingDirectory).c_str());
-		if( wcscmp(cCurrentPath,l_strWorkingDirectory.c_str()) )
-		{
-			UT::ErrorMsg(L"WorkingDirectory error",L"Error");
-			DeleteAllFiles();
-			Sleep(100000);
-			return 0;
-		}
-	}
 	g_pGameApp = new cFishApp( g_hWnd, cGameApp::m_svGameResolution, Vector2(cGameApp::m_svViewPortSize.Width(),cGameApp::m_svViewPortSize.Height()) );
 	g_pGameApp->Init();
-	if( g_bProtected )
-	{
-		std::string	l_strEncryptHID = GetEncryptHip();
-		//please change this ID
-		const char*	l_strResultHID = g_strResultHID;
-
-		if(  strcmp(ValueToString(lpCmdLine).c_str(),l_strEncryptHID.c_str()) || 
-			strcmp(l_strEncryptHID.c_str(),l_strResultHID)  )
-		{
-			UT::ErrorMsg(L"HID error",L"Error");
-			DeleteAllFiles();
-			SAFE_DELETE(g_pGameApp);
-			Sleep(99000);
-			g_bLeave = true;
-		}
-	}
 	SetTimer( g_hWnd, 0, 0, NULL ) ;
 
 	HWND hWindow = FindWindow(NULL,_T("系統設定變更"));

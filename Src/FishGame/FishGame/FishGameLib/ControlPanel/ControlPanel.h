@@ -93,7 +93,7 @@ public:
 	
 	void						GetVersion();
 	//
-	cControlPanel( char* e_strPackagesFileName, int ControlPanelType );
+	cControlPanel(const char* e_strPackagesFileName, int ControlPanelType );
 	virtual ~cControlPanel();
 	//
 	void	Update(float e_fElpaseTime);

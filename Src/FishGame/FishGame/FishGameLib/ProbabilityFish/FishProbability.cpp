@@ -3,7 +3,6 @@
 #include "BulletBank/BankMode.h"
 #include "FileSaver.h"
 #include "BulletBank/BulletDataAndBankRepositorManager.h"
-#include "../GameApp/TestLogSetup.h"
 #include "../GameApp/GameApp.h"
 #include "../Monster/MonsterManager.h"
 #include "../GameBullet/Bullet.h"
