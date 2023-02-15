@@ -268,13 +268,6 @@
     <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Core\GameplayUT\Physic\Bullet\Bullet.vcxproj">
       <Project>{b97aee71-62ec-40f0-abd0-6eabf0787a3e}</Project>
     </ProjectReference>
-    <ProjectReference Include="..\..\IOSimulationMachine\IOSimulationMachine.vcxproj">
-      <Project>{e063a3a9-93fd-4f7a-ad22-aa36a144b338}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="..\GameBullet\GameBullet.vcxproj">
-      <Project>{1924e53c-2608-4640-ad30-dc5c796eff68}</Project>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

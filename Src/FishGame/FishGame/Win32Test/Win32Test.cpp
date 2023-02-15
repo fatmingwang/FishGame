@@ -4,9 +4,7 @@
 //
 #include "../../AllLibInclude.h"
 //
-#include "../GameApp/GameApp.h"
-#include "../GameApp/TestLogSetup.h"
-#include "../../Core/GameplayUT/StringCompress.h"
+#include "../FishGameLib/GameApp/GameApp.h"
 //
 #define MAX_LOADSTRING 100
 //
@@ -53,7 +51,7 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 	{
 		return FALSE;
 	} // end if
-	g_pGameApp = new cFishApp( g_hWnd, cGameApp::m_svGameResolution, Vector2(cGameApp::m_svViewPortSize.Width(),cGameApp::m_svViewPortSize.Height()) );
+	g_pGameApp = new cFishApp( g_hWnd, cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y) );
 	g_pGameApp->Init();
 	SetTimer( g_hWnd, 0, 0, NULL ) ;
 
@@ -145,14 +143,14 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    hInst = hInstance; // Store instance handle in our global variable
 	bool	l_bFullScreen = false;
 	cNodeISAX	l_NodeISAX;
-	cGameApp::m_svViewPortSize.z = 1024.;
-	cGameApp::m_svViewPortSize.w = 768.f;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 1024.;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 768.f;
 	cFishApp::ResoluctionParse2( "FishSetup.xml" );
 
 	DWORD	l_dwFlag = WS_OVERLAPPEDWINDOW;
 	if(cGameApp::m_sbFullScreen)
 		l_dwFlag = WS_VISIBLE | WS_POPUP |	WS_CLIPSIBLINGS | WS_CLIPCHILDREN;
-	g_hWnd = CreateWindow(szWindowClass, szTitle, l_dwFlag, 0, 0, (int)cGameApp::m_svViewPortSize.Width(), (int)cGameApp::m_svViewPortSize.Height(), NULL, NULL, hInstance, NULL);
+	g_hWnd = CreateWindow(szWindowClass, szTitle, l_dwFlag, 0, 0, (int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), (int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Height(), NULL, NULL, hInstance, NULL);
 
 	if (!g_hWnd)
 	{
@@ -190,13 +188,13 @@ bool	g_bTimerDone = false;
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	g_cMouseWhellDelta = 0;
-	float   l_fScaleX = cGameApp::m_svGameResolution.x/cGameApp::m_svViewPortSize.x;
-	float   l_fScaleY = cGameApp::m_svGameResolution.y/cGameApp::m_svViewPortSize.y;	
+	float   l_fScaleX = cGameApp::m_spOpenGLRender->m_vGameResolution.x/ cGameApp::m_spOpenGLRender->m_vViewPortSize.x;
+	float   l_fScaleY = cGameApp::m_spOpenGLRender->m_vGameResolution.y/ cGameApp::m_spOpenGLRender->m_vViewPortSize.y;
 	switch (message)
 	{
 	case  WM_SIZE:
-		cGameApp::m_svViewPortSize.z = (float)LOWORD(lParam);
-		cGameApp::m_svViewPortSize.w = (float)HIWORD(lParam);
+		cGameApp::m_spOpenGLRender->m_vViewPortSize.z = (float)LOWORD(lParam);
+		cGameApp::m_spOpenGLRender->m_vViewPortSize.w = (float)HIWORD(lParam);
 		break;
 	case WM_TIMER:
 		if( !g_bLeave && g_pGameApp && g_bTimerDone == false )
@@ -204,16 +202,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			g_bTimerDone = true;
 			g_pGameApp->Run();
 			cFishApp*l_pFishApp = (cFishApp*)g_pGameApp;
-			if( l_pFishApp->m_spTestLogFile )
-			{
-				if( l_pFishApp->m_spTestLogFile->IsSkipFrame() )
-				{
-					for( int i=0;i<l_pFishApp->m_spTestLogFile->GetSkipFrame();++i )
-					{
-						l_pFishApp->Update(0.016f);
-					}
-				}
-			}
 			g_bTimerDone = false;
 		}
 		//else
@@ -243,7 +231,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			break;
 			case VK_ESCAPE:
-				if(!g_pGameApp->m_sbDeviceExist || g_pGameApp->m_sbDebugFunctionWorking)
+				if(g_pGameApp->m_sbDebugFunctionWorking)
 				{
 					g_bLeave = true;
 				}

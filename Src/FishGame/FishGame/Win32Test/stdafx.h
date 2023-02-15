@@ -22,16 +22,4 @@
 
 
 
-#include "../../Core/AllCoreInclude.h"
-#include "../../Core/Particle/AllParticleInclude.h"
-//#include "../../FatmingCollada/AllColladaInclude.h"
-#include "../../Core/FatmingAI/AllFatmingAIInclude.h"
-#include "../../IOSimulationMachine/AllIOSMInclude.h"
-#include "../../Core/AllPhysicInclude.h"
-#include "../../Core/FMEvent/AllEventInclude.h"
-#include "../ControlPanel/ControlPanel.h"
-
-
-#include "../../IOSimulationMachine/AllIOSMInclude.h"
-
-#include "FileNameDefine.h"
+#include "../../../../FM79979/Src/FM79979Engine/Core/AllCoreInclude.h"
