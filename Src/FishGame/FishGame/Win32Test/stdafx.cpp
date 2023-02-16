@@ -6,3 +6,22 @@
 
 // TODO: reference any additional headers you need in STDAFX.H
 // and not in this file
+
+
+#pragma comment(lib, "../../../lib/OpenAL32.lib")
+#pragma comment(lib, "../../../lib/alut.lib")
+#pragma comment(lib, "../../../lib/glew.lib")
+#ifdef DEBUG
+#pragma comment(lib, "../../../lib/Debug/ogg.lib")
+#else
+#pragma comment(lib, "../../../lib/Release/ogg.lib")
+#endif
+#pragma comment(lib, "opengl32.lib")
+#pragma comment(lib, "Glu32.lib")
+#pragma comment(lib, "gdi32.lib")
+#pragma comment(lib, "User32.lib")
+#pragma comment(lib, "Psapi.lib")
+
+#pragma comment(lib, "wsock32.lib")
+#pragma comment(lib, "iphlpapi.lib")
+#pragma comment(lib, "Urlmon.lib")

@@ -1,9 +1,8 @@
 #include "stdafx.h"
 #include "Resource.h"
 #include "Windowsx.h"
-//
-#include "../../AllLibInclude.h"
-//
+
+
 #include "../FishGameLib/GameApp/GameApp.h"
 //
 #define MAX_LOADSTRING 100
