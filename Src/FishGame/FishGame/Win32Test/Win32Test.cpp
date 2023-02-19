@@ -51,6 +51,7 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 		return FALSE;
 	} // end if
 	g_pGameApp = new cFishApp( g_hWnd, cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y) );
+	g_pGameApp->ApplyViewPort();
 	g_pGameApp->Init();
 	SetTimer( g_hWnd, 0, 0, NULL ) ;
 
@@ -140,10 +141,10 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 	cGameApp::m_spOpenGLRender = new cOpenGLRender(Vector2(1440, 900));
 	auto &l_vResolution = cGameApp::m_spOpenGLRender->m_vViewPortSize;
 
-	cGameApp::m_spOpenGLRender->m_vViewPortSize.x = 0;
-	cGameApp::m_spOpenGLRender->m_vViewPortSize.y = 0;
-	cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 1024.f;
-	cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 768.f;
+	//cGameApp::m_spOpenGLRender->m_vViewPortSize.x = 0;
+	//cGameApp::m_spOpenGLRender->m_vViewPortSize.y = 0;
+	//cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 1024.f;
+	//cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 768.f;
 	cFishApp::ResoluctionParse2( "FishSetup.xml" );
 
 	DWORD	l_dwFlag = WS_OVERLAPPEDWINDOW;

@@ -48,13 +48,7 @@ cFishMultiCollisionData::sCollisionData::~sCollisionData()
 }
 
 
-
-
-
-
-
-
-cFishMultiCollisionData::cFishMultiCollisionData(TiXmlElement*e_pElement, const WCHAR *l_strTypeID ,int e_iFishID):cNormalFish(e_pElement,l_strTypeID ,e_iFishID)
+cFishMultiCollisionData::cFishMultiCollisionData(TiXmlElement*e_pElement, const wchar_t*l_strTypeID ,int e_iFishID):cNormalFish(e_pElement,l_strTypeID ,e_iFishID)
 {
 	m_Frame.SetLocalTransform(cMatrix44::Identity);
 	m_fRadius = this->m_fRadius;
@@ -120,22 +114,10 @@ cFishMultiCollisionData::cFishMultiCollisionData(cFishMultiCollisionData*e_pNorm
 }
 
 
-
-
-
-
-
-
 cFishMultiCollisionData::~cFishMultiCollisionData()
 {
 	DELETE_VECTOR(m_CollisionDataList);
 }
-
-
-
-
-
-
 
 
 void	cFishMultiCollisionData::ProcessPhysicalData(TiXmlElement*e_pElement)

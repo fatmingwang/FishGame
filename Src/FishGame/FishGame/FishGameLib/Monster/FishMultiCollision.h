@@ -32,7 +32,7 @@ private:
 	virtual	void			ProcessPhysicalData(TiXmlElement*e_pElement);
 	virtual	void			InternalUpdate(float e_fElpaseTime);
 public:
-	cFishMultiCollisionData(TiXmlElement*e_pElement, const WCHAR *l_strTypeID ,int e_iFishID);
+	cFishMultiCollisionData(TiXmlElement*e_pElement, const wchar_t *l_strTypeID ,int e_iFishID);
 	cFishMultiCollisionData(cFishMultiCollisionData*e_pMultiCollisionDataFish);
 	virtual ~cFishMultiCollisionData();
 	CLONE_MYSELF(cFishMultiCollisionData);

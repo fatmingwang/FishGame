@@ -452,11 +452,12 @@ void	cMonsterManager::Destroy()
 	m_iMaxMonsterAliveWithPlayerCount.clear();
 	m_iEachMonsterReserve.clear();
 	m_AllFish.Destroy();
-	cNamedTypedObjectVector<cMonster>::Destroy();
 	if( m_ppWorkingMonster )
 	{
-		for( int i=0;i<m_iSpecialScenceMaxMonsterAlive;++i )
+		for (int i = 0; i < m_iSpecialScenceMaxMonsterAlive; ++i)
+		{
 			m_ppWorkingMonster[i] = 0;
+		}
 		SAFE_DELETE_ARRAY(m_ppWorkingMonster);
 	}
 	SAFE_DELETE(m_pHittedFish);
@@ -464,9 +465,14 @@ void	cMonsterManager::Destroy()
 	SAFE_DELETE(m_pAllFishGroupFile);
 	SAFE_DELETE(m_pFishDiedEffect);
 
-	for ( int i = 0; i < sizeof( m_pBigWinEmitter ) / sizeof( m_pBigWinEmitter[0] ); i++ )
-		 if ( m_pBigWinEmitter[i] )
-			 SAFE_DELETE( m_pBigWinEmitter[i] );
+	for (int i = 0; i < sizeof(m_pBigWinEmitter) / sizeof(m_pBigWinEmitter[0]); i++)
+	{
+		if (m_pBigWinEmitter[i])
+		{
+			SAFE_DELETE(m_pBigWinEmitter[i]);
+		}
+	}
+	cNamedTypedObjectVector<cMonster>::Destroy();
 }
 
 bool	cMonsterManager::RestMonsterToRequire(int e_iFishIndex,int e_iCount)

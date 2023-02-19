@@ -45,7 +45,8 @@ void		WritePlayerMoney(float e_fElpaseTime)
 int	g_iLoadingStep = 1;
 cBaseImage*g_pLoadingImage = 0;
 void	LoadingProgressInfo()
-{	cGameApp::m_sTimeAndFPS.Update();
+{	
+	cGameApp::m_sTimeAndFPS.Update();
 	if( cGameApp::m_sTimeAndFPS.fElpaseTime >0.032f )
 	{
 		const wchar_t*l_strLoadingInfo = L"Loading...";
@@ -59,7 +60,7 @@ void	LoadingProgressInfo()
 		glClearColor( 0,0.5,0.5,1 );
 		glClearDepth(1.0f);	
 		glEnable(GL_TEXTURE_2D);
-		glEnable2D(cGameApp::m_spOpenGLRender->m_vViewPortSize.x, cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
+		glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 		if( g_pLoadingImage )
 		{
 			g_pLoadingImage->Render();
@@ -160,7 +161,7 @@ void	cFishApp::Init()
 		glClearColor( 0,0.5,0.5,1 );
 		glClearDepth(1.0f);	
 		glEnable(GL_TEXTURE_2D);
-		glEnable2D(cGameApp::m_spOpenGLRender->m_vViewPortSize.x, cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
+		glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 		cBaseImage*l_pLoadingImage = new cBaseImage("Fish/Image/Loading.png");
 		l_pLoadingImage->Render();
 		SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
@@ -482,7 +483,7 @@ void	cFishApp::Render()
 			m_spGameEffectManager->Render();
 		TimsStamp( eDI_WINMONEYEFFECT, false );
 		TimsStamp(eDI_SCENE_CHANGE,false,true);
-		glEnable2D(cGameApp::m_spOpenGLRender->m_vViewPortSize.x, cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
+		glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 ////#ifdef DEBUG
 //		if( cGameApp::m_spGlyphFontRender)
 //		{
