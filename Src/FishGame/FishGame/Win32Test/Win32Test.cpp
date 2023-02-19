@@ -41,7 +41,7 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 
 	// Initialize global strings
 	LoadString(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
-	swprintf( szTitle, 100, L"Ver.[%d]", GetTickCount() );
+	swprintf( szTitle, 100, L"FSC");
 	LoadString(hInstance, IDC_TEST, szWindowClass, MAX_LOADSTRING);
 	MyRegisterClass(hInstance);
 
@@ -54,11 +54,6 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 	g_pGameApp->Init();
 	SetTimer( g_hWnd, 0, 0, NULL ) ;
 
-	HWND hWindow = FindWindow(NULL,_T("系統設定變更"));
-	if( hWindow )
-	{
-		PostMessage(hWindow,WM_COMMAND,7,0);
-	}
     //MouseHook = SetWindowsHookEx(WH_MOUSE_LL,MouseHookProc,hInstance,0);
 	// Main message loop:
 	while (GetMessage(&msg, NULL, 0, 0)&&!g_bLeave)
@@ -142,15 +137,21 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    hInst = hInstance; // Store instance handle in our global variable
 	bool	l_bFullScreen = false;
 	cNodeISAX	l_NodeISAX;
-	cGameApp::m_spOpenGLRender = new cOpenGLRender(Vector2(1280, 720));
-	cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 1024.;
+	cGameApp::m_spOpenGLRender = new cOpenGLRender(Vector2(1440, 900));
+	auto &l_vResolution = cGameApp::m_spOpenGLRender->m_vViewPortSize;
+
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.x = 0;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.y = 0;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 1024.f;
 	cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 768.f;
 	cFishApp::ResoluctionParse2( "FishSetup.xml" );
 
 	DWORD	l_dwFlag = WS_OVERLAPPEDWINDOW;
+	//auto l_vResolution = cGameApp::m_spOpenGLRender->m_vViewPortSize;
+	auto l_Size = l_vResolution.Size();
 	if(cGameApp::m_sbFullScreen)
 		l_dwFlag = WS_VISIBLE | WS_POPUP |	WS_CLIPSIBLINGS | WS_CLIPCHILDREN;
-	g_hWnd = CreateWindow(szWindowClass, szTitle, l_dwFlag, 0, 0, (int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), (int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Height(), NULL, NULL, hInstance, NULL);
+	g_hWnd = CreateWindow(szWindowClass, szTitle, l_dwFlag, 0, 0, (int)l_Size.x, (int)l_Size.y, NULL, NULL, hInstance, NULL);
 
 	if (!g_hWnd)
 	{

@@ -3,9 +3,7 @@
 	<SpecialBG Name="Fish/Image/BG/BG4.png,Fish/Image/BG/BG7.png,Fish/Image/BG/BG5.png,Fish/Image/BG/BG6.png" Probability="100" />
 
 	<!--<SpecialScene 	Time="50"  	MovingMethod="Code" 		FileName="今晚打老虎" A1="100" A2="1000" R1="2" R2="20" />-->
-	<SpecialScene 	Time="50" 	MovingMethod="Path" 		FileName="Fish/MonsterData/Group/Winnings07.mpdi" />
 	<SpecialScene 	Time="50"  	MovingMethod="Path" 		FileName="Fish/MonsterData/Group/Winnings01.mpdi" />
-	<SpecialScene	Time="50" 	MovingMethod="Path" 		FileName="Fish/MonsterData/Group/Winnings08.mpdi" />
 	<SpecialScene 	Time="50"  	MovingMethod="Path" 		FileName="Fish/MonsterData/Group/Winnings02.mpdi" />
 	<SpecialScene 	Time="50"  	MovingMethod="Path" 		FileName="Fish/MonsterData/Group/Winnings03.mpdi" />
 	<SpecialScene 	Time="50"  	MovingMethod="Path" 		FileName="Fish/MonsterData/Group/Winnings04.mpdi" />

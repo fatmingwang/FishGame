@@ -309,16 +309,15 @@ void	cFishApp::ResoluctionParse2(char*e_strFileName)
 	if(l_b)
 	{
 		TiXmlElement*l_pTiXmlElement = l_NodeISAX.GetRootElement();
-		const WCHAR*l_strFullscreen = l_pTiXmlElement->Attribute(L"FullScreen");
+		const wchar_t*l_strFullscreen = l_pTiXmlElement->Attribute(L"FullScreen");
 		if( l_strFullscreen )
 			m_sbFullScreen = _wtoi(l_strFullscreen)?true:false;
-		const WCHAR*l_strResolution = l_pTiXmlElement->Attribute(L"Resolution");
-		const WCHAR*l_strViewPort = l_pTiXmlElement->Attribute(L"ViewPort");
-		const WCHAR*l_strDeviceOrietation = l_pTiXmlElement->Attribute(L"DeviceOrietation");
-		const WCHAR*l_strHideMouseCursor = l_pTiXmlElement->Attribute(L"HideMouseCursor");
-		const WCHAR*l_strTexturePowerOfTwo = l_pTiXmlElement->Attribute(L"TexturePowerOfTwo");
-		const WCHAR*l_strDevice = l_pTiXmlElement->Attribute(L"Device");
-		const WCHAR*l_strDebugFunctionWorking = l_pTiXmlElement->Attribute(L"DebugFunction");
+		const wchar_t*l_strResolution = l_pTiXmlElement->Attribute(L"Resolution");
+		const wchar_t*l_strViewPort = l_pTiXmlElement->Attribute(L"ViewPort");
+		const wchar_t*l_strDeviceOrietation = l_pTiXmlElement->Attribute(L"DeviceOrietation");
+		const wchar_t*l_strHideMouseCursor = l_pTiXmlElement->Attribute(L"HideMouseCursor");
+		const wchar_t*l_strTexturePowerOfTwo = l_pTiXmlElement->Attribute(L"TexturePowerOfTwo");
+		const wchar_t*l_strDebugFunctionWorking = l_pTiXmlElement->Attribute(L"DebugFunction");
 
 		if( l_strDebugFunctionWorking )
 		{
@@ -330,11 +329,9 @@ void	cFishApp::ResoluctionParse2(char*e_strFileName)
 			POINT	l_Resolution = GetPoint(l_strResolution);
 			if( !l_strViewPort )
 			{
-				cGameApp::m_spOpenGLRender->m_vViewPortSize.x = (float)l_Resolution.x;
-				cGameApp::m_spOpenGLRender->m_vViewPortSize.y = (float)l_Resolution.y;
+				cGameApp::m_spOpenGLRender->m_vGameResolution.x = (float)l_Resolution.x;
+				cGameApp::m_spOpenGLRender->m_vGameResolution.y = (float)l_Resolution.y;
 			}
-			cGameApp::m_spOpenGLRender->m_vViewPortSize.x = (float)l_Resolution.x;
-			cGameApp::m_spOpenGLRender->m_vViewPortSize.y = (float)l_Resolution.y;
 			//if(!m_spClickMouseBehavior)
 			//	m_spClickMouseBehavior = new cClickMouseBehavior();
 			//m_spClickMouseBehavior->SetCollisionRange(Vector4(0,0,m_svGameResolution.x,m_svGameResolution.y));
@@ -342,6 +339,8 @@ void	cFishApp::ResoluctionParse2(char*e_strFileName)
 		if( l_strViewPort )
 		{
 			POINT	l_Resolution = GetPoint(l_strViewPort);
+			cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 0;
+			cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 0;
 			cGameApp::m_spOpenGLRender->m_vViewPortSize.z = (float)l_Resolution.x;
 			cGameApp::m_spOpenGLRender->m_vViewPortSize.w = (float)l_Resolution.y;
 		}

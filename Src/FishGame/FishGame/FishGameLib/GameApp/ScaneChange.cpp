@@ -569,8 +569,8 @@ void	cSceneChange::ChangeScene()
 		//m_pBGImage->SetImageShowWidth( (int)cGameApp::m_svGameResolution.x );
 		//m_pBGImage->SetImageShowHeight( (int)cGameApp::m_svGameResolution.y );
 		m_CurrentBGName = m_NormalBG.ImageNameList[l_iIndex];
-		const WCHAR*l_str = &m_pBGImage->GetName()[2];
-		l_iIndex = GetInt(l_str);
+		auto l_str = GetFileNameWithoutFullPath(m_pBGImage->GetName(), true);
+		l_iIndex = GetInt(&l_str.c_str()[2]);
 		std::wstring	l_strMPDIListName = UT::ComposeMsgByFormat(L"%s%d.mpdi",SCENE_CHANGE_BG_ANIMATION,l_iIndex);
 		cMPDIList*l_pMPDIList = cGameApp::GetMPDIListByFileName(l_strMPDIListName.c_str());
 		m_pBGAnimationOld = m_pBGAnimation;
@@ -605,8 +605,8 @@ void	cSceneChange::ChangeSpecialScene()
 	m_pBGImage->SetHeight((int)cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 	m_CurrentBGName = m_SpecialBG.ImageNameList[l_iIndex];
 
-	const WCHAR*l_str = &m_pBGImage->GetName()[2];
-	l_iIndex = GetInt(l_str);
+	auto l_str = GetFileNameWithoutFullPath(m_pBGImage->GetName(), true);
+	l_iIndex = GetInt(&l_str.c_str()[2]);
 	std::wstring	l_strMPDIListName = UT::ComposeMsgByFormat(L"%s%d.mpdi",SCENE_CHANGE_BG_ANIMATION,l_iIndex);
 	cMPDIList*l_pMPDIList = cGameApp::GetMPDIListByFileName(l_strMPDIListName.c_str());
 	m_pBGAnimationOld = m_pBGAnimation;
