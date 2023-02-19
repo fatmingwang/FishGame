@@ -5,6 +5,7 @@
 
 cBullet::cBullet( cMPDI*e_pBulletMPDI, cbtShapeCollision* e_pBulletCollision, float e_fSpeed,cMPDI* e_pWeb, cbtShapeCollision* e_pWebCollision )
 {
+	m_pPlayer = nullptr;
 	m_iNumMonsterShoot = 0;
 	m_fAngle = 0.f;
 	m_vPos = Vector3::Zero;

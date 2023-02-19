@@ -142,6 +142,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    hInst = hInstance; // Store instance handle in our global variable
 	bool	l_bFullScreen = false;
 	cNodeISAX	l_NodeISAX;
+	cGameApp::m_spOpenGLRender = new cOpenGLRender(Vector2(1280, 720));
 	cGameApp::m_spOpenGLRender->m_vViewPortSize.z = 1024.;
 	cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 768.f;
 	cFishApp::ResoluctionParse2( "FishSetup.xml" );

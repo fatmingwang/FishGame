@@ -96,17 +96,16 @@ cFishApp::cFishApp(Vector2 e_vGameResolution,Vector2 e_vViewportSize)
 #endif
 {
 	cGameApp::Init();
-	cGameApp::OutputDebugInfoString(L"\nStart\n");
+	FMLog::Log("constructor Start",false);
 	if( 1 )
 	{
-		cCurveWithTime	l_cCurveWithTime;
-		std::vector<cCurveWithTime>	ll;
-		ll.push_back( l_cCurveWithTime );
+		//cCurveWithTime	l_cCurveWithTime;
+		//std::vector<cCurveWithTime>	ll;
+		//ll.push_back( l_cCurveWithTime );
 		//cFMAnimationRule	l_cFMAnimationRule;
 		//std::vector<cFMAnimationRule>	aa;
 		//aa.push_back(l_cFMAnimationRule);
 	}
-	cGameApp::OutputDebugInfoString(L"\nEnd");
 	//m_sbSpeedControl = true;
 	m_bLeave = false;
 
@@ -114,6 +113,7 @@ cFishApp::cFishApp(Vector2 e_vGameResolution,Vector2 e_vViewportSize)
 	{
 		UT::ErrorMsg(L"Fish/Sound.xml",L"parse sound error");
 	}
+	FMLog::Log("constructor End",false);
 	//cGameApp::m_spSoundParser->GetObject(L"3")->SetVolume(0.1f);
 }
 

@@ -164,9 +164,8 @@ void	cSceneChange::ProcessNormalBG(TiXmlElement*e_pTiXmlElement)
 				UT::ErrorMsg(m_NormalBG.ImageNameList[i].c_str(),"exist!?");
 			}
 		}
-
-		const WCHAR *l_str = &l_NormalBG->GetName()[2];
-		l_iIndex = GetInt(l_str);
+		auto l_str = GetFileNameWithoutFullPath(l_NormalBG->GetName(),true);
+		l_iIndex = GetInt(&l_str.c_str()[2]);
 		std::wstring l_strMPDIListName = UT::ComposeMsgByFormat( L"%s%d.mpdi", SCENE_CHANGE_BG_ANIMATION, l_iIndex );
 		cMPDIList* l_pMPDIList = cGameApp::GetMPDIListByFileName( l_strMPDIListName.c_str() );
 		
