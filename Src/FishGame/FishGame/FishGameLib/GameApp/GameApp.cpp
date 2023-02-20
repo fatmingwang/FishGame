@@ -49,18 +49,21 @@ void	LoadingProgressInfo()
 	cGameApp::m_sTimeAndFPS.Update();
 	if( cGameApp::m_sTimeAndFPS.fElpaseTime >0.032f )
 	{
+		cGameApp::m_spOpenGLRender->Render();
 		const wchar_t*l_strLoadingInfo = L"Loading...";
 		int	l_iLength = (int)wcslen(l_strLoadingInfo);
 		wchar_t	l_str[MAX_PATH];
 		memcpy(l_str,l_strLoadingInfo,sizeof(wchar_t)*g_iLoadingStep);
 		l_str[g_iLoadingStep] = L'\0';
-		UseShaderProgram();
-		glViewport(0,0,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.x,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.y);
-		glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
-		glClearColor( 0,0.5,0.5,1 );
-		glClearDepth(1.0f);	
-		glEnable(GL_TEXTURE_2D);
-		glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
+		//UseShaderProgram();
+		auto l_vVeiewRect = cGameApp::m_spOpenGLRender->m_vViewPortSize;
+		auto l_vGameResolution = cGameApp::m_spOpenGLRender->m_vGameResolution;
+		//glViewport(0,0,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), (int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Height());
+		//glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
+		//glClearColor( 0,0.5,0.5,1 );
+		//glClearDepth(1.0f);	
+		//glEnable(GL_TEXTURE_2D);
+		//glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 		if( g_pLoadingImage )
 		{
 			g_pLoadingImage->Render();
@@ -155,13 +158,14 @@ void	cFishApp::Init()
 	cGameApp::SoundPlay(L"6",false);
 	if( UT::IsFileExists("Fish/Image/Loading.png") )
 	{
-		UseShaderProgram();
-		glViewport(0,0,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(),(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Height());
-		glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
-		glClearColor( 0,0.5,0.5,1 );
-		glClearDepth(1.0f);	
-		glEnable(GL_TEXTURE_2D);
-		glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
+		//UseShaderProgram();
+		cGameApp::m_spOpenGLRender->Render();
+		//glViewport(0,0,(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(),(int)cGameApp::m_spOpenGLRender->m_vViewPortSize.Height());
+		//glClear(GL_COLOR_BUFFER_BIT| GL_DEPTH_BUFFER_BIT);
+		//glClearColor( 0,0.5,0.5,1 );
+		//glClearDepth(1.0f);	
+		//glEnable(GL_TEXTURE_2D);
+		//glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 		cBaseImage*l_pLoadingImage = new cBaseImage("Fish/Image/Loading.png");
 		l_pLoadingImage->Render();
 		SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);

@@ -68,10 +68,10 @@ public:
 	void			LastRender();
 	void			DebugRender();
 	void			Destroy();
-	cMonster*		Require(const WCHAR*e_strFishName,bool e_bForceFetch = false);
+	cMonster*		Require(const wchar_t*e_strFishName,bool e_bForceFetch = false);
 	cMonster*		Require(int e_iFishIndex,bool e_bForceFetch = false);
 	bool			RestMonsterToRequire(int e_iFishIndex,int e_iCount);
-	bool			RestMonsterToRequire(const WCHAR*e_strName,int e_iCount);
+	bool			RestMonsterToRequire(const wchar_t*e_strName,int e_iCount);
 	int				GetSmallestPrizeFishID(int*e_piPrize);
 	int				GetSmallestPrizeFishIDFromAliveFish(int*e_piPrize);
 	cMonster**		GetWorkingMonster(){ return m_ppWorkingMonster; }

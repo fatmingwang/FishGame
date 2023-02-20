@@ -50,8 +50,7 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 	{
 		return FALSE;
 	} // end if
-	g_pGameApp = new cFishApp( g_hWnd, cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y) );
-	g_pGameApp->ApplyViewPort();
+	g_pGameApp = new cFishApp( g_hWnd, cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), cGameApp::m_spOpenGLRender->m_vViewPortSize.Height()));
 	g_pGameApp->Init();
 	SetTimer( g_hWnd, 0, 0, NULL ) ;
 
@@ -192,11 +191,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	g_cMouseWhellDelta = 0;
 	float   l_fScaleX = cGameApp::m_spOpenGLRender->m_vGameResolution.x/ cGameApp::m_spOpenGLRender->m_vViewPortSize.x;
 	float   l_fScaleY = cGameApp::m_spOpenGLRender->m_vGameResolution.y/ cGameApp::m_spOpenGLRender->m_vViewPortSize.y;
+	auto l_ViewRect = &cGameApp::m_spOpenGLRender->m_vViewPortSize;
 	switch (message)
 	{
 	case  WM_SIZE:
-		cGameApp::m_spOpenGLRender->m_vViewPortSize.z = (float)LOWORD(lParam);
-		cGameApp::m_spOpenGLRender->m_vViewPortSize.w = (float)HIWORD(lParam);
+		cGameApp::m_spOpenGLRender->SetAcceptRationWithGameresolution((float)LOWORD(lParam), (float)HIWORD(lParam), 1440, 900);
+		//cGameApp::m_spOpenGLRender->m_vViewPortSize.w = 
 		break;
 	case WM_TIMER:
 		if( !g_bLeave && g_pGameApp && g_bTimerDone == false )

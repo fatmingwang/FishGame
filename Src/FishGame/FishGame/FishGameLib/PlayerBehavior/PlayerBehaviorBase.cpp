@@ -12,7 +12,7 @@ cPlayerBehaviorBase::cPlayerBehaviorBase()
 	m_iMinScoreBet = 0;
 	m_iMaxLevelNumber = 0;
 	m_pWeapon = 0;
-	m_i64Score = 0;
+	m_i64Score = 9999;
 	m_iPlayerID = -1;
 	m_vScorePos = Vector3::Zero;
 	m_pScoreNumberImage = 0;

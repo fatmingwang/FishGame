@@ -196,13 +196,19 @@ bool	cMonsterManager::MyParse(TiXmlElement*e_pRoot)
 				else
 				COMPARE_NAME("BodyType")
 				{
-					l_eBodyType = GetBodyType(l_strValue);
-					l_pMonster->SetBodyType(l_eBodyType);
+					if (l_pMonster)
+					{
+						l_eBodyType = GetBodyType(l_strValue);
+						l_pMonster->SetBodyType(l_eBodyType);
+					}
 				}
 				else
 				COMPARE_NAME("Scale")
 				{
-					l_pMonster->m_fScale = VALUE_TO_FLOAT;
+					if (l_pMonster)
+					{
+						l_pMonster->m_fScale = VALUE_TO_FLOAT;
+					}
 				}
 				else
 				COMPARE_NAME("GroupMovingDirectionOffsetX")
@@ -481,7 +487,7 @@ bool	cMonsterManager::RestMonsterToRequire(int e_iFishIndex,int e_iCount)
 	return RestMonsterToRequire(l_pMonster->GetName(),e_iCount);
 }
 
-bool	cMonsterManager::RestMonsterToRequire(const WCHAR*e_strName,int e_iCount)
+bool	cMonsterManager::RestMonsterToRequire(const wchar_t*e_strName,int e_iCount)
 {
 	int	l_iRestMonsterToRequire = 0;
 	if( m_iNumMonsterAlive < m_iMaxMonsterAlive )
@@ -542,7 +548,7 @@ cMonster*	cMonsterManager::Require( int e_iFishIndex, bool e_bForceFetch )
 
 
 
-cMonster*	cMonsterManager::Require( const WCHAR *e_strFishName, bool e_bForceFetch )
+cMonster*	cMonsterManager::Require( const wchar_t*e_strFishName, bool e_bForceFetch )
 {
 	if( m_iNumMonsterAlive < m_iMaxMonsterAlive || e_bForceFetch )
 	{

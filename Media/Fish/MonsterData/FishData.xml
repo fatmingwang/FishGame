@@ -149,7 +149,7 @@
   		</Physical>
       <ShowProbability ShowProbability="2"  	FishGroupProbability="0" FishGroupCount="1,1" FishGroupMPDIProbability="0" SingleFishProbability="1" />
  	</Monster>
-        <Monster Name="BigThree002" Type="cMultiCollisionDataFish" ID="19" MonsterReserve="1" BodyType="Medium" GroupMovingDirectionOffsetX="-0.2,0.2" GroupMovingDirectionOffsetY="-0.2,0.2" StartOffsetTime="1" CanMissileLocked="1" MissileCradImage="BigThree002MER" CoinStackCardImage="BigThree002MER_ShowGetMoney">
+  <Monster Name="BigThree002" Type="cMultiCollisionDataFish" ID="19" MonsterReserve="1" BodyType="Medium" GroupMovingDirectionOffsetX="-0.2,0.2" GroupMovingDirectionOffsetY="-0.2,0.2" StartOffsetTime="1" CanMissileLocked="1" MissileCradImage="BigThree002MER" CoinStackCardImage="BigThree002MER_ShowGetMoney">
   		<MonsterData Prize="24" Probability="1.5" />
   		<AI File="Fish\MonsterData\AI\BigThree002.fai" />
   		<Animation MPDIList="Fish\Image\Fish\BigThree002\BigThree002.mpdi" MPDI="NormalMove" />

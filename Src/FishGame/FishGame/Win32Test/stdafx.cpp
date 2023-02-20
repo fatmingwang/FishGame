@@ -11,11 +11,6 @@
 #pragma comment(lib, "../../../lib/OpenAL32.lib")
 #pragma comment(lib, "../../../lib/alut.lib")
 #pragma comment(lib, "../../../lib/glew.lib")
-#ifdef DEBUG
-#pragma comment(lib, "../../../lib/Debug/ogg.lib")
-#else
-#pragma comment(lib, "../../../lib/Release/ogg.lib")
-#endif
 #pragma comment(lib, "opengl32.lib")
 #pragma comment(lib, "Glu32.lib")
 #pragma comment(lib, "gdi32.lib")

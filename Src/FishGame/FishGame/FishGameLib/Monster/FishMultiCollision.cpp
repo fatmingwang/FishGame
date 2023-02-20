@@ -44,7 +44,7 @@ cFishMultiCollisionData::sCollisionData::sCollisionData()
 
 cFishMultiCollisionData::sCollisionData::~sCollisionData()
 {
-	SAFE_DELETE(piCollisionTargetIndex);
+	SAFE_DELETE_ARRAY(piCollisionTargetIndex);
 }
 
 
@@ -116,6 +116,7 @@ cFishMultiCollisionData::cFishMultiCollisionData(cFishMultiCollisionData*e_pNorm
 
 cFishMultiCollisionData::~cFishMultiCollisionData()
 {
+	SAFE_DELETE(m_pAliveMPDI);
 	DELETE_VECTOR(m_CollisionDataList);
 }
 
