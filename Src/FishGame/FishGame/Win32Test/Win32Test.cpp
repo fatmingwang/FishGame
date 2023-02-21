@@ -69,6 +69,7 @@ int APIENTRY _tWinMain( HINSTANCE hInstance,
 	//UnhookWindowsHookEx(MouseHook);
 	SAFE_DELETE(g_pGameApp);
 	_CrtDumpMemoryLeaks();
+	NamedTypedObject::DumpUnReleaseInfo();
 	return (int) msg.wParam;
 }
 
