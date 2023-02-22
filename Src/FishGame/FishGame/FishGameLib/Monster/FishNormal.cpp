@@ -892,7 +892,10 @@ void	cNormalFish::SetTransform()
 		if(m_pCurrentMPDI->Count())
 		{
 			int	l_iImageIndex = m_pCurrentMPDI->GetObject(m_iCollisionMPDITarget)->GetCurrentPointData()->iImageIndex;
-			cMatrix44 l_mat = cMatrix44::TranslationMatrix(m_pAIMachine->GetSrcCharacter()->GetWorldPosition()) * cMatrix44::RotationMatrix(Vector3(0, 0, m_fAngle)) * cMatrix44::ScaleMatrix(Vector3(this->m_fScale, this->m_fScale, this->m_fScale));
+			Vector2	l_vSize = m_pCurrentMPDI->GetDrawSize() / 2.f;
+			auto l_vPos = m_pAIMachine->GetSrcCharacter()->GetWorldPosition();
+			m_pCurrentMPDI->SetDoPositionOffsetToCenter(true);
+			cMatrix44 l_mat = cMatrix44::TranslationMatrix(l_vPos) * cMatrix44::RotationMatrix(Vector3(0, 0, m_fAngle)) * cMatrix44::ScaleMatrix(Vector3(this->m_fScale, this->m_fScale, this->m_fScale));
 			this->m_pCurrentMPDI->SetLocalTransform(l_mat);
 			if( m_CollisionData.Count() <= l_iImageIndex || l_iImageIndex == -1 )
 			{

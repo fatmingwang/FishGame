@@ -99,6 +99,7 @@ cFishApp::cFishApp(Vector2 e_vGameResolution,Vector2 e_vViewportSize)
 :cGameApp(e_vGameResolution,e_vViewportSize)
 #endif
 {
+	g_sbCollisionRender = true;
 	cGameApp::Init();
 	FMLog::Log("constructor Start",false);
 	if( 1 )
@@ -228,7 +229,7 @@ void	cFishApp::Init()
 		m_spGameEffectManager->Init();
 	//PrintMemoryInfo();
 	this->m_sTimeAndFPS.Update();
-	g_sbCollisionRender = false;
+	//g_sbCollisionRender = false;
 	g_bInitOk = true;
 	SAFE_DELETE(g_pLoadingImage);
 }
@@ -496,7 +497,8 @@ void	cFishApp::Render()
 ////#endif
 		if ( m_spControlPanel )
 			m_spControlPanel->RenderOverReportTime();
-		if( g_sbCollisionRender && m_sbDebugFunctionWorking )
+		//if( g_sbCollisionRender && m_sbDebugFunctionWorking )
+		if (m_sbDebugFunctionWorking)
 		{
 			cGameApp::m_spGlyphFontRender->RenderFont( 750, 30, UT::CharToWchar(cGameApp::m_sTimeAndFPS.GetFPS()) );
 			if( cGameApp::m_spGlyphFontRender)
@@ -508,8 +510,8 @@ void	cFishApp::Render()
 			}
 			if( m_spMonsterManager  )
 				m_spMonsterManager->DebugRender();
-			//if( m_pBulletManager  )
-			//	m_pBulletManager->DebugRender();
+			if( m_pBulletManager  )
+				m_pBulletManager->DebugRender();
 
 			if(m_spProbabilityFish)
 				m_spProbabilityFish->DebugRender();
@@ -594,10 +596,10 @@ void	cFishApp::KeyUp(char e_char)
 	//std::wstring l_ss2 = UT::CharToWchar(l_sss.c_str());
 	//OutputDebugString(l_ss2.c_str());
 	//OutputDebugString(L"\n");
-	//if( e_char == 8 )
-	//{
-	//	g_sbCollisionRender = !g_sbCollisionRender;
-	//}
+	if( e_char == 8 )
+	{
+		g_sbCollisionRender = !g_sbCollisionRender;
+	}
 	if ( e_char == 46 )
 		m_spControlPanel->m_bPressOpenControlPanel = false;
 

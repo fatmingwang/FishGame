@@ -21,7 +21,9 @@ cBullet::cBullet( cMPDI*e_pBulletMPDI, cbtShapeCollision* e_pBulletCollision, fl
 	if( e_pBulletMPDI )
 	{
 		m_pBulletMPDI = dynamic_cast<cMPDI*>(e_pBulletMPDI->Clone());
-		m_pBulletMPDI->SetLocalPosition(Vector3::Zero);
+		//m_pBulletMPDI->SetLocalPosition(Vector3::Zero);
+		Vector2	l_vSize = m_pBulletMPDI->GetDrawSize() / 2.f;
+		m_pBulletMPDI->SetLocalPosition(-l_vSize);
 		m_pBulletMPDI->SetParent(&m_BulletFrame,false);
 	} 
 	if( e_pBulletCollision )
@@ -85,6 +87,8 @@ void		cBullet::CastNetFishing()
 		//Vector3	l_vAngle = m_pBulletMPDI->GetAngle();
 		Vector3	l_vAngle = m_pBulletMPDI->GetRotation();
 		m_pWebMPDI->Init();
+		Vector2	l_vSize = m_pWebMPDI->GetDrawSize() / 2.f;
+		m_pWebMPDI->SetDoPositionOffsetToCenter(true);
 		m_pWebMPDI->SetLocalPosition(this->m_BulletFrame.GetWorldPosition());
 		m_pWebMPDI->SetAngle(m_fAngle);
 	}
