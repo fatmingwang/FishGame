@@ -1,6 +1,8 @@
 #include "stdafx.h"
 #include "PlayerData.h"
+#ifdef WIN32
 #include <direct.h>
+#endif
 #include "../GameBullet/Bullet.h"
 #include "../GameApp/GameApp.h"
 #include "../GameBullet/BulletManager.h"

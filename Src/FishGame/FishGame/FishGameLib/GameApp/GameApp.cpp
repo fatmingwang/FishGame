@@ -1,5 +1,4 @@
 #include "stdafx.h"
-#include "winioctl.h"
 #include "GameApp.h"
 #include "SceneChange.h"
 #include "../MiniGame/MiniGameManager.h"
@@ -9,8 +8,11 @@
 #include "../ProbabilityFish/FishProbability.h"
 #include "../GameEffect/GameEffectBase.h"
 #include "../ControlPanel/ControlPanel.h"
-#include <intrin.h>
 #include "../PlayerBehavior/WinMoneyEffect.h"
+#ifdef WIN32
+#include "winioctl.h"
+#include <intrin.h>
+#endif
 //
 UINT					g_uiFrame = 0;
 //
@@ -70,7 +72,9 @@ void	LoadingProgressInfo()
 			//g_pLoadingImage->Render(cMatrix44::TranslationMatrix(Vector3(*g_pLoadingImage->GetImageShowWidth()/2,*g_pLoadingImage->GetImageShowHeight()/2,0))*cMatrix44::ScaleMatrix(Vector3(frand(0.999,1.001),1,1)));
 		}
 		//cGameApp::m_spGlyphFontRender->RenderFont(cGameApp::m_spOpenGLRender->m_vViewPortSize.x/2-100.f,100.f,l_str);
+#ifdef WIN32
 		SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
+#endif
 		++g_iLoadingStep;
 		if( g_iLoadingStep >= l_iLength )
 			g_iLoadingStep = 1;
@@ -140,7 +144,6 @@ cFishApp::~cFishApp()
 
 void	cFishApp::Init()
 {
-	glEnable(GL_ALPHA_TEST);
 	glEnable(GL_BLEND);
 	glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
 	g_bInitOk = false;
@@ -169,7 +172,9 @@ void	cFishApp::Init()
 		//glEnable2D(cGameApp::m_spOpenGLRender->m_vGameResolution.x, cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 		cBaseImage*l_pLoadingImage = new cBaseImage("Fish/Image/Loading.png");
 		l_pLoadingImage->Render();
+#ifdef WIN32
 		SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
+#endif
 		SAFE_DELETE(l_pLoadingImage);
 	} 
 	//

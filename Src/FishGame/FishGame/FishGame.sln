@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Freetype", "..\..\..\FM7997
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ogg", "..\..\..\FM79979\Src\FM79979Engine\Core\Sound\ogg\ogg.vcxproj", "{D07C6FC2-02D7-41AE-8498-35186CD57B5A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FishGameEmscripten", "FishGameEmscripten\FishGameEmscripten.vcxproj", "{9A498592-0B17-40A4-B6BA-426E86086FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug_NoPthread|Emscripten = Debug_NoPthread|Emscripten
@@ -37,7 +39,7 @@ Global
 		{77E00846-770C-45AA-99A1-EF295FB97B74}.Debug|Emscripten.ActiveCfg = Debug|x64
 		{77E00846-770C-45AA-99A1-EF295FB97B74}.Debug|x64.ActiveCfg = Debug|x64
 		{77E00846-770C-45AA-99A1-EF295FB97B74}.Debug|x64.Build.0 = Debug|x64
-		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release_NoPthread|Emscripten.ActiveCfg = ReleaseFixedpipeline|x64
+		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release_NoPthread|Emscripten.ActiveCfg = Debug|x64
 		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release_NoPthread|x64.ActiveCfg = Release|x64
 		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release|Emscripten.ActiveCfg = Release|x64
 		{77E00846-770C-45AA-99A1-EF295FB97B74}.Release|x64.ActiveCfg = Release|x64
@@ -102,20 +104,20 @@ Global
 		{B97AEE71-62EC-40F0-ABD0-6EABF0787A3E}.Release|Emscripten.Build.0 = Release|Emscripten
 		{B97AEE71-62EC-40F0-ABD0-6EABF0787A3E}.Release|x64.ActiveCfg = Release|x64
 		{B97AEE71-62EC-40F0-ABD0-6EABF0787A3E}.Release|x64.Build.0 = Release|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug_NoPthread|Emscripten.ActiveCfg = Debug|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug_NoPthread|Emscripten.Build.0 = Debug|x64
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug_NoPthread|Emscripten.ActiveCfg = Debug|Emscripten
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug_NoPthread|Emscripten.Build.0 = Debug|Emscripten
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug_NoPthread|x64.ActiveCfg = Debug|x64
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug_NoPthread|x64.Build.0 = Debug|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug|Emscripten.ActiveCfg = Debug|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug|Emscripten.Build.0 = Debug|x64
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug|Emscripten.ActiveCfg = Debug|Emscripten
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug|Emscripten.Build.0 = Debug|Emscripten
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug|x64.ActiveCfg = Debug|x64
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Debug|x64.Build.0 = Debug|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release_NoPthread|Emscripten.ActiveCfg = Release|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release_NoPthread|Emscripten.Build.0 = Release|x64
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release_NoPthread|Emscripten.ActiveCfg = Release|Emscripten
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release_NoPthread|Emscripten.Build.0 = Release|Emscripten
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release_NoPthread|x64.ActiveCfg = Release|x64
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release_NoPthread|x64.Build.0 = Release|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release|Emscripten.ActiveCfg = Release|x64
-		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release|Emscripten.Build.0 = Release|x64
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release|Emscripten.ActiveCfg = Release|Emscripten
+		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release|Emscripten.Build.0 = Release|Emscripten
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release|x64.ActiveCfg = Release|x64
 		{3E50106F-529F-435F-A2EC-11918C3C8B40}.Release|x64.Build.0 = Release|x64
 		{29840BD0-19C2-4DDD-BC75-2EC94B6C9EEC}.Debug_NoPthread|Emscripten.ActiveCfg = Debug_NoPthread|Emscripten
@@ -148,6 +150,22 @@ Global
 		{D07C6FC2-02D7-41AE-8498-35186CD57B5A}.Release|Emscripten.Build.0 = Release|Emscripten
 		{D07C6FC2-02D7-41AE-8498-35186CD57B5A}.Release|x64.ActiveCfg = Release|x64
 		{D07C6FC2-02D7-41AE-8498-35186CD57B5A}.Release|x64.Build.0 = Release|x64
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug_NoPthread|Emscripten.ActiveCfg = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug_NoPthread|Emscripten.Build.0 = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug_NoPthread|x64.ActiveCfg = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug_NoPthread|x64.Build.0 = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug|Emscripten.ActiveCfg = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug|Emscripten.Build.0 = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug|x64.ActiveCfg = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Debug|x64.Build.0 = Debug|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release_NoPthread|Emscripten.ActiveCfg = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release_NoPthread|Emscripten.Build.0 = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release_NoPthread|x64.ActiveCfg = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release_NoPthread|x64.Build.0 = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release|Emscripten.ActiveCfg = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release|Emscripten.Build.0 = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release|x64.ActiveCfg = Release|Emscripten
+		{9A498592-0B17-40A4-B6BA-426E86086FCC}.Release|x64.Build.0 = Release|Emscripten
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -70,19 +70,19 @@ void	GeneratingAuditHintCode()
 
 void	ResetRecordData()
 {
-	const char*	l_strFileName = g_pControlPanel->GetEventManager()->GetFullpathFileName(L"DefaultVariableData.xml").c_str();
-	cEventVariableManager	l_EventVariableManager;
-	l_EventVariableManager.Parse(l_strFileName);
+	//const char*	l_strFileName = g_pControlPanel->GetEventManager()->GetFullpathFileName(L"DefaultVariableData.xml").c_str();
+	//cEventVariableManager	l_EventVariableManager;
+	//l_EventVariableManager.Parse(l_strFileName);
 
-	cEventVariableManager*l_pEventVariableManager = g_pControlPanel->GetEventManager()->m_pEventVariableManager;
-	int	l_iCount = l_pEventVariableManager->Count();
-	for( int i=0;i<l_iCount;++i )
-	{
-		cEventVariable*l_pEventVariable1 = l_pEventVariableManager->GetObject(i);
-		cEventVariable*l_pEventVariable2 = l_EventVariableManager.GetObject(l_pEventVariable1->GetName());
-		std::wstring	l_str = l_pEventVariable2->ConvertToString();
-		l_pEventVariable1->SetDataByString(l_str.c_str());
-	}
+	//cEventVariableManager*l_pEventVariableManager = g_pControlPanel->GetEventManager()->m_pEventVariableManager;
+	//int	l_iCount = l_pEventVariableManager->Count();
+	//for( int i=0;i<l_iCount;++i )
+	//{
+	//	cEventVariable*l_pEventVariable1 = l_pEventVariableManager->GetObject(i);
+	//	cEventVariable*l_pEventVariable2 = l_EventVariableManager.GetObject(l_pEventVariable1->GetName());
+	//	std::wstring	l_str = l_pEventVariable2->ConvertToString();
+	//	l_pEventVariable1->SetDataByString(l_str.c_str());
+	//}
 }
 
 

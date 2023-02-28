@@ -65,15 +65,11 @@ void PrizeEffect::ModifyNumMPDIData( int PlayerID )
 
 		for ( int i = 0; i < NumSize; i++ )
 		{
-			 WCHAR NumMPDINmae[250] = {0};
+			 auto NumMPDINmae = UT::ComposeMsgByFormat(L"Player%dCoinScore%d", PlayerID + 1, Number[i]);
 
-			 wsprintf( NumMPDINmae, L"Player%dCoinScore%d", PlayerID + 1, Number[i] );
+			 auto PosNmae = UT::ComposeMsgByFormat(L"Player10CoinScore%03d", i);
 
-			 WCHAR PosNmae[250] = {0};
-
-			 wsprintf( PosNmae, L"Player10CoinScore%03d", i );
-
-			 int NumIdx = m_pNumMPDI->GetPuzzleImage( L"CoinScore" )->GetObjectIndexByName( NumMPDINmae );
+			 int NumIdx = m_pNumMPDI->GetPuzzleImage( L"CoinScore" )->GetObjectIndexByName( NumMPDINmae.c_str() );
 
 			 m_pNumMPDI->GetObject( PosNmae )->ChangeAllImageByImageIndex( NumIdx );
 			 m_pNumMPDI->GetObject( PosNmae )->GetCurrentPointData()->iImageIndex = NumIdx;

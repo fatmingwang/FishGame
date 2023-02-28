@@ -900,8 +900,8 @@ void	cNormalFish::SetTransform()
 			if( m_CollisionData.Count() <= l_iImageIndex || l_iImageIndex == -1 )
 			{
 	#ifdef DEBUG
-				OutputDebugString(m_pCurrentMPDI->GetName());
-				OutputDebugString(L"Collision data not match");
+				FMLOG(m_pCurrentMPDI->GetName());
+				FMLOG("Collision data not match");
 	#endif
 			}
 			else

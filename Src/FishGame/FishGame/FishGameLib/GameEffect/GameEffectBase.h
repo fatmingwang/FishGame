@@ -19,9 +19,9 @@ public:
 	virtual	void				RearrangeTimeByPercent(float e_fPercenttage)override {}
 	virtual	void				RenderByGlobalTime(float e_fTime)override {}
 	virtual	void				InvertOrder()override {}
-	virtual	float				GetEndTime(){ return this->m_fStartTime+m_fPlayingTime; }
+	virtual	float				GetEndTime()override { return this->m_fStartTime+m_fPlayingTime; }
 	virtual	void				SetData(void*e_pPlayerBehaviorBase) = 0;
-	virtual	NamedTypedObject*	Clone() = 0;
+	virtual	NamedTypedObject*	Clone()override = 0;
 };
 
 struct	sGameEffectInputData

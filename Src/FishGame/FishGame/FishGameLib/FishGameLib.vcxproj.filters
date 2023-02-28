@@ -181,9 +181,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Monster\FishDiedEffect.cpp">
       <Filter>Game\Monster</Filter>
     </ClCompile>
@@ -318,6 +315,9 @@
     </ClCompile>
     <ClCompile Include="GameApp\ScaneChange.cpp">
       <Filter>Game\GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

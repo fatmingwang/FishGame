@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Emscripten">
+      <Configuration>Debug</Configuration>
+      <Platform>Emscripten</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Emscripten">
+      <Configuration>Release</Configuration>
+      <Platform>Emscripten</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{9a498592-0b17-40a4-b6ba-426e86086fcc}</ProjectGuid>
+    <RootNamespace>FishGameEmscripten</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|Emscripten'">
+    <ConfigurationType>HTMLPage</ConfigurationType>
+    <PlatformToolset>emcc</PlatformToolset>
+    <EmscriptenDir>$(EMSDK)\upstream\emscripten\</EmscriptenDir>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release|Emscripten'">
+    <ConfigurationType>HTMLPage</ConfigurationType>
+    <PlatformToolset>emcc</PlatformToolset>
+    <EmscriptenDir>$(EMSDK)\upstream\emscripten\</EmscriptenDir>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Emscripten'">
+    <ClCompile>
+      <PreprocessorDefinitions>WASM;DEBUG;</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Core\Core.vcxproj">
+      <Project>{d5962a80-cfcf-437a-b224-01c03cf9fd1a}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Core\FatmingAI\FatmingAI.vcxproj">
+      <Project>{377c8b76-b1e4-4004-83e6-65c42799380e}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Core\FMEvent\Event.vcxproj">
+      <Project>{cb79dca3-5f7a-423f-ba3e-01df441c06b1}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Core\GameplayUT\Physic\Bullet\Bullet.vcxproj">
+      <Project>{b97aee71-62ec-40f0-abd0-6eabf0787a3e}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Core\Sound\ogg\ogg.vcxproj">
+      <Project>{d07c6fc2-02d7-41ae-8498-35186cd57b5a}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\FM79979\Src\FM79979Engine\Freetype\Freetype.vcxproj">
+      <Project>{29840bd0-19c2-4ddd-bc75-2ec94b6c9eec}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\FishGameLib\FishGameLib.vcxproj">
+      <Project>{3e50106f-529f-435f-a2ec-11918c3c8b40}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

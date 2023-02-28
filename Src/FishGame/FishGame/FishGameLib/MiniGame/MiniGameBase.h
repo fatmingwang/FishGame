@@ -19,10 +19,10 @@ public:
 	cMiniGameTriggerBase(cMiniGameTriggerBase*e_pMiniGameTriggerBase);
 	CLONE_MYSELF(cMiniGameTriggerBase);
 	virtual ~cMiniGameTriggerBase();
-	virtual	void			Init();
-	virtual	void			Update(float e_fElpaseTime);
-	virtual	void			Render();
-	virtual	const   WCHAR*	GetNextPhaseName(){ return 0; }
+	virtual	void			Init()override;
+	virtual	void			Update(float e_fElpaseTime)override;
+	virtual	void			Render()override;
+	virtual	const   wchar_t*	GetNextPhaseName()override { return nullptr; }
 	virtual	void			SetupShowData(cMonster*e_pMonster);
 	void*					GetExtraData(){return m_pExtraData;}
 	void*					CloneExtraData(){ return 0; }
@@ -52,10 +52,10 @@ public:
 	CLONE_MYSELF(cMiniGameActiverBase);
 	//cMiniGameActiverBase(const WCHAR*e_strMPDILIstFileName,const WCHAR*e_strMiniGameNameMPDI,const WCHAR*e_strEffectShowMPDI);
 	virtual ~cMiniGameActiverBase();
-	virtual	void			Init();
-	virtual	void			Update(float e_fElpaseTime);
-	virtual	void			Render();
-	virtual	const   WCHAR*	GetNextPhaseName(){ return 0; }
+	virtual	void			Init()override;
+	virtual	void			Update(float e_fElpaseTime)override;
+	virtual	void			Render()override;
+	virtual	const   wchar_t*GetNextPhaseName()override { return 0; }
 	virtual	void			SetupShowData(int e_iPayRate,int e_iMoney,cPlayerBehaviorBase*e_pPlayer,cMonster*e_pMonster);
 	int						GetMoney(){return m_iMoney;}
 	void					SetMoney(int e_iMoney){m_iMoney = e_iMoney;}

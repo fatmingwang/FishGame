@@ -14,7 +14,7 @@ class	cNormalFish : public cMonster
 {
 protected:
 	float					m_fAngle;
-	void					InternalInit();
+	void					InternalInit()override;
 	//
 	virtual	void			SetTransform();
 	//
@@ -30,7 +30,7 @@ protected:
 	cMPDI*					m_pDiedShowMPDI;
 	cMPDI*					m_pStruggleMPDI;
 	//
-	virtual	void			ProcessPhysicalData(TiXmlElement*e_pElement);
+	virtual	void			ProcessPhysicalData(TiXmlElement*e_pElement)override;
 	void					ProcessAIData(TiXmlElement*e_pElement);
 	void					ProcessAnimation(TiXmlElement*e_pElement);
 	void					ProcessDiedPrizeAnimation(TiXmlElement*e_pElement);
@@ -38,7 +38,7 @@ protected:
 	//if true update speed multiply 10.
 	bool					m_bLeaveScene;
 	//
-	virtual	void			InternalUpdate(float e_fElpaseTime);
+	virtual	void			InternalUpdate(float e_fElpaseTime)override;
 	int						m_iCollisionMPDITarget;
 	//
 public:
@@ -48,29 +48,29 @@ public:
 	//
 	CLONE_MYSELF(cNormalFish);
 	DEFINE_TYPE_INFO();
-	virtual	bool			IsVisible();
-	virtual	bool			IsInFiled();
-	virtual	void			Render();
-	virtual	void			DebugRender();
+	virtual	bool			IsVisible()override;
+	virtual	bool			IsInFiled()override;
+	virtual	void			Render()override;
+	virtual	void			DebugRender()override;
 	virtual	void			Destroy();
-	virtual	bool			IsCollide(cbtShapeCollision*e_pbtShapeCollision);
-	virtual	void			LeaveScene();
-	void					SetPath(Vector3 e_vStart,Vector3 e_vEndPos,float _fSpeed);
-	void					SetPath();
-	virtual	void			SetPath(cCurveWithTime*e_pCurveWithTime);
-	virtual	cCurveWithTime*	GetPath();
+	virtual	bool			IsCollide(cbtShapeCollision*e_pbtShapeCollision)override;
+	virtual	void			LeaveScene()override;
+	virtual	void			SetPath(Vector3 e_vStart,Vector3 e_vEndPos,float _fSpeed);
+	virtual	void			SetPath()override;
+	virtual	void			SetPath(cCurveWithTime*e_pCurveWithTime)override;
+	virtual	cCurveWithTime*	GetPath()override;
 	bool					IsAIDone();
-	virtual	void			RandomPath();
-	virtual	void			SetPos(Vector3 e_vPos);
+	virtual	void			RandomPath()override;
+	virtual	void			SetPos(Vector3 e_vPos)override;
 
 	//virtual	void			SetPosByImageCenter(Vector3 e_vPos);
 
-	virtual	void			SetAngle(Vector3 e_vAngle);
-	virtual	Vector3			GetPos();
-	virtual	Vector3			GetCenterPos();
-	virtual	cMatrix44		GetTransform();
-	virtual	Vector3			GetAngle();
-	virtual	void			CollisionDataCheck();
+	virtual	void			SetAngle(Vector3 e_vAngle)override;
+	virtual	Vector3			GetPos()override;
+	virtual	Vector3			GetCenterPos()override;
+	virtual	cMatrix44		GetTransform()override;
+	virtual	Vector3			GetAngle()override;
+	virtual	void			CollisionDataCheck()override;
 	cFAIMachine*			GetAIMachine(){return m_pAIMachine;}
-	virtual	void			MonsterLeaveScene();
+	virtual	void			MonsterLeaveScene()override;
 };
