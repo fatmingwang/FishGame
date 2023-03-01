@@ -11,7 +11,7 @@ public:
 	cMiniGameActiverPowerUp(TiXmlElement*e_pXMLElement);
 	cMiniGameActiverPowerUp(cMiniGameActiverPowerUp*e_pMiniGameActiverPowerUp);
 	virtual ~cMiniGameActiverPowerUp();
-	virtual	void			Init();
-	virtual	void			Update(float e_fElpaseTime);
-	virtual	void			Render();
+	virtual	void			Init()override;
+	virtual	void			Update(float e_fElpaseTime)override;
+	virtual	void			Render()override;
 };

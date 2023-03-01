@@ -1,6 +1,5 @@
 ﻿#include <emscripten.h>
 #include <SDL/SDL.h>
-#include "stdafx.h"
 
 
 #include <errno.h>
@@ -256,7 +255,7 @@ int main()
 		cGameApp::m_spOpenGLRender->m_vViewPortSize.z = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.z = CANVANS_WIDTH;
 		cGameApp::m_spOpenGLRender->m_vViewPortSize.w = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.w = CANVANS_HEIGHT;
 		cGameApp::m_sbDebugFunctionWorking = true;
-		g_pGameApp = new cEngineTestApp(cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), cGameApp::m_spOpenGLRender->m_vViewPortSize.Height()));
+		g_pGameApp = new cFishApp(cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), cGameApp::m_spOpenGLRender->m_vViewPortSize.Height()));
 		g_pGameApp->Init();
 		emscripten_set_main_loop(&Loop, 0, 1);
 	}

@@ -769,9 +769,11 @@ void	cControlPanel::WriteTimeStamp()
 
 void	cControlPanel::GetVersion()
 {
+	FMLOG("cControlPanel::GetVersion 0")
 	cNodeISAX l_VendorAskMachineStartStatusDataNodeISAX;
 	if( l_VendorAskMachineStartStatusDataNodeISAX.ParseDataIntoXMLNode(CONTROLPANEL_VERSION) )
 	{
+		FMLOG("cControlPanel::GetVersion 1")
 		TiXmlElement*l_pElement = l_VendorAskMachineStartStatusDataNodeISAX.GetRootElement();
 		int l_iTargetTime = 0;
 		if( l_pElement )
@@ -787,6 +789,7 @@ void	cControlPanel::GetVersion()
 				l_pElement = l_pElement->NextSiblingElement();
 			}
 		}
+		FMLOG("cControlPanel::GetVersion 2")
 	}
 }
 

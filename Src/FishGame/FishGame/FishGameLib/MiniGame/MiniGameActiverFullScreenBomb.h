@@ -9,5 +9,5 @@ public:
 	cMiniGameActiverFullScreenBomb(TiXmlElement*e_pXMLElement);
 	cMiniGameActiverFullScreenBomb(cMiniGameActiverFullScreenBomb*e_pMiniGameActiverFullScreenBomb);
 	virtual ~cMiniGameActiverFullScreenBomb();
-	virtual	void			SetupShowData(int e_iPayRate,int e_iMoney,cPlayerBehaviorBase*e_pPlayer,cMonster*e_pMonster);
+	virtual	void			SetupShowData(int e_iPayRate,int e_iMoney,cPlayerBehaviorBase*e_pPlayer,cMonster*e_pMonster)override;
 };

@@ -248,8 +248,8 @@ void	ClearLatestRecord(bool e_bClearPlayerMoney)
 
 void	cProbabilityFish::ClearLatestRecord(bool e_bClearPlayerMoney)
 {
-	if( !this )
-		return;
+	//if( !this )
+		//return;
 	m_pi64LatestInMoney  = 0;
 	m_pi64LatestOutMoney = 0;
 	m_pi64LatestCoinIn  = 0;

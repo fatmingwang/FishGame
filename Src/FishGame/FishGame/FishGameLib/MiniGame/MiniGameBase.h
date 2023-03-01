@@ -11,7 +11,7 @@ class	cMiniGameTriggerBase:public cSimplePhase
 	cMonster*				m_pMonster;
 	std::wstring			m_strActiverMiniGameName;
 	bool					m_bInProgress;
-	void*					m_pExtraData;
+	char*					m_pExtraData;
 public:
 	DEFINE_TYPE_INFO();
 	//cMiniGameTriggerBase(const WCHAR*e_strMPDILIstFileName,const WCHAR*e_strHintMPDIName,const WCHAR*e_strActiverMiniGameName);
@@ -42,7 +42,7 @@ protected:
 	cMPDI*								m_pMiniGameNameMPDI;
 	cMPDI*								m_pEffectShowMPDI;
 	bool								m_bInProgress;
-	void*								m_pExtraData;
+	char*								m_pExtraData;
 	sProbabilityWithValue<int,int>		m_PrizeWithProbabilityVector;
 	cMonster*							m_pMonster;
 public:

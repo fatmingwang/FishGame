@@ -144,6 +144,7 @@ cFishApp::~cFishApp()
 
 void	cFishApp::Init()
 {
+	FMLOG("cFishApp::Init 1");
 	glEnable(GL_BLEND);
 	glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
 	g_bInitOk = false;
@@ -160,6 +161,7 @@ void	cFishApp::Init()
 	cGameApp::SoundPlay(L"logo",true);
 #endif
 	cGameApp::SoundPlay(L"6",false);
+	FMLOG("cFishApp::Init 2");
 	if( UT::IsFileExists("Fish/Image/Loading.png") )
 	{
 		//UseShaderProgram();
@@ -178,15 +180,18 @@ void	cFishApp::Init()
 		SAFE_DELETE(l_pLoadingImage);
 	} 
 	//
+	FMLOG("cFishApp::Init 3");
 	GameDataDestroy();
+	FMLOG("cFishApp::Init 4");
 	//
 	if ( !m_spControlPanel )
 		m_spControlPanel = new cControlPanel( "Fish/ControlPanel/WithMachineNumberEventPachages.xml", 1 );
+	FMLOG("cFishApp::Init 5");
 	if( m_spControlPanel )
 	{
 		cGameApp::m_spSoundParser->SetVolume(this->m_spControlPanel->m_iSound/100.f);
 	} 
-
+	FMLOG("cFishApp::Init 6");
 #define	GAME_RESOLUTION_WIDTH	1280.f
 #define	GAME_RESOLUTION_HEIGHT	720.f
 	//if( this->m_spControlPanel->m_iPlayerCount > 10 )
@@ -202,13 +207,21 @@ void	cFishApp::Init()
 	cGameApp::m_spOpenGLRender->m_vGameScale.x = cGameApp::m_spOpenGLRender->m_vGameResolution.x/GAME_RESOLUTION_WIDTH;
 	cGameApp::m_spOpenGLRender->m_vGameScale.y = cGameApp::m_spOpenGLRender->m_vGameResolution.y/GAME_RESOLUTION_HEIGHT;
 	m_spSceneChange = new cSceneChange();
+	FMLOG("cFishApp::Init 7");
 	m_pBulletManager = new cBulletManager();
+	FMLOG("cFishApp::Init 8");
 	m_spMiniGameManager = new cMiniGameManager();
+	FMLOG("cFishApp::Init 9");
 	m_spMonsterManager = new cMonsterManager();
+	FMLOG("cFishApp::Init 10");
 	m_spPlayerManager = new cPlayerManager();
+	FMLOG("cFishApp::Init 11");
 	m_spProbabilityFish = new cProbabilityFish();
+	FMLOG("cFishApp::Init 12");
 	m_spWinMoneyEffectManager = new cWinMoneyEffectManager();
+	FMLOG("cFishApp::Init 14");
 	m_spGameEffectManager = new cGameEffectManager();
+	FMLOG("cFishApp::Init 15");
 	//PrintMemoryInfo();
 	if( m_spMiniGameManager )
 		m_spMiniGameManager->Init();
@@ -237,6 +250,7 @@ void	cFishApp::Init()
 	//g_sbCollisionRender = false;
 	g_bInitOk = true;
 	SAFE_DELETE(g_pLoadingImage);
+	FMLOG("cFishApp::Init all done");
 }
 
 void	cFishApp::GameDataDestroy()

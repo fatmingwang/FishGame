@@ -35,9 +35,9 @@ class	cGameEffectScoreWithCoin:public cGameEffectBase
 	cPuzzleImage*				m_pPI;
 	friend class				cGameEffectManager;
 	//
-	virtual	void				InternalInit();
-	virtual	void				InternalUpdate(float e_fElpaseTime);
-	virtual	void				InternalRender();
+	virtual	void				InternalInit()override;
+	virtual	void				InternalUpdate(float e_fElpaseTime)override;
+	virtual	void				InternalRender()override;
 	//
 	cNumeralImage*				m_pNumerialImage;
 	int							m_iValue;
@@ -48,7 +48,7 @@ public:
 	cGameEffectScoreWithCoin(cNumeralImage*e_pNumerialImage,float e_fSpeedToDestination);
 	virtual ~cGameEffectScoreWithCoin();
 	//Fish Name,player ID,Matrix
-	virtual	void				SetData(void*e_pPlayerBehaviorBase);
-	virtual	NamedTypedObject*	Clone(){return  0;}
-	virtual	void				Update(float e_fElpaseTime);
+	virtual	void				SetData(void*e_pPlayerBehaviorBase)override;
+	virtual	NamedTypedObject*	Clone()override {return  0;}
+	virtual	void				Update(float e_fElpaseTime)override;
 };

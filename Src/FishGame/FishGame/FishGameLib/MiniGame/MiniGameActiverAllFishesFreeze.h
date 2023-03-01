@@ -10,6 +10,6 @@ public:
 	cMiniGameActiverAllFishesFreeze(TiXmlElement*e_pXMLElement);
 	cMiniGameActiverAllFishesFreeze(cMiniGameActiverAllFishesFreeze*e_pMiniGameActiverAllFishesFreeze);
 	virtual ~cMiniGameActiverAllFishesFreeze();
-	virtual	void			Init();
-	virtual	void			Update(float e_fElpaseTime);
+	virtual	void			Init()override;
+	virtual	void			Update(float e_fElpaseTime)override;
 };

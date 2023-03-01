@@ -318,7 +318,7 @@ void	cMiniGameManager::HoteyUpdate(float e_fElpaseTime)
 				int	l_iMiniGameIndex = m_MiniGameTriggerList.GetObjectIndexByName(l_pClickMouseBehavior->GetName());
 				int	l_iPayRate = rand()%350;
 				int	l_iMoney = rand()%350000%10;
-				RequireMiniGameActiverBase(l_iMiniGameIndex,l_iPayRate,l_iMoney,cFishApp::m_spPlayerManager->GetObject(rand()%cFishApp::m_spPlayerManager->Count()),0)?true:false;
+				RequireMiniGameActiverBase(l_iMiniGameIndex,l_iPayRate,l_iMoney,cFishApp::m_spPlayerManager->GetObject(rand()%cFishApp::m_spPlayerManager->Count()),0);
 			}
 		}
 	}

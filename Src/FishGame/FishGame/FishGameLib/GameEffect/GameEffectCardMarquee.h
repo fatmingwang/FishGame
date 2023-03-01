@@ -51,9 +51,9 @@ class	cGameEffectCardMarqueeManager:public cGameEffectBase
 {
 	friend class	cGameEffectManager;
 	cNamedTypedObjectVector<cGameEffectPlayerCardMarquee>	m_GameEffectPlayerCardMarqueeList;
-	virtual	void				InternalInit();
-	virtual	void				InternalUpdate(float e_fElpaseTime);
-	virtual	void				InternalRender();
+	virtual	void				InternalInit()override;
+	virtual	void				InternalUpdate(float e_fElpaseTime)override;
+	virtual	void				InternalRender()override;
 	//
 	cNumeralImage*				m_pNumerialImage;
 public:
@@ -61,8 +61,8 @@ public:
 	cGameEffectCardMarqueeManager(cNumeralImage*e_pNumerialImage);
 	virtual ~cGameEffectCardMarqueeManager();
 	//Fish Name,player ID,Matrix
-	virtual	void				SetData(void*e_pPlayerBehaviorBase);
-	virtual	NamedTypedObject*	Clone(){return  0;}
-	virtual	void				Update(float e_fElpaseTime);
+	virtual	void				SetData(void*e_pPlayerBehaviorBase)override;
+	virtual	NamedTypedObject*	Clone()override {return  0;}
+	virtual	void				Update(float e_fElpaseTime)override;
 };
 
