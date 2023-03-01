@@ -24,6 +24,45 @@
 cGameApp* g_pGameApp = 0;
 cPreLoadFromInternet* g_pPreLoadFromInternet = nullptr;
 
+//https://stackoverflow.com/questions/3437786/get-the-size-of-the-screen-current-web-page-and-browser-window
+EM_JS
+(//for portrait not landscape
+	int, WASM_GetBrowserWidth, (),
+	{
+		return window.innerWidth;
+//return window.innerHeight;
+	}
+);
+
+EM_JS
+(//for portrait not landscape
+	int, WASM_GetBrowserHeight, (),
+	{
+		//return window.innerWidth;
+		return window.innerHeight;
+	}
+);
+
+EM_JS
+(
+	void, WASM_JSViewportUpdate, (),
+	{
+		if (canvas.width != window.innerWidth - 20)
+		{
+			canvas.width = window.innerWidth - 20;
+		}
+
+		if (canvas.height != window.innerHeight - 30)
+		{
+			canvas.height = window.innerHeight - 30;
+		}
+	}
+);
+
+void	JSViewportUpdate() { WASM_JSViewportUpdate(); }
+
+int		GetBrowserWidth() { return WASM_GetBrowserWidth(); }
+int		GetBrowserHeight() { return WASM_GetBrowserHeight(); }
 
 //https://stackoverflow.com/questions/51343425/not-able-to-bind-function-in-emscripten
 //https://segmentfault.com/a/1190000011229465
@@ -31,6 +70,8 @@ cPreLoadFromInternet* g_pPreLoadFromInternet = nullptr;
 
 void handle_key_up(SDL_keysym* keysym)
 {
+	FMLOG("key up%d", (char)keysym->sym);
+	g_pGameApp->KeyUp((char)keysym->sym);
 	switch (keysym->sym)
 	{
 	case SDLK_ESCAPE:
@@ -45,6 +86,8 @@ void handle_key_up(SDL_keysym* keysym)
 
 void handle_key_down(SDL_keysym* keysym)
 {
+	FMLOG("key up%d", (char)keysym->sym);
+	g_pGameApp->KeyDown((char)keysym->sym);
 	switch (keysym->sym)
 	{
 	case SDLK_ESCAPE:
@@ -83,6 +126,19 @@ void process_events(void)
 			case SDL_MOUSEBUTTONUP:
 				g_pGameApp->MouseUp(event.motion.x, event.motion.y);
 				break;
+			case SDL_WINDOWEVENT:
+				if (event.window.event == SDL_WINDOWEVENT_RESIZED ||
+					event.window.event == SDL_WINDOWEVENT_SIZE_CHANGED || event.window.event == SDL_WINDOWEVENT_MAXIMIZED ||
+					event.window.event == SDL_WINDOWEVENT_RESTORED)
+				{
+					if (cGameApp::m_spOpenGLRender)
+					{
+						printf("size change:%d,%d\n", event.window.data1, event.window.data2);
+						cGameApp::m_spOpenGLRender->SetAcceptRationWithGameresolution(event.window.data2, event.window.data1,
+							(int)cGameApp::m_spOpenGLRender->m_vGameResolution.x, (int)cGameApp::m_spOpenGLRender->m_vGameResolution.y);
+					}
+				}
+				break;
 			}
 		}
 	}
@@ -94,6 +150,7 @@ void Loop()
 	{
 		return;
 	}
+	JSViewportUpdate();
 	g_pGameApp->Run();
 	if (g_pPreLoadFromInternet)
 	{
@@ -206,9 +263,19 @@ int main()
 	//exten max memory
 	//http://www.cnblogs.com/ppgeneve/p/5085274.html
 	FMLog::Init();
-	printf("do SDL_Init(SDL_INIT_EVERYTHING)\n");
-#define	CANVANS_WIDTH	768
-#define	CANVANS_HEIGHT	1024
+	int CANVANS_WIDTH = GetBrowserWidth();
+	int CANVANS_HEIGHT = GetBrowserHeight();
+	FMLOG("BrowserW:%d,BrowserH:%d", CANVANS_WIDTH, CANVANS_HEIGHT);
+	//char cwd[PATH_MAX];
+	//if (getcwd(cwd, sizeof(cwd)) != NULL)
+	//{
+	//	printf("Directory:%s\n",cwd);
+	//}
+	cGameApp::CreateDefaultOpenGLRender();
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.x = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.x = 0;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.y = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.y = 0;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.z = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.z = CANVANS_WIDTH;
+	cGameApp::m_spOpenGLRender->m_vViewPortSize.w = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.w = CANVANS_HEIGHT;
 	if (SDL_Init(SDL_INIT_EVERYTHING) == -1)
 	{
 		return -1;
@@ -249,13 +316,11 @@ int main()
 		//	printf("emscripten_websocket_is_supported failed\n");
 		//}
 		//FMLog::Init();
-		cGameApp::CreateDefaultOpenGLRender();
-		cGameApp::m_spOpenGLRender->m_vViewPortSize.x = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.x = 0;
-		cGameApp::m_spOpenGLRender->m_vViewPortSize.y = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.y = 0;
-		cGameApp::m_spOpenGLRender->m_vViewPortSize.z = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.z = CANVANS_WIDTH;
-		cGameApp::m_spOpenGLRender->m_vViewPortSize.w = cGameApp::m_spOpenGLRender->m_vDeviceViewPortSize.w = CANVANS_HEIGHT;
-		cGameApp::m_sbDebugFunctionWorking = true;
+		cGameApp::m_sbDebugFunctionWorking = false;
 		g_pGameApp = new cFishApp(cGameApp::m_spOpenGLRender->m_vGameResolution, Vector2(cGameApp::m_spOpenGLRender->m_vViewPortSize.Width(), cGameApp::m_spOpenGLRender->m_vViewPortSize.Height()));
+		cGameApp::m_spOpenGLRender->m_vGameResolution.x = 1440;
+		cGameApp::m_spOpenGLRender->m_vGameResolution.y = 900;
+		cGameApp::m_spOpenGLRender->SetAcceptRationWithGameresolution(CANVANS_HEIGHT, CANVANS_WIDTH, (int)cGameApp::m_spOpenGLRender->m_vGameResolution.x, (int)cGameApp::m_spOpenGLRender->m_vGameResolution.y);
 		g_pGameApp->Init();
 		emscripten_set_main_loop(&Loop, 0, 1);
 	}

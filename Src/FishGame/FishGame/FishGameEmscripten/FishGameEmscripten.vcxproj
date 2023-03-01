@@ -50,7 +50,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Emscripten'">
     <Link>
-      <AdditionalOptions>-pthread  -s ALLOW_MEMORY_GROWTH=1 -s FETCH=1  -s FULL_ES2=1 --profiling  -s ERROR_ON_UNDEFINED_SYMBOLS=0 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>-lidbfs.js --bind -s ALLOW_MEMORY_GROWTH=1 -s FETCH=1  -s FULL_ES2=1 --profiling  -s ERROR_ON_UNDEFINED_SYMBOLS=0 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>
       </AdditionalDependencies>
       <PreloadFile>./assets</PreloadFile>
@@ -62,7 +62,6 @@
       <ExceptionHandling>true</ExceptionHandling>
       <RuntimeTypeInfo>true</RuntimeTypeInfo>
       <LanguageExtensions>EnableLanguageExtensions</LanguageExtensions>
-      <AdditionalOptions>-pthread %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
