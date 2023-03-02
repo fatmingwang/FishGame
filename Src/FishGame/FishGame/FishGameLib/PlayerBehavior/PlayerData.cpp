@@ -329,6 +329,18 @@ void cPlayerData::ProcessPlayerIO( TiXmlElement*e_pElement )
 			m_LevelClick.SetRepeatTime(m_fChangeLevelClickRepeatTime);
 		}
 	PARSE_NAME_VALUE_END
+#ifdef WASM
+		if (m_iPlayerID == 0)
+		{
+			this->m_cInput_Left = 'a';
+			//this->m_cInput_Down = 's';
+			this->m_cInput_Right = 'd';
+			m_FireClick.SetKeyData((unsigned char)('f'));
+			this->m_cInput_Level = (unsigned char)('g');
+			m_LevelClick.SetKeyData(m_cInput_Level);
+	}
+#endif
+		
 }
 
 void cPlayerData::InternalInit()
@@ -387,7 +399,8 @@ void cPlayerData::InternalUpdate( float e_fElpaseTime )
 	//if(!g_pIOSMDriverInterface->IsIOError())
 	if (1)
 	{
-		if(!cFishApp::m_spProbabilityFish->IsMasterLeeIOError() && m_i64Score <=9999999 && !m_bCoinNotEnough && !cFishApp::m_spControlPanel->m_bShowReportTipImage)
+		//if(!cFishApp::m_spProbabilityFish->IsMasterLeeIOError() && m_i64Score <=9999999 && !m_bCoinNotEnough && !cFishApp::m_spControlPanel->m_bShowReportTipImage)
+		if(!m_bCoinNotEnough)
 		{
 			KeyUpdate(e_fElpaseTime);
 		}

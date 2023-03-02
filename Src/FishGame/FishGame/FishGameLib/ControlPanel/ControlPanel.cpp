@@ -264,6 +264,7 @@ int64	cControlPanel::GetRestTimeToReport()
 
 void cControlPanel::CheckReport( bool bLoadReportInput )
 {
+	return;
 	//Report Parameter
 	cEventVariable*l_pReportFlag = m_pEventManager->m_pEventVariableManager->GetObject(L"ReportFlag");
 	cEventVariable*l_pDelayTimeFlag = m_pEventManager->m_pEventVariableManager->GetObject(L"DelayTimeFlag");
@@ -325,7 +326,7 @@ void cControlPanel::CheckReport( bool bLoadReportInput )
 			}
 			else
 			{
-				this->m_bShowReportTipImage = true;
+				//this->m_bShowReportTipImage = true;
 				//cFishApp::m_bShowReportTipImage = true;
 			}
 		}

@@ -155,12 +155,12 @@ void	cFileSaver::OpenPlayerFile(const char*e_strPlayerFileName)
 						 int64	l_i64Value = l_BinaryFile.GetInt64(l_pData);
 						 cPlayerData *l_pPlayer = (cPlayerData*)cFishApp::m_spPlayerManager->GetObject(i);
 						 l_pPlayer->m_i64Score = l_i64Value;				l_pData += sizeof(int64);
-#ifdef DEBUG
+//#ifdef DEBUG
 						 if (l_pPlayer->m_i64Score == 0)
 						 {
 							 l_pPlayer->m_i64Score = 99999;
 						 }
-#endif
+//#endif
 						 l_i64Value = l_BinaryFile.GetInt64(l_pData);		l_pData += sizeof(int64);
 						 int	l_iPower = (int)l_i64Value;
 						 if( l_iPower < l_iMinBulletValue )

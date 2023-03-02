@@ -482,6 +482,8 @@ void	cSceneChange::Update(float e_fElpaseTime)
 		case 	eSCS_WAIT_BUBBLE_DISSAPEAR:
 				UpdateeeSCS_WAIT_BUBBLE_DISSAPEAR(e_fElpaseTime);
 			break;
+		default:
+			break;
 	}
 }
 

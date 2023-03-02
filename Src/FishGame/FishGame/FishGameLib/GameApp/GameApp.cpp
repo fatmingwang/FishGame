@@ -514,9 +514,10 @@ void	cFishApp::Render()
 //			cGameApp::m_spGlyphFontRender->RenderFont( 750, 30, UT::CharToWchar(cGameApp::m_sTimeAndFPS.GetFPS()) );
 //		} 
 ////#endif
-		if ( m_spControlPanel )
-			m_spControlPanel->RenderOverReportTime();
+		//if ( m_spControlPanel )
+//			m_spControlPanel->RenderOverReportTime();
 		//if( g_sbCollisionRender && m_sbDebugFunctionWorking )
+#ifdef DEBUG
 		if (m_sbDebugFunctionWorking)
 		{
 			cGameApp::m_spGlyphFontRender->RenderFont( 750, 30, UT::CharToWchar(cGameApp::m_sTimeAndFPS.GetFPS()) );
@@ -545,8 +546,8 @@ void	cFishApp::Render()
 			//std::wstring	l_str = UT::ComposeMsgByFormat( L"Frame:%d", g_uiFrame );
 			//cGameApp::m_spGlyphFontRender->RenderFont( 0, 650, l_str.c_str() );
 		}
+#endif
 	}
-	glDisable(GL_TEXTURE_2D);
 	glDisable2D();
 #ifdef WIN32
 	SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
@@ -562,6 +563,9 @@ void	cFishApp::Render()
 void	cFishApp::MouseDown(int e_iPosX,int e_iPosY)
 {
     cGameApp::MouseDown(e_iPosX,e_iPosY);
+#ifdef WASM
+	m_sMousePosition.y += EMSDK::EMSDK_GetCanvasPosY();
+#endif
 	if( m_spControlPanel&&m_spControlPanel->IsInControlPanelMode() )
 	{
 		m_spControlPanel->MouseDown(cGameApp::m_sMousePosition.x,cGameApp::m_sMousePosition.y);
@@ -572,6 +576,9 @@ void	cFishApp::MouseDown(int e_iPosX,int e_iPosY)
 void	cFishApp::MouseMove(int e_iPosX,int e_iPosY)
 {
     cGameApp::MouseMove(e_iPosX,e_iPosY);
+#ifdef WASM
+	m_sMousePosition.y += EMSDK::EMSDK_GetCanvasPosY();
+#endif
 	if( m_spControlPanel&&m_spControlPanel->IsInControlPanelMode() )
 	{
 		m_spControlPanel->MouseMove(cGameApp::m_sMousePosition.x,cGameApp::m_sMousePosition.y);
@@ -582,6 +589,9 @@ void	cFishApp::MouseMove(int e_iPosX,int e_iPosY)
 void	cFishApp::MouseUp(int e_iPosX,int e_iPosY)
 {
     cGameApp::MouseUp(e_iPosX,e_iPosY);
+#ifdef WASM
+	m_sMousePosition.y += EMSDK::EMSDK_GetCanvasPosY();
+#endif
 	if( m_spControlPanel&&m_spControlPanel->IsInControlPanelMode() )
 	{
 		m_spControlPanel->MouseUp(cGameApp::m_sMousePosition.x,cGameApp::m_sMousePosition.y);
@@ -632,6 +642,7 @@ void	cFishApp::KeyUp(char e_char)
 				case eDD_UPSIDE_DOWN:     cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_LANDSCAPE_LEFT;  break;
 				case eDD_LANDSCAPE_LEFT:  cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_LANDSCAPE_RIGHT; break;
 				case eDD_LANDSCAPE_RIGHT: cGameApp::m_spOpenGLRender->m_eDeviceDirection = eDD_PORTRAIT;        break;
+				default:					break;
 			}
 		}
 		if ( e_char == 110 )

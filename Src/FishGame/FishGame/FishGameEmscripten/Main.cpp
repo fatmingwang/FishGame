@@ -24,46 +24,6 @@
 cGameApp* g_pGameApp = 0;
 cPreLoadFromInternet* g_pPreLoadFromInternet = nullptr;
 
-//https://stackoverflow.com/questions/3437786/get-the-size-of-the-screen-current-web-page-and-browser-window
-EM_JS
-(//for portrait not landscape
-	int, WASM_GetBrowserWidth, (),
-	{
-		return window.innerWidth;
-//return window.innerHeight;
-	}
-);
-
-EM_JS
-(//for portrait not landscape
-	int, WASM_GetBrowserHeight, (),
-	{
-		//return window.innerWidth;
-		return window.innerHeight;
-	}
-);
-
-EM_JS
-(
-	void, WASM_JSViewportUpdate, (),
-	{
-		if (canvas.width != window.innerWidth - 20)
-		{
-			canvas.width = window.innerWidth - 20;
-		}
-
-		if (canvas.height != window.innerHeight - 30)
-		{
-			canvas.height = window.innerHeight - 30;
-		}
-	}
-);
-
-void	JSViewportUpdate() { WASM_JSViewportUpdate(); }
-
-int		GetBrowserWidth() { return WASM_GetBrowserWidth(); }
-int		GetBrowserHeight() { return WASM_GetBrowserHeight(); }
-
 //https://stackoverflow.com/questions/51343425/not-able-to-bind-function-in-emscripten
 //https://segmentfault.com/a/1190000011229465
 //#include <emscripten/bind.h>
@@ -86,7 +46,7 @@ void handle_key_up(SDL_keysym* keysym)
 
 void handle_key_down(SDL_keysym* keysym)
 {
-	FMLOG("key up%d", (char)keysym->sym);
+	FMLOG("key down%d", (char)keysym->sym);
 	g_pGameApp->KeyDown((char)keysym->sym);
 	switch (keysym->sym)
 	{
@@ -150,7 +110,6 @@ void Loop()
 	{
 		return;
 	}
-	JSViewportUpdate();
 	g_pGameApp->Run();
 	if (g_pPreLoadFromInternet)
 	{
@@ -263,8 +222,8 @@ int main()
 	//exten max memory
 	//http://www.cnblogs.com/ppgeneve/p/5085274.html
 	FMLog::Init();
-	int CANVANS_WIDTH = GetBrowserWidth();
-	int CANVANS_HEIGHT = GetBrowserHeight();
+	int CANVANS_WIDTH = EMSDK::EMSDK_GetBrowserWidth();
+	int CANVANS_HEIGHT = EMSDK::EMSDK_GetBrowserHeight();
 	FMLOG("BrowserW:%d,BrowserH:%d", CANVANS_WIDTH, CANVANS_HEIGHT);
 	//char cwd[PATH_MAX];
 	//if (getcwd(cwd, sizeof(cwd)) != NULL)

@@ -5,6 +5,10 @@
       <Configuration>Debug</Configuration>
       <Platform>Emscripten</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="Release_NO_PTHREAD_WITH_BULLET|Emscripten">
+      <Configuration>Release_NO_PTHREAD_WITH_BULLET</Configuration>
+      <Platform>Emscripten</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Release|Emscripten">
       <Configuration>Release</Configuration>
       <Platform>Emscripten</Platform>
@@ -26,6 +30,11 @@
     <PlatformToolset>emcc</PlatformToolset>
     <EmscriptenDir>E:\Work\emsdk\upstream\emscripten</EmscriptenDir>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release_NO_PTHREAD_WITH_BULLET|Emscripten'" Label="Configuration">
+    <ConfigurationType>HTMLPage</ConfigurationType>
+    <PlatformToolset>emcc</PlatformToolset>
+    <EmscriptenDir>E:\Work\emsdk\upstream\emscripten</EmscriptenDir>
+  </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
   </ImportGroup>
@@ -36,6 +45,9 @@
     <IntDir>..\..\..\..\Intermedia\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Emscripten'">
+    <IntDir>..\..\..\..\Intermedia\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release_NO_PTHREAD_WITH_BULLET|Emscripten'">
     <IntDir>..\..\..\..\Intermedia\$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Emscripten'">
@@ -49,6 +61,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Emscripten'">
+    <Link>
+      <AdditionalOptions>-lidbfs.js --bind -s ALLOW_MEMORY_GROWTH=1 -s FETCH=1  -s FULL_ES2=1 --profiling  -s ERROR_ON_UNDEFINED_SYMBOLS=0 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>
+      </AdditionalDependencies>
+      <PreloadFile>./assets</PreloadFile>
+    </Link>
+    <ClCompile>
+      <PreprocessorDefinitions>WASM;</PreprocessorDefinitions>
+      <FunctionLevelLinking>
+      </FunctionLevelLinking>
+      <ExceptionHandling>true</ExceptionHandling>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <LanguageExtensions>EnableLanguageExtensions</LanguageExtensions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release_NO_PTHREAD_WITH_BULLET|Emscripten'">
     <Link>
       <AdditionalOptions>-lidbfs.js --bind -s ALLOW_MEMORY_GROWTH=1 -s FETCH=1  -s FULL_ES2=1 --profiling  -s ERROR_ON_UNDEFINED_SYMBOLS=0 %(AdditionalOptions)</AdditionalOptions>
       <AdditionalDependencies>
