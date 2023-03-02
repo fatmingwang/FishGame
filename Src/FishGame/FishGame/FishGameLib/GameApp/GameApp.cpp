@@ -144,6 +144,7 @@ cFishApp::~cFishApp()
 
 void	cFishApp::Init()
 {
+	this->m_spSoundParser->SetVolume(0);
 	FMLOG("cFishApp::Init 1");
 	glEnable(GL_BLEND);
 	glBlendFunc(GL_SRC_ALPHA,GL_ONE_MINUS_SRC_ALPHA);
@@ -250,6 +251,7 @@ void	cFishApp::Init()
 	//g_sbCollisionRender = false;
 	g_bInitOk = true;
 	SAFE_DELETE(g_pLoadingImage);
+	this->m_spSoundParser->SetVolume(0);
 	FMLOG("cFishApp::Init all done");
 }
 
