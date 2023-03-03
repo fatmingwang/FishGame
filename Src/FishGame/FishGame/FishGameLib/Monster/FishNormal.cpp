@@ -585,7 +585,7 @@ void cNormalFish::Render()
 {
 	if( this->m_pAIMachine )
 	{
-		m_pAIMachine->Render();
+		//m_pAIMachine->Render();
 	}
 	//
 	if( m_pCurrentMPDI )

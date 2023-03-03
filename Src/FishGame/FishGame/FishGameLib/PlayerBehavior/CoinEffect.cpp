@@ -60,7 +60,7 @@ void cCoinEffect::ModifyNumMPDIData( int PlayerID )
 			 m_pNumMPDI->GetObject( PosNmae )->GetCurrentPointData()->iImageIndex = NumIdx;
 
 			 if ( i > 0 && i >= NumAmount )
-				 m_pNumMPDI->GetObject( PosNmae )->SetCurrentTime( 999999.f );
+				 m_pNumMPDI->GetObject( PosNmae )->SetAnimationDone(true);
 		}
 	}
 }

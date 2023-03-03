@@ -333,7 +333,9 @@
     <ClCompile Include="ProbabilityFish\BulletBank\FakeRevenue.cpp" />
     <ClCompile Include="ProbabilityFish\FileSaver.cpp" />
     <ClCompile Include="ProbabilityFish\FishProbability.cpp" />
-    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

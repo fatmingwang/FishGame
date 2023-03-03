@@ -71,6 +71,11 @@ void	cPlayerBehaviorBase::Init()
 		m_PlayerMatrix = cMatrix44::TranslationMatrix(m_vPlayerPos)*cMatrix44::RotationMatrix(m_vPlayerRot);
 	}
 	InternalInit();
+	if (m_pScoreNumberImage)
+	{
+		auto l_mat = cMatrix44::TranslationMatrix(m_vScorePos) * cMatrix44::RotationMatrix(m_vPlayerRot);
+		m_pScoreNumberImage->SetLocalTransform(l_mat);
+	}
 }
 
 void	cPlayerBehaviorBase::Update(float e_fElpaseTime)
@@ -115,8 +120,11 @@ void	cPlayerBehaviorBase::Update(float e_fElpaseTime)
 void	cPlayerBehaviorBase::Render()
 {
 	InternalRender();
-	if( m_pScoreNumberImage )
-		m_pScoreNumberImage->Draw(this->m_i64Score,(int)m_vScorePos.x,(int)m_vScorePos.y);
+	if (m_pScoreNumberImage)
+	{
+		m_pScoreNumberImage->SetValue(this->m_i64Score);
+		m_pScoreNumberImage->Render();
+	}
 
 	if( m_pWeapon )
 		m_pWeapon->Render();
