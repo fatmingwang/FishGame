@@ -36,6 +36,7 @@ bool*					g_pbIsUsingMasterLeeProbability = &cFishApp::m_sbIsUsingMasterLeeProba
 extern bool	g_bLeave;
 bool		g_bInitOk = false;
 extern bool		g_bProtected;
+bool g_bDoBatchRendering = false;
 void		WritePlayerMoney(float e_fElpaseTime)
 {
 	if( g_bInitOk )
@@ -485,9 +486,10 @@ void	cFishApp::Render()
 		TimsStamp(eDI_MINI_GAME,false);
 		if( m_spMonsterManager )
 			m_spMonsterManager->Render();
-		TimsStamp(eDI_MONSTER,false);
+		TimsStamp(eDI_BULLET,false);
 		if( m_pBulletManager )
 			m_pBulletManager->Render();
+		TimsStamp(eDI_MONSTER, false);
 		if( m_spMonsterManager )
 			m_spMonsterManager->LastRender();
 		TimsStamp(eDI_BULLET,false);
@@ -540,16 +542,21 @@ void	cFishApp::Render()
 
 			//if(m_spSceneChange)
 			//	m_spSceneChange->DebugRender();
-			//for( int i=0;i<g_iAllDebugInfo;++i )
-			//{
-			//	std::wstring	l_str = UT::ComposeMsgByFormat(L"%s:%.4f,%.4f",g_strDebugInfo[i],g_fUpdateUsingTime[i],g_fRenderTime[i]);
-			//	cGameApp::m_spGlyphFontRender->RenderFont(150,30*i,l_str.c_str());
-			//}
+			for( int i=0;i<g_iAllDebugInfo;++i )
+			{
+				std::wstring	l_str = UT::ComposeMsgByFormat(L"%s:%.4f,%.4f",g_strDebugInfo[i],g_fUpdateUsingTime[i],g_fRenderTime[i]);
+				cGameApp::m_spGlyphFontRender->RenderFont(150,30*i,l_str.c_str());
+			}
 			//std::wstring	l_str = UT::ComposeMsgByFormat( L"Frame:%d", g_uiFrame );
 			//cGameApp::m_spGlyphFontRender->RenderFont( 0, 650, l_str.c_str() );
 		}
 #endif
 	}
+	int	l_iStaryPosY = 0;
+	std::wstring	l_strInfo = ComposeMsgByFormat(L"ElpaseTime:%.3f", (float)m_dbGamePlayTime);
+	cGameApp::m_spGlyphFontRender->RenderFont(50, l_iStaryPosY, UT::CharToWchar(cGameApp::m_sTimeAndFPS.GetFPS()).c_str());
+	l_iStaryPosY += 30;
+	cGameApp::RenderFont(Vector2(50, l_iStaryPosY), g_bDoBatchRendering ? L"BatchRendering:On" : L"BatchRendering:Off");
 	glDisable2D();
 #ifdef WIN32
 	SwapBuffers(cGameApp::m_spOpenGLRender->m_Hdc);
@@ -590,6 +597,7 @@ void	cFishApp::MouseMove(int e_iPosX,int e_iPosY)
 
 void	cFishApp::MouseUp(int e_iPosX,int e_iPosY)
 {
+	g_bDoBatchRendering = !g_bDoBatchRendering;
     cGameApp::MouseUp(e_iPosX,e_iPosY);
 #ifdef WASM
 	m_sMousePosition.y += EMSDK::EMSDK_GetCanvasPosY();

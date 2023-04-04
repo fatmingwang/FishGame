@@ -50,7 +50,8 @@ cFishGroup::cFishGroup( int e_nId, const char* e_strFishGroupMPDI )
 					int	l_iFishIndex = cFishApp::m_spMonsterManager->m_AllFish.GetObjectIndexByName(l_strFishName);
 					if( l_iFishIndex == -1 )
 					{
-						UT::ErrorMsg(l_strFishName,L"there is no such fish name!");
+						//UT::ErrorMsg(l_strFishName,L"there is no such fish name!");
+						l_iFishIndex = 0;
 					}
 					cFishGroupPointData::sFishPosList l_FishPos;
 					l_FishPos.iFishIndex = l_iFishIndex;

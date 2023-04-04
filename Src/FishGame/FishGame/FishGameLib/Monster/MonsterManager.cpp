@@ -406,9 +406,11 @@ void	cMonsterManager::LastRender()
 
 
 
-
+extern bool g_bDoBatchRendering;
 void	cMonsterManager::Render()
 {
+	if(g_bDoBatchRendering)
+		cOpenGLRender::DoBatchDataMultiTextureStart();
 	int	l_iIDCount = this->Count();
 	for( int j=0;j<l_iIDCount;++j )
 	{
@@ -423,6 +425,8 @@ void	cMonsterManager::Render()
 			}
 		}
 	}
+	if (g_bDoBatchRendering)
+		cOpenGLRender::DoBatchDataMultiTextureEnd();
 	//
 }
 
